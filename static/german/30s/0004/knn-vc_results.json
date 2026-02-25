@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7783056497573853,
+  "ecapa_ref_gt_similarity": 0.8298236131668091,
+  "ecapa_src_converted_similarity": 0.11335360258817673,
+  "ecapa_src_gt_similarity": 0.848462700843811,
+  "redimnet_ref_converted_similarity": 0.708984375,
+  "redimnet_ref_gt_similarity": 0.84423828125,
+  "redimnet_src_converted_similarity": 0.2130126953125,
+  "redimnet_src_gt_similarity": 0.8642578125,
+  "dns_mos_gt": 3.9411081075668335,
+  "dns_mos_gen": 4.108394622802734,
+  "wer_src": 0.11538461538461539,
+  "cer_src": 0.018292682926829267,
+  "transcription_src": " das kann wohl geschehen versetzte eduard bei menschen die nur dunkel vor sich hin leben nicht bei solchen die schon durch erfahrung aufgekl\u00e4rt sich mehr bewu\u00dft sind",
+  "wer_converted": 0.11538461538461539,
+  "cer_converted": 0.018292682926829267,
+  "transcription_converted": " das kann wohl geschehen versetzte eduard bei menschen die nur dunkel vor sich hin leben nicht bei solchen die schon durch erfahrung aufgekl\u00e4rt sich mehr bewu\u00dft sind",
+  "index": 9,
+  "source_text": "das kann wohl geschehen versetzte eduard bei menschen die nur dunkel vor sich hinleben nicht bei solchen die schon durch erfahrung aufgekl\u00e4rt sich mehr bewusst sind",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_30s_seed_73/9_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_30s_seed_73/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_30s_seed_73/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_30s_seed_73/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_30s_seed_73/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_30s_seed_73/9_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/german/librispeech_test_set_30s_seed_73/9/converted.wav"
+  }
+}

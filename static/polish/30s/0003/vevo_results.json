@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7716387510299683,
+  "ecapa_ref_gt_similarity": 0.7799766063690186,
+  "ecapa_src_converted_similarity": 0.14046889543533325,
+  "ecapa_src_gt_similarity": 0.799190878868103,
+  "redimnet_ref_converted_similarity": 0.666015625,
+  "redimnet_ref_gt_similarity": 0.75537109375,
+  "redimnet_src_converted_similarity": 0.08782958984375,
+  "redimnet_src_gt_similarity": 0.79833984375,
+  "dns_mos_gt": 3.8736774921417236,
+  "dns_mos_gen": 4.0955891609191895,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " owego dnia by\u0142 ci\u0119\u017cki dzie\u0144 zimowy i od rana ju\u017c sypa\u0142 si\u0119 mi\u0119kki puch zmierzchu matka mia\u0142a migren\u0119 i le\u017ca\u0142a na sofie samotnie w salonie",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " owego dnia by\u0142 ci\u0119\u017cki dzie\u0144 zimowy i od rana ju\u017c sypa\u0142 si\u0119 mi\u0119kki puch zmierzchu matka mia\u0142a migren\u0119 i le\u017ca\u0142a na sofie samotnie w salonie",
+  "index": 9,
+  "source_text": "owego dnia by\u0142 ci\u0119\u017cki dzie\u0144 zimowy i od rana ju\u017c sypa\u0142 si\u0119 mi\u0119kki puch zmierzchu matka mia\u0142a migren\u0119 i le\u017ca\u0142a na sofie samotnie w salonie"
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6386421322822571,
+  "ecapa_ref_gt_similarity": 0.818164587020874,
+  "ecapa_src_converted_similarity": 0.2553103566169739,
+  "ecapa_src_gt_similarity": 0.7973269820213318,
+  "redimnet_ref_converted_similarity": 0.6533203125,
+  "redimnet_ref_gt_similarity": 0.880859375,
+  "redimnet_src_converted_similarity": 0.2275390625,
+  "redimnet_src_gt_similarity": 0.80517578125,
+  "dns_mos_gt": 3.7078957557678223,
+  "dns_mos_gen": 4.065370082855225,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " sie hatte geglaubt die entdeckung w\u00fcrde ihn in erregung versetzen das war nicht der fall ganz ruhig beinahe belustigt sagte er richtig die mutter",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " sie hatte geglaubt die entdeckung w\u00fcrde ihn in erregung versetzen das war nicht der fall ganz ruhig beinahe belustigt sagte er richtig die mutter",
+  "index": 4,
+  "source_text": "sie hatte geglaubt die entdeckung w\u00fcrde ihn in erregung versetzen das war nicht der fall ganz ruhig beinahe belustigt sagte er richtig die mutter"
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7913303375244141,
+  "ecapa_ref_gt_similarity": 0.8801411390304565,
+  "ecapa_src_converted_similarity": 0.07771658152341843,
+  "ecapa_src_gt_similarity": 0.5797722339630127,
+  "redimnet_ref_converted_similarity": 0.81689453125,
+  "redimnet_ref_gt_similarity": 0.92919921875,
+  "redimnet_src_converted_similarity": 0.0275115966796875,
+  "redimnet_src_gt_similarity": 0.56396484375,
+  "dns_mos_gt": 4.229040026664734,
+  "dns_mos_gen": 4.140624046325684,
+  "wer_src": 0.0967741935483871,
+  "cer_src": 0.03680981595092025,
+  "transcription_src": " otra vez subi\u00f3 a su memoria el recuerdo de la correcci\u00f3n y en su pensamiento se fij\u00f3 como en una suprema angustia la posibilidad de que es un negro que invad\u00eda el suelo",
+  "wer_converted": 0.03225806451612903,
+  "cer_converted": 0.018404907975460124,
+  "transcription_converted": " otra vez subi\u00f3 a su memoria el recuerdo de la correcci\u00f3n y en su pensamiento se fij\u00f3 como en una suprema angustia la posibilidad de que eso negro que invad\u00eda el suelo",
+  "index": 8,
+  "source_text": "otra vez subi\u00f3 a su memoria el recuerdo de la correcci\u00f3n y en su pensamiento se fij\u00f3 como una suprema angustia la posibilidad de que eso negro que invad\u00eda el suelo",
+  "input_seed_folder": "librispeech_test_set_60s_seed_37",
+  "output_seed_folder": "librispeech_test_set_60s_seed_37",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_60s_seed_37/8_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_60s_seed_37/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_60s_seed_37/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_60s_seed_37/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_60s_seed_37/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_60s_seed_37/8_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/spanish/librispeech_test_set_60s_seed_37/8/converted.wav"
+  }
+}

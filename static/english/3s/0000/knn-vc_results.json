@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6329808831214905,
+  "ecapa_ref_gt_similarity": 0.7410947680473328,
+  "ecapa_src_converted_similarity": 0.11764095723628998,
+  "ecapa_src_gt_similarity": 0.8619764447212219,
+  "redimnet_ref_converted_similarity": 0.46142578125,
+  "redimnet_ref_gt_similarity": 0.7890625,
+  "redimnet_src_converted_similarity": 0.0190582275390625,
+  "redimnet_src_gt_similarity": 0.91259765625,
+  "dns_mos_gt": 3.9225246906280518,
+  "dns_mos_gen": 3.8103411197662354,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " silas slunk away without a word of protest ambrose stood his ground evidently bent on making his peace with naomi before he left her seeing that i was in the way i walked aside toward a glass door at the lower end of the room",
+  "wer_converted": 0.5333333333333333,
+  "cer_converted": 0.35555555555555557,
+  "transcription_converted": " Silas swung away without a word to her cast, and Westeros Brown evidently dealt on making his peace when they only three left her. Seeing that I was in the way, I won't decide to work the last word that I will in the throne.",
+  "index": 11,
+  "source_text": "SILAS SLUNK AWAY WITHOUT A WORD OF PROTEST AMBROSE STOOD HIS GROUND EVIDENTLY BENT ON MAKING HIS PEACE WITH NAOMI BEFORE HE LEFT HER SEEING THAT I WAS IN THE WAY I WALKED ASIDE TOWARD A GLASS DOOR AT THE LOWER END OF THE ROOM"
+}

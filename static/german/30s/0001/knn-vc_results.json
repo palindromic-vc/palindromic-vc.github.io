@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6504082679748535,
+  "ecapa_ref_gt_similarity": 0.805719792842865,
+  "ecapa_src_converted_similarity": 0.265702486038208,
+  "ecapa_src_gt_similarity": 0.5795778036117554,
+  "redimnet_ref_converted_similarity": 0.5634765625,
+  "redimnet_ref_gt_similarity": 0.77294921875,
+  "redimnet_src_converted_similarity": 0.258544921875,
+  "redimnet_src_gt_similarity": 0.6376953125,
+  "dns_mos_gt": 3.352513591448466,
+  "dns_mos_gen": 4.014668107032776,
+  "wer_src": 0.02857142857142857,
+  "cer_src": 0.004201680672268907,
+  "transcription_src": " ich hatte nicht eben auf krawall und zusammenrottung oder gar ein revolutionchen nach der mode gerechnet aber doch auf eine allgemeine und sichtbare beteiligung der bev\u00f6lkerung auf eine ver\u00e4nderte physiognomie der stadt und ihres treibens",
+  "wer_converted": 0.14285714285714285,
+  "cer_converted": 0.08823529411764706,
+  "transcription_converted": " ich hatte nicht eben auf krawallenzusammentrottung oder gar ein aval\u00fcchenchen nach der mode gerechnet aber doch auf eine allgemeine und sichtbare beteiligung der bev\u00f6lkerung auf eine ver\u00e4nderte physiognomie der stadt und ihres",
+  "index": 8,
+  "source_text": "ich hatte nicht eben auf krawall und zusammenrottung oder gar ein revoluti\u00f6nchen nach der mode gerechnet aber doch auf eine allgemeine und sichtbare beteiligung der bev\u00f6lkerung auf eine ver\u00e4nderte physiognomie der stadt und ihres treibens",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_30s_seed_73/8_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_30s_seed_73/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_30s_seed_73/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_30s_seed_73/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_30s_seed_73/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_30s_seed_73/8_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/german/librispeech_test_set_30s_seed_73/8/converted.wav"
+  }
+}

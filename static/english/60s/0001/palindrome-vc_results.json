@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7547786235809326,
+  "ecapa_ref_gt_similarity": 0.8256660103797913,
+  "ecapa_src_converted_similarity": 0.09576558321714401,
+  "ecapa_src_gt_similarity": 0.8114272952079773,
+  "redimnet_ref_converted_similarity": 0.72412109375,
+  "redimnet_ref_gt_similarity": 0.83154296875,
+  "redimnet_src_converted_similarity": 0.053253173828125,
+  "redimnet_src_gt_similarity": 0.82666015625,
+  "dns_mos_gt": 4.141289710998535,
+  "dns_mos_gen": 4.280521392822266,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " the news circulated with the rapidity of lightning during its progress it kindled every variety of coquetry desire and wild ambition",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " the news circulated with the rapidity of lightning during its progress it kindled every variety of coquetry desire and wild ambition",
+  "index": 5,
+  "source_text": "THE NEWS CIRCULATED WITH THE RAPIDITY OF LIGHTNING DURING ITS PROGRESS IT KINDLED EVERY VARIETY OF COQUETRY DESIRE AND WILD AMBITION"
+}

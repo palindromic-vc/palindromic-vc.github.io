@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7674601078033447,
+  "ecapa_ref_gt_similarity": 0.8082385063171387,
+  "ecapa_src_converted_similarity": 0.18276464939117432,
+  "ecapa_src_gt_similarity": 0.8093878626823425,
+  "redimnet_ref_converted_similarity": 0.80615234375,
+  "redimnet_ref_gt_similarity": 0.85400390625,
+  "redimnet_src_converted_similarity": 0.2181396484375,
+  "redimnet_src_gt_similarity": 0.86181640625,
+  "dns_mos_gt": 3.9995474815368652,
+  "dns_mos_gen": 3.85001540184021,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " a dial\u00e9tica fora para mim uma arma que ao passo que a manejava com mais presteza me tornava mais intolerante",
+  "wer_converted": 0.05,
+  "cer_converted": 0.009259259259259259,
+  "transcription_converted": " a dial\u00e9tica fora para mim uma arma que ao passo que a manejava com mais fresteza me tornava mais intolerante",
+  "index": 8,
+  "source_text": "a dial\u00e9tica fora para mim uma arma que ao passo que a manejava com mais presteza me tornava mais intolerante"
+}

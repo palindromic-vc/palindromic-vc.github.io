@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6004148721694946,
+  "ecapa_ref_gt_similarity": 0.9079252481460571,
+  "ecapa_src_converted_similarity": 0.15321999788284302,
+  "ecapa_src_gt_similarity": 0.7913259863853455,
+  "redimnet_ref_converted_similarity": 0.48828125,
+  "redimnet_ref_gt_similarity": 0.90576171875,
+  "redimnet_src_converted_similarity": 0.2471923828125,
+  "redimnet_src_gt_similarity": 0.8369140625,
+  "dns_mos_gt": 3.6848041670663014,
+  "dns_mos_gen": 3.9858546597617015,
+  "wer_src": 0.14285714285714285,
+  "cer_src": 0.0273224043715847,
+  "transcription_src": " tu przywi\u0105za\u0142 tylnemi nogami nader zr\u0119cznie powr\u00f3s\u0142 jak i wysnu\u0142 z kondzielnik\u00f3w swoich i szybko powr\u00f3ci\u0142 do g\u00f3ry manewr ten \u015bledzi\u0142em z zapartym oddechem \u015bciskaj\u0105c w r\u0119ku zab\u00f3jcze cacko",
+  "wer_converted": 0.17857142857142858,
+  "cer_converted": 0.06557377049180328,
+  "transcription_converted": " tu przywi\u0105za\u0142 tylnymi nogami naderz r\u0119cznie pokus jaki wysnu\u0142 z kondylnik\u00f3w swoich i szybko powr\u00f3ci\u0142 do g\u00f3ry manewr ten \u015bledzi\u0142em z zapartym oddechem \u015bciskaj\u0105c w r\u0119ku zab\u00f3jcze cacko",
+  "index": 7,
+  "source_text": "tu przywi\u0105za\u0142 tylnemi nogami nader zr\u0119cznie powr\u00f3z jaki wysnu\u0142 z k\u0105dzielnik\u00f3w swoich i szybko powr\u00f3ci\u0142 do g\u00f3ry manewr ten \u015bledzi\u0142em z zapartym oddechem \u015bciskaj\u0105c w r\u0119ku zab\u00f3jcze cacko",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_10s_seed_73/7_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_10s_seed_73/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_10s_seed_73/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_10s_seed_73/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_10s_seed_73/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_10s_seed_73/7_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/polish/librispeech_test_set_10s_seed_73/7/converted.wav"
+  }
+}

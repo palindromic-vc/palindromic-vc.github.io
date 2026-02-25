@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7270946502685547,
+  "ecapa_ref_gt_similarity": 0.8258501291275024,
+  "ecapa_src_converted_similarity": 0.24089792370796204,
+  "ecapa_src_gt_similarity": 0.8234592080116272,
+  "redimnet_ref_converted_similarity": 0.6875,
+  "redimnet_ref_gt_similarity": 0.89990234375,
+  "redimnet_src_converted_similarity": 0.2288818359375,
+  "redimnet_src_gt_similarity": 0.77490234375,
+  "dns_mos_gt": 3.8106045722961426,
+  "dns_mos_gen": 3.8203318119049072,
+  "wer_src": 0.12121212121212122,
+  "cer_src": 0.009523809523809525,
+  "transcription_src": " pok\u00f3j dr\u017ca\u0142 zlekka obrazy na \u015bcianach brz\u0119cza\u0142y szyby l\u015bni\u0142y si\u0119 t\u0142ustym odblaskiem lampy firanki na oknie wisia\u0142y wzd\u0119te i pe\u0142ne tchnienia tej burzliwej nocy przypomnieli\u015bmy sobie \u017ce ojca od rana niewidziano",
+  "wer_converted": 0.06060606060606061,
+  "cer_converted": 0.004761904761904762,
+  "transcription_converted": " pok\u00f3j dr\u017ca\u0142 zlekka obrazy na \u015bcianach brz\u0119cza\u0142y szyby l\u015bni\u0142y si\u0119 t\u0142ustym odblaskiem lampy firanki na oknie wisia\u0142y wzd\u0119te i pe\u0142ne tchnienia tej burzliwej nocy przypomnieli\u015bmy sobie \u017ce ojca od rana nie widziano",
+  "index": 9,
+  "source_text": "pok\u00f3j dr\u017ca\u0142 z lekka obrazy na \u015bcianach brz\u0119cza\u0142y szyby l\u015bni\u0142y si\u0119 t\u0142ustym odblaskiem lampy firanki na oknie wisia\u0142y wzd\u0119te i pe\u0142ne tchnienia tej burzliwej nocy przypomnieli\u015bmy sobie \u017ce ojca od rana nie widziano"
+}

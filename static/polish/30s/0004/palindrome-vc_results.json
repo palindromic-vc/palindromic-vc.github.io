@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7387275099754333,
+  "ecapa_ref_gt_similarity": 0.767552375793457,
+  "ecapa_src_converted_similarity": 0.08034645020961761,
+  "ecapa_src_gt_similarity": 0.7799651622772217,
+  "redimnet_ref_converted_similarity": 0.75732421875,
+  "redimnet_ref_gt_similarity": 0.75341796875,
+  "redimnet_src_converted_similarity": 0.0132598876953125,
+  "redimnet_src_gt_similarity": 0.84326171875,
+  "dns_mos_gt": 4.247376918792725,
+  "dns_mos_gen": 3.892267942428589,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " by\u0142y to jednak z\u0142udzenia wyobra\u017ani i wzroku up\u0142yn\u0105\u0142 z kwadrans gdym nagle zrozumia\u0142 \u017ce \u017ale sp\u0119dzam drogie chwile rozs\u0105dny cz\u0142owiek bez wzgl\u0119du na to czy si\u0119 myli lub nie powinien odda\u0107 sygna\u0142 a wtedy mo\u017ce z wi\u0119ksz\u0105 pewno\u015bci\u0105 oczekiwa\u0107 odpowiedzi",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " by\u0142y to jednak z\u0142udzenia wyobra\u017ani i wzroku up\u0142yn\u0105\u0142 z kwadrans gdym nagle zrozumia\u0142 \u017ce \u017ale sp\u0119dzam drogie chwile rozs\u0105dny cz\u0142owiek bez wzgl\u0119du na to czy si\u0119 myli lub nie powinien odda\u0107 sygna\u0142 a wtedy mo\u017ce z wi\u0119ksz\u0105 pewno\u015bci\u0105 oczekiwa\u0107 odpowiedzi",
+  "index": 5,
+  "source_text": "by\u0142y to jednak z\u0142udzenia wyobra\u017ani i wzroku up\u0142yn\u0105\u0142 z kwadrans gdym nagle zrozumia\u0142 \u017ce \u017ale sp\u0119dzam drogie chwile rozs\u0105dny cz\u0142owiek bez wzgl\u0119du na to czy si\u0119 myli lub nie powinien odda\u0107 sygna\u0142 a wtedy mo\u017ce z wi\u0119ksz\u0105 pewno\u015bci\u0105 oczekiwa\u0107 odpowiedzi"
+}

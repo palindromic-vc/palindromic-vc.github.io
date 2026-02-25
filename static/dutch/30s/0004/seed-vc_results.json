@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7696324586868286,
+  "ecapa_ref_gt_similarity": 0.7347725033760071,
+  "ecapa_src_converted_similarity": 0.17599788308143616,
+  "ecapa_src_gt_similarity": 0.8760713338851929,
+  "redimnet_ref_converted_similarity": 0.8076171875,
+  "redimnet_ref_gt_similarity": 0.73828125,
+  "redimnet_src_converted_similarity": 0.2196044921875,
+  "redimnet_src_gt_similarity": 0.87744140625,
+  "dns_mos_gt": 3.573139762878418,
+  "dns_mos_gen": 4.094303894042969,
+  "wer_src": 0.1388888888888889,
+  "cer_src": 0.05583756345177665,
+  "transcription_src": " doe toch niet zoo jo t is zoo jongensachtig daarom doe ik het juist ik heb het land aan ruwe onbeschaafde meisjes en ik aan gemaakte opgeprikte nuffen ieder vogeltje zingt zooals het gebekt is zei bets via",
+  "wer_converted": 0.3611111111111111,
+  "cer_converted": 0.23857868020304568,
+  "transcription_converted": " doe toch niet zoo jo t is zoo jongensachtig daarom doe ik het juist ik heb het land aan ruwe onbeschaafde meisjes en ik aan gemaakte opgeprikte nuffen ieder vogeltje zingt zooals het gewekt is zei bets software r\u0e33 cold writeref ier op niet",
+  "index": 9,
+  "source_text": "doe toch niet jo het is zo jongensachtig daarom doe ik het juist ik heb het land aan ruwe onbeschaafde meisjes en ik aan gemaakte opgeprikte nuffen ieder vogeltje zingt zoals het gebekt is zei bets",
+  "input_seed_folder": "librispeech_test_set_30s_seed_37",
+  "output_seed_folder": "librispeech_test_set_30s_seed_37",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_30s_seed_37/9_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_30s_seed_37/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_30s_seed_37/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_30s_seed_37/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_30s_seed_37/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_30s_seed_37/9_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/dutch/librispeech_test_set_30s_seed_37/9/converted.wav"
+  }
+}

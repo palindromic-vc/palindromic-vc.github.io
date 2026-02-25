@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6403399705886841,
+  "ecapa_ref_gt_similarity": 0.8717942833900452,
+  "ecapa_src_converted_similarity": 0.1549006998538971,
+  "ecapa_src_gt_similarity": 0.8696109056472778,
+  "redimnet_ref_converted_similarity": 0.58447265625,
+  "redimnet_ref_gt_similarity": 0.90625,
+  "redimnet_src_converted_similarity": 0.169921875,
+  "redimnet_src_gt_similarity": 0.91943359375,
+  "dns_mos_gt": 3.8722546100616455,
+  "dns_mos_gen": 4.150821685791016,
+  "wer_src": 0.11764705882352941,
+  "cer_src": 0.06097560975609756,
+  "transcription_src": " no sir he isn't he's gone to rossiter to see mr west the factor about the wool",
+  "wer_converted": 0.11764705882352941,
+  "cer_converted": 0.06097560975609756,
+  "transcription_converted": " no, sir, he isn't. He's gone to Rossiter to see Mr. West, the factor, about the wool.",
+  "index": 17,
+  "source_text": "NO SIR HE ISN'T HE'S GONE TO ROSSETER TO SEE MISTER WEST THE FACTOR ABOUT THE WOOL"
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6158536672592163,
+  "ecapa_ref_gt_similarity": 0.7079471349716187,
+  "ecapa_src_converted_similarity": 0.08708173036575317,
+  "ecapa_src_gt_similarity": 0.7247350215911865,
+  "redimnet_ref_converted_similarity": 0.48388671875,
+  "redimnet_ref_gt_similarity": 0.646484375,
+  "redimnet_src_converted_similarity": 0.2008056640625,
+  "redimnet_src_gt_similarity": 0.7119140625,
+  "dns_mos_gt": 4.011666377385457,
+  "dns_mos_gen": 3.6799341440200806,
+  "wer_src": 0.07894736842105263,
+  "cer_src": 0.008,
+  "transcription_src": " panie zawo\u0142a\u0142em oczekuj\u0105c a\u017c si\u0119 na g\u0142os ludzki odwr\u00f3ci ale \u017cadnej nie otrzyma\u0142em odpowiedzi \u015bpij czy nie \u017cyje pomy\u015bla\u0142em i powt\u00f3rzy\u0142em wezwanie znowu na pr\u00f3\u017cno wo\u0142aj\u0105c bezskutecznie zbli\u017cy\u0142em si\u0119 nareszcie o dwa kroki i po\u0142o\u017cy\u0142em r\u0119k\u0119 na jego ramieniu",
+  "wer_converted": 0.07894736842105263,
+  "cer_converted": 0.012,
+  "transcription_converted": " \u2013 Panie! \u2013 zawo\u0142a\u0142em, oczekuj\u0105c, a\u017c si\u0119 na g\u0142os ludzki odwr\u00f3ci, ale \u017cadnej nie otrzyma\u0142em odpowiedzi. \u2013 \u015api czy nie \u017cyje? \u2013 pomy\u015bla\u0142em i powtarza\u0142em wezwanie znowu na pr\u00f3\u017cno. Wo\u0142aj\u0105c bezskutecznie zbli\u017cy\u0142em si\u0119 nareszcie o dwa kroki i po\u0142o\u017cy\u0142em r\u0119k\u0119 na jego ramieniu.",
+  "index": 0,
+  "source_text": "panie zawo\u0142a\u0142em oczekuj\u0105c a\u017c si\u0119 na g\u0142os ludzki odwr\u00f3ci ale \u017cadnej nie otrzyma\u0142em odpowiedzi \u015bpi czy nie \u017cyje pomy\u015bla\u0142em i powt\u00f3rzy\u0142em wezwanie znowu napr\u00f3\u017cno wo\u0142aj\u0105c bezskutecznie zbli\u017cy\u0142em si\u0119 nareszcie o dwa kroki i po\u0142o\u017cy\u0142em r\u0119k\u0119 na jego ramieniu",
+  "input_seed_folder": "librispeech_test_set_3s_seed_73",
+  "output_seed_folder": "librispeech_test_set_3s_seed_73",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_3s_seed_73/0_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_3s_seed_73/0_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_3s_seed_73/0_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_3s_seed_73/0_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_3s_seed_73/0_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_3s_seed_73/0_ref_src2.wav",
+    "converted": "/workspace/outputs/polish/librispeech_test_set_3s_seed_73/0/converted.wav"
+  }
+}

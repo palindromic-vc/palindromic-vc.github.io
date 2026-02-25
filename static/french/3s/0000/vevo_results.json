@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.4510710835456848,
+  "ecapa_ref_gt_similarity": 0.7271440029144287,
+  "ecapa_src_converted_similarity": 0.14758294820785522,
+  "ecapa_src_gt_similarity": 0.7854165434837341,
+  "redimnet_ref_converted_similarity": 0.475830078125,
+  "redimnet_ref_gt_similarity": 0.7109375,
+  "redimnet_src_converted_similarity": 0.1934814453125,
+  "redimnet_src_gt_similarity": 0.74072265625,
+  "dns_mos_gt": 4.14479923248291,
+  "dns_mos_gen": 4.1950459480285645,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " quant \u00e0 ce gentleman il \u00e9tait bien et d\u00fbment ruin\u00e9 et cela au moment o\u00f9 il allait atteindre son but cette arrestation le perdait sans",
+  "wer_converted": 0.04,
+  "cer_converted": 0.03759398496240601,
+  "transcription_converted": " quant \u00e0 ce gentleman il \u00e9tait bien et dimanche ruin\u00e9 et cela au moment o\u00f9 il allait atteindre son but cette arrestation le perdait sans",
+  "index": 7,
+  "source_text": "quant \u00e0 ce gentleman il \u00e9tait bien et d\u00fbment ruin\u00e9 et cela au moment o\u00f9 il allait atteindre son but cette arrestation le perdait sans"
+}

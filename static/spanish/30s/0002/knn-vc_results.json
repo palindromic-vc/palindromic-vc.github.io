@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6959505081176758,
+  "ecapa_ref_gt_similarity": 0.8234302997589111,
+  "ecapa_src_converted_similarity": 0.09591815620660782,
+  "ecapa_src_gt_similarity": 0.7827253937721252,
+  "redimnet_ref_converted_similarity": 0.75,
+  "redimnet_ref_gt_similarity": 0.88525390625,
+  "redimnet_src_converted_similarity": 0.046539306640625,
+  "redimnet_src_gt_similarity": 0.787109375,
+  "dns_mos_gt": 3.7862428426742554,
+  "dns_mos_gen": 3.9318264722824097,
+  "wer_src": 0.13636363636363635,
+  "cer_src": 0.02564102564102564,
+  "transcription_src": " a ver si hoy teneis mas fortuna murmur\u00f3 la mujer desde la cama en la cocina encontrareis el capazo de las provisiones",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " a ver si hoy ten\u00e9is m\u00e1s fortuna murmur\u00f3 la mujer desde la cama en la cocina encontrar\u00e9is el capazo de las provisiones",
+  "index": 3,
+  "source_text": "a ver si hoy ten\u00e9is m\u00e1s fortuna murmur\u00f3 la mujer desde la cama en la cocina encontrar\u00e9is el capazo de las provisiones",
+  "input_seed_folder": "librispeech_test_set_30s_seed_42",
+  "output_seed_folder": "librispeech_test_set_30s_seed_42",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_30s_seed_42/3_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_30s_seed_42/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_30s_seed_42/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_30s_seed_42/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_30s_seed_42/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_30s_seed_42/3_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/spanish/librispeech_test_set_30s_seed_42/3/converted.wav"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7228183150291443,
+  "ecapa_ref_gt_similarity": 0.7334873676300049,
+  "ecapa_src_converted_similarity": 0.1899753212928772,
+  "ecapa_src_gt_similarity": 0.8093228340148926,
+  "redimnet_ref_converted_similarity": 0.78466796875,
+  "redimnet_ref_gt_similarity": 0.7705078125,
+  "redimnet_src_converted_similarity": 0.23876953125,
+  "redimnet_src_gt_similarity": 0.81591796875,
+  "dns_mos_gt": 3.927307605743408,
+  "dns_mos_gen": 3.9233996868133545,
+  "wer_src": 0.1111111111111111,
+  "cer_src": 0.03296703296703297,
+  "transcription_src": " aber sie wirken hier vom unbewu\u00dften her sie haben also eine verdr\u00e4ngung erfahren konnten sich aber derselben zum trotze im unbewu\u00dften behaupten die psychoanalyse l\u00e4\u00dft uns erkennen",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " aber sie wirken hier vom Unbewussten her. Sie haben also eine Verdr\u00e4ngung erfahren, konnten sich aber derselben zum Trotze im Unbewussten behaupten. Die Psychoanalyse l\u00e4sst uns erkennen,",
+  "index": 0,
+  "source_text": "aber sie wirken hier vom unbewussten her sie haben also eine verdr\u00e4ngung erfahren konnten sich aber derselben zum trotze im unbewussten behaupten die psychoanalyse l\u00e4sst uns erkennen",
+  "input_seed_folder": "librispeech_test_set_60s_seed_37",
+  "output_seed_folder": "librispeech_test_set_60s_seed_37",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_60s_seed_37/0_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_60s_seed_37/0_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_60s_seed_37/0_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_60s_seed_37/0_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_60s_seed_37/0_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_60s_seed_37/0_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/german/librispeech_test_set_60s_seed_37/0/converted.wav"
+  }
+}

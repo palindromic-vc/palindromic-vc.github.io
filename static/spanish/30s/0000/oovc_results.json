@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6383055448532104,
+  "ecapa_ref_gt_similarity": 0.8434982299804688,
+  "ecapa_src_converted_similarity": 0.08371727913618088,
+  "ecapa_src_gt_similarity": 0.8840715885162354,
+  "redimnet_ref_converted_similarity": 0.49462890625,
+  "redimnet_ref_gt_similarity": 0.876953125,
+  "redimnet_src_converted_similarity": 0.03851318359375,
+  "redimnet_src_gt_similarity": 0.8935546875,
+  "dns_mos_gt": 3.9489553769429526,
+  "dns_mos_gen": 3.897797187169393,
+  "wer_src": 0.13636363636363635,
+  "cer_src": 0.03125,
+  "transcription_src": " leame la vuesa merced se\u00f1or gentil hombre dijo teresa porque aunque yo s\u00e9 hilar no s\u00e9 leer migaja ni yo tampoco a\u00f1adi\u00f3 sanchica",
+  "wer_converted": 0.22727272727272727,
+  "cer_converted": 0.0390625,
+  "transcription_converted": " leame la vuesa merced se\u00f1or gentil hombre dijo teresa porque aunque yo s\u00e9 hilar no s\u00e9 leer mi gaja ni yo tampoco a\u00f1adi\u00f3 sanchica",
+  "index": 0,
+  "source_text": "l\u00e9amela vuestra merced se\u00f1or gentil hombre dijo teresa porque aunque yo s\u00e9 hilar no s\u00e9 leer migaja ni yo tampoco a\u00f1adi\u00f3 sanchica",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/0_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/0_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/0_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/0_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/0_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/0_ref_src2.wav",
+    "converted": "/workspace/outputs/spanish/librispeech_test_set_30s_seed_73/0/converted.wav"
+  }
+}

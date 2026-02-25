@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7661195993423462,
+  "ecapa_ref_gt_similarity": 0.7282878160476685,
+  "ecapa_src_converted_similarity": 0.1049194186925888,
+  "ecapa_src_gt_similarity": 0.8593243360519409,
+  "redimnet_ref_converted_similarity": 0.69140625,
+  "redimnet_ref_gt_similarity": 0.65478515625,
+  "redimnet_src_converted_similarity": 0.12017822265625,
+  "redimnet_src_gt_similarity": 0.8427734375,
+  "dns_mos_gt": 4.204007148742676,
+  "dns_mos_gen": 3.9922099113464355,
+  "wer_src": 0.14893617021276595,
+  "cer_src": 0.043824701195219126,
+  "transcription_src": " want dan wier vader natuurlijk bij de firma binnengeroepen zou ze hem de briefkaart laten zien en vragen of het waar was en al kreeg hij dan nog zoo'n boel haar handschrift op de briefkaart zou hij herkennen en het er met zijn idee\u00ebn nooit vergeven",
+  "wer_converted": 0.19148936170212766,
+  "cer_converted": 0.07171314741035857,
+  "transcription_converted": " want dan wier vader natuurlijk bij de firma binnengeroepen zou ze hem de briefkaart laten zien en vragen of het waar was en ook hij dan nog zoo'n boel haar handschrift op de briefkaart zou hij herkennen en het er met zijn idee\u00ebn nooit vergeven",
+  "index": 9,
+  "source_text": "want dan wier vader natuurlijk bij de firma binnen geroepen zouwen ze hem de briefkaart laten zien en vragen of het w\u00e0\u00e0r was en al kreeg hij dan nog zo'n boel h\u00e0\u00e0r handschrift op de briefkaart zou die herkennen en het er met zijn idee\u00ebn nooit vergeven"
+}

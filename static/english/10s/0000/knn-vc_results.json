@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.556622326374054,
+  "ecapa_ref_gt_similarity": 0.6835368275642395,
+  "ecapa_src_converted_similarity": 0.23000138998031616,
+  "ecapa_src_gt_similarity": 0.789803683757782,
+  "redimnet_ref_converted_similarity": 0.5029296875,
+  "redimnet_ref_gt_similarity": 0.69873046875,
+  "redimnet_src_converted_similarity": 0.1492919921875,
+  "redimnet_src_gt_similarity": 0.880859375,
+  "dns_mos_gt": 3.725383758544922,
+  "dns_mos_gen": 4.009792327880859,
+  "wer_src": 0.18181818181818182,
+  "cer_src": 0.05555555555555555,
+  "transcription_src": " \"'Dear me!' ejaculated the old gentleman in the utmost amazement. \"'And such a time as I've had to get her here, too!'",
+  "wer_converted": 0.2727272727272727,
+  "cer_converted": 0.09259259259259259,
+  "transcription_converted": " \"'Dear me!' ejaculated the odd gentleman in the utmost amazement, \"'and such a time as I had to get her here, too!'",
+  "index": 14,
+  "source_text": "DEAR ME EJACULATED THE OLD GENTLEMAN IN THE UTMOST AMAZEMENT AND SUCH A TIME AS I'VE HAD TO GET HER HERE TOO"
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7193634510040283,
+  "ecapa_ref_gt_similarity": 0.7660771608352661,
+  "ecapa_src_converted_similarity": 0.08747098594903946,
+  "ecapa_src_gt_similarity": 0.8491709232330322,
+  "redimnet_ref_converted_similarity": 0.62939453125,
+  "redimnet_ref_gt_similarity": 0.79150390625,
+  "redimnet_src_converted_similarity": 0.257568359375,
+  "redimnet_src_gt_similarity": 0.87158203125,
+  "dns_mos_gt": 3.581850528717041,
+  "dns_mos_gen": 3.9770891666412354,
+  "wer_src": 0.06896551724137931,
+  "cer_src": 0.08074534161490683,
+  "transcription_src": " ma cotesto cost\u00ec gli \u00e8 diverso da quello ch'io recitava quando ero bimbo disse il grifone non l'ho mai sentito prima osserv\u00f2 la falsa testuggine ma gli \u00e8 sciocco oltremisura",
+  "wer_converted": 0.2413793103448276,
+  "cer_converted": 0.11801242236024845,
+  "transcription_converted": " ma cotesto cost\u00ec gli \u00e8 diverso da quello che io recitavo quando ero bimbo disse il grifone non l'ho mai sentito prima osserv\u00f2 la falsa testuggine ma l'\u00e8 sciocco oltremisura",
+  "index": 1,
+  "source_text": "ma cotesto cost\u00ec gli \u00e8 diverso da quello ch'io recitava quando era bimbo disse il grifone non l'ho mai sentito prima osserv\u00f2 la falsa testuggine ma gli \u00e8 sciocco"
+}

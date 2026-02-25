@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7537655830383301,
+  "ecapa_ref_gt_similarity": 0.726467490196228,
+  "ecapa_src_converted_similarity": 0.29344895482063293,
+  "ecapa_src_gt_similarity": 0.8417145609855652,
+  "redimnet_ref_converted_similarity": 0.7841796875,
+  "redimnet_ref_gt_similarity": 0.7822265625,
+  "redimnet_src_converted_similarity": 0.295654296875,
+  "redimnet_src_gt_similarity": 0.85009765625,
+  "dns_mos_gt": 3.9888272285461426,
+  "dns_mos_gen": 3.8934075832366943,
+  "wer_src": 0.018518518518518517,
+  "cer_src": 0.0035335689045936395,
+  "transcription_src": " toen hij zoo sprak werden de goede dwergen bewogen en gaven hem de kist en de koningszoon liet haar door zijn dienaren op de schouders wegdragen toen gebeurde het dat zij struikelden over een tak en door den schok schoot het stukje van den appel dat nog in haar keel zat uit haar mond",
+  "wer_converted": 0.037037037037037035,
+  "cer_converted": 0.007067137809187279,
+  "transcription_converted": " toen hij zo sprak werden de goede dwergen bewogen en gaven hem de kist en de koningszoon liet haar door zijn dienaren op de schouders wegdragen toen gebeurde het dat zij struikelden over een tak en door den schok schoot het stukje van een appel dat nog in haar keel zat uit haar mand",
+  "index": 6,
+  "source_text": "toen hij zo sprak werden de goede dwergen bewogen en gaven hem de kist en de koningszoon liet haar door zijn dienaren op de schouders wegdragen toen gebeurde het dat zij struikelden over een tak en door den schok schoot het stukje van den appel dat nog in haar keel zat uit haar mond"
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5010266304016113,
+  "ecapa_ref_gt_similarity": 0.7514961957931519,
+  "ecapa_src_converted_similarity": 0.12285257875919342,
+  "ecapa_src_gt_similarity": 0.8337584733963013,
+  "redimnet_ref_converted_similarity": 0.457275390625,
+  "redimnet_ref_gt_similarity": 0.69921875,
+  "redimnet_src_converted_similarity": 0.1014404296875,
+  "redimnet_src_gt_similarity": 0.904296875,
+  "dns_mos_gt": 3.9780128479003904,
+  "dns_mos_gen": 3.915247011184692,
+  "wer_src": 0.125,
+  "cer_src": 0.05113636363636364,
+  "transcription_src": " bro\u0144 bo\u017ce jest to zwarty chufiec liszek id\u0105cych przez las w postaci d\u0142ugiego a cienkiego w\u0119\u017ca a tem r\u00f3\u017cni si\u0119 od kolumn wojskowych \u017ce idzie niejedn\u0105 warstw\u0105 jak ludzie po ziemi KONIEC",
+  "wer_converted": 0.1875,
+  "cer_converted": 0.07386363636363637,
+  "transcription_converted": " bro\u0144 bo\u017ce jest to z wargich\u00f3w wieczniczek id\u0105cych przez las w postaci d\u0142ugiego a cienkiego w\u0119\u017ca a tym r\u00f3\u017cni si\u0119 od kolumn wojskowych \u017ce idzie niejedn\u0105 warstw\u0105 jak ludzie po ziemi",
+  "index": 5,
+  "source_text": "bro\u0144 bo\u017ce jest to zwarty hufiec liszek id\u0105cych przez las w postaci d\u0142ugiego a cienkiego w\u0119\u017ca a tem r\u00f3\u017cni si\u0119 od kolumn wojskowych \u017ce idzie nie jedn\u0105 warstw\u0105 jak ludzie po ziemi",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_10s_seed_73/5_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_10s_seed_73/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_10s_seed_73/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_10s_seed_73/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_10s_seed_73/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_10s_seed_73/5_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/polish/librispeech_test_set_10s_seed_73/5/converted.wav"
+  }
+}

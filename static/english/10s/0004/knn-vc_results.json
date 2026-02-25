@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7370423078536987,
+  "ecapa_ref_gt_similarity": 0.8720415830612183,
+  "ecapa_src_converted_similarity": 0.162227064371109,
+  "ecapa_src_gt_similarity": 0.8348493576049805,
+  "redimnet_ref_converted_similarity": 0.6787109375,
+  "redimnet_ref_gt_similarity": 0.890625,
+  "redimnet_src_converted_similarity": 0.06927490234375,
+  "redimnet_src_gt_similarity": 0.87841796875,
+  "dns_mos_gt": 4.04698371887207,
+  "dns_mos_gen": 4.00227689743042,
+  "wer_src": 0.038461538461538464,
+  "cer_src": 0.039285714285714285,
+  "transcription_src": " she reflected how near she stood to the crisis which was to determine whether she was to be blessed or unhappy for ever and racked by the intensity of her emotions she suddenly changed color her head dropped and she fell forward in a swoon into the arms of the dismayed",
+  "wer_converted": 0.09615384615384616,
+  "cer_converted": 0.014285714285714285,
+  "transcription_converted": " She reflected. How near she stood to the crisis, which was to determine whether she was to be blessed or unhappy forever, and wracked by the intensity of her emotions, she suddenly changed color. Her head dropped, and she fell forward in a swoon into the arms of the dismayed Estefania.",
+  "index": 17,
+  "source_text": "SHE REFLECTED HOW NEAR SHE STOOD TO THE CRISIS WHICH WAS TO DETERMINE WHETHER SHE WAS TO BE BLESSED OR UNHAPPY FOR EVER AND RACKED BY THE INTENSITY OF HER EMOTIONS SHE SUDDENLY CHANGED COLOUR HER HEAD DROPPED AND SHE FELL FORWARD IN A SWOON INTO THE ARMS OF THE DISMAYED ESTAFANIA"
+}

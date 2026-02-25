@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.8018121719360352,
+  "ecapa_ref_gt_similarity": 0.892993152141571,
+  "ecapa_src_converted_similarity": 0.1640390157699585,
+  "ecapa_src_gt_similarity": 0.5681121349334717,
+  "redimnet_ref_converted_similarity": 0.68310546875,
+  "redimnet_ref_gt_similarity": 0.90625,
+  "redimnet_src_converted_similarity": 0.1634521484375,
+  "redimnet_src_gt_similarity": 0.64990234375,
+  "dns_mos_gt": 3.6695315837860107,
+  "dns_mos_gen": 3.9761481285095215,
+  "wer_src": 0.23809523809523808,
+  "cer_src": 0.11976047904191617,
+  "transcription_src": " die gem\u00e4\u00dfigten zonen in ueberschwemmung versetzen w\u00fcrden diese bedeutende ausgleichende rolle spielen diese also bei dem allgemeinen wirtschaftlichen s\u00fc\u00dftein des",
+  "wer_converted": 0.09523809523809523,
+  "cer_converted": 0.023952095808383235,
+  "transcription_converted": " die gem\u00e4\u00dfigten zonen in jubelschwemmung versetzen w\u00fcrden diese bedeutende ausgleichende rolle spielen die salzer bei dem allgemeinen wirtschaftlichen system des erdballs",
+  "index": 0,
+  "source_text": "die gem\u00e4\u00dfigten zonen in \u00fcberschwemmung versetzen w\u00fcrden diese bedeutende ausgleichende rolle spielen die salze bei dem allgemeinen wirtschaftlichen system des erdballs"
+}

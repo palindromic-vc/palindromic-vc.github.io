@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7955830097198486,
+  "ecapa_ref_gt_similarity": 0.7211637496948242,
+  "ecapa_src_converted_similarity": 0.18103112280368805,
+  "ecapa_src_gt_similarity": 0.777981162071228,
+  "redimnet_ref_converted_similarity": 0.7939453125,
+  "redimnet_ref_gt_similarity": 0.72607421875,
+  "redimnet_src_converted_similarity": 0.07916259765625,
+  "redimnet_src_gt_similarity": 0.83837890625,
+  "dns_mos_gt": 4.144175847371419,
+  "dns_mos_gen": 3.9719316959381104,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " mia\u0142em ju\u017c uda\u0107 si\u0119 na spoczynek gdy w oddali rozla\u0142o si\u0119 md\u0142e \u015bwiate\u0142ko na razie nie wiedzia\u0142em co s\u0105dzi\u0107 o zjawisku czy to owad \u015bwiec\u0105cy czy pr\u00f3chno ale pr\u0119dko zrozumia\u0142em \u017ce ani jedno ani drugie",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " mia\u0142em ju\u017c uda\u0107 si\u0119 na spoczynek gdy w oddali rozla\u0142o si\u0119 md\u0142e \u015bwiate\u0142ko na razie nie wiedzia\u0142em co s\u0105dzi\u0107 o zjawisku czy to owad \u015bwiec\u0105cy czy pr\u00f3chno ale pr\u0119dko zrozumia\u0142em \u017ce ani jedno ani drugie",
+  "index": 3,
+  "source_text": "mia\u0142em ju\u017c uda\u0107 si\u0119 na spoczynek gdy w oddali rozla\u0142o si\u0119 md\u0142e \u015bwiate\u0142ko na razie nie wiedzia\u0142em co s\u0105dzi\u0107 o zjawisku czy to owad \u015bwiec\u0105cy czy pr\u00f3chno ale pr\u0119dko zrozumia\u0142em \u017ce ani jedno ani drugie",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_60s_seed_42/3_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_60s_seed_42/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_60s_seed_42/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_60s_seed_42/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_60s_seed_42/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_60s_seed_42/3_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/polish/librispeech_test_set_60s_seed_42/3/converted.wav"
+  }
+}

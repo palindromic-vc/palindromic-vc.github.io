@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.729022741317749,
+  "ecapa_ref_gt_similarity": 0.8542907238006592,
+  "ecapa_src_converted_similarity": -0.026757990941405296,
+  "ecapa_src_gt_similarity": 0.7879014015197754,
+  "redimnet_ref_converted_similarity": 0.6337890625,
+  "redimnet_ref_gt_similarity": 0.88525390625,
+  "redimnet_src_converted_similarity": 0.201416015625,
+  "redimnet_src_gt_similarity": 0.83984375,
+  "dns_mos_gt": 3.7593657970428467,
+  "dns_mos_gen": 3.9164719581604004,
+  "wer_src": 0.6176470588235294,
+  "cer_src": 0.5497382198952879,
+  "transcription_src": " der husar hatte nun gewaltig viel zu tun ehe er die prinzessin reinhergestellt hatte und als es endlich geschehen war und sie so h\u00fcbsch und gl\u00e4nzend aussah wie man sich's nur w\u00fcnschen konnte und als es endlich geschehen war und sie so h\u00fcbsch und gl\u00e4nzend aussah wie man sich nur w\u00fcnschen konnte",
+  "wer_converted": 0.058823529411764705,
+  "cer_converted": 0.005235602094240838,
+  "transcription_converted": " der husar hatte nun gewaltig viel zu tun ehe er die prinzessin reinhergestellt hatte und als es endlich geschehen war und sie so h\u00fcbsch und gl\u00e4nzend aussah wie man sich's nur w\u00fcnschen konnte",
+  "index": 2,
+  "source_text": "der husar hatte nun gewaltig viel zu tun ehe er die prinzessin rein hergestellt hatte und als es endlich geschehen war und sie so h\u00fcbsch und gl\u00e4nzend aussah wie man sich's nur w\u00fcnschen konnte"
+}

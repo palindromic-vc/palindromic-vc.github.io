@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6748198866844177,
+  "ecapa_ref_gt_similarity": 0.7473930716514587,
+  "ecapa_src_converted_similarity": 0.22139780223369598,
+  "ecapa_src_gt_similarity": 0.7419569492340088,
+  "redimnet_ref_converted_similarity": 0.61865234375,
+  "redimnet_ref_gt_similarity": 0.77783203125,
+  "redimnet_src_converted_similarity": 0.173828125,
+  "redimnet_src_gt_similarity": 0.82470703125,
+  "dns_mos_gt": 3.7824986457824705,
+  "dns_mos_gen": 4.266286087036133,
+  "wer_src": 0.2,
+  "cer_src": 0.058823529411764705,
+  "transcription_src": " ils ont re\u00e7u les \u00e9preuves \u00e0 tavert fin juillet d\u00e9j\u00e0 la c\u00e9cit\u00e9 verbale l'avait accabl\u00e9 il regarda m\u00e9lancolique les images puis dit avec un avrant sourire je verrai apprendre \u00e0 lire dans mon propre alphabet",
+  "wer_converted": 0.08571428571428572,
+  "cer_converted": 0.03431372549019608,
+  "transcription_converted": " il en con\u00e7ut les \u00e9preuves \u00e0 tavers saint-juillet d\u00e9j\u00e0 la c\u00e9cit\u00e9 verbale l'avait accabl\u00e9 il regarda m\u00e9lancolique les images puis dit avec un avrant sourire je vais r\u00e9apprendre \u00e0 lire dans mon propre alphabet",
+  "index": 5,
+  "source_text": "il en re\u00e7ut les \u00e9preuves \u00e0 tavers fin juillet d\u00e9j\u00e0 la c\u00e9cit\u00e9 verbale l'avait accabl\u00e9 il regarda m\u00e9lancolique les images puis dit avec un navrant sourire je vais r\u00e9apprendre \u00e0 lire dans mon propre alphabet",
+  "input_seed_folder": "librispeech_test_set_30s_seed_37",
+  "output_seed_folder": "librispeech_test_set_30s_seed_37",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_30s_seed_37/5_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_30s_seed_37/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_30s_seed_37/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_30s_seed_37/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_30s_seed_37/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_30s_seed_37/5_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/french/librispeech_test_set_30s_seed_37/5/converted.wav"
+  }
+}

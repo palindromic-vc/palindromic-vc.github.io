@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7655661702156067,
+  "ecapa_ref_gt_similarity": 0.7647995948791504,
+  "ecapa_src_converted_similarity": 0.12120053917169571,
+  "ecapa_src_gt_similarity": 0.7659348845481873,
+  "redimnet_ref_converted_similarity": 0.74853515625,
+  "redimnet_ref_gt_similarity": 0.775390625,
+  "redimnet_src_converted_similarity": 0.1390380859375,
+  "redimnet_src_gt_similarity": 0.791015625,
+  "dns_mos_gt": 3.702880859375,
+  "dns_mos_gen": 3.948411703109741,
+  "wer_src": 0.03125,
+  "cer_src": 0.004807692307692308,
+  "transcription_src": " nie przyjmuj\u0105c jad\u0142a ani napoju z wypiekami gor\u0105czki na twarzy z konwulsj\u0105 wstr\u0119tu wryt\u0105 doko\u0142a ust ojciec m\u00f3j zdzicza\u0142 zupe\u0142nie jasne by\u0142o \u017ce tego napi\u0119cia nienawi\u015bci \u017caden organizm d\u0142ugo wytrzyma\u0107 nie mo\u017ce",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " nie przyjmuj\u0105c jad\u0142a ani napoju z wypiekami gor\u0105czki na twarzy z konwulsj\u0105 wstr\u0119tu wryt\u0105 dooko\u0142a ust ojciec m\u00f3j zdzicza\u0142 zupe\u0142nie jasne by\u0142o \u017ce tego napi\u0119cia nienawi\u015bci \u017caden organizm d\u0142ugo wytrzyma\u0107 nie mo\u017ce",
+  "index": 9,
+  "source_text": "nie przyjmuj\u0105c jad\u0142a ani napoju z wypiekami gor\u0105czki na twarzy z konwulsj\u0105 wstr\u0119tu wryt\u0105 dooko\u0142a ust ojciec m\u00f3j zdzicza\u0142 zupe\u0142nie jasne by\u0142o \u017ce tego napi\u0119cia nienawi\u015bci \u017caden organizm d\u0142ugo wytrzyma\u0107 nie mo\u017ce"
+}

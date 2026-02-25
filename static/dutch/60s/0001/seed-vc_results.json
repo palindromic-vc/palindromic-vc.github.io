@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6467834711074829,
+  "ecapa_ref_gt_similarity": 0.6803141832351685,
+  "ecapa_src_converted_similarity": 0.16418159008026123,
+  "ecapa_src_gt_similarity": 0.849021315574646,
+  "redimnet_ref_converted_similarity": 0.59814453125,
+  "redimnet_ref_gt_similarity": 0.6865234375,
+  "redimnet_src_converted_similarity": 0.142822265625,
+  "redimnet_src_gt_similarity": 0.81982421875,
+  "dns_mos_gt": 4.120491981506348,
+  "dns_mos_gen": 3.937126636505127,
+  "wer_src": 0.10344827586206896,
+  "cer_src": 0.05625,
+  "transcription_src": " met de ongelooflijke tijding op komen zetten dat de tweede moeder met de luiermand in de weer was en vr gisteren twee maanden later was t met vader gebeurd",
+  "wer_converted": 0.13793103448275862,
+  "cer_converted": 0.0375,
+  "transcription_converted": " met de ongelooflijke tijding op komen zetten dat de tweede moeder met de luiermand in de weer was en vr heer gister twee maanden later was t met vader gebeurd",
+  "index": 3,
+  "source_text": "met de ongelooflijke tijding op komen zetten dat de tweede moeder met de luiermand in de weer was en voor eergister twee maanden later was het met vader gebeurd",
+  "input_seed_folder": "librispeech_test_set_60s_seed_73",
+  "output_seed_folder": "librispeech_test_set_60s_seed_73",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_60s_seed_73/3_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_60s_seed_73/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_60s_seed_73/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_60s_seed_73/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_60s_seed_73/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_60s_seed_73/3_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/dutch/librispeech_test_set_60s_seed_73/3/converted.wav"
+  }
+}

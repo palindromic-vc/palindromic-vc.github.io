@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.20410661399364471,
+  "ecapa_ref_gt_similarity": 0.551889181137085,
+  "ecapa_src_converted_similarity": 0.5628308057785034,
+  "ecapa_src_gt_similarity": 0.8616863489151001,
+  "redimnet_ref_converted_similarity": 0.2291259765625,
+  "redimnet_ref_gt_similarity": 0.54052734375,
+  "redimnet_src_converted_similarity": 0.396240234375,
+  "redimnet_src_gt_similarity": 0.873046875,
+  "dns_mos_gt": 3.263861338297526,
+  "dns_mos_gen": 3.311703602472941,
+  "wer_src": 0.06976744186046512,
+  "cer_src": 0.013100436681222707,
+  "transcription_src": " weldra werden bets en amy ook wakker zochten en vonden hun boeken ook dadelijk het eene grijs het andere blauw en alle vier zaten ze er naar te kijken en over te praten terwijl het oosten rood gekleurd werd door den aanbrekenden dag",
+  "wer_converted": 0.18604651162790697,
+  "cer_converted": 0.09606986899563319,
+  "transcription_converted": " weldra werden bets en amy ook wakker zochten en vonden hun boeken ook dadelijk het eene vleisch het andere blauw en alle vier zaten er naar te kijken en over te praten terwijl het oostenrad volkleurd werd door den aanblikken dag",
+  "index": 7,
+  "source_text": "weldra werden bets en amy ook wakker zochten en vonden hun boeken ook dadelijk het ene grijs het andere blauw en alle vier zaten ze er naar te kijken en over te praten terwijl het oosten rood gekleurd werd door de aanbrekende dag",
+  "input_seed_folder": "librispeech_test_set_10s_seed_37",
+  "output_seed_folder": "librispeech_test_set_10s_seed_37",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_10s_seed_37/7_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_10s_seed_37/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_10s_seed_37/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_10s_seed_37/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_10s_seed_37/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_10s_seed_37/7_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_10s_seed_37/7/converted.wav"
+  }
+}

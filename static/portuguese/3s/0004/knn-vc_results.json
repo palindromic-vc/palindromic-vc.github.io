@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.43918126821517944,
+  "ecapa_ref_gt_similarity": 0.660155177116394,
+  "ecapa_src_converted_similarity": 0.13293710350990295,
+  "ecapa_src_gt_similarity": 0.8169562816619873,
+  "redimnet_ref_converted_similarity": 0.345703125,
+  "redimnet_ref_gt_similarity": 0.80859375,
+  "redimnet_src_converted_similarity": 0.148681640625,
+  "redimnet_src_gt_similarity": 0.865234375,
+  "dns_mos_gt": 3.5929379803793773,
+  "dns_mos_gen": 3.5470572539738248,
+  "wer_src": 0.14285714285714285,
+  "cer_src": 0.02564102564102564,
+  "transcription_src": " desta id\u00e9ia proveiu um diluvio de sangue para reabilitar a ra\u00e7a futura foi o sangue dos m\u00e1rtires a arca flutuante \u00e1 igreja o ramo de oliveira representando a paz universal e a fraternidade \u00e1 cruz",
+  "wer_converted": 0.5714285714285714,
+  "cer_converted": 0.28717948717948716,
+  "transcription_converted": " Desta ideia, houve algum livro de s\u00e9rie para reabrir da ra\u00e7a popular. Com os seguidos, Martins, a arca fundante da Igreja, o rel\u00f3gio inteiro representa uma paz universal e a fraternidade a luz.",
+  "index": 3,
+  "source_text": "desta ideia proveio um dil\u00favio de sangue para reabilitar a ra\u00e7a futura foi o sangue dos m\u00e1rtires a arca flutuante a igreja o ramo de oliveira representando a paz universal e a fraternidade a cruz",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_3s_seed_42/3_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_3s_seed_42/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_3s_seed_42/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_3s_seed_42/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_3s_seed_42/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_3s_seed_42/3_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/portuguese/librispeech_test_set_3s_seed_42/3/converted.wav"
+  }
+}

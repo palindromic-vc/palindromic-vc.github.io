@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.13873031735420227,
+  "ecapa_ref_gt_similarity": 0.5563993453979492,
+  "ecapa_src_converted_similarity": 0.1757047027349472,
+  "ecapa_src_gt_similarity": 0.7761183977127075,
+  "redimnet_ref_converted_similarity": 0.188232421875,
+  "redimnet_ref_gt_similarity": 0.483642578125,
+  "redimnet_src_converted_similarity": 0.10968017578125,
+  "redimnet_src_gt_similarity": 0.77392578125,
+  "dns_mos_gt": 3.989821672439575,
+  "dns_mos_gen": 4.054649988810222,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " ma bens\u00ec si sforzeremo in quanto per noi si potr\u00e0 di farvi quelle provisioni che possibili saranno a riaver la sanit\u00e0 e riavuta conservarla",
+  "wer_converted": 0.08333333333333333,
+  "cer_converted": 0.014388489208633094,
+  "transcription_converted": " ma bens\u00ec si sforzeremo in quanto per noi si potr\u00e0 di farvi quelle provisioni che possibili saranno a riaver la sanit\u00e0 e riamuta conserverla",
+  "index": 6,
+  "source_text": "ma bens\u00ec si sforzeremo in quanto per noi si potr\u00e0 di farvi quelle provisioni che possibili saranno a riaver la sanit\u00e0 e riavuta conservarla",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_30s_seed_73/6_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_30s_seed_73/6_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_30s_seed_73/6_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_30s_seed_73/6_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_30s_seed_73/6_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_30s_seed_73/6_ref_src2.wav",
+    "converted": "/workspace/outputs/italian/librispeech_test_set_30s_seed_73/6/converted.wav"
+  }
+}

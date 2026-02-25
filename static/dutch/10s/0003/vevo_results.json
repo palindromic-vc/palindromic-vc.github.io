@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5991894602775574,
+  "ecapa_ref_gt_similarity": 0.6487523317337036,
+  "ecapa_src_converted_similarity": 0.2175830900669098,
+  "ecapa_src_gt_similarity": 0.5365034341812134,
+  "redimnet_ref_converted_similarity": 0.56298828125,
+  "redimnet_ref_gt_similarity": 0.65087890625,
+  "redimnet_src_converted_similarity": 0.27685546875,
+  "redimnet_src_gt_similarity": 0.62060546875,
+  "dns_mos_gt": 4.0444722175598145,
+  "dns_mos_gen": 3.8072941303253174,
+  "wer_src": 0.2222222222222222,
+  "cer_src": 0.058823529411764705,
+  "transcription_src": " bertus die thuis sliep en jacob heelemaal afhankelijk waren t huis uitgeloopen den dag van vaders ondertrouwe nooit met dat mensch die over vaders kwaal ingelicht was hem toch wou nooit met i onder \u00e9\u00e9n dak",
+  "wer_converted": 0.25,
+  "cer_converted": 0.07352941176470588,
+  "transcription_converted": " bettis die thuis sliep en jacob heelemaal afhankelijk wagen t huis uitgeloopen door dat van vaders ondertrouwen nooit met dat mensch die over vaders kwaal ingelicht was hem toch wou nooit met die onder \u00e9\u00e9n dak",
+  "index": 4,
+  "source_text": "bertus die thuis sliep en jacob helemaal afhankelijk waren het huis uitgelopen de dag van vaders ondertrouwen nooit met dat mens die over vaders kwaal ingelicht was 'm toch wou nooit met die onder \u00e9\u00e9n dak"
+}

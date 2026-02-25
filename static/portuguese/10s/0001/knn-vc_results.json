@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6413349509239197,
+  "ecapa_ref_gt_similarity": 0.8224831819534302,
+  "ecapa_src_converted_similarity": 0.16434232890605927,
+  "ecapa_src_gt_similarity": 0.7776398658752441,
+  "redimnet_ref_converted_similarity": 0.5537109375,
+  "redimnet_ref_gt_similarity": 0.84912109375,
+  "redimnet_src_converted_similarity": 0.09600830078125,
+  "redimnet_src_gt_similarity": 0.86865234375,
+  "dns_mos_gt": 3.6537675857543945,
+  "dns_mos_gen": 3.950667142868042,
+  "wer_src": 0.07407407407407407,
+  "cer_src": 0.014184397163120567,
+  "transcription_src": " a vez de ter encontrado beirando o rio em viagem pelos sitios o dono da casa sentado no terreiro a olhar fixamente para as aguas da correnteza",
+  "wer_converted": 0.14814814814814814,
+  "cer_converted": 0.04964539007092199,
+  "transcription_converted": " Ao inv\u00e9s de ter encontrado, beirando o rio, em viagem pelos s\u00edtios, o dono da casa sentado no terreiro, a olhar fixamente para as \u00e1guas da correnteza.",
+  "index": 5,
+  "source_text": "a vez de ter encontrado beirando o rio em viagem pelo s\u00edtios o dono da casa sentado no terreiro a olhar fixamente para as aguas da correnteza",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_10s_seed_73/5_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_10s_seed_73/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_10s_seed_73/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_10s_seed_73/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_10s_seed_73/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_10s_seed_73/5_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/portuguese/librispeech_test_set_10s_seed_73/5/converted.wav"
+  }
+}

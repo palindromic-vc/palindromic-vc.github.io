@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5107353329658508,
+  "ecapa_ref_gt_similarity": 0.7587277293205261,
+  "ecapa_src_converted_similarity": 0.27756842970848083,
+  "ecapa_src_gt_similarity": 0.8444784879684448,
+  "redimnet_ref_converted_similarity": 0.5302734375,
+  "redimnet_ref_gt_similarity": 0.87890625,
+  "redimnet_src_converted_similarity": 0.251953125,
+  "redimnet_src_gt_similarity": 0.8857421875,
+  "dns_mos_gt": 4.160152503422329,
+  "dns_mos_gen": 4.238915375300816,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " The scout, who had left David at the door to ascertain they were not observed, thought it prudent to preserve his disguise until assured of their privacy.",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " The scout, who had left David at the door to ascertain they were not observed, thought it prudent to preserve his disguise until assured of their privacy.",
+  "index": 1,
+  "source_text": "THE SCOUT WHO HAD LEFT DAVID AT THE DOOR TO ASCERTAIN THEY WERE NOT OBSERVED THOUGHT IT PRUDENT TO PRESERVE HIS DISGUISE UNTIL ASSURED OF THEIR PRIVACY",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_30s_seed_73/1_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_30s_seed_73/1_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_30s_seed_73/1_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_30s_seed_73/1_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_30s_seed_73/1_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_30s_seed_73/1_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_30s_seed_73/1/converted.wav"
+  }
+}

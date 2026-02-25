@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7804480791091919,
+  "ecapa_ref_gt_similarity": 0.8330541849136353,
+  "ecapa_src_converted_similarity": 0.16241347789764404,
+  "ecapa_src_gt_similarity": 0.860034167766571,
+  "redimnet_ref_converted_similarity": 0.732421875,
+  "redimnet_ref_gt_similarity": 0.85791015625,
+  "redimnet_src_converted_similarity": 0.10986328125,
+  "redimnet_src_gt_similarity": 0.90771484375,
+  "dns_mos_gt": 4.0217262336186,
+  "dns_mos_gen": 4.196891989026751,
+  "wer_src": 0.04081632653061224,
+  "cer_src": 0.023880597014925373,
+  "transcription_src": " w powietrzu unosi\u0142y si\u0119 dziwne wonie i szmery przerywane co chwila silniejszym jakim\u015b podmuchem albo gwa\u0142townym hukiem i \u015bwistem skrzyde\u0142 owadzich zaraz pierwszego dnia mog\u0142em oceni\u0107 donios\u0142o\u015b\u0107 us\u0142ug jakie dawa\u0142a mi luneta gdym potrzebowa\u0142 obj\u0105\u0107 wzrokiem du\u017cy a bliski przedmiot w ca\u0142o\u015bci odwraca\u0142em j\u0105 i patrz\u0105c w szk\u0142o przedmiotowe",
+  "wer_converted": 0.16326530612244897,
+  "cer_converted": 0.056716417910447764,
+  "transcription_converted": " powietrzu unosi\u0142y si\u0119 dziwne wonie i \u017cmery przerwane co chwila silniejszym jakim\u015b podmuchem albo gwa\u0142townym hukiem i \u015bwistem skrzyd\u0142owa\u0142 wadzich zaraz pierwszego dnia mog\u0142em oceni\u0107 donios\u0142o\u015b\u0107 us\u0142ug jakie dawa\u0142a mi luneta gdym potrzebowa\u0142 obj\u0119\u0107 wzrokiem du\u017cy a bliski przedmiot w ca\u0142o\u015bci odwraca\u0142em j\u0105 i patrz\u0105c w szk\u0142o przedmiotowe",
+  "index": 7,
+  "source_text": "w powietrzu unosi\u0142y si\u0119 dziwne wonie i szmery przerywane co chwila silniejszym jakim\u015b podmuchem albo gwa\u0142townym hukiem i \u015bwistem skrzyde\u0142 owadzich zaraz pierwszego dnia mog\u0142em oceni\u0107 donios\u0142o\u015b\u0107 us\u0142ug jakie mi oddawa\u0142a luneta gdym potrzebowa\u0142 obj\u0105\u0107 wzrokiem du\u017cy a bliski przedmiot w ca\u0142o\u015bci odwraca\u0142em j\u0105 i patrz\u0105c w szk\u0142o przedmiotowe",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_60s_seed_42/7_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_60s_seed_42/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_60s_seed_42/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_60s_seed_42/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_60s_seed_42/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_60s_seed_42/7_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/polish/librispeech_test_set_60s_seed_42/7/converted.wav"
+  }
+}

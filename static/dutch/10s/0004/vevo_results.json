@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5783947706222534,
+  "ecapa_ref_gt_similarity": 0.5518863797187805,
+  "ecapa_src_converted_similarity": 0.4003466069698334,
+  "ecapa_src_gt_similarity": 0.8616808652877808,
+  "redimnet_ref_converted_similarity": 0.5146484375,
+  "redimnet_ref_gt_similarity": 0.54052734375,
+  "redimnet_src_converted_similarity": 0.36474609375,
+  "redimnet_src_gt_similarity": 0.873046875,
+  "dns_mos_gt": 3.256544828414917,
+  "dns_mos_gen": 3.73315167427063,
+  "wer_src": 0.06976744186046512,
+  "cer_src": 0.013100436681222707,
+  "transcription_src": " weldra werden bets en amy ook wakker zochten en vonden hun boeken ook dadelijk het eene grijs het andere blauw en alle vier zaten ze er naar te kijken en over te praten terwijl het oosten rood gekleurd werd door den aanbrekenden dag",
+  "wer_converted": 0.09302325581395349,
+  "cer_converted": 0.03056768558951965,
+  "transcription_converted": " weldra werden bets en amy ook wakker zochten en vonden hun boeken ook dadelijk het eene grijs het andere blauw en alle vier zaten er naar te kijken en over te praten terwijl het oosten rood gekleurd werd door den aandrekenden dag",
+  "index": 7,
+  "source_text": "weldra werden bets en amy ook wakker zochten en vonden hun boeken ook dadelijk het ene grijs het andere blauw en alle vier zaten ze er naar te kijken en over te praten terwijl het oosten rood gekleurd werd door de aanbrekende dag"
+}

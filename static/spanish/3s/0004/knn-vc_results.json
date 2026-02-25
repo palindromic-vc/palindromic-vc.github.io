@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.23678329586982727,
+  "ecapa_ref_gt_similarity": 0.7602798938751221,
+  "ecapa_src_converted_similarity": 0.13309627771377563,
+  "ecapa_src_gt_similarity": 0.8305549621582031,
+  "redimnet_ref_converted_similarity": 0.369384765625,
+  "redimnet_ref_gt_similarity": 0.8583984375,
+  "redimnet_src_converted_similarity": 0.11016845703125,
+  "redimnet_src_gt_similarity": 0.86474609375,
+  "dns_mos_gt": 4.171063709259033,
+  "dns_mos_gen": 2.940558338165283,
+  "wer_src": 0.025,
+  "cer_src": 0.010869565217391304,
+  "transcription_src": " no busca homero las comparaciones en las cosas que no se ven sino en las que se ven de modo que lo que \u00e9l cuenta no se olvida porque es como si se lo hubiera tenido delante de los ojos y",
+  "wer_converted": 0.575,
+  "cer_converted": 0.3695652173913043,
+  "transcription_converted": " Por eso, cuando se muere la espuma, se mueren las cosas que no se ven, se mueren las que se ven. De modo que el recuerdo no se hubiera, pues es como se se hubiera de nuevo delante de nosotros.",
+  "index": 2,
+  "source_text": "no busca homero las comparaciones en las cosas que no se ven sino en las que se ven de modo que lo que \u00e9l cuenta no se olvida porque es como si se lo hubiera tenido delante de los ojos",
+  "input_seed_folder": "librispeech_test_set_3s_seed_37",
+  "output_seed_folder": "librispeech_test_set_3s_seed_37",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_3s_seed_37/2_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_3s_seed_37/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_3s_seed_37/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_3s_seed_37/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_3s_seed_37/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_3s_seed_37/2_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/spanish/librispeech_test_set_3s_seed_37/2/converted.wav"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5336970090866089,
+  "ecapa_ref_gt_similarity": 1.0,
+  "ecapa_src_converted_similarity": 0.10520568490028381,
+  "ecapa_src_gt_similarity": 0.7388699054718018,
+  "redimnet_ref_converted_similarity": 0.48193359375,
+  "redimnet_ref_gt_similarity": 0.99951171875,
+  "redimnet_src_converted_similarity": 0.10595703125,
+  "redimnet_src_gt_similarity": 0.76708984375,
+  "dns_mos_gt": 4.013635039329529,
+  "dns_mos_gen": 4.003299593925476,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " sam widzia\u0142em pszczo\u0142\u0119 z oderwanym odw\u0142okiem jak zag\u0142\u0119biona w kielichu kwiatka wysysa\u0142a s\u0142odycz nektar smakowa\u0142 jej pomimo braku po\u0142owy cia\u0142a",
+  "wer_converted": 0.5,
+  "cer_converted": 0.19858156028368795,
+  "transcription_converted": " Sam widzia\u0142em pszczon\u0119 z podewanem podw\u00f3kni\u0119te, jak zag\u0142\u0119biona w dzieliwo pniatka wysysa\u0142a s\u0142odycz. Leptar smakowa\u0142 jej to mimo brak oprowycza\u0142a.",
+  "index": 3,
+  "source_text": "sam widzia\u0142em pszczo\u0142\u0119 z oderwanym odw\u0142okiem jak zag\u0142\u0119biona w kielichu kwiatka wysysa\u0142a s\u0142odycz nektar smakowa\u0142 jej pomimo braku po\u0142owy cia\u0142a",
+  "input_seed_folder": "librispeech_test_set_3s_seed_73",
+  "output_seed_folder": "librispeech_test_set_3s_seed_73",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_3s_seed_73/3_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_3s_seed_73/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_3s_seed_73/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_3s_seed_73/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_3s_seed_73/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_3s_seed_73/3_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/polish/librispeech_test_set_3s_seed_73/3/converted.wav"
+  }
+}

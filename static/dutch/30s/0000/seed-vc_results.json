@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7952338457107544,
+  "ecapa_ref_gt_similarity": 0.7283210754394531,
+  "ecapa_src_converted_similarity": 0.11821745336055756,
+  "ecapa_src_gt_similarity": 0.8593239188194275,
+  "redimnet_ref_converted_similarity": 0.71630859375,
+  "redimnet_ref_gt_similarity": 0.654296875,
+  "redimnet_src_converted_similarity": 0.1905517578125,
+  "redimnet_src_gt_similarity": 0.8427734375,
+  "dns_mos_gt": 4.214591026306152,
+  "dns_mos_gen": 3.859943429629008,
+  "wer_src": 0.14893617021276595,
+  "cer_src": 0.043824701195219126,
+  "transcription_src": " want dan wier vader natuurlijk bij de firma binnengeroepen zou ze hem de briefkaart laten zien en vragen of het waar was en al kreeg hij dan nog zoo'n boel haar handschrift op de briefkaart zou hij herkennen en het er met zijn idee\u00ebn nooit vergeven",
+  "wer_converted": 0.1702127659574468,
+  "cer_converted": 0.055776892430278883,
+  "transcription_converted": " want dan wier vader natuurlijk bij de firma binnengeroepen zou ze hem de briefkaart laten zien en vragen of het waar was en hoe kreeg hij dan nog zoo'n boel haar handschrift op de briefkaart zou hij herkennen en het er met zijn idee\u00ebn nooit vergeven",
+  "index": 9,
+  "source_text": "want dan wier vader natuurlijk bij de firma binnen geroepen zouwen ze hem de briefkaart laten zien en vragen of het w\u00e0\u00e0r was en al kreeg hij dan nog zo'n boel h\u00e0\u00e0r handschrift op de briefkaart zou die herkennen en het er met zijn idee\u00ebn nooit vergeven",
+  "input_seed_folder": "librispeech_test_set_30s_seed_42",
+  "output_seed_folder": "librispeech_test_set_30s_seed_42",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_30s_seed_42/9_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_30s_seed_42/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_30s_seed_42/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_30s_seed_42/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_30s_seed_42/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_30s_seed_42/9_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/dutch/librispeech_test_set_30s_seed_42/9/converted.wav"
+  }
+}

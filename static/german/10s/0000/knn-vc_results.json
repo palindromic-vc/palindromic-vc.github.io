@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5179241299629211,
+  "ecapa_ref_gt_similarity": 0.7834204435348511,
+  "ecapa_src_converted_similarity": 0.29331904649734497,
+  "ecapa_src_gt_similarity": 0.8064289093017578,
+  "redimnet_ref_converted_similarity": 0.5537109375,
+  "redimnet_ref_gt_similarity": 0.82763671875,
+  "redimnet_src_converted_similarity": 0.332763671875,
+  "redimnet_src_gt_similarity": 0.7734375,
+  "dns_mos_gt": 4.158079504966736,
+  "dns_mos_gen": 3.9346848726272583,
+  "wer_src": 0.1111111111111111,
+  "cer_src": 0.07017543859649122,
+  "transcription_src": " nun wohl ich hei\u00dfe bancroft und bin oberingenieur der hiesing sektion es hat mir kein mensch etwas zu befehlen am allerwenigsten aber ihr mr white es ist richtig da\u00df wir uns vollst\u00e4ndig gleichstehen antwortete dieser ruhig k\u0435\u043dney",
+  "wer_converted": 0.4722222222222222,
+  "cer_converted": 0.2236842105263158,
+  "transcription_converted": " ich reiste bergkopf zu und bin oberingenieur der jesigen sektion es hat mit keinem mensch etwas zu befehlen im allerwenigsten aber ihr mr wright es ist wichtig da\u00df wir uns vollst\u00e4ndig gleich stehen antwortete",
+  "index": 4,
+  "source_text": "nun wohl ich hei\u00dfe bancroft und bin oberingenieur der hiesigen sektion es hat mir kein mensch etwas zu befehlen am allerwenigsten aber ihr mister white es ist richtig dass wir uns vollst\u00e4ndig gleichstehen antwortete dieser ruhig",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_10s_seed_73/4_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_10s_seed_73/4_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_10s_seed_73/4_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_10s_seed_73/4_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_10s_seed_73/4_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_10s_seed_73/4_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/german/librispeech_test_set_10s_seed_73/4/converted.wav"
+  }
+}

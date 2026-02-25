@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6828687191009521,
+  "ecapa_ref_gt_similarity": 0.8302567601203918,
+  "ecapa_src_converted_similarity": 0.19859474897384644,
+  "ecapa_src_gt_similarity": 0.8573081493377686,
+  "redimnet_ref_converted_similarity": 0.5830078125,
+  "redimnet_ref_gt_similarity": 0.861328125,
+  "redimnet_src_converted_similarity": 0.2177734375,
+  "redimnet_src_gt_similarity": 0.85302734375,
+  "dns_mos_gt": 4.04245662689209,
+  "dns_mos_gen": 4.071265697479248,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " depuis ce temps-l\u00e0 les kangourous ont ces moignons que vous voyez sur l'image et la poche de leur ventre ne leur sert plus que pour y cacher leurs petits",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " depuis ce temps-l\u00e0 les kangourous ont ces moignons que vous voyez sur l'image et la poche de leur ventre ne leur sert plus que pour y cacher leurs petits",
+  "index": 5,
+  "source_text": "depuis ce temps-l\u00e0 les kangourous ont ces moignons que vous voyez sur l'image et la poche de leur ventre ne leur sert plus que pour y cacher leurs petits"
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6123614311218262,
+  "ecapa_ref_gt_similarity": 0.556939959526062,
+  "ecapa_src_converted_similarity": 0.1727142035961151,
+  "ecapa_src_gt_similarity": 0.778343141078949,
+  "redimnet_ref_converted_similarity": 0.6240234375,
+  "redimnet_ref_gt_similarity": 0.62646484375,
+  "redimnet_src_converted_similarity": 0.1693115234375,
+  "redimnet_src_gt_similarity": 0.8291015625,
+  "dns_mos_gt": 4.093010902404785,
+  "dns_mos_gen": 4.144171237945557,
+  "wer_src": 0.02702702702702703,
+  "cer_src": 0.02857142857142857,
+  "transcription_src": " quant au comte il eut en \u00e9change de son salut une c\u00e9r\u00e9monieuse mais en m\u00eame temps gracieuse r\u00e9v\u00e9rence lucien de son c\u00f4t\u00e9 \u00e9changea avec le comte un salut de demi-connaissance et avec danglars un geste d'intimit\u00e9 merci",
+  "wer_converted": 0.02702702702702703,
+  "cer_converted": 0.014285714285714285,
+  "transcription_converted": " quant au comte il eut en \u00e9change de son salut une c\u00e9r\u00e9monieuse mais en m\u00eame temps gracieuse r\u00e9v\u00e9rence l'iscien de son c\u00f4t\u00e9 \u00e9changea avec le comte un salut de demi-connaissance et avec danglars un geste d'intimit\u00e9",
+  "index": 9,
+  "source_text": "quant au comte il eut en \u00e9change de son salut une c\u00e9r\u00e9monieuse mais en m\u00eame temps gracieuse r\u00e9v\u00e9rence lucien de son c\u00f4t\u00e9 \u00e9changea avec le comte un salut de demi connaissance et avec danglars un geste d'intimit\u00e9"
+}

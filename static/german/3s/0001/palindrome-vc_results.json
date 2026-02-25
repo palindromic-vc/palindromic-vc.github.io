@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.4704124927520752,
+  "ecapa_ref_gt_similarity": 0.6377953290939331,
+  "ecapa_src_converted_similarity": 0.09946402162313461,
+  "ecapa_src_gt_similarity": 0.8686178922653198,
+  "redimnet_ref_converted_similarity": 0.444580078125,
+  "redimnet_ref_gt_similarity": 0.73486328125,
+  "redimnet_src_converted_similarity": 0.10382080078125,
+  "redimnet_src_gt_similarity": 0.88427734375,
+  "dns_mos_gt": 3.2604949474334717,
+  "dns_mos_gen": 3.9289638996124268,
+  "wer_src": 0.03125,
+  "cer_src": 0.004694835680751174,
+  "transcription_src": " von liedern die sie singen und klavierpiesen die sie spielen von geldb\u00f6rsen die sie h\u00e4keln von franz\u00f6sischen b\u00fcchern die sie \u00fcbersetzen konnte bis mein gem\u00fct w\u00e4hrend ich lauschte zur nachahmung aufgestachelt wurde",
+  "wer_converted": 0.0625,
+  "cer_converted": 0.009389671361502348,
+  "transcription_converted": " Von Liedern, die sie singen und Klavierpie\u00dfen, die sie spielen, von Geldb\u00f6rsen, die sie j\u00e4keln, von franz\u00f6sischen B\u00fcchern, die sie \u00fcbersetzen konnte, bis mein Gem\u00fct, w\u00e4hrend ich lauschte, zur Nachahmung aufgestachelt wurde.",
+  "index": 7,
+  "source_text": "von liedern die sie singen und klavierpiecen die sie spielen von geldb\u00f6rsen die sie h\u00e4keln von franz\u00f6sischen b\u00fcchern die sie \u00fcbersetzen konnte bis mein gem\u00fct w\u00e4hrend ich lauschte zur nachahmung aufgestachelt wurde"
+}

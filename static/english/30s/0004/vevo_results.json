@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6846579313278198,
+  "ecapa_ref_gt_similarity": 0.8876634836196899,
+  "ecapa_src_converted_similarity": 0.1895591914653778,
+  "ecapa_src_gt_similarity": 0.7938932180404663,
+  "redimnet_ref_converted_similarity": 0.6240234375,
+  "redimnet_ref_gt_similarity": 0.89599609375,
+  "redimnet_src_converted_similarity": 0.1593017578125,
+  "redimnet_src_gt_similarity": 0.8466796875,
+  "dns_mos_gt": 3.557586193084717,
+  "dns_mos_gen": 3.954983949661255,
+  "wer_src": 0.027777777777777776,
+  "cer_src": 0.018518518518518517,
+  "transcription_src": " it was a look so intelligent yet inexplicable perverse sometimes so malicious but generally accompanied by a wild flow of spirits that hester could not help questioning at such moments whether pearl was a human child you",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " it was a look so intelligent yet inexplicable perverse sometimes so malicious but generally accompanied by a wild flow of spirits that hester could not help questioning at such moments whether pearl was a human child",
+  "index": 3,
+  "source_text": "IT WAS A LOOK SO INTELLIGENT YET INEXPLICABLE PERVERSE SOMETIMES SO MALICIOUS BUT GENERALLY ACCOMPANIED BY A WILD FLOW OF SPIRITS THAT HESTER COULD NOT HELP QUESTIONING AT SUCH MOMENTS WHETHER PEARL WAS A HUMAN CHILD"
+}

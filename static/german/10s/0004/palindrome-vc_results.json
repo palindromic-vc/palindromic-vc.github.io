@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7215799689292908,
+  "ecapa_ref_gt_similarity": 0.729814350605011,
+  "ecapa_src_converted_similarity": 0.07151950150728226,
+  "ecapa_src_gt_similarity": 0.7427933216094971,
+  "redimnet_ref_converted_similarity": 0.693359375,
+  "redimnet_ref_gt_similarity": 0.77734375,
+  "redimnet_src_converted_similarity": -0.017669677734375,
+  "redimnet_src_gt_similarity": 0.77587890625,
+  "dns_mos_gt": 3.8316500186920166,
+  "dns_mos_gen": 3.8397374153137207,
+  "wer_src": 0.125,
+  "cer_src": 0.1,
+  "transcription_src": " herein rief der professor sich erhebend die th\u00fcre \u00f6ffnete sich und es erschien ein erdlicher doch frisch und bl\u00fchend aussehender mann von stattlicher",
+  "wer_converted": 0.16666666666666666,
+  "cer_converted": 0.14375,
+  "transcription_converted": " rief der professor sich erhebend die th\u00fcr \u00f6ffnete sich und es erschien ein etlicher doch frisch und bl\u00fchend aussehender mann von stattlicher",
+  "index": 2,
+  "source_text": "herein rief der professor sich erhebend die t\u00fcre \u00f6ffnete sich und es erschien ein \u00e4ltlicher doch frisch und bl\u00fchend aussehender mann von stattlicher leibesf\u00fclle"
+}

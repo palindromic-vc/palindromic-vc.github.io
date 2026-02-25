@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.537729024887085,
+  "ecapa_ref_gt_similarity": 0.8352417349815369,
+  "ecapa_src_converted_similarity": 0.08792907744646072,
+  "ecapa_src_gt_similarity": 0.8544908761978149,
+  "redimnet_ref_converted_similarity": 0.529296875,
+  "redimnet_ref_gt_similarity": 0.91015625,
+  "redimnet_src_converted_similarity": 0.051971435546875,
+  "redimnet_src_gt_similarity": 0.88232421875,
+  "dns_mos_gt": 4.185643672943115,
+  "dns_mos_gen": 3.8048346042633057,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " it is only a pencil outline by edward burne jones in illustration of the story of psyche it is the introduction of psyche after all her troubles into heaven",
+  "wer_converted": 0.13793103448275862,
+  "cer_converted": 0.05128205128205128,
+  "transcription_converted": " It is only a pencil outline by Edward Burton Jones, an illustration of the story of Psyche. It is the introduction of Psyche, after all her troubles sent to heaven.",
+  "index": 0,
+  "source_text": "IT IS ONLY A PENCIL OUTLINE BY EDWARD BURNE JONES IN ILLUSTRATION OF THE STORY OF PSYCHE IT IS THE INTRODUCTION OF PSYCHE AFTER ALL HER TROUBLES INTO HEAVEN"
+}

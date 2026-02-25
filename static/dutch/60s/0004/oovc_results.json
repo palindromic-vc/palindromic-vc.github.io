@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5472067594528198,
+  "ecapa_ref_gt_similarity": 0.8154633641242981,
+  "ecapa_src_converted_similarity": 0.36740806698799133,
+  "ecapa_src_gt_similarity": 0.8083599209785461,
+  "redimnet_ref_converted_similarity": 0.442138671875,
+  "redimnet_ref_gt_similarity": 0.82763671875,
+  "redimnet_src_converted_similarity": 0.275634765625,
+  "redimnet_src_gt_similarity": 0.8056640625,
+  "dns_mos_gt": 3.575434786932809,
+  "dns_mos_gen": 3.7513555458613803,
+  "wer_src": 0.041666666666666664,
+  "cer_src": 0.007434944237918215,
+  "transcription_src": " zoo kwamen ze een heel eind vooruit onder het praten over de verschillende landen die ze al zomende moesten doortrekken om negen uur werd het werk opgeborgen en zongen ze zooals altijd eer ze naar bed gingen niemand behalve bets kon nog muziek ontlokken aan de oude piano",
+  "wer_converted": 0.14583333333333334,
+  "cer_converted": 0.040892193308550186,
+  "transcription_converted": " zoo kwamen ze een heel eind vooruit onder dat praten over de verschillende landen die ze al zeimend moesten doortrekken om negen uur werd het werk opgeborgen en zonden ze zooals altijd eerst naar bed gingen niemand behalve bets kon nog muziek ontlokken aan de oude piano",
+  "index": 5,
+  "source_text": "zo kwamen ze een heel eind vooruit onder het praten over de verschillende landen die ze al zomende moesten doortrekken om negen uur werd het werk opgeborgen en zongen ze zoals altijd eer ze naar bed gingen niemand behalve bets kon nog muziek ontlokken aan de oude piano",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_60s_seed_42/5_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_60s_seed_42/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_60s_seed_42/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_60s_seed_42/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_60s_seed_42/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_60s_seed_42/5_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_60s_seed_42/5/converted.wav"
+  }
+}

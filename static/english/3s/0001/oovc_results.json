@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.47862789034843445,
+  "ecapa_ref_gt_similarity": 0.8413928747177124,
+  "ecapa_src_converted_similarity": 0.05091297999024391,
+  "ecapa_src_gt_similarity": 0.8049690127372742,
+  "redimnet_ref_converted_similarity": 0.471435546875,
+  "redimnet_ref_gt_similarity": 0.85888671875,
+  "redimnet_src_converted_similarity": 0.0374755859375,
+  "redimnet_src_gt_similarity": 0.82373046875,
+  "dns_mos_gt": 3.756505250930786,
+  "dns_mos_gen": 3.681917428970337,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " I stood with my back to the wall, for I wanted no sword reaching out of the dark for me.",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " I stood with my back to the wall, for I wanted no sword reaching out of the dark for me.",
+  "index": 7,
+  "source_text": "I STOOD WITH MY BACK TO THE WALL FOR I WANTED NO SWORD REACHING OUT OF THE DARK FOR ME",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_3s_seed_42/7_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_3s_seed_42/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_3s_seed_42/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_3s_seed_42/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_3s_seed_42/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_3s_seed_42/7_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_3s_seed_42/7/converted.wav"
+  }
+}

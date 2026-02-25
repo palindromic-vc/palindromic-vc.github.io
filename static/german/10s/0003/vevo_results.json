@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6909083127975464,
+  "ecapa_ref_gt_similarity": 0.7864753007888794,
+  "ecapa_src_converted_similarity": 0.17027221620082855,
+  "ecapa_src_gt_similarity": 0.6732907295227051,
+  "redimnet_ref_converted_similarity": 0.69970703125,
+  "redimnet_ref_gt_similarity": 0.81005859375,
+  "redimnet_src_converted_similarity": 0.2447509765625,
+  "redimnet_src_gt_similarity": 0.58642578125,
+  "dns_mos_gt": 3.7520294189453125,
+  "dns_mos_gen": 3.975964069366455,
+  "wer_src": 0.06060606060606061,
+  "cer_src": 0.04405286343612335,
+  "transcription_src": " und es scheint mir unm\u00f6glich da\u00df das gewitter nicht in k\u00fcrzester zeit mit voller wut ausbrechen sollte robert kurtis und der hochbootsmann sind der n\u00e4mlichen ansicht letzteren leitet nur sein unfehlbarer seem\u00e4nnischer instinkt sch\u6a39der",
+  "wer_converted": 0.06060606060606061,
+  "cer_converted": 0.022026431718061675,
+  "transcription_converted": " und es scheint mir unm\u00f6glich da\u00df das gewitter nicht in k\u00fcrzester zeit mit voller wut ausweichen sollte robert kurtis und der hochbootsmann sind der n\u00e4mlichen ansicht letzteren leitet nur sein unfehlbarer seem\u00e4nnischer instinkt",
+  "index": 2,
+  "source_text": "und es scheint mir unm\u00f6glich dass das gewitter nicht in k\u00fcrzester zeit mit voller wut ausbrechen sollte robert kurtis und der hochbootsmann sind der n\u00e4mlichen ansicht letzteren leitet nur sein unfehlbarer seem\u00e4nnischer instinkt"
+}

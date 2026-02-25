@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5781960487365723,
+  "ecapa_ref_gt_similarity": 0.7834139466285706,
+  "ecapa_src_converted_similarity": 0.44232097268104553,
+  "ecapa_src_gt_similarity": 0.8064612150192261,
+  "redimnet_ref_converted_similarity": 0.5625,
+  "redimnet_ref_gt_similarity": 0.82763671875,
+  "redimnet_src_converted_similarity": 0.419921875,
+  "redimnet_src_gt_similarity": 0.77392578125,
+  "dns_mos_gt": 4.1324543952941895,
+  "dns_mos_gen": 4.085995197296143,
+  "wer_src": 0.3888888888888889,
+  "cer_src": 0.34649122807017546,
+  "transcription_src": " nun wohl ich hei\u00dfe bancroft und bin oberingenieur der hiesing sektion es hat mir kein mensch etwas zu befehlen am allerwenigsten aber ihr mr white es ist richtig da\u00df wir uns vollst\u00e4ndig gleichstehen antwortete dieser ruhig es ist richtig da\u00df wir uns vollst\u00e4ndig gleichstehen antwortete dieser ruhig",
+  "wer_converted": 0.16666666666666666,
+  "cer_converted": 0.06578947368421052,
+  "transcription_converted": " nun wohl ich hei\u00dfe bancroft und bin oberingenieur der hiesing sektion es hat mir kein mensch etwas zu befehlen am allerwenigsten aber ihr mr white es ist richtig da\u00df wir uns vollst\u00e4ndig gleich stehen antwortete dieser wolk",
+  "index": 4,
+  "source_text": "nun wohl ich hei\u00dfe bancroft und bin oberingenieur der hiesigen sektion es hat mir kein mensch etwas zu befehlen am allerwenigsten aber ihr mister white es ist richtig dass wir uns vollst\u00e4ndig gleichstehen antwortete dieser ruhig"
+}

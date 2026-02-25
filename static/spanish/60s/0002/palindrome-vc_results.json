@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7216284871101379,
+  "ecapa_ref_gt_similarity": 0.7932581901550293,
+  "ecapa_src_converted_similarity": 0.11068859696388245,
+  "ecapa_src_gt_similarity": 0.773958683013916,
+  "redimnet_ref_converted_similarity": 0.65283203125,
+  "redimnet_ref_gt_similarity": 0.828125,
+  "redimnet_src_converted_similarity": 0.174072265625,
+  "redimnet_src_gt_similarity": 0.79638671875,
+  "dns_mos_gt": 3.920281171798706,
+  "dns_mos_gen": 4.080508708953857,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " el que castiga las gentes no reprender\u00e1 no sabr\u00e1 el que ense\u00f1a al hombre la ciencia jehov\u00e1 conoce los pensamientos de los hombres que son vanidad",
+  "wer_converted": 0.07692307692307693,
+  "cer_converted": 0.034482758620689655,
+  "transcription_converted": " \u00bfEl que castiga a las gentes no reprender\u00e1? \u00bfNo sabr\u00e1 el que ense\u00f1a al hombre la ciencia? Jehov\u00e1 conoce los pensamientos de los hombres, que son humanidad.",
+  "index": 0,
+  "source_text": "el que castiga las gentes no reprender\u00e1 no sabr\u00e1 el que ense\u00f1a al hombre la ciencia jehov\u00e1 conoce los pensamientos de los hombres que son vanidad"
+}

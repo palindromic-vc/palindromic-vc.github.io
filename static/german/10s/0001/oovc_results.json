@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.4926336407661438,
+  "ecapa_ref_gt_similarity": 0.7987009286880493,
+  "ecapa_src_converted_similarity": 0.10132989287376404,
+  "ecapa_src_gt_similarity": 0.8252609968185425,
+  "redimnet_ref_converted_similarity": 0.451416015625,
+  "redimnet_ref_gt_similarity": 0.85986328125,
+  "redimnet_src_converted_similarity": 0.143798828125,
+  "redimnet_src_gt_similarity": 0.84326171875,
+  "dns_mos_gt": 3.6344710418156216,
+  "dns_mos_gen": 4.004228591918945,
+  "wer_src": 0.07894736842105263,
+  "cer_src": 0.06198347107438017,
+  "transcription_src": " sich fortbewegten die fische und mollusken verfolgten indem sie die kleinen frassen von den gro\u00dfen gefressen wurden und in einem unbeschreiblichen gewimmel die zehn f\u00fc\u00dfe bewegten welche ihnen die natur und den kopf gesetzt hat der",
+  "wer_converted": 0.23684210526315788,
+  "cer_converted": 0.12396694214876033,
+  "transcription_converted": " sich fortberuhigten die fische und mollusken verfolgten indem sie die kleinen fassen von den gro\u00dfen gefressen wurden und in einem unbeschreiblichen ger\u00fcmmel wie zehn f\u00fc\u00dfe ber\u00fchrten welcher ihnen die natur um den kopf gesetzt hat der",
+  "index": 5,
+  "source_text": "sich fortbewegten die fische und mollusken verfolgten indem sie die kleinen fra\u00dfen von den gro\u00dfen gefressen wurden und in einem unbeschreiblichen gewimmel die zehn f\u00fc\u00dfe bewegten welche ihnen die natur und den kopf gesetzt hat der nautilus pur",
+  "input_seed_folder": "librispeech_test_set_10s_seed_37",
+  "output_seed_folder": "librispeech_test_set_10s_seed_37",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_10s_seed_37/5_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_10s_seed_37/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_10s_seed_37/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_10s_seed_37/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_10s_seed_37/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_10s_seed_37/5_ref_src2.wav",
+    "converted": "/workspace/outputs/german/librispeech_test_set_10s_seed_37/5/converted.wav"
+  }
+}

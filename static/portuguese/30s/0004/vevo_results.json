@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7637888193130493,
+  "ecapa_ref_gt_similarity": 0.8056805729866028,
+  "ecapa_src_converted_similarity": 0.2434626817703247,
+  "ecapa_src_gt_similarity": 0.8147234916687012,
+  "redimnet_ref_converted_similarity": 0.6826171875,
+  "redimnet_ref_gt_similarity": 0.84033203125,
+  "redimnet_src_converted_similarity": 0.09527587890625,
+  "redimnet_src_gt_similarity": 0.841796875,
+  "dns_mos_gt": 3.6617209911346436,
+  "dns_mos_gen": 4.17763090133667,
+  "wer_src": 0.10344827586206896,
+  "cer_src": 0.023121387283236993,
+  "transcription_src": " \u00c9 uma impiedade que ningu\u00e9m talvez acredita. A esmola, a onzena sobre a bem-avenduran\u00e7a, era o princ\u00edpio da depend\u00eancia e da desigualdade, a aniquila\u00e7\u00e3o do trabalho e da atividade.",
+  "wer_converted": 0.10344827586206896,
+  "cer_converted": 0.05202312138728324,
+  "transcription_converted": " piedade que ningu\u00e9m talvez acredita a esmola a onzena sobre a bem-abeduran\u00e7a era o principio da depend\u00eancia e da desigualdade a aniquila\u00e7\u00e3o do trabalho e da atividade",
+  "index": 2,
+  "source_text": "uma impiedade que ningu\u00e9m talvez acredita a esmola a onzena sobre a bem-aventuran\u00e7a era o principio da depend\u00eancia e da desigualdade a aniquila\u00e7\u00e3o do trabalho e da atividade"
+}

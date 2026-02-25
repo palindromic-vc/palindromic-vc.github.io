@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7462770342826843,
+  "ecapa_ref_gt_similarity": 0.8543009757995605,
+  "ecapa_src_converted_similarity": -0.019902516156435013,
+  "ecapa_src_gt_similarity": 0.7878714799880981,
+  "redimnet_ref_converted_similarity": 0.69140625,
+  "redimnet_ref_gt_similarity": 0.88525390625,
+  "redimnet_src_converted_similarity": 0.166259765625,
+  "redimnet_src_gt_similarity": 0.83984375,
+  "dns_mos_gt": 3.740920603275299,
+  "dns_mos_gen": 3.9155638813972473,
+  "wer_src": 0.6176470588235294,
+  "cer_src": 0.5497382198952879,
+  "transcription_src": " der husar hatte nun gewaltig viel zu tun ehe er die prinzessin reinhergestellt hatte und als es endlich geschehen war und sie so h\u00fcbsch und gl\u00e4nzend aussah wie man sich's nur w\u00fcnschen konnte und als es endlich geschehen war und sie so h\u00fcbsch und gl\u00e4nzend aussah wie man sich nur w\u00fcnschen konnte",
+  "wer_converted": 0.058823529411764705,
+  "cer_converted": 0.005235602094240838,
+  "transcription_converted": " der husar hatte nun gewaltig viel zu tun ehe er die prinzessin reinhergestellt hatte und als es endlich geschehen war und sie so h\u00fcbsch und gl\u00e4nzend aussah wie man sich's nur w\u00fcnschen konnte",
+  "index": 2,
+  "source_text": "der husar hatte nun gewaltig viel zu tun ehe er die prinzessin rein hergestellt hatte und als es endlich geschehen war und sie so h\u00fcbsch und gl\u00e4nzend aussah wie man sich's nur w\u00fcnschen konnte",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_3s_seed_42/2_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_3s_seed_42/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_3s_seed_42/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_3s_seed_42/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_3s_seed_42/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_3s_seed_42/2_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/german/librispeech_test_set_3s_seed_42/2/converted.wav"
+  }
+}

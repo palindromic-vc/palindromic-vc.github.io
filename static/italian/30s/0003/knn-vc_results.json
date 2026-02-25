@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6320511698722839,
+  "ecapa_ref_gt_similarity": 0.766109824180603,
+  "ecapa_src_converted_similarity": 0.1047799214720726,
+  "ecapa_src_gt_similarity": 0.8491636514663696,
+  "redimnet_ref_converted_similarity": 0.5810546875,
+  "redimnet_ref_gt_similarity": 0.79150390625,
+  "redimnet_src_converted_similarity": 0.244384765625,
+  "redimnet_src_gt_similarity": 0.87158203125,
+  "dns_mos_gt": 3.46135942141215,
+  "dns_mos_gen": 3.883604049682617,
+  "wer_src": 0.06896551724137931,
+  "cer_src": 0.08074534161490683,
+  "transcription_src": " ma cotesto cost\u00ec gli \u00e8 diverso da quello ch'io recitava quando ero bimbo disse il grifone non l'ho mai sentito prima osserv\u00f2 la falsa testuggine ma gli \u00e8 sciocco oltremisura",
+  "wer_converted": 0.27586206896551724,
+  "cer_converted": 0.14285714285714285,
+  "transcription_converted": " ma ch'ho testo costi gli \u00e8 diverso da quello che recitava quando ero bimbo disse il grifone non l'ho mai sentito prima osserv\u00f2 la falsa testuggine ma gli so a contremisura",
+  "index": 1,
+  "source_text": "ma cotesto cost\u00ec gli \u00e8 diverso da quello ch'io recitava quando era bimbo disse il grifone non l'ho mai sentito prima osserv\u00f2 la falsa testuggine ma gli \u00e8 sciocco",
+  "input_seed_folder": "librispeech_test_set_30s_seed_42",
+  "output_seed_folder": "librispeech_test_set_30s_seed_42",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_30s_seed_42/1_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_30s_seed_42/1_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_30s_seed_42/1_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_30s_seed_42/1_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_30s_seed_42/1_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_30s_seed_42/1_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/italian/librispeech_test_set_30s_seed_42/1/converted.wav"
+  }
+}

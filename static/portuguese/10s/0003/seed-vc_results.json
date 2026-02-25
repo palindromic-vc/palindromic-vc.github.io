@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6850305199623108,
+  "ecapa_ref_gt_similarity": 0.6875360012054443,
+  "ecapa_src_converted_similarity": 0.2786458730697632,
+  "ecapa_src_gt_similarity": 0.7107028961181641,
+  "redimnet_ref_converted_similarity": 0.78662109375,
+  "redimnet_ref_gt_similarity": 0.92626953125,
+  "redimnet_src_converted_similarity": 0.052490234375,
+  "redimnet_src_gt_similarity": 0.7060546875,
+  "dns_mos_gt": 3.9567380428314207,
+  "dns_mos_gen": 3.804496955871582,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " e vencido era nos arcanos de um novo amor que ele ao mesmo tempo incr\u00e9dulo e piedoso levado velozmente pelo min\u00fasculo iate na clara manh\u00e3 assolhada ia buscar o doce b\u00e1lsamo dos beijos sinceros",
+  "wer_converted": 0.029411764705882353,
+  "cer_converted": 0.010416666666666666,
+  "transcription_converted": " e vencido era nos arcanos de um novo amor que ele ao mesmo tempo incr\u00e9dulo e piedoso levado velozmente pelo min\u00fasculo iate na clara manh\u00e3 assoreada ia buscar o doce b\u00e1lsamo dos beijos sinceros",
+  "index": 0,
+  "source_text": "e vencido era nos arcanos de um novo amor que ele ao mesmo tempo incr\u00e9dulo e piedoso levado velozmente pelo min\u00fasculo iate na clara manh\u00e3 assolhada ia buscar o doce b\u00e1lsamo dos beijos sinceros",
+  "input_seed_folder": "librispeech_test_set_10s_seed_42",
+  "output_seed_folder": "librispeech_test_set_10s_seed_42",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_10s_seed_42/0_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_10s_seed_42/0_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_10s_seed_42/0_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_10s_seed_42/0_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_10s_seed_42/0_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_10s_seed_42/0_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/portuguese/librispeech_test_set_10s_seed_42/0/converted.wav"
+  }
+}

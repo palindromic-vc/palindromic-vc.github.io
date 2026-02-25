@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7302802801132202,
+  "ecapa_ref_gt_similarity": 0.8356702923774719,
+  "ecapa_src_converted_similarity": 0.19650934636592865,
+  "ecapa_src_gt_similarity": 0.8085826635360718,
+  "redimnet_ref_converted_similarity": 0.68701171875,
+  "redimnet_ref_gt_similarity": 0.8779296875,
+  "redimnet_src_converted_similarity": 0.12481689453125,
+  "redimnet_src_gt_similarity": 0.84912109375,
+  "dns_mos_gt": 3.8155156203678677,
+  "dns_mos_gen": 3.9130141394478932,
+  "wer_src": 0.0967741935483871,
+  "cer_src": 0.01507537688442211,
+  "transcription_src": " zreszt\u0105 gdybym go nawet znalaz\u0142 to mo\u017ce nie uwierzy\u0107 opowie\u015bci nieznajomego nie troszcz si\u0119 pan przerwa\u0142 mi puckins b\u0119dziemy razem odnajdziemy indusa a ten pozna mnie nawet bez szkie\u0142 powi\u0119kszaj\u0105cych",
+  "wer_converted": 0.3225806451612903,
+  "cer_converted": 0.06532663316582915,
+  "transcription_converted": " zreszt\u0105 gdybym go nawet zna nazw to mo\u017ce nie uwierzy\u0107 o powie\u015bci nieznajomego nietro\u015b\u0107 si\u0119 pan przerwa\u0142 mi buckins b\u0119dziemy razem odnajdziemy indusa a ten pozna mnie nawet bez szkie\u0142 powi\u0119kszaj\u0105cych",
+  "index": 8,
+  "source_text": "z reszt\u0105 gdybym go nawet znalaz\u0142 to mo\u017ce nie uwierzy\u0107 opowie\u015bci nieznajomego nie troszcz si\u0119 pan przerwa\u0142 mi puckins b\u0119dziemy razem odnajdziemy indusa a ten pozna mi\u0119 nawet bez szkie\u0142 powi\u0119kszaj\u0105cych",
+  "input_seed_folder": "librispeech_test_set_60s_seed_73",
+  "output_seed_folder": "librispeech_test_set_60s_seed_73",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_60s_seed_73/8_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_60s_seed_73/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_60s_seed_73/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_60s_seed_73/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_60s_seed_73/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_60s_seed_73/8_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/polish/librispeech_test_set_60s_seed_73/8/converted.wav"
+  }
+}

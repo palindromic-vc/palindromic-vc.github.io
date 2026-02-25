@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7726060152053833,
+  "ecapa_ref_gt_similarity": 1.0,
+  "ecapa_src_converted_similarity": 0.16495975852012634,
+  "ecapa_src_gt_similarity": 0.8867989182472229,
+  "redimnet_ref_converted_similarity": 0.7958984375,
+  "redimnet_ref_gt_similarity": 1.0,
+  "redimnet_src_converted_similarity": 0.2037353515625,
+  "redimnet_src_gt_similarity": 0.93212890625,
+  "dns_mos_gt": 4.251251697540283,
+  "dns_mos_gen": 4.1811323165893555,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " hasta que por fin un d\u00eda o una tarde la familia sentada a la mesa a la hora del t\u00e9 vio entrar a pedrito muy tranquilo balance\u00e1ndose como si nada hubiera pasado todos se quer\u00edan morir",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " hasta que por fin un d\u00eda o una tarde la familia sentada a la mesa a la hora del t\u00e9 vio entrar a pedrito muy tranquilo balance\u00e1ndose como si nada hubiera pasado todos se quer\u00edan morir",
+  "index": 8,
+  "source_text": "hasta que por fin un d\u00eda o una tarde la familia sentada a la mesa a la hora del t\u00e9 vio entrar a pedrito muy tranquilo balance\u00e1ndose como si nada hubiera pasado todos se quer\u00edan morir"
+}

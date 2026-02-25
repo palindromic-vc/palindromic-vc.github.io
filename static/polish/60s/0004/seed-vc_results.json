@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7484850287437439,
+  "ecapa_ref_gt_similarity": 0.8106078505516052,
+  "ecapa_src_converted_similarity": 0.06123250350356102,
+  "ecapa_src_gt_similarity": 0.7881999015808105,
+  "redimnet_ref_converted_similarity": 0.68896484375,
+  "redimnet_ref_gt_similarity": 0.857421875,
+  "redimnet_src_converted_similarity": 0.07904052734375,
+  "redimnet_src_gt_similarity": 0.85302734375,
+  "dns_mos_gt": 3.6432725191116333,
+  "dns_mos_gen": 4.1626964410146075,
+  "wer_src": 0.03125,
+  "cer_src": 0.010869565217391304,
+  "transcription_src": " ma\u0142o \u017ce\u015b pan nara\u017ca\u0142 swe \u017cycie dla mnie odezwa\u0142 si\u0119 anglik marszcz\u0105c brwi gro\u017anie czy s\u0105dzisz \u017ce jeszcze i teraz by\u0142bym zdolnym korzysta\u0107 z twojej szlachetno\u015bci nie nie i jeszcze raz nie",
+  "wer_converted": 0.03125,
+  "cer_converted": 0.010869565217391304,
+  "transcription_converted": " ma\u0142o \u017ce\u015b pan nara\u017ca\u0142 swe \u017cycie dla mnie odezwa\u0142 si\u0119 anglik marszcz\u0105c brwi gro\u017anie czy s\u0105dzisz \u017ce jeszcze i teraz by\u0142bym zdolnym korzysta\u0107 z twojej szlachetno\u015bci nie nie i jeszcze raz nie",
+  "index": 8,
+  "source_text": "ma\u0142o \u017ce\u015b pan nara\u017ca\u0142 swe \u017cycie dla mnie odezwa\u0142 si\u0119 anglik marszcz\u0105c brwi gro\u017anie czy s\u0105dzisz \u017ce jeszcze i teraz by\u0142bym zdolnym korzysta\u0107 z twej szlachetno\u015bci nie nie i jeszcze raz nie",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_60s_seed_42/8_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_60s_seed_42/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_60s_seed_42/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_60s_seed_42/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_60s_seed_42/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_60s_seed_42/8_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/polish/librispeech_test_set_60s_seed_42/8/converted.wav"
+  }
+}

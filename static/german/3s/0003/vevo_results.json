@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7350131273269653,
+  "ecapa_ref_gt_similarity": 0.8083237409591675,
+  "ecapa_src_converted_similarity": 0.12641307711601257,
+  "ecapa_src_gt_similarity": 0.5432702302932739,
+  "redimnet_ref_converted_similarity": 0.67529296875,
+  "redimnet_ref_gt_similarity": 0.83837890625,
+  "redimnet_src_converted_similarity": 0.1549072265625,
+  "redimnet_src_gt_similarity": 0.61279296875,
+  "dns_mos_gt": 3.7471396923065186,
+  "dns_mos_gen": 4.187169075012207,
+  "wer_src": 0.10526315789473684,
+  "cer_src": 0.018691588785046728,
+  "transcription_src": " gegen f\u00fcnf uhr fiel ein regen gleich einem reisenden bergstrom aber es stillte weder den wind noch das meer",
+  "wer_converted": 0.10526315789473684,
+  "cer_converted": 0.018691588785046728,
+  "transcription_converted": " gegen f\u00fcnf uhr fiel ein regen gleich einem reisenden bergstrom aber es stillte weder den wind noch das meer",
+  "index": 8,
+  "source_text": "gegen f\u00fcnf uhr fiel ein regen gleich einem rei\u00dfenden bergstrom aber er stillte weder den wind noch das meer"
+}

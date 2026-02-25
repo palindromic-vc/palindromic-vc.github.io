@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6385145783424377,
+  "ecapa_ref_gt_similarity": 0.7799628973007202,
+  "ecapa_src_converted_similarity": 0.18164309859275818,
+  "ecapa_src_gt_similarity": 0.7992449998855591,
+  "redimnet_ref_converted_similarity": 0.55322265625,
+  "redimnet_ref_gt_similarity": 0.75537109375,
+  "redimnet_src_converted_similarity": 0.1405029296875,
+  "redimnet_src_gt_similarity": 0.79833984375,
+  "dns_mos_gt": 3.8787150382995605,
+  "dns_mos_gen": 3.9221811294555664,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " owego dnia by\u0142 ci\u0119\u017cki dzie\u0144 zimowy i od rana ju\u017c sypa\u0142 si\u0119 mi\u0119kki puch zmierzchu matka mia\u0142a migren\u0119 i le\u017ca\u0142a na sofie samotnie w salonie",
+  "wer_converted": 0.12,
+  "cer_converted": 0.058394160583941604,
+  "transcription_converted": " owego dnia by\u0142 ci\u0119\u017cki dzie\u0144 zimowy i od rana ju\u017c sypa\u0142 si\u0119 mi\u0144 typu zmierzchu matka mia\u0142a migreny i le\u017ca\u0142a na sofie samotnie w salonie",
+  "index": 9,
+  "source_text": "owego dnia by\u0142 ci\u0119\u017cki dzie\u0144 zimowy i od rana ju\u017c sypa\u0142 si\u0119 mi\u0119kki puch zmierzchu matka mia\u0142a migren\u0119 i le\u017ca\u0142a na sofie samotnie w salonie",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_30s_seed_73/9_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_30s_seed_73/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_30s_seed_73/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_30s_seed_73/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_30s_seed_73/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_30s_seed_73/9_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/polish/librispeech_test_set_30s_seed_73/9/converted.wav"
+  }
+}

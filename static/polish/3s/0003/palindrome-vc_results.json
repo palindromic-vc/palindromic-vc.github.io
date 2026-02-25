@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5350786447525024,
+  "ecapa_ref_gt_similarity": 0.7258042097091675,
+  "ecapa_src_converted_similarity": 0.12602971494197845,
+  "ecapa_src_gt_similarity": 0.8429697155952454,
+  "redimnet_ref_converted_similarity": 0.44970703125,
+  "redimnet_ref_gt_similarity": 0.58544921875,
+  "redimnet_src_converted_similarity": 0.1165771484375,
+  "redimnet_src_gt_similarity": 0.8974609375,
+  "dns_mos_gt": 4.007814884185791,
+  "dns_mos_gen": 3.816068172454834,
+  "wer_src": 0.034482758620689655,
+  "cer_src": 0.03932584269662921,
+  "transcription_src": " gdyby j\u0105 by\u0142 paj\u0105k w por\u0119 nie naci\u0105gn\u0105\u0142 i nie przytwierdzi\u0142 do li\u015bcia mchu zrozumia\u0142em \u017ce mam przed sob\u0105 krzy\u017caka gnie\u017cd\u017c\u0105cego si\u0119 nad wodami kt\u00f3ry rozpoczyna budow\u0119 swojej sieci KONIEC",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " gdyby j\u0105 by\u0142 paj\u0105k w por\u0119 nie naci\u0105gn\u0105\u0142 i nie przytwierdzi\u0142 do li\u015bcia mchu. Zrozumia\u0142em, \u017ce mam przed sob\u0105 krzy\u017caka gnie\u017cd\u017c\u0105cego si\u0119 nad wodami, kt\u00f3ry rozpoczyna budow\u0119 swojej sieci.",
+  "index": 2,
+  "source_text": "gdyby j\u0105 by\u0142 paj\u0105k w por\u0119 nie naci\u0105gn\u0105\u0142 i nie przytwierdzi\u0142 do li\u015bcia mchu zrozumia\u0142em \u017ce mam przed sob\u0105 krzy\u017caka gnie\u017cd\u017c\u0105cego si\u0119 nad wodami kt\u00f3ry rozpoczyna budow\u0119 swojej sieci"
+}

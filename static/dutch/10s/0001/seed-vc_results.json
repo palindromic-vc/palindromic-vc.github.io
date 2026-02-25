@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7158817052841187,
+  "ecapa_ref_gt_similarity": 0.8560143709182739,
+  "ecapa_src_converted_similarity": 0.09489604830741882,
+  "ecapa_src_gt_similarity": 0.8819942474365234,
+  "redimnet_ref_converted_similarity": 0.7021484375,
+  "redimnet_ref_gt_similarity": 0.82421875,
+  "redimnet_src_converted_similarity": 0.15087890625,
+  "redimnet_src_gt_similarity": 0.88232421875,
+  "dns_mos_gt": 3.7250818252563476,
+  "dns_mos_gen": 4.029193925857544,
+  "wer_src": 0.020833333333333332,
+  "cer_src": 0.004132231404958678,
+  "transcription_src": " doe het zoo goed je kunt als de tijd daar is maar als de toeschouwers fluiten moet je t mij niet wijten kom meta ga door alles ging verder goed want don pedro tarte de wereld zonder een woord te haperen in een speech van twee bladzijden lang",
+  "wer_converted": 0.125,
+  "cer_converted": 0.0371900826446281,
+  "transcription_converted": " Doe het zo goed je kunt als de tijda is, maar als de toeschouwers fluiten moet je het mij niet wijten. Kom, meta, ga door. Alles ging verder goed, want Ton Pedro tarte de wereld zonder een woord te haperen in een speech van twee bladzijden lang.",
+  "index": 6,
+  "source_text": "doe het zoo goed je kunt als de tijd daar is maar als de toeschouwers fluiten moet je t mij niet wijten kom meta ga door alles ging verder goed want don pedro tartte de wereld zonder een woord te haperen in een speech van twee bladzijden lang",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_10s_seed_73/6_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_10s_seed_73/6_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_10s_seed_73/6_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_10s_seed_73/6_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_10s_seed_73/6_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_10s_seed_73/6_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/dutch/librispeech_test_set_10s_seed_73/6/converted.wav"
+  }
+}

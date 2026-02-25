@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6989443302154541,
+  "ecapa_ref_gt_similarity": 0.8205851316452026,
+  "ecapa_src_converted_similarity": 0.07528027892112732,
+  "ecapa_src_gt_similarity": 0.6878782510757446,
+  "redimnet_ref_converted_similarity": 0.70361328125,
+  "redimnet_ref_gt_similarity": 0.91357421875,
+  "redimnet_src_converted_similarity": 0.1329345703125,
+  "redimnet_src_gt_similarity": 0.77880859375,
+  "dns_mos_gt": 4.018834590911865,
+  "dns_mos_gen": 4.126953125,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " shall i never miss home-talk and blessing and the common kiss that comes to each in turn nor count it strange when i look up to drop on a new range of walls and floors another home than this",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " shall i never miss home-talk and blessing and the common kiss that comes to each in turn nor count it strange when i look up to drop on a new range of walls and floors another home than this",
+  "index": 9,
+  "source_text": "SHALL I NEVER MISS HOME TALK AND BLESSING AND THE COMMON KISS THAT COMES TO EACH IN TURN NOR COUNT IT STRANGE WHEN I LOOK UP TO DROP ON A NEW RANGE OF WALLS AND FLOORS ANOTHER HOME THAN THIS"
+}

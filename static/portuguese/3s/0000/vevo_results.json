@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.45323026180267334,
+  "ecapa_ref_gt_similarity": 0.7936791181564331,
+  "ecapa_src_converted_similarity": 0.16120070219039917,
+  "ecapa_src_gt_similarity": 0.8236499428749084,
+  "redimnet_ref_converted_similarity": 0.5810546875,
+  "redimnet_ref_gt_similarity": 0.85791015625,
+  "redimnet_src_converted_similarity": 0.2021484375,
+  "redimnet_src_gt_similarity": 0.90234375,
+  "dns_mos_gt": 3.785482168197632,
+  "dns_mos_gen": 3.8017358779907227,
+  "wer_src": 0.0625,
+  "cer_src": 0.027874564459930314,
+  "transcription_src": " rompeu brusco sonoro o canto de guerra dos velhos t\u00e1rtaros o chicote cruel e r\u00e1pido marcava o compasso desse ritmo estranho o cont\u00e1gio do furor apoderou se dos outros que imobilizados assistiam ao sacrif\u00edcio e embriagados pouco a pouco pelas frases da m\u00fasica pela sugest\u00e3o do rito",
+  "wer_converted": 0.08333333333333333,
+  "cer_converted": 0.03484320557491289,
+  "transcription_converted": " rompeu brusco sonoro o canto de guerra dos velhos t\u00e1rtaros o chicote cruel e r\u00e1pido marcava o compasso desse ritmo estranho cont\u00e1gio do furor apoderou se dos outros que imobilizados assistiam ao sacrif\u00edcio e embriagados pouco a pouco pelas frases da m\u00fasica pela sugest\u00e3o do rito",
+  "index": 4,
+  "source_text": "irrompeu brusco sonoro o canto de guerra dos velhos t\u00e1rtaros o chicote cruel e r\u00e1pido marcava o compasso desse ritmo estranho o contagio do furor apoderou-se dos outros que imobilizados assistiam ao sacrif\u00edcio e embriagados pouco a pouco pelas frases da m\u00fasica pela sugest\u00e3o do rito pelo"
+}

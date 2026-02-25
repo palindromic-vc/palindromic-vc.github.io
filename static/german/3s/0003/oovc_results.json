@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.47440236806869507,
+  "ecapa_ref_gt_similarity": 0.8083144426345825,
+  "ecapa_src_converted_similarity": 0.08151468634605408,
+  "ecapa_src_gt_similarity": 0.5433156490325928,
+  "redimnet_ref_converted_similarity": 0.34326171875,
+  "redimnet_ref_gt_similarity": 0.83837890625,
+  "redimnet_src_converted_similarity": 0.039459228515625,
+  "redimnet_src_gt_similarity": 0.61328125,
+  "dns_mos_gt": 3.8283209800720215,
+  "dns_mos_gen": 4.041205883026123,
+  "wer_src": 0.10526315789473684,
+  "cer_src": 0.018691588785046728,
+  "transcription_src": " gegen f\u00fcnf uhr fiel ein regen gleich einem reisenden bergstrom aber es stillte weder den wind noch das meer",
+  "wer_converted": 0.3157894736842105,
+  "cer_converted": 0.056074766355140186,
+  "transcription_converted": " Gegen f\u00fcnf Uhr fiel ein Segen gleich einem reisenden Bergstrom, aber es stellte wieder den Wind nach das Meer.",
+  "index": 8,
+  "source_text": "gegen f\u00fcnf uhr fiel ein regen gleich einem rei\u00dfenden bergstrom aber er stillte weder den wind noch das meer",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_3s_seed_42/8_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_3s_seed_42/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_3s_seed_42/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_3s_seed_42/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_3s_seed_42/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_3s_seed_42/8_ref_src2.wav",
+    "converted": "/workspace/outputs/german/librispeech_test_set_3s_seed_42/8/converted.wav"
+  }
+}

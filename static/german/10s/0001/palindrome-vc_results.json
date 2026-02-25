@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7574326992034912,
+  "ecapa_ref_gt_similarity": 0.7986768484115601,
+  "ecapa_src_converted_similarity": 0.087459996342659,
+  "ecapa_src_gt_similarity": 0.825190544128418,
+  "redimnet_ref_converted_similarity": 0.7216796875,
+  "redimnet_ref_gt_similarity": 0.85986328125,
+  "redimnet_src_converted_similarity": 0.054931640625,
+  "redimnet_src_gt_similarity": 0.84228515625,
+  "dns_mos_gt": 3.635464906692505,
+  "dns_mos_gen": 3.9085264205932617,
+  "wer_src": 0.07894736842105263,
+  "cer_src": 0.06198347107438017,
+  "transcription_src": " sich fortbewegten die fische und mollusken verfolgten indem sie die kleinen frassen von den gro\u00dfen gefressen wurden und in einem unbeschreiblichen gewimmel die zehn f\u00fc\u00dfe bewegten welche ihnen die natur und den kopf gesetzt hat der",
+  "wer_converted": 0.07894736842105263,
+  "cer_converted": 0.024793388429752067,
+  "transcription_converted": " sich fortbewegten die fische und mollusken verfolgten indem sie die kleinen frassen von den gro\u00dfen gefressen wurden und in einem unbeschreiblichen gewimmel die zehn f\u00fc\u00dfe bewegten welche ihnen die natur um den kopf gesetzt hat der nautilus fuhr",
+  "index": 5,
+  "source_text": "sich fortbewegten die fische und mollusken verfolgten indem sie die kleinen fra\u00dfen von den gro\u00dfen gefressen wurden und in einem unbeschreiblichen gewimmel die zehn f\u00fc\u00dfe bewegten welche ihnen die natur und den kopf gesetzt hat der nautilus pur"
+}

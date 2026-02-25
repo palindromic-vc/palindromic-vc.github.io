@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.8007030487060547,
+  "ecapa_ref_gt_similarity": 0.8499354720115662,
+  "ecapa_src_converted_similarity": 0.13712739944458008,
+  "ecapa_src_gt_similarity": 0.8687468767166138,
+  "redimnet_ref_converted_similarity": 0.8125,
+  "redimnet_ref_gt_similarity": 0.90185546875,
+  "redimnet_src_converted_similarity": 0.1746826171875,
+  "redimnet_src_gt_similarity": 0.8544921875,
+  "dns_mos_gt": 3.811486210141863,
+  "dns_mos_gen": 4.069354057312012,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " y que con el hierro blando pod\u00eda hacer martillos para romper la roca y lanzas para pelear y picos y cuchillas para trabajar la tierra entonces es cuando ya se ven casas de piedra y de madera con patios y cuartos imitando siempre los casucos de rocas puestas unas sobre otras sin mezcla ninguna",
+  "wer_converted": 0.037037037037037035,
+  "cer_converted": 0.006825938566552901,
+  "transcription_converted": " y que con el hierro blando pod\u00edas hacer martillos para romper la roca y lanzas para pelear y picos y cuchillas para trabajar la tierra entonces es cuando ya se ven casas de piedra y de madera con patios y cuartos imitando siempre los casucos de rocas cuestas unas sobre otras sin mezcla ninguna",
+  "index": 8,
+  "source_text": "y que con el hierro blando pod\u00eda hacer martillos para romper la roca y lanzas para pelear y picos y cuchillas para trabajar la tierra entonces es cuando ya se ven casas de piedra y de madera con patios y cuartos imitando siempre los casucos de rocas puestas unas sobre otras sin mezcla ninguna",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/8_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/8_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/spanish/librispeech_test_set_30s_seed_73/8/converted.wav"
+  }
+}

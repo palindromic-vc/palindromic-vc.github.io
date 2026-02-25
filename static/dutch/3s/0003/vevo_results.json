@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6093299388885498,
+  "ecapa_ref_gt_similarity": 0.87840735912323,
+  "ecapa_src_converted_similarity": 0.42929959297180176,
+  "ecapa_src_gt_similarity": 0.7255980968475342,
+  "redimnet_ref_converted_similarity": 0.67236328125,
+  "redimnet_ref_gt_similarity": 0.8896484375,
+  "redimnet_src_converted_similarity": 0.338134765625,
+  "redimnet_src_gt_similarity": 0.8056640625,
+  "dns_mos_gt": 3.626487970352173,
+  "dns_mos_gen": 3.9470460414886475,
+  "wer_src": 0.06521739130434782,
+  "cer_src": 0.047619047619047616,
+  "transcription_src": " de prachtigste visschen met schubben als zilver en goud zwommen de boot achterna nu en dan deden ze een sprong zoodat het in het water plaschte en vogels rood en blauw klein en groot vlogen in twee lange rijen achteraan de muggen dansten en de meikevers gonsden",
+  "wer_converted": 0.08695652173913043,
+  "cer_converted": 0.05952380952380952,
+  "transcription_converted": " de prachtigste visschen met schubben als zilver en goud zommen de boot achterna nu en dan deden ze een sprong zoodat het in het water plaschte en vogels rood en blauw klein en groot vlogen in twee lange rijen achteraan de muggen dansten en de meikevers groensden",
+  "index": 6,
+  "source_text": "de prachtigste visschen met schubben als zilver en goud zwommen de boot achterna nu en dan deden zij een sprong zoodat het in het water plaste en vogels rood en blauw klein en groot vlogen in twee lange rijen achteraan de muggen dansten en de meikevers"
+}

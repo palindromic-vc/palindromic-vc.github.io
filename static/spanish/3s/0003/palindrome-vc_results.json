@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7463569641113281,
+  "ecapa_ref_gt_similarity": 0.8732480406761169,
+  "ecapa_src_converted_similarity": 0.17308691143989563,
+  "ecapa_src_gt_similarity": 0.8935742378234863,
+  "redimnet_ref_converted_similarity": 0.564453125,
+  "redimnet_ref_gt_similarity": 0.8876953125,
+  "redimnet_src_converted_similarity": 0.04254150390625,
+  "redimnet_src_gt_similarity": 0.91748046875,
+  "dns_mos_gt": 3.755018472671509,
+  "dns_mos_gen": 3.9492340087890625,
+  "wer_src": 0.03636363636363636,
+  "cer_src": 0.028125,
+  "transcription_src": " pesta\u00f1a gran rato y otras veces cerrarlos apretando los labios y enarcando las cejas f\u00e1cilmente conocimos que alg\u00fan accidente de locura le hab\u00eda sobrevenido mas \u00e9l nos dio a entender presto de ser verdad lo que pens\u00e1bamos porque se levant\u00f3 con gran furia del suelo donde se hab\u00eda echado y arremeti\u00f3 con el primero que",
+  "wer_converted": 0.07272727272727272,
+  "cer_converted": 0.040625,
+  "transcription_converted": " est\u00e1n a gran rato y otras veces cerrarlos apretando los labios y enarcando las cejas f\u00e1cilmente conocimos que alg\u00fan accidente de locura le hab\u00eda sobrevenido mas \u00e9l nos dio a entender presto de ser verdad lo que pens\u00e1bamos porque se levant\u00f3 con gran furia del suelo donde se hab\u00eda echado y arremeti\u00f3 con el primero que",
+  "index": 4,
+  "source_text": "pesta\u00f1a gran rato y otras veces cerrarlos apretando los labios y enarcando las cejas f\u00e1cilmente conocimos que alg\u00fan accidente de locura le hab\u00eda sobrevenido mas \u00e9l nos dio a entender presto ser verdad lo que pens\u00e1bamos porque se levant\u00f3 con gran furia del suelo donde se hab\u00eda echado y arremeti\u00f3 con el primero que hall\u00f3"
+}

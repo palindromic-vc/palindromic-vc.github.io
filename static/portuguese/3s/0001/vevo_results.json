@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.45916444063186646,
+  "ecapa_ref_gt_similarity": 0.8615305423736572,
+  "ecapa_src_converted_similarity": 0.18257997930049896,
+  "ecapa_src_gt_similarity": 0.8621504306793213,
+  "redimnet_ref_converted_similarity": 0.421142578125,
+  "redimnet_ref_gt_similarity": 0.88671875,
+  "redimnet_src_converted_similarity": 0.04937744140625,
+  "redimnet_src_gt_similarity": 0.86376953125,
+  "dns_mos_gt": 3.998098611831665,
+  "dns_mos_gen": 4.082194805145264,
+  "wer_src": 0.09090909090909091,
+  "cer_src": 0.015957446808510637,
+  "transcription_src": " benjamin disraeli tornou-se bem depressa um dos her\u00f3is d'este sal\u00e3o onde desde logo se mostrara com esse ar de tranquilla superioridade de correcto desd\u00e9m que foi um dos segredos da sua for\u00e7a",
+  "wer_converted": 0.030303030303030304,
+  "cer_converted": 0.005319148936170213,
+  "transcription_converted": " Benjamin Disraeli tornou-se bem depressa um dos her\u00f3is deste sal\u00e3o, onde desde logo se mostraram com esse ar de tranquila superioridade, de correto desd\u00e9m, que foi um dos segredos da sua for\u00e7a.",
+  "index": 4,
+  "source_text": "benjamin disraeli tornou-se bem depressa um dos her\u00f3is deste sal\u00e3o onde desde logo se mostrara com esse ar de tranquila superioridade de correto desd\u00e9m que foi um dos segredos da sua for\u00e7a"
+}

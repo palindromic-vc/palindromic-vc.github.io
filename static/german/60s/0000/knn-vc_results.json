@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7321968078613281,
+  "ecapa_ref_gt_similarity": 0.7662529945373535,
+  "ecapa_src_converted_similarity": 0.13819314539432526,
+  "ecapa_src_gt_similarity": 0.32138121128082275,
+  "redimnet_ref_converted_similarity": 0.6142578125,
+  "redimnet_ref_gt_similarity": 0.857421875,
+  "redimnet_src_converted_similarity": 0.1474609375,
+  "redimnet_src_gt_similarity": 0.462158203125,
+  "dns_mos_gt": 3.6805837154388428,
+  "dns_mos_gen": 3.8677468299865723,
+  "wer_src": 0.13043478260869565,
+  "cer_src": 0.031496062992125984,
+  "transcription_src": " wer von uns an bord des nautilus die andern \u00fcberlebt soll daselbe ins meer werfen da\u00df es die wellen tragen wohin sie treiben",
+  "wer_converted": 0.08695652173913043,
+  "cer_converted": 0.023622047244094488,
+  "transcription_converted": " wer von uns an bord des nautilus die andern \u00fcberlebt soll dasselbe ins meer werfen da\u00df es die wellen tragen wohin sie treiben",
+  "index": 9,
+  "source_text": "wer von uns an bord des nautilus die anderen \u00fcberlebt soll dasselbe ins meer werfen dass es die wellen tragen wohin sie treiben",
+  "input_seed_folder": "librispeech_test_set_60s_seed_37",
+  "output_seed_folder": "librispeech_test_set_60s_seed_37",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_60s_seed_37/9_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_60s_seed_37/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_60s_seed_37/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_60s_seed_37/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_60s_seed_37/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_60s_seed_37/9_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/german/librispeech_test_set_60s_seed_37/9/converted.wav"
+  }
+}

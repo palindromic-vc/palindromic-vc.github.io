@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.3288651704788208,
+  "ecapa_ref_gt_similarity": 0.8744906187057495,
+  "ecapa_src_converted_similarity": -0.019437192007899284,
+  "ecapa_src_gt_similarity": 0.7463115453720093,
+  "redimnet_ref_converted_similarity": 0.353271484375,
+  "redimnet_ref_gt_similarity": 0.92529296875,
+  "redimnet_src_converted_similarity": 0.03106689453125,
+  "redimnet_src_gt_similarity": 0.81005859375,
+  "dns_mos_gt": 3.81935715675354,
+  "dns_mos_gen": 4.03681206703186,
+  "wer_src": 0.05263157894736842,
+  "cer_src": 0.018691588785046728,
+  "transcription_src": " als nun alles so herrlich vonstatten ging fiel einem der buben ein nun m\u00fc\u00dfte einmal der ganze zug anh\u00e4ngen",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " Als nun alles so herrlich vonstatten ging, fiel einem der Buben ein, nun m\u00fcsste einmal der ganze Zug anh\u00e4ngen.",
+  "index": 4,
+  "source_text": "als nun alles so herrlich vonstatten ging fiel einem der buben ein nun m\u00fcsste einmal der ganze zug anh\u00e4ngen",
+  "input_seed_folder": "librispeech_test_set_30s_seed_42",
+  "output_seed_folder": "librispeech_test_set_30s_seed_42",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_30s_seed_42/4_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_30s_seed_42/4_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_30s_seed_42/4_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_30s_seed_42/4_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_30s_seed_42/4_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_30s_seed_42/4_ref_src2.wav",
+    "converted": "/workspace/outputs/german/librispeech_test_set_30s_seed_42/4/converted.wav"
+  }
+}

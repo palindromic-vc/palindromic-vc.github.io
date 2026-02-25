@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.3215373754501343,
+  "ecapa_ref_gt_similarity": 0.20394113659858704,
+  "ecapa_src_converted_similarity": 0.1938866674900055,
+  "ecapa_src_gt_similarity": 0.8681370615959167,
+  "redimnet_ref_converted_similarity": 0.241943359375,
+  "redimnet_ref_gt_similarity": 0.1707763671875,
+  "redimnet_src_converted_similarity": 0.251953125,
+  "redimnet_src_gt_similarity": 0.8544921875,
+  "dns_mos_gt": 3.4899120330810547,
+  "dns_mos_gen": 3.808622360229492,
+  "wer_src": 0.07142857142857142,
+  "cer_src": 0.013888888888888888,
+  "transcription_src": " ma certo poco pria se ben discerno che venisse colui che la gran preda lev\u00f2 a dite del cerchio superno da tutte parti l'alta valle feda tremoss\u00ec",
+  "wer_converted": 0.07142857142857142,
+  "cer_converted": 0.013888888888888888,
+  "transcription_converted": " ma certo poco pria se ben discerno che venisse colui che la gran preda lev\u00f2 a dite del cerchio superno da tutte parti l'alta valle feda tremoss\u00ec",
+  "index": 0,
+  "source_text": "ma certo poco pria se ben discerno che venisse colui che la gran preda lev\u00f2 a dite del cerchio superno da tutte parti l'alta valle feda trem\u00f2 s\u00ec"
+}

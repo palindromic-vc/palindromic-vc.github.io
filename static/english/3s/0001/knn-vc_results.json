@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.2403487116098404,
+  "ecapa_ref_gt_similarity": 0.8413138389587402,
+  "ecapa_src_converted_similarity": 0.14310629665851593,
+  "ecapa_src_gt_similarity": 0.8049634695053101,
+  "redimnet_ref_converted_similarity": 0.40869140625,
+  "redimnet_ref_gt_similarity": 0.8583984375,
+  "redimnet_src_converted_similarity": 0.0042266845703125,
+  "redimnet_src_gt_similarity": 0.82373046875,
+  "dns_mos_gt": 3.7565054893493652,
+  "dns_mos_gen": 3.1150717735290527,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " I stood with my back to the wall, for I wanted no sword reaching out of the dark for me.",
+  "wer_converted": 0.35,
+  "cer_converted": 0.26744186046511625,
+  "transcription_converted": " I stood with my back to the wall, and fly what it knows what wiki out of the dark for me.",
+  "index": 7,
+  "source_text": "I STOOD WITH MY BACK TO THE WALL FOR I WANTED NO SWORD REACHING OUT OF THE DARK FOR ME"
+}

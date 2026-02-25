@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5550422668457031,
+  "ecapa_ref_gt_similarity": 0.8675123453140259,
+  "ecapa_src_converted_similarity": 0.09118808805942535,
+  "ecapa_src_gt_similarity": 0.8787969350814819,
+  "redimnet_ref_converted_similarity": 0.66015625,
+  "redimnet_ref_gt_similarity": 0.9091796875,
+  "redimnet_src_converted_similarity": 0.06787109375,
+  "redimnet_src_gt_similarity": 0.91015625,
+  "dns_mos_gt": 4.302376474652972,
+  "dns_mos_gen": 3.715275628226144,
+  "wer_src": 0.06976744186046512,
+  "cer_src": 0.018018018018018018,
+  "transcription_src": " estoy pronta a oiros esta se\u00f1orita que veis me ha comunicado a m\u00ed y algunos amigos en la discreci\u00f3n de los cuales se puede descansar con toda confianza lo que le dijisteis hace quince d\u00edas para probaros que me f\u00edo de vos",
+  "wer_converted": 0.06976744186046512,
+  "cer_converted": 0.018018018018018018,
+  "transcription_converted": " estoy pronta a oiros esta se\u00f1orita que veis me ha comunicado a m\u00ed y algunos amigos en la discreci\u00f3n de los cuales se puede descansar con toda confianza lo que le dijisteis hace quince d\u00edas para probaros que me f\u00edo de vos",
+  "index": 5,
+  "source_text": "estoy pronta a o\u00edros esta se\u00f1orita que veis me ha comunicado a m\u00ed y a algunos amigos en la discreci\u00f3n de los cuales se puede descansar con toda confianza lo que le dijisteis hace quince d\u00edas para probaros que me fio de vos",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/5_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/5_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/spanish/librispeech_test_set_3s_seed_42/5/converted.wav"
+  }
+}

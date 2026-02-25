@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6509892344474792,
+  "ecapa_ref_gt_similarity": 0.8429643511772156,
+  "ecapa_src_converted_similarity": 0.23312479257583618,
+  "ecapa_src_gt_similarity": 0.9302157163619995,
+  "redimnet_ref_converted_similarity": 0.64306640625,
+  "redimnet_ref_gt_similarity": 0.8837890625,
+  "redimnet_src_converted_similarity": 0.2188720703125,
+  "redimnet_src_gt_similarity": 0.94091796875,
+  "dns_mos_gt": 3.7767529010772707,
+  "dns_mos_gen": 3.914376068115234,
+  "wer_src": 0.11764705882352941,
+  "cer_src": 0.05319148936170213,
+  "transcription_src": " cerchio coverchia erussalam col suo pi\u00f9 alto punto e la notte che apposito a lui cerchia uscia",
+  "wer_converted": 0.17647058823529413,
+  "cer_converted": 0.0851063829787234,
+  "transcription_converted": " Cerchio coverg\u00eca Erussalam col suo pi\u00f9 alto punto, e la notte che apposito a lui Cerchia uscia.",
+  "index": 3,
+  "source_text": "cerchio coverchia ierusalem col suo pi\u00f9 alto punto e la notte che opposita a lui cerchia uscia",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_60s_seed_42/3_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_60s_seed_42/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_60s_seed_42/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_60s_seed_42/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_60s_seed_42/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_60s_seed_42/3_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/italian/librispeech_test_set_60s_seed_42/3/converted.wav"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7398146390914917,
+  "ecapa_ref_gt_similarity": 0.7633676528930664,
+  "ecapa_src_converted_similarity": 0.15962296724319458,
+  "ecapa_src_gt_similarity": 0.7064217329025269,
+  "redimnet_ref_converted_similarity": 0.75146484375,
+  "redimnet_ref_gt_similarity": 0.77490234375,
+  "redimnet_src_converted_similarity": 0.166259765625,
+  "redimnet_src_gt_similarity": 0.7802734375,
+  "dns_mos_gt": 4.049755382537842,
+  "dns_mos_gen": 3.9151470184326174,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " ia-se-me esclarecendo o mist\u00e9rio daquela exist\u00eancia por fim chegamos a um quarto pequenino e baixo com um ar mef\u00edtico saturado de fumo de tabaco",
+  "wer_converted": 0.07692307692307693,
+  "cer_converted": 0.020833333333333332,
+  "transcription_converted": " ia-se-me esclarecendo o mist\u00e9rio daquela exist\u00eancia por fim chegamos ao quarto pequenino e baixo com um ar mef\u00edtico saturado de fumo de tabaco",
+  "index": 2,
+  "source_text": "ia se me esclarecendo o mist\u00e9rio daquela exist\u00eancia por fim chegamos a um quarto pequenino e baixo com um ar mef\u00edtico saturado de fumo de tabaco",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/2_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/2_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/portuguese/librispeech_test_set_60s_seed_42/2/converted.wav"
+  }
+}

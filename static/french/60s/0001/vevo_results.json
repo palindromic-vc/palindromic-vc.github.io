@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.4796895384788513,
+  "ecapa_ref_gt_similarity": 0.8224291801452637,
+  "ecapa_src_converted_similarity": 0.2832031846046448,
+  "ecapa_src_gt_similarity": 0.8567265868186951,
+  "redimnet_ref_converted_similarity": 0.311279296875,
+  "redimnet_ref_gt_similarity": 0.7939453125,
+  "redimnet_src_converted_similarity": 0.1485595703125,
+  "redimnet_src_gt_similarity": 0.84033203125,
+  "dns_mos_gt": 4.115802764892578,
+  "dns_mos_gen": 2.983583688735962,
+  "wer_src": 0.0625,
+  "cer_src": 0.06832298136645963,
+  "transcription_src": " si vous ne dormez pas je vous prie en attendant le jour qui va para\u00eetre bient\u00f4t de nous raconter ce qui se passa dans ce beau ch\u00e2teau o\u00f9 vous nous les",
+  "wer_converted": 0.125,
+  "cer_converted": 0.08074534161490683,
+  "transcription_converted": " si vous ne dormez pas je vous prie en attendant le jour qui va para\u00eetre bient\u00f4t de nous raconter ce qui se passa dans ce beau ch\u00e2teau venu les h\u00e2tes hier",
+  "index": 4,
+  "source_text": "si vous ne dormez pas je vous prie en attendant le jour qui va para\u00eetre bient\u00f4t de nous raconter ce qui se passa dans ce beau ch\u00e2teau o\u00f9 vous nous laiss\u00e2tes hier"
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.742290198802948,
+  "ecapa_ref_gt_similarity": 0.7488359212875366,
+  "ecapa_src_converted_similarity": 0.12196769565343857,
+  "ecapa_src_gt_similarity": 0.7938002347946167,
+  "redimnet_ref_converted_similarity": 0.71044921875,
+  "redimnet_ref_gt_similarity": 0.7451171875,
+  "redimnet_src_converted_similarity": 0.1082763671875,
+  "redimnet_src_gt_similarity": 0.7578125,
+  "dns_mos_gt": 3.979098081588745,
+  "dns_mos_gen": 3.8468806743621826,
+  "wer_src": 0.07142857142857142,
+  "cer_src": 0.013043478260869565,
+  "transcription_src": " gedurende al dien tijd verloor ik echter mijn doel niet uit het oog ik droomde elken nacht van sholto reeds honderden keeren had ik hem in mijn slaap gedood ten laatste echter nu ongeveer vier jaar geleden waagden wij ons in engeland",
+  "wer_converted": 0.09523809523809523,
+  "cer_converted": 0.021739130434782608,
+  "transcription_converted": " verdurende al dien tijd verloor ik echter mijn doel niet uit het oog ik droomde elken nacht van sholto reeds honderden keeren had ik hem in mijn slaap gedood ten laatste echter nu ongeveer vier jaar geleden waagden wij ons in engeland",
+  "index": 1,
+  "source_text": "gedurende al die tijd verloor ik echter mijn doel niet uit het oog ik droomde elke nacht van sholto reeds honderden keren had ik hem in mijn slaap gedood ten laatste echter nu ongeveer vier jaar geleden waagden wij ons in engeland"
+}

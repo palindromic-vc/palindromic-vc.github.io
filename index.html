@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Palindromic-VC</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <nav class="toc" aria-label="Table of contents">
+      <a href="#top">Overview</a>
+      <a href="#quantitative">Results</a>
+      <a href="#results">Samples</a>
+      <a href="#ablationSection">Ablation</a>
+    </nav>
+    <div class="page">
+      <header class="hero" id="top">
+        <h1 class="title">Palindromic-VC</h1>
+        <div class="overview-wrap">
+          <div class="overview-panel overview-panel--training">
+            <div class="overview-panel-text" id="overviewTrainingText"></div>
+          </div>
+          <div class="overview-figure" id="overviewFigure">
+            <img src="static/overview.svg" alt="Overview figure" />
+          </div>
+          <div class="overview-panel overview-panel--inference">
+            <div class="overview-panel-text" id="overviewInferenceText"></div>
+          </div>
+        </div>
+        <div class="overview-caption">Hover over elements to view details.</div>
+        <div class="overview-mobile-text" id="overviewMobileText">Hover over elements to view details.</div>
+        <div class="abstract-title">Abstract</div>
+        <div class="abstract" id="abstract">Loading abstract...</div>
+      </header>
+
+      <section class="section" id="quantitative">
+        <h2>Quantitative Results</h2>
+        <div class="quant-controls">
+          <div class="quant-tabs" id="quantLangTabs" role="tablist" aria-label="Quantitative results language"></div>
+          <div class="quant-toggle" role="tablist" aria-label="Quantitative results view">
+            <button class="toggle-btn active" type="button" data-quant-view="bar">Bar chart view</button>
+            <button class="toggle-btn" type="button" data-quant-view="table">Table view</button>
+          </div>
+        </div>
+        <div class="quant-subtitle" id="quantSubtitle"></div>
+        <div class="quant-legend" id="quantLegend"></div>
+        <div class="quant-charts" id="quantCharts"></div>
+        <div class="quant-table" id="quantTable">Loading table...</div>
+      </section>
+
+      <section class="section" id="results">
+        <h2>Samples</h2>
+        <div class="tabs" id="languageTabs"></div>
+        <div class="subtabs" id="configTabs"></div>
+        <div class="carousel-controls top-controls">
+          <button class="nav-button" id="prevBtn" type="button">Previous</button>
+          <span class="indicator" id="carouselIndicator">0 / 0</span>
+          <button class="nav-button" id="nextBtn" type="button">Next</button>
+        </div>
+        <div class="carousel">
+          <div class="carousel-track" id="carouselTrack"></div>
+        </div>
+
+        <div class="ablation-block" id="ablationSection">
+          <h2>Ablation Study</h2>
+          <p class="ablation-note">Stage 2: without vocoder post-training<br />Stage 3: with vocoder post-training</p>
+          <div class="carousel-controls top-controls ablation-controls">
+            <button class="nav-button" id="ablationPrevBtn" type="button">Previous</button>
+            <span class="indicator" id="ablationIndicator">0 / 0</span>
+            <button class="nav-button" id="ablationNextBtn" type="button">Next</button>
+          </div>
+          <div class="carousel">
+            <div class="carousel-track" id="ablationTrack"></div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script src="static/manifest.js"></script>
+    <script src="static/overview.js"></script>
+    <script src="static/overview_interactions.js"></script>
+    <script src="static/quant_english.js"></script>
+    <script src="static/quant_multilingual.js"></script>
+    <script src="static/quant_langs.js"></script>
+    <script src="static/ablation_manifest.js"></script>
+    <script src="ABSTRACT.js"></script>
+    <script src="app.js" defer></script>
+  </body>
+</html>

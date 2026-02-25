@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6747530698776245,
+  "ecapa_ref_gt_similarity": 0.6783563494682312,
+  "ecapa_src_converted_similarity": 0.13442175090312958,
+  "ecapa_src_gt_similarity": 0.790011465549469,
+  "redimnet_ref_converted_similarity": 0.62939453125,
+  "redimnet_ref_gt_similarity": 0.6787109375,
+  "redimnet_src_converted_similarity": 0.206298828125,
+  "redimnet_src_gt_similarity": 0.7490234375,
+  "dns_mos_gt": 4.0428242683410645,
+  "dns_mos_gen": 4.149173259735107,
+  "wer_src": 0.03225806451612903,
+  "cer_src": 0.011695906432748537,
+  "transcription_src": " le village de dran\u00e7ay occup\u00e9 depuis vingt-quatre heures seulement ne se trouvait plus occup\u00e9 \u00e0 sa gauche et le temps a manqu\u00e9 pour le mettre en \u00e9tat respectable de d\u00e9fense",
+  "wer_converted": 0.03225806451612903,
+  "cer_converted": 0.011695906432748537,
+  "transcription_converted": " le village de droncay occup\u00e9 depuis vingt-quatre heures seulement ne se trouvait plus occup\u00e9 \u00e0 sa gauche et le temps a manqu\u00e9 pour le mettre en \u00e9tat respectable de d\u00e9fense",
+  "index": 3,
+  "source_text": "le village de drancey occup\u00e9 depuis vingt-quatre heures seulement ne se trouvait plus occup\u00e9 \u00e0 sa gauche et le temps a manqu\u00e9 pour le mettre en \u00e9tat respectable de d\u00e9fense"
+}

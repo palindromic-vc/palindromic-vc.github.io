@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7945965528488159,
+  "ecapa_ref_gt_similarity": 0.8475714325904846,
+  "ecapa_src_converted_similarity": 0.13257691264152527,
+  "ecapa_src_gt_similarity": 0.1634126603603363,
+  "redimnet_ref_converted_similarity": 0.81103515625,
+  "redimnet_ref_gt_similarity": 0.861328125,
+  "redimnet_src_converted_similarity": 0.2093505859375,
+  "redimnet_src_gt_similarity": 0.1143798828125,
+  "dns_mos_gt": 3.9240079879760743,
+  "dns_mos_gen": 3.9083173274993896,
+  "wer_src": 0.21052631578947367,
+  "cer_src": 0.043243243243243246,
+  "transcription_src": " che tu mi sie di tuoi prieghi cortese infano s\u00ec che ben per me sadori pur chi possa purgar le gravi offese quindi fu io ma li profondi fori ond usci il sangue in sul quale io sedea",
+  "wer_converted": 0.2631578947368421,
+  "cer_converted": 0.08108108108108109,
+  "transcription_converted": " che tu mi siedi tuoi prieghi cortese infano s\u00ec che ben per me s'adori pur chi possa purgar le gravi offese quindi fu io ma li profondi fuori ond'usci il sangue in sul quale io sedea grazie",
+  "index": 2,
+  "source_text": "che tu mi sie di tuoi prieghi cortese in fano s\u00ec che ben per me s'adori pur ch'i' possa purgar le gravi offese quindi fu' io ma li profondi fori ond'usc\u00ec 'l sangue in sul quale io sedea",
+  "input_seed_folder": "librispeech_test_set_60s_seed_37",
+  "output_seed_folder": "librispeech_test_set_60s_seed_37",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_60s_seed_37/2_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_60s_seed_37/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_60s_seed_37/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_60s_seed_37/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_60s_seed_37/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_60s_seed_37/2_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/italian/librispeech_test_set_60s_seed_37/2/converted.wav"
+  }
+}

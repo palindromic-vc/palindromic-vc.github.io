@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.4897586405277252,
+  "ecapa_ref_gt_similarity": 0.8471255302429199,
+  "ecapa_src_converted_similarity": 0.17266424000263214,
+  "ecapa_src_gt_similarity": 0.7752118110656738,
+  "redimnet_ref_converted_similarity": 0.374755859375,
+  "redimnet_ref_gt_similarity": 0.88623046875,
+  "redimnet_src_converted_similarity": 0.122802734375,
+  "redimnet_src_gt_similarity": 0.8203125,
+  "dns_mos_gt": 3.9041448661259244,
+  "dns_mos_gen": 3.8214734622410367,
+  "wer_src": 0.13953488372093023,
+  "cer_src": 0.026717557251908396,
+  "transcription_src": " e perch\u00e9 egli era mal addobbato non ardiva comparere tra tanti sapienti e eccellentissimi uomini ma per vergogna si puose dietro l'uscio dalla camera del re che appena si potea vedere ei vicchietamente stava ad ascoltar quello che dicevano i prudentissimi medici",
+  "wer_converted": 0.18604651162790697,
+  "cer_converted": 0.04198473282442748,
+  "transcription_converted": " e perch\u00e9 egli era mal addobbato non ordeva comparire tra tanti sapienti e eccellentissimi uomini ma per vergogna si pose dietro l'uscio della camera del re che appena si potea vedere edichietamente stava ad ascoltar quello che dicevano i prudentissimi medici",
+  "index": 3,
+  "source_text": "e perch\u00e8 egli era mal addobbato non ardiva comparere tra tanti sapienti e eccellentissimi uomini ma per vergogna si puose dietro l'uscio della camera del re che appena si puotea vedere e ivi chetamente stava ad ascoltar quello che dicevano i prudentissimi medici",
+  "input_seed_folder": "librispeech_test_set_3s_seed_37",
+  "output_seed_folder": "librispeech_test_set_3s_seed_37",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_3s_seed_37/3_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_3s_seed_37/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_3s_seed_37/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_3s_seed_37/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_3s_seed_37/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_3s_seed_37/3_ref_src2.wav",
+    "converted": "/workspace/outputs/italian/librispeech_test_set_3s_seed_37/3/converted.wav"
+  }
+}

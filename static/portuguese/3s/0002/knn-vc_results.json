@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.4028632640838623,
+  "ecapa_ref_gt_similarity": 0.8154672980308533,
+  "ecapa_src_converted_similarity": 0.03848891705274582,
+  "ecapa_src_gt_similarity": 0.7598443627357483,
+  "redimnet_ref_converted_similarity": 0.41748046875,
+  "redimnet_ref_gt_similarity": 0.8720703125,
+  "redimnet_src_converted_similarity": -0.06011962890625,
+  "redimnet_src_gt_similarity": 0.80859375,
+  "dns_mos_gt": 3.985652582986014,
+  "dns_mos_gen": 3.461708205086844,
+  "wer_src": 0.022727272727272728,
+  "cer_src": 0.00423728813559322,
+  "transcription_src": " o homem ao destacar-se do \u00faltimo elo da cadeia dos seres sentiu-se forte e senhor da terra a natureza oferecia lhe por toda a parte seus peitos uberantes e este regozijo de harmonia ligava a sua exist\u00eancia \u00e0 vida pante\u00edstica do universo",
+  "wer_converted": 0.4090909090909091,
+  "cer_converted": 0.22033898305084745,
+  "transcription_converted": " O homem, ao destacar-se do \u00faltimo elo batadeira dos seres, sentiu-se forte e se murmurou at\u00e9 a natureza oferecer e culturava-se os peitos numerantes e esse ex\u00edgio de harmonia lhe dava a sua exist\u00eancia, a vida protegida do universo.",
+  "index": 6,
+  "source_text": "o homem ao destacar-se do \u00faltimo elo da cadeia dos seres sentiu-se forte e senhor da terra a natureza oferecia-lhe por toda a parte seus peitos uberantes e este regozijo de harmonia ligava a sua exist\u00eancia a vida pante\u00edstica do universo",
+  "input_seed_folder": "librispeech_test_set_3s_seed_37",
+  "output_seed_folder": "librispeech_test_set_3s_seed_37",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_3s_seed_37/6_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_3s_seed_37/6_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_3s_seed_37/6_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_3s_seed_37/6_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_3s_seed_37/6_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_3s_seed_37/6_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/portuguese/librispeech_test_set_3s_seed_37/6/converted.wav"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5132573246955872,
+  "ecapa_ref_gt_similarity": 0.7271474003791809,
+  "ecapa_src_converted_similarity": 0.08358702063560486,
+  "ecapa_src_gt_similarity": 0.7854529619216919,
+  "redimnet_ref_converted_similarity": 0.57861328125,
+  "redimnet_ref_gt_similarity": 0.71142578125,
+  "redimnet_src_converted_similarity": 0.10614013671875,
+  "redimnet_src_gt_similarity": 0.74072265625,
+  "dns_mos_gt": 4.145884990692139,
+  "dns_mos_gen": 4.095333814620972,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " quant \u00e0 ce gentleman il \u00e9tait bien et d\u00fbment ruin\u00e9 et cela au moment o\u00f9 il allait atteindre son but cette arrestation le perdait sans",
+  "wer_converted": 0.04,
+  "cer_converted": 0.03759398496240601,
+  "transcription_converted": " quant \u00e0 ce gentleman il \u00e9tait bien et dimanche ruin\u00e9 et cela au moment o\u00f9 il allait atteindre son but cette arrestation le perdait sans",
+  "index": 7,
+  "source_text": "quant \u00e0 ce gentleman il \u00e9tait bien et d\u00fbment ruin\u00e9 et cela au moment o\u00f9 il allait atteindre son but cette arrestation le perdait sans",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_3s_seed_42/7_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_3s_seed_42/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_3s_seed_42/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_3s_seed_42/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_3s_seed_42/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_3s_seed_42/7_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/french/librispeech_test_set_3s_seed_42/7/converted.wav"
+  }
+}

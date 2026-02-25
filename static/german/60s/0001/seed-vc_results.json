@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7862039804458618,
+  "ecapa_ref_gt_similarity": 0.8413258790969849,
+  "ecapa_src_converted_similarity": 0.08404532074928284,
+  "ecapa_src_gt_similarity": 0.8225984573364258,
+  "redimnet_ref_converted_similarity": 0.7822265625,
+  "redimnet_ref_gt_similarity": 0.82080078125,
+  "redimnet_src_converted_similarity": 0.1002197265625,
+  "redimnet_src_gt_similarity": 0.853515625,
+  "dns_mos_gt": 3.4258361203329906,
+  "dns_mos_gen": 3.9142093317849294,
+  "wer_src": 0.044444444444444446,
+  "cer_src": 0.010948905109489052,
+  "transcription_src": " die zuh\u00f6rer blicken einander verwundert an von wessen gem\u00fcthe spricht der meister da war er doch dort gerade mit bischof ottmar zusammen sollte er ihn meinen ist es m\u00f6glich da\u00df der himmel ein solches bekehrungswerk vorhabe welch ungeheurer gewinn w\u00e4re das f\u00fcr die gute sache",
+  "wer_converted": 0.044444444444444446,
+  "cer_converted": 0.021897810218978103,
+  "transcription_converted": " die zuh\u00f6rer blicken einander verwundert an von welchem gem\u00fcte spricht der meister da war er doch dort gerade mit bischof ottmar zusammen sollte er ihn meinen ist es m\u00f6glich da\u00df der himmel ein solches bekehrungswerk vorhabe welch ungeheurer gewinn w\u00e4re das f\u00fcr die gute sache",
+  "index": 3,
+  "source_text": "die zuh\u00f6rer blicken einander verwundert an von wessen gem\u00fcte spricht der meister da war er doch dort gerade mit bischof ottmar zusammen sollte er ihn meinen ist es m\u00f6glich dass der himmel ein solches bekehrungswerk vorhabe welch ungeheurer gewinn w\u00e4re das f\u00fcr die gute sache",
+  "input_seed_folder": "librispeech_test_set_60s_seed_37",
+  "output_seed_folder": "librispeech_test_set_60s_seed_37",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_60s_seed_37/3_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_60s_seed_37/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_60s_seed_37/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_60s_seed_37/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_60s_seed_37/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_60s_seed_37/3_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/german/librispeech_test_set_60s_seed_37/3/converted.wav"
+  }
+}

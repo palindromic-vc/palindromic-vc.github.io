@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5647483468055725,
+  "ecapa_ref_gt_similarity": 0.8329570293426514,
+  "ecapa_src_converted_similarity": 0.15681226551532745,
+  "ecapa_src_gt_similarity": 0.8600139617919922,
+  "redimnet_ref_converted_similarity": 0.382080078125,
+  "redimnet_ref_gt_similarity": 0.857421875,
+  "redimnet_src_converted_similarity": 0.22265625,
+  "redimnet_src_gt_similarity": 0.90771484375,
+  "dns_mos_gt": 4.058932781219482,
+  "dns_mos_gen": 3.1794357299804688,
+  "wer_src": 0.04081632653061224,
+  "cer_src": 0.023880597014925373,
+  "transcription_src": " w powietrzu unosi\u0142y si\u0119 dziwne wonie i szmery przerywane co chwila silniejszym jakim\u015b podmuchem albo gwa\u0142townym hukiem i \u015bwistem skrzyde\u0142 owadzich zaraz pierwszego dnia mog\u0142em oceni\u0107 donios\u0142o\u015b\u0107 us\u0142ug jakie dawa\u0142a mi luneta gdym potrzebowa\u0142 obj\u0105\u0107 wzrokiem du\u017cy a bliski przedmiot w ca\u0142o\u015bci odwraca\u0142em j\u0105 i patrz\u0105c w szk\u0142o przedmiotowe",
+  "wer_converted": 0.4489795918367347,
+  "cer_converted": 0.2417910447761194,
+  "transcription_converted": " w powietrzu unosi\u0142y si\u0119 dziwne woni i szmery sprzerywane co chwila silniejszym jakim\u015b podmuchem albo gwa\u0142townym ch\u0142ukiem i \u015bwistem skrzyd\u0142owa\u0142 wadzich zaraz pierwszego dnia mog\u0142em oceni\u0107 donios\u0142o\u015b\u0107 us\u0142ug jakie trawa\u0142a mi dnytta gdy ten podgrypa\u0142 ubieg\u0142 w drogiem bli\u017cej a bliski przed\u0142\u00f3zry ca\u0142o\u015bci odwraca\u0142 mi j\u0105 i",
+  "index": 7,
+  "source_text": "w powietrzu unosi\u0142y si\u0119 dziwne wonie i szmery przerywane co chwila silniejszym jakim\u015b podmuchem albo gwa\u0142townym hukiem i \u015bwistem skrzyde\u0142 owadzich zaraz pierwszego dnia mog\u0142em oceni\u0107 donios\u0142o\u015b\u0107 us\u0142ug jakie mi oddawa\u0142a luneta gdym potrzebowa\u0142 obj\u0105\u0107 wzrokiem du\u017cy a bliski przedmiot w ca\u0142o\u015bci odwraca\u0142em j\u0105 i patrz\u0105c w szk\u0142o przedmiotowe"
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6138546466827393,
+  "ecapa_ref_gt_similarity": 0.8205969333648682,
+  "ecapa_src_converted_similarity": 0.20962373912334442,
+  "ecapa_src_gt_similarity": 0.7276873588562012,
+  "redimnet_ref_converted_similarity": 0.58251953125,
+  "redimnet_ref_gt_similarity": 0.87646484375,
+  "redimnet_src_converted_similarity": 0.207275390625,
+  "redimnet_src_gt_similarity": 0.8037109375,
+  "dns_mos_gt": 4.288605690002441,
+  "dns_mos_gen": 3.991925001144409,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " e a ogni uscio l'indicazione dell'ufficio l'illustrissimo signor marchese non concedeva udienza se non nei giorni fissati e nelle ore fissate il mercoled\u00ec e il sabato dalle dieci alle undici e",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " e a ogni uscio l'indicazione dell'ufficio l'illustrissimo signor marchese non concedeva udienza se non nei giorni fissati e nelle ore fissate il mercoled\u00ec e il sabato dalle dieci alle undici e",
+  "index": 6,
+  "source_text": "e a ogni uscio l'indicazione dell'ufficio l'illustrissimo signor marchese non concedeva udienza se non nei giorni fissati e nelle ore fissate il mercoled\u00ec e il sabato dalle dieci alle undici e"
+}

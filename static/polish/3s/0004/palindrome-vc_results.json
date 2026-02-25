@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6636244654655457,
+  "ecapa_ref_gt_similarity": 0.7079676389694214,
+  "ecapa_src_converted_similarity": 0.10565885901451111,
+  "ecapa_src_gt_similarity": 0.7246584296226501,
+  "redimnet_ref_converted_similarity": 0.65771484375,
+  "redimnet_ref_gt_similarity": 0.646484375,
+  "redimnet_src_converted_similarity": 0.2098388671875,
+  "redimnet_src_gt_similarity": 0.7119140625,
+  "dns_mos_gt": 4.014658451080322,
+  "dns_mos_gen": 3.7556960582733154,
+  "wer_src": 0.07894736842105263,
+  "cer_src": 0.008,
+  "transcription_src": " panie zawo\u0142a\u0142em oczekuj\u0105c a\u017c si\u0119 na g\u0142os ludzki odwr\u00f3ci ale \u017cadnej nie otrzyma\u0142em odpowiedzi \u015bpij czy nie \u017cyje pomy\u015bla\u0142em i powt\u00f3rzy\u0142em wezwanie znowu na pr\u00f3\u017cno wo\u0142aj\u0105c bezskutecznie zbli\u017cy\u0142em si\u0119 nareszcie o dwa kroki i po\u0142o\u017cy\u0142em r\u0119k\u0119 na jego ramieniu",
+  "wer_converted": 0.10526315789473684,
+  "cer_converted": 0.016,
+  "transcription_converted": " panie zawo\u0142a\u0142em oczekuj\u0105c a\u017c si\u0119 na g\u0142os ludzki odwr\u00f3ci ale \u017cadnej nie otrzyma\u0142em odpowiedzi \u015bpij czy nie \u017cyje pomy\u015bla\u0142em i powtarza\u0142em wezwanie znowu na pr\u00f3\u017cno wo\u0142aj\u0105c bezskutecznie zbli\u017cy\u0142em si\u0119 nareszcie o dwa kroki i po\u0142o\u017cy\u0142em r\u0119k\u0119 na jego ramieniu",
+  "index": 0,
+  "source_text": "panie zawo\u0142a\u0142em oczekuj\u0105c a\u017c si\u0119 na g\u0142os ludzki odwr\u00f3ci ale \u017cadnej nie otrzyma\u0142em odpowiedzi \u015bpi czy nie \u017cyje pomy\u015bla\u0142em i powt\u00f3rzy\u0142em wezwanie znowu napr\u00f3\u017cno wo\u0142aj\u0105c bezskutecznie zbli\u017cy\u0142em si\u0119 nareszcie o dwa kroki i po\u0142o\u017cy\u0142em r\u0119k\u0119 na jego ramieniu"
+}

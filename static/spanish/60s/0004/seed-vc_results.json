@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7582275867462158,
+  "ecapa_ref_gt_similarity": 0.7364919185638428,
+  "ecapa_src_converted_similarity": 0.2615867555141449,
+  "ecapa_src_gt_similarity": 0.8726505637168884,
+  "redimnet_ref_converted_similarity": 0.82373046875,
+  "redimnet_ref_gt_similarity": 0.80810546875,
+  "redimnet_src_converted_similarity": 0.255615234375,
+  "redimnet_src_gt_similarity": 0.8994140625,
+  "dns_mos_gt": 3.8195362091064453,
+  "dns_mos_gen": 4.293664773305257,
+  "wer_src": 0.02631578947368421,
+  "cer_src": 0.005263157894736842,
+  "transcription_src": " se\u00f1or si ser\u00e1 \u00e9ste ha dicha el moro encantado que nos vuelve a castigar si se dej\u00f3 algo en el tintero no puede ser el moro respondi\u00f3 don quijote porque los encantados no se dejan ver de nadie",
+  "wer_converted": 0.10526315789473684,
+  "cer_converted": 0.042105263157894736,
+  "transcription_converted": " se\u00f1or si ser\u00e1 este ha dicho el moro encantado que nos vuelve a castigar si se dej\u00f3 algo en el tintero no puede ser el moro respondi\u00f3 don quijote porque los encantados no se dejan ver de y",
+  "index": 4,
+  "source_text": "se\u00f1or si ser\u00e1 \u00e9ste a dicha el moro encantado que nos vuelve a castigar si se dej\u00f3 algo en el tintero no puede ser el moro respondi\u00f3 don quijote porque los encantados no se dejan ver de nadie",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_60s_seed_42/4_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_60s_seed_42/4_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_60s_seed_42/4_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_60s_seed_42/4_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_60s_seed_42/4_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_60s_seed_42/4_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/spanish/librispeech_test_set_60s_seed_42/4/converted.wav"
+  }
+}

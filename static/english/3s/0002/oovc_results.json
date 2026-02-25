@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.4795472025871277,
+  "ecapa_ref_gt_similarity": 0.8558991551399231,
+  "ecapa_src_converted_similarity": 0.15473991632461548,
+  "ecapa_src_gt_similarity": 0.7783745527267456,
+  "redimnet_ref_converted_similarity": 0.329833984375,
+  "redimnet_ref_gt_similarity": 0.87646484375,
+  "redimnet_src_converted_similarity": 0.1810302734375,
+  "redimnet_src_gt_similarity": 0.82080078125,
+  "dns_mos_gt": 3.887807948248727,
+  "dns_mos_gen": 3.784202916281564,
+  "wer_src": 0.07692307692307693,
+  "cer_src": 0.014084507042253521,
+  "transcription_src": " exclaimed bill harman to his wife as they went through the lighted hall",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " exclaimed Bill Harmon to his wife as they went through the lighted hall.",
+  "index": 3,
+  "source_text": "EXCLAIMED BILL HARMON TO HIS WIFE AS THEY WENT THROUGH THE LIGHTED HALL",
+  "input_seed_folder": "librispeech_test_set_3s_seed_73",
+  "output_seed_folder": "librispeech_test_set_3s_seed_73",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_3s_seed_73/3_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_3s_seed_73/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_3s_seed_73/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_3s_seed_73/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_3s_seed_73/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_3s_seed_73/3_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_3s_seed_73/3/converted.wav"
+  }
+}

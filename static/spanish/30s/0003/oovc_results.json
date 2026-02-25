@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6108222007751465,
+  "ecapa_ref_gt_similarity": 0.8840034008026123,
+  "ecapa_src_converted_similarity": 0.07966294139623642,
+  "ecapa_src_gt_similarity": 0.589976966381073,
+  "redimnet_ref_converted_similarity": 0.578125,
+  "redimnet_ref_gt_similarity": 0.88623046875,
+  "redimnet_src_converted_similarity": 0.0650634765625,
+  "redimnet_src_gt_similarity": 0.6123046875,
+  "dns_mos_gt": 3.967970609664917,
+  "dns_mos_gen": 4.0140862464904785,
+  "wer_src": 0.07142857142857142,
+  "cer_src": 0.026845637583892617,
+  "transcription_src": " viendo pues el arriero a la lumbre del candil del ventero cual andaba su dama dejando a don quijote acudi\u00f3 a day el socorro necesario lo mismo hizo",
+  "wer_converted": 0.17857142857142858,
+  "cer_converted": 0.06040268456375839,
+  "transcription_converted": " viendo pues el adhiero a la lumbre del candil del ventero cual andaba su dama dejando en el quijote acudi\u00f3 a darlle el socorro necesario lo mismo hizo",
+  "index": 6,
+  "source_text": "viendo pues el arriero a la lumbre del candil del ventero cu\u00e1l andaba su dama dejando a don quijote acudi\u00f3 a dalle el socorro necesario lo mismo hizo",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/6_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/6_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/6_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/6_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/6_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_30s_seed_73/6_ref_src2.wav",
+    "converted": "/workspace/outputs/spanish/librispeech_test_set_30s_seed_73/6/converted.wav"
+  }
+}

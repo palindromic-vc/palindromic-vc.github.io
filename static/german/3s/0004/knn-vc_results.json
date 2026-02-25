@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.36697298288345337,
+  "ecapa_ref_gt_similarity": 0.8543009757995605,
+  "ecapa_src_converted_similarity": 0.055843695998191833,
+  "ecapa_src_gt_similarity": 0.7878714799880981,
+  "redimnet_ref_converted_similarity": 0.337158203125,
+  "redimnet_ref_gt_similarity": 0.88525390625,
+  "redimnet_src_converted_similarity": 0.0033473968505859375,
+  "redimnet_src_gt_similarity": 0.83984375,
+  "dns_mos_gt": 3.7409205436706543,
+  "dns_mos_gen": 3.2408353686332703,
+  "wer_src": 0.6176470588235294,
+  "cer_src": 0.5497382198952879,
+  "transcription_src": " der husar hatte nun gewaltig viel zu tun ehe er die prinzessin reinhergestellt hatte und als es endlich geschehen war und sie so h\u00fcbsch und gl\u00e4nzend aussah wie man sich's nur w\u00fcnschen konnte und als es endlich geschehen war und sie so h\u00fcbsch und gl\u00e4nzend aussah wie man sich nur w\u00fcnschen konnte",
+  "wer_converted": 0.8823529411764706,
+  "cer_converted": 0.518324607329843,
+  "transcription_converted": " Der Friseur hatte nun die Beweidung bekommen, die ja die Prinzessin mal im Haltestall hatte. Und als es endet, ist es eben wahr. Und sie ist so umgekehrt, dass sie die Grenzen daraus sah, wie man sie sich noch in die Hand hat.",
+  "index": 2,
+  "source_text": "der husar hatte nun gewaltig viel zu tun ehe er die prinzessin rein hergestellt hatte und als es endlich geschehen war und sie so h\u00fcbsch und gl\u00e4nzend aussah wie man sich's nur w\u00fcnschen konnte",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_3s_seed_42/2_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_3s_seed_42/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_3s_seed_42/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_3s_seed_42/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_3s_seed_42/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_3s_seed_42/2_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/german/librispeech_test_set_3s_seed_42/2/converted.wav"
+  }
+}

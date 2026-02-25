@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7539539933204651,
+  "ecapa_ref_gt_similarity": 0.7893054485321045,
+  "ecapa_src_converted_similarity": 0.035990167409181595,
+  "ecapa_src_gt_similarity": 0.7421876192092896,
+  "redimnet_ref_converted_similarity": 0.6533203125,
+  "redimnet_ref_gt_similarity": 0.85693359375,
+  "redimnet_src_converted_similarity": 0.1500244140625,
+  "redimnet_src_gt_similarity": 0.7919921875,
+  "dns_mos_gt": 4.076256275177002,
+  "dns_mos_gen": 4.081771373748779,
+  "wer_src": 0.022727272727272728,
+  "cer_src": 0.0037593984962406013,
+  "transcription_src": " vers les huit heures du matin je m'\u00e9veillai dans mon lit dans la cabane o\u00f9 nous avaient transport\u00e9 des b\u00fbcherons qui nous avaient trouv\u00e9s sans connaissance enfonc\u00e9s jusqu'au cou dans un banc de neige du voisinage heureusement que personne ne s'\u00e9tait cass\u00e9 les reins",
+  "wer_converted": 0.13636363636363635,
+  "cer_converted": 0.06766917293233082,
+  "transcription_converted": " par les huit heures du matin je m'\u00e9veillai dans mon lit dans la cabane o\u00f9 nous avaient transport\u00e9 des b\u00fbcherons qu'ils nous avaient trouv\u00e9s sans connaissance enfonc\u00e9s jusqu'au cou dans un banc de neige du voisinage heureusement que personne ne s'\u00e9tait le vrai",
+  "index": 5,
+  "source_text": "vers les huit heures du matin je m'\u00e9veillai dans mon lit dans la cabane o\u00f9 nous avaient transport\u00e9s des b\u00fbcherons qui nous avaient trouv\u00e9s sans connaissance enfonc\u00e9s jusqu'au cou dans un banc de neige du voisinage heureusement que personne ne s'\u00e9tait cass\u00e9 les reins"
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7596149444580078,
+  "ecapa_ref_gt_similarity": 0.7021137475967407,
+  "ecapa_src_converted_similarity": 0.04628397524356842,
+  "ecapa_src_gt_similarity": 0.8477839231491089,
+  "redimnet_ref_converted_similarity": 0.74462890625,
+  "redimnet_ref_gt_similarity": 0.78564453125,
+  "redimnet_src_converted_similarity": 0.1328125,
+  "redimnet_src_gt_similarity": 0.83935546875,
+  "dns_mos_gt": 3.831684112548828,
+  "dns_mos_gen": 3.936805486679077,
+  "wer_src": 0.07692307692307693,
+  "cer_src": 0.006896551724137931,
+  "transcription_src": " von fern her rief ein kuckuck und die alte linde am wege streute wei\u00dfe bl\u00fcten auf den weg auf ginster und rittersporn und auf das schweigende paar",
+  "wer_converted": 0.07692307692307693,
+  "cer_converted": 0.006896551724137931,
+  "transcription_converted": " von fern her rief ein kuckuck und die alte linde am wege streute wei\u00dfe bl\u00fcten auf den weg auf ginster und rittersporn und auf das schweigende paar",
+  "index": 2,
+  "source_text": "von fernher rief ein kuckuck und die alte linde am wege streute wei\u00dfe bl\u00fcten auf den weg auf ginster und rittersporn und auf das schweigende paar"
+}

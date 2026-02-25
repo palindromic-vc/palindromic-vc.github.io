@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.48940134048461914,
+  "ecapa_ref_gt_similarity": 0.6488027572631836,
+  "ecapa_src_converted_similarity": 0.15568280220031738,
+  "ecapa_src_gt_similarity": 0.5364751815795898,
+  "redimnet_ref_converted_similarity": 0.379638671875,
+  "redimnet_ref_gt_similarity": 0.6513671875,
+  "redimnet_src_converted_similarity": 0.258056640625,
+  "redimnet_src_gt_similarity": 0.62109375,
+  "dns_mos_gt": 4.045514265696208,
+  "dns_mos_gen": 3.672094464302063,
+  "wer_src": 0.2222222222222222,
+  "cer_src": 0.058823529411764705,
+  "transcription_src": " bertus die thuis sliep en jacob heelemaal afhankelijk waren t huis uitgeloopen den dag van vaders ondertrouwe nooit met dat mensch die over vaders kwaal ingelicht was hem toch wou nooit met i onder \u00e9\u00e9n dak",
+  "wer_converted": 0.2222222222222222,
+  "cer_converted": 0.06862745098039216,
+  "transcription_converted": " petus die thuis sliep en jacob heelemaal afhankelijk waren t huis uitgeloopen de dag van vaders onniethouwen nooit met dat mensch die over vaders kwaal ingelicht was m toch wou nooit met jie onder \u00e9\u00e9n dak",
+  "index": 4,
+  "source_text": "bertus die thuis sliep en jacob helemaal afhankelijk waren het huis uitgelopen de dag van vaders ondertrouwen nooit met dat mens die over vaders kwaal ingelicht was 'm toch wou nooit met die onder \u00e9\u00e9n dak",
+  "input_seed_folder": "librispeech_test_set_10s_seed_37",
+  "output_seed_folder": "librispeech_test_set_10s_seed_37",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_10s_seed_37/4_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_10s_seed_37/4_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_10s_seed_37/4_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_10s_seed_37/4_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_10s_seed_37/4_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_10s_seed_37/4_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_10s_seed_37/4/converted.wav"
+  }
+}

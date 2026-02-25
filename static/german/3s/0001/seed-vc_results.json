@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.39835822582244873,
+  "ecapa_ref_gt_similarity": 0.6377730369567871,
+  "ecapa_src_converted_similarity": 0.16640323400497437,
+  "ecapa_src_gt_similarity": 0.8686249852180481,
+  "redimnet_ref_converted_similarity": 0.501953125,
+  "redimnet_ref_gt_similarity": 0.73486328125,
+  "redimnet_src_converted_similarity": 0.1951904296875,
+  "redimnet_src_gt_similarity": 0.88427734375,
+  "dns_mos_gt": 3.2999871373176575,
+  "dns_mos_gen": 3.982455015182495,
+  "wer_src": 0.03125,
+  "cer_src": 0.004694835680751174,
+  "transcription_src": " von liedern die sie singen und klavierpiesen die sie spielen von geldb\u00f6rsen die sie h\u00e4keln von franz\u00f6sischen b\u00fcchern die sie \u00fcbersetzen konnte bis mein gem\u00fct w\u00e4hrend ich lauschte zur nachahmung aufgestachelt wurde",
+  "wer_converted": 0.03125,
+  "cer_converted": 0.004694835680751174,
+  "transcription_converted": " von liedern die sie singen und klavierpiesen die sie spielen von geldb\u00f6rsen die sie h\u00e4keln von franz\u00f6sischen b\u00fcchern die sie \u00fcbersetzen konnte bis mein gem\u00fct w\u00e4hrend ich lauschte zur nachahmung aufgestachelt wurde",
+  "index": 7,
+  "source_text": "von liedern die sie singen und klavierpiecen die sie spielen von geldb\u00f6rsen die sie h\u00e4keln von franz\u00f6sischen b\u00fcchern die sie \u00fcbersetzen konnte bis mein gem\u00fct w\u00e4hrend ich lauschte zur nachahmung aufgestachelt wurde",
+  "input_seed_folder": "librispeech_test_set_3s_seed_37",
+  "output_seed_folder": "librispeech_test_set_3s_seed_37",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_3s_seed_37/7_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_3s_seed_37/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_3s_seed_37/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_3s_seed_37/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_3s_seed_37/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_3s_seed_37/7_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/german/librispeech_test_set_3s_seed_37/7/converted.wav"
+  }
+}

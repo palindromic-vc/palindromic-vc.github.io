@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6105358004570007,
+  "ecapa_ref_gt_similarity": 0.7605448365211487,
+  "ecapa_src_converted_similarity": -2.1657906472682953e-05,
+  "ecapa_src_gt_similarity": 0.6496034264564514,
+  "redimnet_ref_converted_similarity": 0.47265625,
+  "redimnet_ref_gt_similarity": 0.7880859375,
+  "redimnet_src_converted_similarity": 0.13525390625,
+  "redimnet_src_gt_similarity": 0.79931640625,
+  "dns_mos_gt": 3.444673776626587,
+  "dns_mos_gen": 2.8405792713165283,
+  "wer_src": 0.13636363636363635,
+  "cer_src": 0.04201680672268908,
+  "transcription_src": " D'ogni malizia, codio in cielo acquista, ingiuria il fine, ed ogni fin cotale o con forza o con frode altrui contrista.",
+  "wer_converted": 0.4090909090909091,
+  "cer_converted": 0.11764705882352941,
+  "transcription_converted": " D'ogni malizia, codio in cielo acquista, ingiuria il fine, e non si fin cotale o con forza o con frode, altrove con trista.",
+  "index": 7,
+  "source_text": "d'ogni malizia ch'odio in cielo acquista ingiuria \u00e8 'l fine ed ogni fin cotale o con forza o con frode altrui contrista"
+}

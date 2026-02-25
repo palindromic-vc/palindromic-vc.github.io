@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6589137315750122,
+  "ecapa_ref_gt_similarity": 0.6689930558204651,
+  "ecapa_src_converted_similarity": 0.22470103204250336,
+  "ecapa_src_gt_similarity": 0.7704499959945679,
+  "redimnet_ref_converted_similarity": 0.6826171875,
+  "redimnet_ref_gt_similarity": 0.740234375,
+  "redimnet_src_converted_similarity": 0.0899658203125,
+  "redimnet_src_gt_similarity": 0.84814453125,
+  "dns_mos_gt": 4.126427793502808,
+  "dns_mos_gen": 4.165032863616943,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " \u00e9 a primeira vez que conversamos o meu amigo deve estranhar esta liberdade sou assim amo a franqueza quando n\u00e3o busca rodeios para convencer e tem a for\u00e7a da expans\u00e3o sincera",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " \u00e9 a primeira vez que conversamos o meu amigo deve estranhar esta liberdade sou assim amo a franqueza quando n\u00e3o busca rodeios para convencer e tem a for\u00e7a da expans\u00e3o sincera",
+  "index": 0,
+  "source_text": "\u00e9 a primeira vez que conversamos o meu amigo deve estranhar esta liberdade sou assim amo a franqueza quando n\u00e3o busca rodeios para convencer e tem a for\u00e7a da expans\u00e3o sincera",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/0_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/0_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/0_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/0_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/0_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/0_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/portuguese/librispeech_test_set_60s_seed_42/0/converted.wav"
+  }
+}

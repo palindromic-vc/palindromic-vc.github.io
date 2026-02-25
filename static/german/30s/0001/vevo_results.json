@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7107247710227966,
+  "ecapa_ref_gt_similarity": 0.8056987524032593,
+  "ecapa_src_converted_similarity": 0.3239026665687561,
+  "ecapa_src_gt_similarity": 0.5796027183532715,
+  "redimnet_ref_converted_similarity": 0.64892578125,
+  "redimnet_ref_gt_similarity": 0.77294921875,
+  "redimnet_src_converted_similarity": 0.31298828125,
+  "redimnet_src_gt_similarity": 0.63818359375,
+  "dns_mos_gt": 3.3622825145721436,
+  "dns_mos_gen": 3.9308226108551025,
+  "wer_src": 0.02857142857142857,
+  "cer_src": 0.004201680672268907,
+  "transcription_src": " ich hatte nicht eben auf krawall und zusammenrottung oder gar ein revolutionchen nach der mode gerechnet aber doch auf eine allgemeine und sichtbare beteiligung der bev\u00f6lkerung auf eine ver\u00e4nderte physiognomie der stadt und ihres treibens",
+  "wer_converted": 0.05714285714285714,
+  "cer_converted": 0.008403361344537815,
+  "transcription_converted": " ich hatte nicht eben auf krawall und zusammentrottung oder gar ein revolutionchen nach der mode gerechnet aber doch auf eine allgemeine und sichtbare beteiligung der bev\u00f6lkerung auf eine ver\u00e4nderte physiognomie der stadt und ihres treibens",
+  "index": 8,
+  "source_text": "ich hatte nicht eben auf krawall und zusammenrottung oder gar ein revoluti\u00f6nchen nach der mode gerechnet aber doch auf eine allgemeine und sichtbare beteiligung der bev\u00f6lkerung auf eine ver\u00e4nderte physiognomie der stadt und ihres treibens"
+}

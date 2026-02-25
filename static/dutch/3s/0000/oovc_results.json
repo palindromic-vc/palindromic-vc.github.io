@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.66280198097229,
+  "ecapa_ref_gt_similarity": 0.796318769454956,
+  "ecapa_src_converted_similarity": 0.20467853546142578,
+  "ecapa_src_gt_similarity": 0.8781884908676147,
+  "redimnet_ref_converted_similarity": 0.5703125,
+  "redimnet_ref_gt_similarity": 0.8388671875,
+  "redimnet_src_converted_similarity": 0.1495361328125,
+  "redimnet_src_gt_similarity": 0.86572265625,
+  "dns_mos_gt": 3.6460093770708357,
+  "dns_mos_gen": 4.06018590927124,
+  "wer_src": 0.19148936170212766,
+  "cer_src": 0.04119850187265917,
+  "transcription_src": " die ons door allerlei moelykheden en misgrepen tot het vredige geluk leidt dat met de hemelsche stad bedoelt wordt denk er maar eens over om den pelgrimstogt nog eens we\u00ear te beginnen niet spelend maar in ernst en te zien hoe ver jullie het brengen kunt voor dat vader ***",
+  "wer_converted": 0.14893617021276595,
+  "cer_converted": 0.07116104868913857,
+  "transcription_converted": " die ons door allerlei moeilijkheden en misgrepen tot het veilige geluk leidt dat met de hemelse stad bedoeld wordt. Denk er maar eens over om de pelgrimstocht nog eens weer te beginnen, niet spelend maar in ernst, en te zien hoe ver jullie het brengen kunt, voordat vader thuiskomt.",
+  "index": 9,
+  "source_text": "die ons door allerlei moeilijkheden en misgrepen tot het vredige geluk leidt dat met de hemelsche stad bedoeld wordt denk er maar eens over om den pelgrimstocht nog eens weer te beginnen niet spelend maar in ernst en te zien hoever jullie t brengen kunt voordat vader",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/9_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/9_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_3s_seed_42/9/converted.wav"
+  }
+}

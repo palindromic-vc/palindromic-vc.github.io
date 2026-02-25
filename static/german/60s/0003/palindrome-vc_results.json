@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7848507761955261,
+  "ecapa_ref_gt_similarity": 0.733552873134613,
+  "ecapa_src_converted_similarity": 0.1156873106956482,
+  "ecapa_src_gt_similarity": 0.8092904090881348,
+  "redimnet_ref_converted_similarity": 0.73876953125,
+  "redimnet_ref_gt_similarity": 0.7705078125,
+  "redimnet_src_converted_similarity": 0.237060546875,
+  "redimnet_src_gt_similarity": 0.81591796875,
+  "dns_mos_gt": 3.8508098125457764,
+  "dns_mos_gen": 3.9578158855438232,
+  "wer_src": 0.1111111111111111,
+  "cer_src": 0.03296703296703297,
+  "transcription_src": " aber sie wirken hier vom unbewu\u00dften her sie haben also eine verdr\u00e4ngung erfahren konnten sich aber derselben zum trotze im unbewu\u00dften behaupten die psychoanalyse l\u00e4\u00dft uns erkennen",
+  "wer_converted": 0.07407407407407407,
+  "cer_converted": 0.02197802197802198,
+  "transcription_converted": " Aber sie wirken hier vom Undowussten her. Sie haben also eine Verdr\u00e4ngung erfahren, konnten sich aber derselben zum Trotze im Undowussten behaupten. Die Psychoanalyse l\u00e4sst uns erkennen,",
+  "index": 0,
+  "source_text": "aber sie wirken hier vom unbewussten her sie haben also eine verdr\u00e4ngung erfahren konnten sich aber derselben zum trotze im unbewussten behaupten die psychoanalyse l\u00e4sst uns erkennen"
+}

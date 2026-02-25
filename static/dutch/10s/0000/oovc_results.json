@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.45812907814979553,
+  "ecapa_ref_gt_similarity": 0.6962753534317017,
+  "ecapa_src_converted_similarity": 0.1618860810995102,
+  "ecapa_src_gt_similarity": 0.7850251793861389,
+  "redimnet_ref_converted_similarity": 0.44482421875,
+  "redimnet_ref_gt_similarity": 0.69970703125,
+  "redimnet_src_converted_similarity": 0.1759033203125,
+  "redimnet_src_gt_similarity": 0.8037109375,
+  "dns_mos_gt": 3.841509389877319,
+  "dns_mos_gen": 3.8414403438568114,
+  "wer_src": 0.025,
+  "cer_src": 0.004672897196261682,
+  "transcription_src": " het was een kleine hut met \u00e9\u00e9n vertrek zestien voet lang bij tien voet breed hij hield de sleutel in zijn zak maakte zelf zijn bed op hield de hut zelf schoon en veroorloofde aan niemand den drempel te overschrijden",
+  "wer_converted": 0.175,
+  "cer_converted": 0.08411214953271028,
+  "transcription_converted": " het was een kleine hut met \u00e9\u00e9n vertrek zestien voet lang bij tien voet wijd hij hield de sleutel in zijn zak maakte zelfs de bed op hield de hut zelfs schoon en veroorloofde aan niemand den drempel der overzijde",
+  "index": 2,
+  "source_text": "het was een kleine hut met \u00e9\u00e9n vertrek zestien voet lang bij tien voet breed hij hield de sleutel in zijn zak maakte zelf zijn bed op hield de hut zelf schoon en veroorloofde aan niemand de drempel te overschrijden",
+  "input_seed_folder": "librispeech_test_set_10s_seed_42",
+  "output_seed_folder": "librispeech_test_set_10s_seed_42",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_10s_seed_42/2_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_10s_seed_42/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_10s_seed_42/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_10s_seed_42/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_10s_seed_42/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_10s_seed_42/2_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_10s_seed_42/2/converted.wav"
+  }
+}

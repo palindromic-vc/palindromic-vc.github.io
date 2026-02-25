@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7171089053153992,
+  "ecapa_ref_gt_similarity": 0.6925164461135864,
+  "ecapa_src_converted_similarity": 0.22537881135940552,
+  "ecapa_src_gt_similarity": 0.876991868019104,
+  "redimnet_ref_converted_similarity": 0.58740234375,
+  "redimnet_ref_gt_similarity": 0.75634765625,
+  "redimnet_src_converted_similarity": 0.1461181640625,
+  "redimnet_src_gt_similarity": 0.880859375,
+  "dns_mos_gt": 3.4067630767822266,
+  "dns_mos_gen": 3.7448861598968506,
+  "wer_src": 0.18181818181818182,
+  "cer_src": 0.04807692307692308,
+  "transcription_src": " als ik me gemakkelyk ne\u00ear kan laten zakken zal ik het doen maar kan dat niet dan ben ik van plan zoo gracieus mogelyk op een stoel te vallen ik geef er niet som of hugo met een pistool op me af komt zei amy",
+  "wer_converted": 0.06818181818181818,
+  "cer_converted": 0.04326923076923077,
+  "transcription_converted": " als ik me gemakkelijk neer kan laten zakken zal ik het doen maar kan dat niet dan ben ik van plan zoo gageus mogelijk op een stoel te vallen ik grijp er niets om of hugo met een pistool op me afkomt zei amy",
+  "index": 1,
+  "source_text": "als ik me gemakkelijk neer kan laten zakken zal ik het doen maar kan dat niet dan ben ik van plan zoo gracieus mogelijk op een stoel te vallen ik geef er niets om of hugo met een pistool op mij afkomt zei amy"
+}

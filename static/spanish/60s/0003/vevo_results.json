@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.4590264558792114,
+  "ecapa_ref_gt_similarity": 0.7554545402526855,
+  "ecapa_src_converted_similarity": 0.08721223473548889,
+  "ecapa_src_gt_similarity": 0.8312034606933594,
+  "redimnet_ref_converted_similarity": 0.3818359375,
+  "redimnet_ref_gt_similarity": 0.7568359375,
+  "redimnet_src_converted_similarity": 0.0386962890625,
+  "redimnet_src_gt_similarity": 0.82763671875,
+  "dns_mos_gt": 4.0521745681762695,
+  "dns_mos_gen": 2.9624669551849365,
+  "wer_src": 0.038461538461538464,
+  "cer_src": 0.003787878787878788,
+  "transcription_src": " ll\u00e1mase el doctor pedro recio y es natural de tirte afuera porque vea vuesa merced qu\u00e9 nombre para no temer que he de morir a sus manos este tal doctor dice \u00e9l mismo de s\u00ed mismo que \u00e9l no cura las enfermedades cuando las hay sino que las previene para que no vengan",
+  "wer_converted": 0.1346153846153846,
+  "cer_converted": 0.03409090909090909,
+  "transcription_converted": " ll\u00e1mase el doctor pedro recio y es natural de tirte afuera porque vea buis a merced que nombre para no temer que de morir a sus manos este tal doctor dice el mismo de s\u00ed mismo que \u00e9l no cura las enfermedades cuando las hay sino que las previene para que no vengan",
+  "index": 1,
+  "source_text": "ll\u00e1mase el doctor pedro recio y es natural de tirteafuera porque vea vuesa merced qu\u00e9 nombre para no temer que he de morir a sus manos este tal doctor dice \u00e9l mismo de s\u00ed mismo que \u00e9l no cura las enfermedades cuando las hay sino que las previene para que no vengan"
+}

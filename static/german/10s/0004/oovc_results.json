@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.468153715133667,
+  "ecapa_ref_gt_similarity": 0.7298389673233032,
+  "ecapa_src_converted_similarity": 0.06136742979288101,
+  "ecapa_src_gt_similarity": 0.7428332567214966,
+  "redimnet_ref_converted_similarity": 0.37548828125,
+  "redimnet_ref_gt_similarity": 0.77734375,
+  "redimnet_src_converted_similarity": 0.067626953125,
+  "redimnet_src_gt_similarity": 0.77587890625,
+  "dns_mos_gt": 3.798848009109497,
+  "dns_mos_gen": 3.811846399307251,
+  "wer_src": 0.125,
+  "cer_src": 0.1,
+  "transcription_src": " herein rief der professor sich erhebend die th\u00fcre \u00f6ffnete sich und es erschien ein erdlicher doch frisch und bl\u00fchend aussehender mann von stattlicher",
+  "wer_converted": 0.25,
+  "cer_converted": 0.0625,
+  "transcription_converted": " \u00bbRein\u00ab, rief der Professor, sich erhebend. Die T\u00fcr er\u00f6ffnete sich, und es erschien ein ehrlicher, doch frisch und bl\u00fchend aussehender Mann von starklicher Leibesf\u00fchle.",
+  "index": 2,
+  "source_text": "herein rief der professor sich erhebend die t\u00fcre \u00f6ffnete sich und es erschien ein \u00e4ltlicher doch frisch und bl\u00fchend aussehender mann von stattlicher leibesf\u00fclle",
+  "input_seed_folder": "librispeech_test_set_10s_seed_42",
+  "output_seed_folder": "librispeech_test_set_10s_seed_42",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_10s_seed_42/2_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_10s_seed_42/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_10s_seed_42/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_10s_seed_42/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_10s_seed_42/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_10s_seed_42/2_ref_src2.wav",
+    "converted": "/workspace/outputs/german/librispeech_test_set_10s_seed_42/2/converted.wav"
+  }
+}

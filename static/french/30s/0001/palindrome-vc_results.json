@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5029239654541016,
+  "ecapa_ref_gt_similarity": 0.8206855058670044,
+  "ecapa_src_converted_similarity": 0.1555853933095932,
+  "ecapa_src_gt_similarity": 0.7333135008811951,
+  "redimnet_ref_converted_similarity": 0.560546875,
+  "redimnet_ref_gt_similarity": 0.85400390625,
+  "redimnet_src_converted_similarity": 0.0262451171875,
+  "redimnet_src_gt_similarity": 0.7421875,
+  "dns_mos_gt": 3.9198620319366455,
+  "dns_mos_gen": 4.247600555419922,
+  "wer_src": 0.03278688524590164,
+  "cer_src": 0.026490066225165563,
+  "transcription_src": " signe que oui et se redressa fi\u00e8rement bien ainsi avec le lasso tu arr\u00eaterais un boeuf ali fit signe de la t\u00eate que oui un tigre ali fit le m\u00eame signe un lion ali fit le geste d'un homme qui lance le lasso et imita un rugissement \u00e9trangl\u00e9 bien je comprends dit monte cristo tu as chass\u00e9 le lion",
+  "wer_converted": 0.04918032786885246,
+  "cer_converted": 0.046357615894039736,
+  "transcription_converted": " que oui et se redressa fi\u00e8rement bien ainsi avec le lasso tu arr\u00eaterais un boeuf ali fit signe de la t\u00eate que oui un tigre ali fit le m\u00eame signe un lion ali fit le geste d'un homme qui lance le lasso et imita un rugissement \u00e9trangl\u00e9 bien je comprends dit monte cristo tu as chass\u00e9 le lion",
+  "index": 9,
+  "source_text": "ali fit signe que oui et se redressa fi\u00e8rement bien ainsi avec le lasso tu arr\u00eaterais un boeuf ali fit signe de la t\u00eate que oui un tigre ali fit le m\u00eame signe un lion ali fit le geste d'un homme qui lance le lasso et imita un rugissement \u00e9trangl\u00e9 bien je comprends dit monte-cristo tu as chass\u00e9 le lion"
+}

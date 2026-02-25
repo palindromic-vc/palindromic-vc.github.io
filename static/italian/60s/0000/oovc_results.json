@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.4724547863006592,
+  "ecapa_ref_gt_similarity": 0.8262548446655273,
+  "ecapa_src_converted_similarity": 0.08760975301265717,
+  "ecapa_src_gt_similarity": 0.8206353187561035,
+  "redimnet_ref_converted_similarity": 0.375,
+  "redimnet_ref_gt_similarity": 0.8642578125,
+  "redimnet_src_converted_similarity": 0.1312255859375,
+  "redimnet_src_gt_similarity": 0.8447265625,
+  "dns_mos_gt": 3.6010050773620605,
+  "dns_mos_gen": 3.9417669773101807,
+  "wer_src": 0.15,
+  "cer_src": 0.03,
+  "transcription_src": " e per\u00f2 lo minor giron suggella nel segno suo \u00e8 Sodoma e Caorsa e chi spregiando Dio col cor favella.",
+  "wer_converted": 0.6,
+  "cer_converted": 0.23,
+  "transcription_converted": " e per ora minore gir\u00f2 in sugella per il segno suo e soldo mai cavossa e chi spregiando dio col cor farebbe",
+  "index": 5,
+  "source_text": "e per\u00f2 lo minor giron suggella del segno suo e soddoma e caorsa e chi spregiando dio col cor favella",
+  "input_seed_folder": "librispeech_test_set_60s_seed_37",
+  "output_seed_folder": "librispeech_test_set_60s_seed_37",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_60s_seed_37/5_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_60s_seed_37/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_60s_seed_37/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_60s_seed_37/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_60s_seed_37/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_60s_seed_37/5_ref_src2.wav",
+    "converted": "/workspace/outputs/italian/librispeech_test_set_60s_seed_37/5/converted.wav"
+  }
+}

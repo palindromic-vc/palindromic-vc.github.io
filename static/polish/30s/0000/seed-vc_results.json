@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7331410050392151,
+  "ecapa_ref_gt_similarity": 0.7118592262268066,
+  "ecapa_src_converted_similarity": 0.11889281123876572,
+  "ecapa_src_gt_similarity": 0.7980863451957703,
+  "redimnet_ref_converted_similarity": 0.6806640625,
+  "redimnet_ref_gt_similarity": 0.6455078125,
+  "redimnet_src_converted_similarity": 0.265869140625,
+  "redimnet_src_gt_similarity": 0.7919921875,
+  "dns_mos_gt": 3.6271331310272217,
+  "dns_mos_gen": 4.233800888061523,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " nape\u0142nia\u0142y pok\u00f3j \u015bwiergotem i szeptem rozsypywa\u0142y si\u0119 jak motyle dooko\u0142a wieloramiennej lampy uderza\u0142y t\u0142umem barwnym w matowe starcze dziurki od kluczy",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " nape\u0142nia\u0142y pok\u00f3j \u015bwiergotem i szeptem rozsypywa\u0142y si\u0119 jak motyle dooko\u0142a wieloramiennej lampy uderza\u0142y t\u0142umem barwnym w matowe starcze dziurki od kluczy",
+  "index": 2,
+  "source_text": "nape\u0142nia\u0142y pok\u00f3j \u015bwiergotem i szeptem rozsypywa\u0142y si\u0119 jak motyle dooko\u0142a wieloramiennej lampy uderza\u0142y t\u0142umem barwnym w matowe starcze dziurki od kluczy",
+  "input_seed_folder": "librispeech_test_set_30s_seed_37",
+  "output_seed_folder": "librispeech_test_set_30s_seed_37",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_30s_seed_37/2_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_30s_seed_37/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_30s_seed_37/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_30s_seed_37/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_30s_seed_37/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_30s_seed_37/2_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/polish/librispeech_test_set_30s_seed_37/2/converted.wav"
+  }
+}

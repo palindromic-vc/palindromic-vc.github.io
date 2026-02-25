@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.42227113246917725,
+  "ecapa_ref_gt_similarity": 0.8559001684188843,
+  "ecapa_src_converted_similarity": 0.011946430429816246,
+  "ecapa_src_gt_similarity": 0.7783607840538025,
+  "redimnet_ref_converted_similarity": 0.50048828125,
+  "redimnet_ref_gt_similarity": 0.87646484375,
+  "redimnet_src_converted_similarity": -0.039886474609375,
+  "redimnet_src_gt_similarity": 0.82080078125,
+  "dns_mos_gt": 3.887807846069336,
+  "dns_mos_gen": 3.7746078968048096,
+  "wer_src": 0.07692307692307693,
+  "cer_src": 0.014084507042253521,
+  "transcription_src": " exclaimed bill harman to his wife as they went through the lighted hall",
+  "wer_converted": 0.46153846153846156,
+  "cer_converted": 0.30985915492957744,
+  "transcription_converted": " They exclaimed power and chose white as they went through the lighted hall.",
+  "index": 3,
+  "source_text": "EXCLAIMED BILL HARMON TO HIS WIFE AS THEY WENT THROUGH THE LIGHTED HALL"
+}

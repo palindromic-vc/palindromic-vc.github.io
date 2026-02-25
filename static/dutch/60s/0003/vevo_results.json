@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5004340410232544,
+  "ecapa_ref_gt_similarity": 0.6317657828330994,
+  "ecapa_src_converted_similarity": 0.1718399077653885,
+  "ecapa_src_gt_similarity": 0.8687472343444824,
+  "redimnet_ref_converted_similarity": 0.35986328125,
+  "redimnet_ref_gt_similarity": 0.69921875,
+  "redimnet_src_converted_similarity": 0.07757568359375,
+  "redimnet_src_gt_similarity": 0.88720703125,
+  "dns_mos_gt": 4.0741119384765625,
+  "dns_mos_gen": 2.768235683441162,
+  "wer_src": 0.13513513513513514,
+  "cer_src": 0.03398058252427184,
+  "transcription_src": " nou had hij er den bovenmeester stevig tusschen had hij laatst van den burgemeester geen schrobbering gekregen omdat de meester geklaagd had over de lantaarn voor de school die om negen uur geen olie meer had",
+  "wer_converted": 0.24324324324324326,
+  "cer_converted": 0.07766990291262135,
+  "transcription_converted": " nou had hij er den bovenmeester stevig tusschen had hij laatst van den deurgemeester geen schrobiering gekregen omdat de meester geklaagd had over de langtagen van de school die om negen uur geen olie meer had",
+  "index": 2,
+  "source_text": "nou had hij d' r de bovenmeester stevig tussen had hij laatst van de burgemeester geen schrobbering gekregen omdat de meester geklaagd had over de lantaarn voor de school die om negen uur geen olie meer had"
+}

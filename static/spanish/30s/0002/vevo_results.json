@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7233890295028687,
+  "ecapa_ref_gt_similarity": 0.8234105110168457,
+  "ecapa_src_converted_similarity": 0.07571281492710114,
+  "ecapa_src_gt_similarity": 0.7826654314994812,
+  "redimnet_ref_converted_similarity": 0.75830078125,
+  "redimnet_ref_gt_similarity": 0.8857421875,
+  "redimnet_src_converted_similarity": 0.11444091796875,
+  "redimnet_src_gt_similarity": 0.787109375,
+  "dns_mos_gt": 3.9039340019226074,
+  "dns_mos_gen": 3.801025152206421,
+  "wer_src": 0.13636363636363635,
+  "cer_src": 0.02564102564102564,
+  "transcription_src": " a ver si hoy teneis mas fortuna murmur\u00f3 la mujer desde la cama en la cocina encontrareis el capazo de las provisiones",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " a ver si hoy ten\u00e9is m\u00e1s fortuna murmur\u00f3 la mujer desde la cama en la cocina encontrar\u00e9is el capazo de las provisiones",
+  "index": 3,
+  "source_text": "a ver si hoy ten\u00e9is m\u00e1s fortuna murmur\u00f3 la mujer desde la cama en la cocina encontrar\u00e9is el capazo de las provisiones"
+}

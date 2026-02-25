@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5096426010131836,
+  "ecapa_ref_gt_similarity": 0.7647935748100281,
+  "ecapa_src_converted_similarity": 0.1615714430809021,
+  "ecapa_src_gt_similarity": 0.7837018370628357,
+  "redimnet_ref_converted_similarity": 0.5625,
+  "redimnet_ref_gt_similarity": 0.83349609375,
+  "redimnet_src_converted_similarity": 0.1279296875,
+  "redimnet_src_gt_similarity": 0.810546875,
+  "dns_mos_gt": 3.884713888168335,
+  "dns_mos_gen": 4.212677955627441,
+  "wer_src": 0.06451612903225806,
+  "cer_src": 0.0427807486631016,
+  "transcription_src": " the fact that it was churning day was another reason why it was inconvenient to have the widows and why consequently mrs poyser should scold molly the housemaid with unusual severity",
+  "wer_converted": 0.06451612903225806,
+  "cer_converted": 0.0427807486631016,
+  "transcription_converted": " the fact that it was churning day was another reason why it was inconvenient to have the widows and why consequently mrs poyser should scold molly the housemaid with unusual severity",
+  "index": 6,
+  "source_text": "THE FACT THAT IT WAS CHURNING DAY WAS ANOTHER REASON WHY IT WAS INCONVENIENT TO HAVE THE WHITTAWS AND WHY CONSEQUENTLY MISSUS POYSER SHOULD SCOLD MOLLY THE HOUSEMAID WITH UNUSUAL SEVERITY"
+}

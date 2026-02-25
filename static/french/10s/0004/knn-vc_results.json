@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6428924798965454,
+  "ecapa_ref_gt_similarity": 0.863732099533081,
+  "ecapa_src_converted_similarity": 0.32139089703559875,
+  "ecapa_src_gt_similarity": 0.8273445963859558,
+  "redimnet_ref_converted_similarity": 0.5927734375,
+  "redimnet_ref_gt_similarity": 0.86572265625,
+  "redimnet_src_converted_similarity": 0.209716796875,
+  "redimnet_src_gt_similarity": 0.82275390625,
+  "dns_mos_gt": 4.044458389282227,
+  "dns_mos_gen": 3.9117210507392883,
+  "wer_src": 0.02702702702702703,
+  "cer_src": 0.010471204188481676,
+  "transcription_src": " quand il fut grand on l'abattit on le d\u00e9pouilla de son \u00e9corce et il devint selon son v\u0153u grand m\u00e2t sur une fr\u00e9gate mais il s'ennuyait \u00e0 cause de la longueur et de la monotonie des travers\u00e9es",
+  "wer_converted": 0.2702702702702703,
+  "cer_converted": 0.15706806282722513,
+  "transcription_converted": " Quand il subit, on l'a b\u00e2ti. On le d\u00e9pouilla de son \u00e9paule et il devint, selon son oeuf, grand Mathieu et le Sredate. Mais il s'ennuyait \u00e0 cause de la longueur et de la monotonie des travers\u00e9es.",
+  "index": 0,
+  "source_text": "quand il fut grand on l'abattit on le d\u00e9pouilla de son \u00e9corce et il devint selon son voeu grand m\u00e2t sur une fr\u00e9gate mais il s'ennuyait \u00e0 cause de la longueur et de la monotonie des travers\u00e9es",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_10s_seed_73/0_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_10s_seed_73/0_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_10s_seed_73/0_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_10s_seed_73/0_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_10s_seed_73/0_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_10s_seed_73/0_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/french/librispeech_test_set_10s_seed_73/0/converted.wav"
+  }
+}

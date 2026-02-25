@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7345061302185059,
+  "ecapa_ref_gt_similarity": 0.8218770623207092,
+  "ecapa_src_converted_similarity": 0.09688206017017365,
+  "ecapa_src_gt_similarity": 0.8299329280853271,
+  "redimnet_ref_converted_similarity": 0.69580078125,
+  "redimnet_ref_gt_similarity": 0.85400390625,
+  "redimnet_src_converted_similarity": 0.335693359375,
+  "redimnet_src_gt_similarity": 0.859375,
+  "dns_mos_gt": 3.99570894241333,
+  "dns_mos_gen": 3.9120194911956787,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " iba sancho en medio con su vara que no hab\u00eda m\u00e1s que ver y pocas calles andadas del lugar sintieron ruido de cuchilladas acudieron all\u00e1",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " iba sancho en medio con su vara que no hab\u00eda m\u00e1s que ver y pocas calles andadas del lugar sintieron ruido de cuchilladas acudieron all\u00e1",
+  "index": 0,
+  "source_text": "iba sancho en medio con su vara que no hab\u00eda m\u00e1s que ver y pocas calles andadas del lugar sintieron ruido de cuchilladas acudieron all\u00e1"
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7113372087478638,
+  "ecapa_ref_gt_similarity": 0.7856091260910034,
+  "ecapa_src_converted_similarity": 0.09392343461513519,
+  "ecapa_src_gt_similarity": 0.8065623044967651,
+  "redimnet_ref_converted_similarity": 0.662109375,
+  "redimnet_ref_gt_similarity": 0.806640625,
+  "redimnet_src_converted_similarity": 0.1962890625,
+  "redimnet_src_gt_similarity": 0.7265625,
+  "dns_mos_gt": 3.9061480363210044,
+  "dns_mos_gen": 4.04309360186259,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " son occupation \u00e9tait d'une importance bien secondaire et les bruits qui attribuent de la gravit\u00e9 aux incidents qui viennent d'\u00eatre expos\u00e9s sont sans gravit\u00e9",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " son occupation \u00e9tait d'une importance bien secondaire et les bruits qui attribuent de la gravit\u00e9 aux incidents qui viennent d'\u00eatre expos\u00e9s sont sans gravit\u00e9",
+  "index": 8,
+  "source_text": "son occupation \u00e9tait d'une importance bien secondaire et les bruits qui attribuent de la gravit\u00e9 aux incidents qui viennent d'\u00eatre expos\u00e9s sont sans gravit\u00e9",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_60s_seed_42/8_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_60s_seed_42/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_60s_seed_42/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_60s_seed_42/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_60s_seed_42/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_60s_seed_42/8_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/french/librispeech_test_set_60s_seed_42/8/converted.wav"
+  }
+}

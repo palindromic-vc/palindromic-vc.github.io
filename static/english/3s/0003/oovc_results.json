@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.4368137717247009,
+  "ecapa_ref_gt_similarity": 0.7647774815559387,
+  "ecapa_src_converted_similarity": 0.21743375062942505,
+  "ecapa_src_gt_similarity": 0.7836765050888062,
+  "redimnet_ref_converted_similarity": 0.337890625,
+  "redimnet_ref_gt_similarity": 0.833984375,
+  "redimnet_src_converted_similarity": 0.07568359375,
+  "redimnet_src_gt_similarity": 0.810546875,
+  "dns_mos_gt": 3.9562455813090005,
+  "dns_mos_gen": 4.015412410100301,
+  "wer_src": 0.06451612903225806,
+  "cer_src": 0.0427807486631016,
+  "transcription_src": " the fact that it was churning day was another reason why it was inconvenient to have the widows and why consequently mrs poyser should scold molly the housemaid with unusual severity",
+  "wer_converted": 0.06451612903225806,
+  "cer_converted": 0.0427807486631016,
+  "transcription_converted": " The fact that it was churning day was another reason why it was inconvenient to have the widows, and why, consequently, Mrs. Poyser should scold Molly, the housemaid, with unusual severity.",
+  "index": 6,
+  "source_text": "THE FACT THAT IT WAS CHURNING DAY WAS ANOTHER REASON WHY IT WAS INCONVENIENT TO HAVE THE WHITTAWS AND WHY CONSEQUENTLY MISSUS POYSER SHOULD SCOLD MOLLY THE HOUSEMAID WITH UNUSUAL SEVERITY",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_3s_seed_42/6_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_3s_seed_42/6_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_3s_seed_42/6_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_3s_seed_42/6_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_3s_seed_42/6_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_3s_seed_42/6_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_3s_seed_42/6/converted.wav"
+  }
+}

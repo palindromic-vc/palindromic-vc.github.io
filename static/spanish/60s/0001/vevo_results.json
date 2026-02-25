@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6177458763122559,
+  "ecapa_ref_gt_similarity": 0.8389636278152466,
+  "ecapa_src_converted_similarity": 0.23905892670154572,
+  "ecapa_src_gt_similarity": 0.8718173503875732,
+  "redimnet_ref_converted_similarity": 0.498779296875,
+  "redimnet_ref_gt_similarity": 0.875,
+  "redimnet_src_converted_similarity": 0.0843505859375,
+  "redimnet_src_gt_similarity": 0.89892578125,
+  "dns_mos_gt": 4.03952693939209,
+  "dns_mos_gen": 3.216073751449585,
+  "wer_src": 0.06666666666666667,
+  "cer_src": 0.01744186046511628,
+  "transcription_src": " esto la levar\u00eda al pueblo en que viv\u00eda el capit\u00e1n wentworth tendr\u00edan que frecuentar la misma iglesia y se establecer\u00eda el trato entre ambas familias lo cual no le conven\u00eda y",
+  "wer_converted": 0.03333333333333333,
+  "cer_converted": 0.01744186046511628,
+  "transcription_converted": " esto la llevar\u00eda al pueblo en que viv\u00eda el capit\u00e1n wentworth tendr\u00edan que frecuentar la misma iglesia y se establecer\u00eda el trato entre estas familias lo cual no le conven\u00eda",
+  "index": 2,
+  "source_text": "esto la llevar\u00eda al pueblo en que viv\u00eda el capit\u00e1n wentworth tendr\u00edan que frecuentar la misma iglesia y se establecer\u00eda el trato entre ambas familias lo cual no le conven\u00eda"
+}

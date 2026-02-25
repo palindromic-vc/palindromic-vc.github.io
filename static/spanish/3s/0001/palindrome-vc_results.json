@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7391912937164307,
+  "ecapa_ref_gt_similarity": 0.8586825728416443,
+  "ecapa_src_converted_similarity": 0.05027775466442108,
+  "ecapa_src_gt_similarity": 0.8817044496536255,
+  "redimnet_ref_converted_similarity": 0.65625,
+  "redimnet_ref_gt_similarity": 0.8720703125,
+  "redimnet_src_converted_similarity": 0.054107666015625,
+  "redimnet_src_gt_similarity": 0.89306640625,
+  "dns_mos_gt": 4.145573139190674,
+  "dns_mos_gen": 3.964385986328125,
+  "wer_src": 0.03125,
+  "cer_src": 0.012195121951219513,
+  "transcription_src": " es esta la mujer de que se trata pregunt\u00f3 en voz baja el jud\u00edo hizo un movimiento de cabeza afirmativo el esp\u00eda cambi\u00f3 una mirada con faj\u00edn y parti\u00f3 como una flecha",
+  "wer_converted": 0.0625,
+  "cer_converted": 0.018292682926829267,
+  "transcription_converted": " es \u00e9sta la mujer de que se trata pregunt\u00f3 en voz baja el jud\u00edo hizo un movimiento de cabeza afirmativo el esp\u00eda cambi\u00f3 una mirada con faj\u00edn y parti\u00f3 como una flecha",
+  "index": 7,
+  "source_text": "es esta la mujer de que se trata pregunt\u00f3 en voz baja el jud\u00edo hizo un movimiento de cabeza afirmativo el esp\u00eda cambi\u00f3 una mirada con fagin y parti\u00f3 como una flecha"
+}

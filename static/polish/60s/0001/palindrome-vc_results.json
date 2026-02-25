@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7558459639549255,
+  "ecapa_ref_gt_similarity": 0.7211207151412964,
+  "ecapa_src_converted_similarity": 0.11852430552244186,
+  "ecapa_src_gt_similarity": 0.7780119180679321,
+  "redimnet_ref_converted_similarity": 0.74072265625,
+  "redimnet_ref_gt_similarity": 0.72607421875,
+  "redimnet_src_converted_similarity": 0.10260009765625,
+  "redimnet_src_gt_similarity": 0.83837890625,
+  "dns_mos_gt": 4.154404640197754,
+  "dns_mos_gen": 3.965381622314453,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " mia\u0142em ju\u017c uda\u0107 si\u0119 na spoczynek gdy w oddali rozla\u0142o si\u0119 md\u0142e \u015bwiate\u0142ko na razie nie wiedzia\u0142em co s\u0105dzi\u0107 o zjawisku czy to owad \u015bwiec\u0105cy czy pr\u00f3chno ale pr\u0119dko zrozumia\u0142em \u017ce ani jedno ani drugie",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " Mia\u0142em ju\u017c uda\u0107 si\u0119 na spoczynek, gdy w oddali rozla\u0142o si\u0119 md\u0142e \u015bwiate\u0142ko. Na razie nie wiedzia\u0142em co s\u0105dzi\u0107 o zjawisku. Czy to owad \u015bwiec\u0105cy, czy pr\u00f3chno, ale pr\u0119dko zrozumia\u0142em, \u017ce ani jedno, ani drugie.",
+  "index": 3,
+  "source_text": "mia\u0142em ju\u017c uda\u0107 si\u0119 na spoczynek gdy w oddali rozla\u0142o si\u0119 md\u0142e \u015bwiate\u0142ko na razie nie wiedzia\u0142em co s\u0105dzi\u0107 o zjawisku czy to owad \u015bwiec\u0105cy czy pr\u00f3chno ale pr\u0119dko zrozumia\u0142em \u017ce ani jedno ani drugie"
+}

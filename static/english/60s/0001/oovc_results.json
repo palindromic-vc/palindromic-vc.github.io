@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5044047832489014,
+  "ecapa_ref_gt_similarity": 0.8256688117980957,
+  "ecapa_src_converted_similarity": 0.1071048304438591,
+  "ecapa_src_gt_similarity": 0.8114158511161804,
+  "redimnet_ref_converted_similarity": 0.47412109375,
+  "redimnet_ref_gt_similarity": 0.8310546875,
+  "redimnet_src_converted_similarity": 0.045501708984375,
+  "redimnet_src_gt_similarity": 0.8271484375,
+  "dns_mos_gt": 4.144134044647217,
+  "dns_mos_gen": 4.15996789932251,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " the news circulated with the rapidity of lightning during its progress it kindled every variety of coquetry desire and wild ambition",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " The news circulated with the rapidity of lightning. During its progress, it kindled every variety of coquetry, desire, and wild ambition.",
+  "index": 5,
+  "source_text": "THE NEWS CIRCULATED WITH THE RAPIDITY OF LIGHTNING DURING ITS PROGRESS IT KINDLED EVERY VARIETY OF COQUETRY DESIRE AND WILD AMBITION",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_60s_seed_42/5_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_60s_seed_42/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_60s_seed_42/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_60s_seed_42/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_60s_seed_42/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_60s_seed_42/5_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_60s_seed_42/5/converted.wav"
+  }
+}

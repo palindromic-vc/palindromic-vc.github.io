@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6305347681045532,
+  "ecapa_ref_gt_similarity": 0.8007876873016357,
+  "ecapa_src_converted_similarity": 0.27053165435791016,
+  "ecapa_src_gt_similarity": 0.7477760314941406,
+  "redimnet_ref_converted_similarity": 0.796875,
+  "redimnet_ref_gt_similarity": 0.85791015625,
+  "redimnet_src_converted_similarity": 0.268310546875,
+  "redimnet_src_gt_similarity": 0.84814453125,
+  "dns_mos_gt": 4.063353538513184,
+  "dns_mos_gen": 3.8481154441833496,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " casa do bruxo observou um dos homens designando assim a morada do intrat\u00e1vel e velho ca\u00e7ador que habitava aquelas margens do rio vai ver que \u00e9 algum dos cachorros que morreu tamb\u00e9m que o diabo os leve a todos praguejou o mulato que a peste os acabe malvados",
+  "wer_converted": 0.041666666666666664,
+  "cer_converted": 0.027237354085603113,
+  "transcription_converted": " do bruxo observou um dos homens designando assim a morada do intrat\u00e1vel e velho ca\u00e7ador que habitava aquelas margens do rio vai ver que \u00e9 algum dos cachorros que morreu tamb\u00e9m que o diabo os leve a todos praguejou mulato que a peste os acabe malvados",
+  "index": 7,
+  "source_text": "casa do bruxo observou um dos homens designando assim a morada do intrat\u00e1vel e velho ca\u00e7ador que habitava aquelas margens do rio vai ver que \u00e9 algum dos cachorros que morreu tamb\u00e9m que o diabo os leve a todos praguejou o mulato que a peste os acabe malvados"
+}

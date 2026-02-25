@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.745389461517334,
+  "ecapa_ref_gt_similarity": 0.8732633590698242,
+  "ecapa_src_converted_similarity": 0.13878491520881653,
+  "ecapa_src_gt_similarity": 0.8935860991477966,
+  "redimnet_ref_converted_similarity": 0.65673828125,
+  "redimnet_ref_gt_similarity": 0.888671875,
+  "redimnet_src_converted_similarity": 0.06280517578125,
+  "redimnet_src_gt_similarity": 0.91748046875,
+  "dns_mos_gt": 3.7929395266941617,
+  "dns_mos_gen": 4.110172680446079,
+  "wer_src": 0.03636363636363636,
+  "cer_src": 0.028125,
+  "transcription_src": " pesta\u00f1a gran rato y otras veces cerrarlos apretando los labios y enarcando las cejas f\u00e1cilmente conocimos que alg\u00fan accidente de locura le hab\u00eda sobrevenido mas \u00e9l nos dio a entender presto de ser verdad lo que pens\u00e1bamos porque se levant\u00f3 con gran furia del suelo donde se hab\u00eda echado y arremeti\u00f3 con el primero que",
+  "wer_converted": 0.07272727272727272,
+  "cer_converted": 0.034375,
+  "transcription_converted": " esta\u00f1a gran rato y otras veces cerrarlos apretando los labios y enalcando las cejas f\u00e1cilmente conocimos que alg\u00fan accidente de locura le hab\u00eda sobrevenido mas \u00e9l nos dio a entender presto de ser verdad lo que pens\u00e1bamos porque se levant\u00f3 con gran furia del suelo donde se hab\u00eda echado y arremeti\u00f3 con el primero que",
+  "index": 4,
+  "source_text": "pesta\u00f1a gran rato y otras veces cerrarlos apretando los labios y enarcando las cejas f\u00e1cilmente conocimos que alg\u00fan accidente de locura le hab\u00eda sobrevenido mas \u00e9l nos dio a entender presto ser verdad lo que pens\u00e1bamos porque se levant\u00f3 con gran furia del suelo donde se hab\u00eda echado y arremeti\u00f3 con el primero que hall\u00f3",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/4_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/4_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/4_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/4_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/4_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/4_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/spanish/librispeech_test_set_3s_seed_42/4/converted.wav"
+  }
+}

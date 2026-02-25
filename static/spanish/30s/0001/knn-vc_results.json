@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5825240612030029,
+  "ecapa_ref_gt_similarity": 0.8426328301429749,
+  "ecapa_src_converted_similarity": 0.0908583477139473,
+  "ecapa_src_gt_similarity": 0.8556784987449646,
+  "redimnet_ref_converted_similarity": 0.62646484375,
+  "redimnet_ref_gt_similarity": 0.86328125,
+  "redimnet_src_converted_similarity": 0.04632568359375,
+  "redimnet_src_gt_similarity": 0.89306640625,
+  "dns_mos_gt": 3.8209784030914307,
+  "dns_mos_gen": 3.670461734135946,
+  "wer_src": 0.058823529411764705,
+  "cer_src": 0.005813953488372093,
+  "transcription_src": " pues en tal traje y a tales horas y siendo tan principal anda fuera de su casa no hay dudar en eso respondi\u00f3 el maestre sala y m\u00e1s que esa sospecha la confirman sus l\u00e1grimas",
+  "wer_converted": 0.08823529411764706,
+  "cer_converted": 0.01744186046511628,
+  "transcription_converted": " pues en tal traje y a tales horas y siendo tan principal anda fuera de su casa no hay dudar en eso respondi\u00f3 el maestra sala y m\u00e1s que esa sospecha la confirma sus l\u00e1grimas",
+  "index": 8,
+  "source_text": "pues en tal traje y a tales horas y siendo tan principal anda fuera de su casa no hay dudar en eso respondi\u00f3 el maestresala y m\u00e1s que esa sospecha la confirman sus l\u00e1grimas",
+  "input_seed_folder": "librispeech_test_set_30s_seed_42",
+  "output_seed_folder": "librispeech_test_set_30s_seed_42",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_30s_seed_42/8_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_30s_seed_42/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_30s_seed_42/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_30s_seed_42/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_30s_seed_42/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_30s_seed_42/8_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/spanish/librispeech_test_set_30s_seed_42/8/converted.wav"
+  }
+}

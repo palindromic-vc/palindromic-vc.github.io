@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5897409915924072,
+  "ecapa_ref_gt_similarity": 0.8154699802398682,
+  "ecapa_src_converted_similarity": 0.1578059196472168,
+  "ecapa_src_gt_similarity": 0.7598487734794617,
+  "redimnet_ref_converted_similarity": 0.580078125,
+  "redimnet_ref_gt_similarity": 0.8720703125,
+  "redimnet_src_converted_similarity": 0.1270751953125,
+  "redimnet_src_gt_similarity": 0.80908203125,
+  "dns_mos_gt": 3.910224676132202,
+  "dns_mos_gen": 4.012829780578613,
+  "wer_src": 0.022727272727272728,
+  "cer_src": 0.00423728813559322,
+  "transcription_src": " o homem ao destacar-se do \u00faltimo elo da cadeia dos seres sentiu-se forte e senhor da terra a natureza oferecia lhe por toda a parte seus peitos uberantes e este regozijo de harmonia ligava a sua exist\u00eancia \u00e0 vida pante\u00edstica do universo",
+  "wer_converted": 0.045454545454545456,
+  "cer_converted": 0.01694915254237288,
+  "transcription_converted": " o homem ao destacar-se do \u00faltimo elo da cadeia dos seres sentiu-se forte e senhor da terra a natureza oferecia-lhe por toda a parte seus peitos obedentes e este regozijo de harmonia ligava a sua exist\u00eancia \u00e0 vida pante\u00edstica do universo",
+  "index": 6,
+  "source_text": "o homem ao destacar-se do \u00faltimo elo da cadeia dos seres sentiu-se forte e senhor da terra a natureza oferecia-lhe por toda a parte seus peitos uberantes e este regozijo de harmonia ligava a sua exist\u00eancia a vida pante\u00edstica do universo"
+}

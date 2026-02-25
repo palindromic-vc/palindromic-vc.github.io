@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5763494372367859,
+  "ecapa_ref_gt_similarity": 0.8330899477005005,
+  "ecapa_src_converted_similarity": 0.06609566509723663,
+  "ecapa_src_gt_similarity": 0.600427508354187,
+  "redimnet_ref_converted_similarity": 0.5615234375,
+  "redimnet_ref_gt_similarity": 0.861328125,
+  "redimnet_src_converted_similarity": 0.04888916015625,
+  "redimnet_src_gt_similarity": 0.7275390625,
+  "dns_mos_gt": 4.200100421905518,
+  "dns_mos_gen": 3.814981460571289,
+  "wer_src": 0.0625,
+  "cer_src": 0.025477707006369428,
+  "transcription_src": " i think the next glass cap a magician makes will have neither brains nor heart for then it will not object to catching mice and may prove of some use to us",
+  "wer_converted": 0.03125,
+  "cer_converted": 0.01910828025477707,
+  "transcription_converted": " I think the next glass cat the magician makes will have neither brains nor heart, for then it will not object to catching mice, and they prove of some use to us.",
+  "index": 2,
+  "source_text": "I THINK THE NEXT GLASS CAT THE MAGICIAN MAKES WILL HAVE NEITHER BRAINS NOR HEART FOR THEN IT WILL NOT OBJECT TO CATCHING MICE AND MAY PROVE OF SOME USE TO US",
+  "input_seed_folder": "librispeech_test_set_30s_seed_37",
+  "output_seed_folder": "librispeech_test_set_30s_seed_37",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_30s_seed_37/2_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_30s_seed_37/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_30s_seed_37/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_30s_seed_37/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_30s_seed_37/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_30s_seed_37/2_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_30s_seed_37/2/converted.wav"
+  }
+}

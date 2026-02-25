@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7200349569320679,
+  "ecapa_ref_gt_similarity": 0.8205788135528564,
+  "ecapa_src_converted_similarity": 0.12001575529575348,
+  "ecapa_src_gt_similarity": 0.7276297211647034,
+  "redimnet_ref_converted_similarity": 0.72900390625,
+  "redimnet_ref_gt_similarity": 0.87646484375,
+  "redimnet_src_converted_similarity": -0.00853729248046875,
+  "redimnet_src_gt_similarity": 0.80419921875,
+  "dns_mos_gt": 4.286154508590698,
+  "dns_mos_gen": 3.995365262031555,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " e a ogni uscio l'indicazione dell'ufficio l'illustrissimo signor marchese non concedeva udienza se non nei giorni fissati e nelle ore fissate il mercoled\u00ec e il sabato dalle dieci alle undici e",
+  "wer_converted": 0.0967741935483871,
+  "cer_converted": 0.020833333333333332,
+  "transcription_converted": " e ogni uscio a indicazione dell'ufficio l'illustrissimo signor marchese non concedeva udienza se non nei giorni fissati e nelle ore fissate il mercoled\u00ec e il sabato dalle dieci alle undici e",
+  "index": 6,
+  "source_text": "e a ogni uscio l'indicazione dell'ufficio l'illustrissimo signor marchese non concedeva udienza se non nei giorni fissati e nelle ore fissate il mercoled\u00ec e il sabato dalle dieci alle undici e",
+  "input_seed_folder": "librispeech_test_set_3s_seed_37",
+  "output_seed_folder": "librispeech_test_set_3s_seed_37",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_3s_seed_37/6_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_3s_seed_37/6_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_3s_seed_37/6_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_3s_seed_37/6_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_3s_seed_37/6_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_3s_seed_37/6_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/italian/librispeech_test_set_3s_seed_37/6/converted.wav"
+  }
+}

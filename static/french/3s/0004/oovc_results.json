@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.4316869080066681,
+  "ecapa_ref_gt_similarity": 0.8309998512268066,
+  "ecapa_src_converted_similarity": 0.3665180206298828,
+  "ecapa_src_gt_similarity": 0.795027494430542,
+  "redimnet_ref_converted_similarity": 0.53369140625,
+  "redimnet_ref_gt_similarity": 0.861328125,
+  "redimnet_src_converted_similarity": 0.239013671875,
+  "redimnet_src_gt_similarity": 0.8369140625,
+  "dns_mos_gt": 3.971859335899353,
+  "dns_mos_gen": 3.8964377641677856,
+  "wer_src": 0.11538461538461539,
+  "cer_src": 0.087248322147651,
+  "transcription_src": " un vol d'oiseaux nocturnes au travers des charpentes d'un clocher mais il se calma m\u00e9content de lui est-ce qu'on ne pouvait faire les choses",
+  "wer_converted": 0.15384615384615385,
+  "cer_converted": 0.18120805369127516,
+  "transcription_converted": " nocturne au travers des charpentes d'un clocher mais il se calma m\u00e9content de lui est-ce qu'on ne pouvait faire les choses",
+  "index": 1,
+  "source_text": "un vol d'oiseau nocturne au travers des charpentes d'un clocher mais il se calma m\u00e9content de lui est-ce qu'on ne pouvait faire les choses froidement",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_3s_seed_42/1_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_3s_seed_42/1_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_3s_seed_42/1_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_3s_seed_42/1_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_3s_seed_42/1_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_3s_seed_42/1_ref_src2.wav",
+    "converted": "/workspace/outputs/french/librispeech_test_set_3s_seed_42/1/converted.wav"
+  }
+}

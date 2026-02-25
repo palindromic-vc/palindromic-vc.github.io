@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6843596696853638,
+  "ecapa_ref_gt_similarity": 0.8057631254196167,
+  "ecapa_src_converted_similarity": 0.0037253722548484802,
+  "ecapa_src_gt_similarity": 0.8909410238265991,
+  "redimnet_ref_converted_similarity": 0.64697265625,
+  "redimnet_ref_gt_similarity": 0.77880859375,
+  "redimnet_src_converted_similarity": 0.00439453125,
+  "redimnet_src_gt_similarity": 0.91650390625,
+  "dns_mos_gt": 4.16967248916626,
+  "dns_mos_gen": 4.106348991394043,
+  "wer_src": 0.1388888888888889,
+  "cer_src": 0.13122171945701358,
+  "transcription_src": " cette premi\u00e8re journ\u00e9e lui parut d\u00e9licieuse il crut que le roi des rois l'honorait selon ses m\u00e9rites la seconde lui parut moins agr\u00e9able la troisi\u00e8me fut g\u00eanante la quatri\u00e8me fut insupportable la cinqui\u00e8me fut un supplice la quatri\u00e8me fut un supplice",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " cette premi\u00e8re journ\u00e9e lui parut d\u00e9licieuse il crut que le roi des rois l'honorait selon ses m\u00e9rites la seconde lui parut moins agr\u00e9able la troisi\u00e8me fut g\u00eanante la quatri\u00e8me fut insupportable la cinqui\u00e8me fut un supplice",
+  "index": 2,
+  "source_text": "cette premi\u00e8re journ\u00e9e lui parut d\u00e9licieuse il crut que le roi des rois l'honorait selon ses m\u00e9rites la seconde lui parut moins agr\u00e9able la troisi\u00e8me fut g\u00eanante la quatri\u00e8me fut insupportable la cinqui\u00e8me fut un supplice"
+}

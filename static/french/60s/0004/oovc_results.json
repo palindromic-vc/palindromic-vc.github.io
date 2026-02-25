@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6954543590545654,
+  "ecapa_ref_gt_similarity": 0.7956864833831787,
+  "ecapa_src_converted_similarity": 0.15781503915786743,
+  "ecapa_src_gt_similarity": 0.7486965656280518,
+  "redimnet_ref_converted_similarity": 0.65380859375,
+  "redimnet_ref_gt_similarity": 0.77392578125,
+  "redimnet_src_converted_similarity": 0.139892578125,
+  "redimnet_src_gt_similarity": 0.70947265625,
+  "dns_mos_gt": 3.757866416658674,
+  "dns_mos_gen": 3.5743770939963206,
+  "wer_src": 0.018518518518518517,
+  "cer_src": 0.003205128205128205,
+  "transcription_src": " c'\u00e9tait un v\u00e9ritable panegyrique de la femme l'auteur y faisait discr\u00e8tement allusion \u00e0 ses sentiments et \u00e0 son amour les deux derni\u00e8res lignes formaient une sorte d'envoi o\u00f9 apr\u00e8s avoir vant\u00e9 la subtilit\u00e9 de sa dame le po\u00e8te exprimait l'espoir de lire dans un doux regard l'approbation de sa muse et de ses v\u0153ux",
+  "wer_converted": 0.018518518518518517,
+  "cer_converted": 0.00641025641025641,
+  "transcription_converted": " C'\u00e9tait un v\u00e9ritable pan\u00e9gyrique de la femme. L'auteur y faisait discr\u00e8tement allusion \u00e0 ses sentiments et \u00e0 son amour. Les deux derni\u00e8res lignes formaient une sorte d'envoi o\u00f9, apr\u00e8s avoir vant\u00e9 la subtilit\u00e9 de sa dame, le po\u00e8te exprimait l'espoir de lire dans un doux regard l'approbation de sa muse et de ses voeux.",
+  "index": 3,
+  "source_text": "c'\u00e9tait un v\u00e9ritable pan\u00e9gyrique de la femme l'auteur y faisait discr\u00e8tement allusion \u00e0 ses sentiments et \u00e0 son amour les deux derni\u00e8res lignes formaient une sorte d'envoi o\u00f9 apr\u00e8s avoir vant\u00e9 la subtilit\u00e9 de sa dame le po\u00e8te exprimait l'espoir de lire dans un doux regard l'approbation de sa muse et de ses v\u0153ux",
+  "input_seed_folder": "librispeech_test_set_60s_seed_73",
+  "output_seed_folder": "librispeech_test_set_60s_seed_73",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_60s_seed_73/3_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_60s_seed_73/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_60s_seed_73/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_60s_seed_73/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_60s_seed_73/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_60s_seed_73/3_ref_src2.wav",
+    "converted": "/workspace/outputs/french/librispeech_test_set_60s_seed_73/3/converted.wav"
+  }
+}

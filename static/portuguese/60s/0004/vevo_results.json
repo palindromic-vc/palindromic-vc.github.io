@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5841014385223389,
+  "ecapa_ref_gt_similarity": 0.7767316102981567,
+  "ecapa_src_converted_similarity": 0.22938522696495056,
+  "ecapa_src_gt_similarity": 0.8418775200843811,
+  "redimnet_ref_converted_similarity": 0.485107421875,
+  "redimnet_ref_gt_similarity": 0.82373046875,
+  "redimnet_src_converted_similarity": 0.1583251953125,
+  "redimnet_src_gt_similarity": 0.8720703125,
+  "dns_mos_gt": 3.844881057739258,
+  "dns_mos_gen": 3.27199387550354,
+  "wer_src": 0.11764705882352941,
+  "cer_src": 0.0182648401826484,
+  "transcription_src": " podia-se \u00e0s vezes sorrir das suas fant\u00e1sticas obras de arte protestar contra as suas teatrais combina\u00e7\u00f5es pol\u00edticas mas atrav\u00e9s de protestos e sorrisos a sua pr\u00f3pria personalidade nunca deixou de maravilhar e de fascinar",
+  "wer_converted": 0.23529411764705882,
+  "cer_converted": 0.0867579908675799,
+  "transcription_converted": " podia-se \u00e0s vezes sorrir das suas fant\u00e1sticas obras de arte protestar contra as suas teatrais combina\u00e7\u00f5es pol\u00edticas mas atrav\u00e9s de protestos e sorrisos a sua preproporcionalidade nos garefou de maravilhar e de fascinar",
+  "index": 1,
+  "source_text": "podia-se as vezes sorrir das suas fant\u00e1sticas obras d'arte protestar contra as suas teatrais combina\u00e7\u00f5es politicas mas atrav\u00e9s de protestos e sorrisos a sua pr\u00f3pria personalidade nunca deixou de maravilhar e de fascinar"
+}

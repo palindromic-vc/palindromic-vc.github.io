@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.44667232036590576,
+  "ecapa_ref_gt_similarity": 0.7893027067184448,
+  "ecapa_src_converted_similarity": 0.0047041550278663635,
+  "ecapa_src_gt_similarity": 0.7422208786010742,
+  "redimnet_ref_converted_similarity": 0.363037109375,
+  "redimnet_ref_gt_similarity": 0.8564453125,
+  "redimnet_src_converted_similarity": 0.17236328125,
+  "redimnet_src_gt_similarity": 0.7919921875,
+  "dns_mos_gt": 4.081330299377441,
+  "dns_mos_gen": 4.008817338943482,
+  "wer_src": 0.022727272727272728,
+  "cer_src": 0.0037593984962406013,
+  "transcription_src": " vers les huit heures du matin je m'\u00e9veillai dans mon lit dans la cabane o\u00f9 nous avaient transport\u00e9 des b\u00fbcherons qui nous avaient trouv\u00e9s sans connaissance enfonc\u00e9s jusqu'au cou dans un banc de neige du voisinage heureusement que personne ne s'\u00e9tait cass\u00e9 les reins",
+  "wer_converted": 0.06818181818181818,
+  "cer_converted": 0.03759398496240601,
+  "transcription_converted": " vers les huit heures du matin je m'\u00e9veillai dans mon lit dans la cabane o\u00f9 nous avaient transport\u00e9 des b\u00fbcherons qu'ils nous avaient trouv\u00e9s sans connaissance enfonc\u00e9s jusqu'au cou dans un banc de neige du voisinage heureusement que personne ne s'\u00e9tait cass\u00e9 les",
+  "index": 5,
+  "source_text": "vers les huit heures du matin je m'\u00e9veillai dans mon lit dans la cabane o\u00f9 nous avaient transport\u00e9s des b\u00fbcherons qui nous avaient trouv\u00e9s sans connaissance enfonc\u00e9s jusqu'au cou dans un banc de neige du voisinage heureusement que personne ne s'\u00e9tait cass\u00e9 les reins",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_10s_seed_73/5_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_10s_seed_73/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_10s_seed_73/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_10s_seed_73/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_10s_seed_73/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_10s_seed_73/5_ref_src2.wav",
+    "converted": "/workspace/outputs/french/librispeech_test_set_10s_seed_73/5/converted.wav"
+  }
+}

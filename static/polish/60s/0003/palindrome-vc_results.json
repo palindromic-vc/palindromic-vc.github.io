@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6932401657104492,
+  "ecapa_ref_gt_similarity": 0.8356618881225586,
+  "ecapa_src_converted_similarity": 0.16693253815174103,
+  "ecapa_src_gt_similarity": 0.8086137771606445,
+  "redimnet_ref_converted_similarity": 0.73486328125,
+  "redimnet_ref_gt_similarity": 0.87841796875,
+  "redimnet_src_converted_similarity": 0.00666046142578125,
+  "redimnet_src_gt_similarity": 0.84912109375,
+  "dns_mos_gt": 3.8384718894958496,
+  "dns_mos_gen": 3.942167282104492,
+  "wer_src": 0.0967741935483871,
+  "cer_src": 0.01507537688442211,
+  "transcription_src": " zreszt\u0105 gdybym go nawet znalaz\u0142 to mo\u017ce nie uwierzy\u0107 opowie\u015bci nieznajomego nie troszcz si\u0119 pan przerwa\u0142 mi puckins b\u0119dziemy razem odnajdziemy indusa a ten pozna mnie nawet bez szkie\u0142 powi\u0119kszaj\u0105cych",
+  "wer_converted": 0.0967741935483871,
+  "cer_converted": 0.01507537688442211,
+  "transcription_converted": " Zreszt\u0105, gdybym go nawet znalaz\u0142, to mo\u017ce nie uwierzy\u0107 opowie\u015bci nieznajomego. Nie troszcz si\u0119, pan, przerwa\u0142 mi Puckins. B\u0119dziemy razem. Odnajdziemy Indusa, a ten pozna ni\u0105 nawet bez szkie\u0142 powi\u0119kszaj\u0105cych.",
+  "index": 8,
+  "source_text": "z reszt\u0105 gdybym go nawet znalaz\u0142 to mo\u017ce nie uwierzy\u0107 opowie\u015bci nieznajomego nie troszcz si\u0119 pan przerwa\u0142 mi puckins b\u0119dziemy razem odnajdziemy indusa a ten pozna mi\u0119 nawet bez szkie\u0142 powi\u0119kszaj\u0105cych"
+}

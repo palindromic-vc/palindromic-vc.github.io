@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7026879787445068,
+  "ecapa_ref_gt_similarity": 0.8323587775230408,
+  "ecapa_src_converted_similarity": 0.0676746740937233,
+  "ecapa_src_gt_similarity": 0.8107020854949951,
+  "redimnet_ref_converted_similarity": 0.62353515625,
+  "redimnet_ref_gt_similarity": 0.86962890625,
+  "redimnet_src_converted_similarity": -0.0146942138671875,
+  "redimnet_src_gt_similarity": 0.8388671875,
+  "dns_mos_gt": 3.7598154544830322,
+  "dns_mos_gen": 2.857008218765259,
+  "wer_src": 0.09375,
+  "cer_src": 0.04411764705882353,
+  "transcription_src": " entre calais et valenciennes le fon\u00e7age des puits de mines rencontrait des difficult\u00e9s inou\u00efes pour traverser les mastos s\u00e9journant sous terre en nappes immenses au niveau des vall\u00e9es les plus basses",
+  "wer_converted": 0.21875,
+  "cer_converted": 0.08823529411764706,
+  "transcription_converted": " entre calais et valenciens le fon\u00e7age des puits de mines rencontrait des difficult\u00e9s inou\u00efes pour traverser les basses taux s\u00e9journant sur terre en apimence au niveau des vall\u00e9es les plus basses",
+  "index": 2,
+  "source_text": "entre calais et valenciennes le fon\u00e7age des puits de mine rencontrait des difficult\u00e9s inou\u00efes pour traverser les masses d'eau s\u00e9journant sous terre en nappes immenses au niveau des vall\u00e9es les plus basses"
+}

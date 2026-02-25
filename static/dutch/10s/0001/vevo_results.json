@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7923134565353394,
+  "ecapa_ref_gt_similarity": 0.8559855222702026,
+  "ecapa_src_converted_similarity": 0.1237693727016449,
+  "ecapa_src_gt_similarity": 0.8819838762283325,
+  "redimnet_ref_converted_similarity": 0.69775390625,
+  "redimnet_ref_gt_similarity": 0.82421875,
+  "redimnet_src_converted_similarity": 0.20068359375,
+  "redimnet_src_gt_similarity": 0.88232421875,
+  "dns_mos_gt": 3.7698071002960205,
+  "dns_mos_gen": 4.019630432128906,
+  "wer_src": 0.020833333333333332,
+  "cer_src": 0.004132231404958678,
+  "transcription_src": " doe het zoo goed je kunt als de tijd daar is maar als de toeschouwers fluiten moet je t mij niet wijten kom meta ga door alles ging verder goed want don pedro tarte de wereld zonder een woord te haperen in een speech van twee bladzijden lang",
+  "wer_converted": 0.0625,
+  "cer_converted": 0.024793388429752067,
+  "transcription_converted": " doe het zoo goed je kunt als de tijd er is maar als de toeschouwers fluiten moet je t mij niet wijten kom meta ga door alles ging verder goed want tom pedro tarte de wereld zonder een woord te haperen in een speech van twee bladzijden lang",
+  "index": 6,
+  "source_text": "doe het zoo goed je kunt als de tijd daar is maar als de toeschouwers fluiten moet je t mij niet wijten kom meta ga door alles ging verder goed want don pedro tartte de wereld zonder een woord te haperen in een speech van twee bladzijden lang"
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5468848943710327,
+  "ecapa_ref_gt_similarity": 0.7258378267288208,
+  "ecapa_src_converted_similarity": 0.05773396044969559,
+  "ecapa_src_gt_similarity": 0.8429473042488098,
+  "redimnet_ref_converted_similarity": 0.440185546875,
+  "redimnet_ref_gt_similarity": 0.5849609375,
+  "redimnet_src_converted_similarity": 0.11474609375,
+  "redimnet_src_gt_similarity": 0.8974609375,
+  "dns_mos_gt": 4.014451901117961,
+  "dns_mos_gen": 3.9093093872070312,
+  "wer_src": 0.034482758620689655,
+  "cer_src": 0.03932584269662921,
+  "transcription_src": " gdyby j\u0105 by\u0142 paj\u0105k w por\u0119 nie naci\u0105gn\u0105\u0142 i nie przytwierdzi\u0142 do li\u015bcia mchu zrozumia\u0142em \u017ce mam przed sob\u0105 krzy\u017caka gnie\u017cd\u017c\u0105cego si\u0119 nad wodami kt\u00f3ry rozpoczyna budow\u0119 swojej sieci KONIEC",
+  "wer_converted": 0.41379310344827586,
+  "cer_converted": 0.15730337078651685,
+  "transcription_converted": " Gdyby j\u0105 by\u0142, by j\u0105 opor\u0105 nie naci\u0105gn\u0105\u0142 i nie przedpierdzi\u0142 do li\u015bcia mu\u0142u. Zrozumia\u0142em, \u017ce mam przed sob\u0105 krzy\u017ca, ta dnie rz\u0105dz\u0119 mu si\u0119 nad wodami, a ty rozpoczyna budow\u0119 swojej sieci.",
+  "index": 2,
+  "source_text": "gdyby j\u0105 by\u0142 paj\u0105k w por\u0119 nie naci\u0105gn\u0105\u0142 i nie przytwierdzi\u0142 do li\u015bcia mchu zrozumia\u0142em \u017ce mam przed sob\u0105 krzy\u017caka gnie\u017cd\u017c\u0105cego si\u0119 nad wodami kt\u00f3ry rozpoczyna budow\u0119 swojej sieci",
+  "input_seed_folder": "librispeech_test_set_3s_seed_73",
+  "output_seed_folder": "librispeech_test_set_3s_seed_73",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_3s_seed_73/2_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_3s_seed_73/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_3s_seed_73/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_3s_seed_73/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_3s_seed_73/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_3s_seed_73/2_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/polish/librispeech_test_set_3s_seed_73/2/converted.wav"
+  }
+}

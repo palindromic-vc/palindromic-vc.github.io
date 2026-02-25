@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7003969550132751,
+  "ecapa_ref_gt_similarity": 0.7842622399330139,
+  "ecapa_src_converted_similarity": 0.13891327381134033,
+  "ecapa_src_gt_similarity": 0.6218263506889343,
+  "redimnet_ref_converted_similarity": 0.564453125,
+  "redimnet_ref_gt_similarity": 0.791015625,
+  "redimnet_src_converted_similarity": 0.2108154296875,
+  "redimnet_src_gt_similarity": 0.67822265625,
+  "dns_mos_gt": 3.8755650520324707,
+  "dns_mos_gen": 4.040524482727051,
+  "wer_src": 0.17142857142857143,
+  "cer_src": 0.043668122270742356,
+  "transcription_src": " es scheint es jeden morgen mehr werden ihrer naturen sprechend lagern sie unter freiem himmel den wohnh\u00e4user verabschieden sie sie besch\u00e4ftigen sich mit dem sch\u00e4rfen der schwerter dem zuspitzen der pfeile mit \u00fcbrigen zu pferde",
+  "wer_converted": 0.2571428571428571,
+  "cer_converted": 0.1091703056768559,
+  "transcription_converted": " es scheint da\u00df jeden morgen mehr werden ihrer natur ansprechend lachen sie unter freiem himmel den wohnh\u00e4user verabschieden sie sie besch\u00e4ftigen sich mit dem sch\u00e4rfen der schwerter dem zuspitzenden der pfeile mit \u00fcbrigen",
+  "index": 5,
+  "source_text": "es scheint dass jeden morgen mehr werden ihrer natur entsprechend lagern sie unter freiem himmel denn wohnh\u00e4user verabscheuen sie sie besch\u00e4ftigen sich mit dem sch\u00e4rfen der schwerter dem zuspitzen der pfeile mit \u00fcbungen zu pferde"
+}

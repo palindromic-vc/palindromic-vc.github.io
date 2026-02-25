@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5053055882453918,
+  "ecapa_ref_gt_similarity": 0.8322908878326416,
+  "ecapa_src_converted_similarity": 0.1994137465953827,
+  "ecapa_src_gt_similarity": 0.8689011335372925,
+  "redimnet_ref_converted_similarity": 0.39990234375,
+  "redimnet_ref_gt_similarity": 0.87158203125,
+  "redimnet_src_converted_similarity": 0.140869140625,
+  "redimnet_src_gt_similarity": 0.8720703125,
+  "dns_mos_gt": 3.696027934551239,
+  "dns_mos_gen": 3.6370409727096558,
+  "wer_src": 0.03333333333333333,
+  "cer_src": 0.005988023952095809,
+  "transcription_src": " volete voi volete volete voi ballare volete voi volete co gamberi danzare che male gli rispose il candido nasello di l\u00e0 c'\u00e8 un'altra sponda c'\u00e8 un suolo assai pi\u00f9 bello",
+  "wer_converted": 0.06666666666666667,
+  "cer_converted": 0.011976047904191617,
+  "transcription_converted": " volete voi volete volete voi ballare volete voi volete co gamberi danzare che male gli rispose il candido nasello di l\u00e0 c'\u00e8 un'altra sfonda c'\u00e8 un suolo assai pi\u00f9 bello",
+  "index": 6,
+  "source_text": "volete voi volete volete voi ballare volete voi volete co gamberi danzare che male gli rispose il candido nasello di l\u00e0 c'\u00e8 un'altra sponda c\u00e8 un suolo assai pi\u00f9 bello",
+  "input_seed_folder": "librispeech_test_set_30s_seed_42",
+  "output_seed_folder": "librispeech_test_set_30s_seed_42",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_30s_seed_42/6_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_30s_seed_42/6_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_30s_seed_42/6_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_30s_seed_42/6_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_30s_seed_42/6_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_30s_seed_42/6_ref_src2.wav",
+    "converted": "/workspace/outputs/italian/librispeech_test_set_30s_seed_42/6/converted.wav"
+  }
+}

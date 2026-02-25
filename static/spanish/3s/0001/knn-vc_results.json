@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5436646938323975,
+  "ecapa_ref_gt_similarity": 0.8587052822113037,
+  "ecapa_src_converted_similarity": -0.000679556280374527,
+  "ecapa_src_gt_similarity": 0.8816754221916199,
+  "redimnet_ref_converted_similarity": 0.4765625,
+  "redimnet_ref_gt_similarity": 0.8720703125,
+  "redimnet_src_converted_similarity": -0.014190673828125,
+  "redimnet_src_gt_similarity": 0.892578125,
+  "dns_mos_gt": 4.161600828170776,
+  "dns_mos_gen": 3.8344544172286987,
+  "wer_src": 0.03125,
+  "cer_src": 0.012195121951219513,
+  "transcription_src": " es esta la mujer de que se trata pregunt\u00f3 en voz baja el jud\u00edo hizo un movimiento de cabeza afirmativo el esp\u00eda cambi\u00f3 una mirada con faj\u00edn y parti\u00f3 como una flecha",
+  "wer_converted": 0.0625,
+  "cer_converted": 0.024390243902439025,
+  "transcription_converted": " es esta la mujer de que se trata pregunt\u00f3 en voz baja el jud\u00edo hizo un movimiento de cabeza afirmativa el esp\u00eda cambi\u00f3 una mirada con saj\u00edn y parti\u00f3 como una flecha",
+  "index": 7,
+  "source_text": "es esta la mujer de que se trata pregunt\u00f3 en voz baja el jud\u00edo hizo un movimiento de cabeza afirmativo el esp\u00eda cambi\u00f3 una mirada con fagin y parti\u00f3 como una flecha",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/7_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_3s_seed_42/7_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/spanish/librispeech_test_set_3s_seed_42/7/converted.wav"
+  }
+}

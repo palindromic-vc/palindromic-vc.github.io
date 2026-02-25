@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7790215611457825,
+  "ecapa_ref_gt_similarity": 0.7347816824913025,
+  "ecapa_src_converted_similarity": 0.16387608647346497,
+  "ecapa_src_gt_similarity": 0.8760746121406555,
+  "redimnet_ref_converted_similarity": 0.74560546875,
+  "redimnet_ref_gt_similarity": 0.73876953125,
+  "redimnet_src_converted_similarity": 0.255859375,
+  "redimnet_src_gt_similarity": 0.87744140625,
+  "dns_mos_gt": 3.53852915763855,
+  "dns_mos_gen": 3.8812925815582275,
+  "wer_src": 0.1111111111111111,
+  "cer_src": 0.03553299492385787,
+  "transcription_src": " doe toch niet zoo jo t is zoo jongensachtig daarom doe ik het juist ik heb het land aan ruwe onbeschaafde meisjes en ik aan gemaakte opgeprikte nuffen ieder vogeltje zingt zooals het gebekt is zei bets ...",
+  "wer_converted": 0.25,
+  "cer_converted": 0.08121827411167512,
+  "transcription_converted": " doe toch niet zoo jo t is zoo jongersachtig daarom doe ik t juist ik heb t land aan ruwe onbeschaafde meisjes en ik aan gemaakte opgeprikte nuffen ieder vogeltje ziet zooals t gebekt is zei bets",
+  "index": 9,
+  "source_text": "doe toch niet jo het is zo jongensachtig daarom doe ik het juist ik heb het land aan ruwe onbeschaafde meisjes en ik aan gemaakte opgeprikte nuffen ieder vogeltje zingt zoals het gebekt is zei bets"
+}

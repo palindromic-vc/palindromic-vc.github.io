@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7366839051246643,
+  "ecapa_ref_gt_similarity": 0.7767702341079712,
+  "ecapa_src_converted_similarity": 0.18100231885910034,
+  "ecapa_src_gt_similarity": 0.8418835401535034,
+  "redimnet_ref_converted_similarity": 0.6904296875,
+  "redimnet_ref_gt_similarity": 0.82373046875,
+  "redimnet_src_converted_similarity": 0.0882568359375,
+  "redimnet_src_gt_similarity": 0.8720703125,
+  "dns_mos_gt": 3.8506960391998293,
+  "dns_mos_gen": 4.086346817016602,
+  "wer_src": 0.11764705882352941,
+  "cer_src": 0.0182648401826484,
+  "transcription_src": " podia-se \u00e0s vezes sorrir das suas fant\u00e1sticas obras de arte protestar contra as suas teatrais combina\u00e7\u00f5es pol\u00edticas mas atrav\u00e9s de protestos e sorrisos a sua pr\u00f3pria personalidade nunca deixou de maravilhar e de fascinar",
+  "wer_converted": 0.08823529411764706,
+  "cer_converted": 0.0136986301369863,
+  "transcription_converted": " podia-se \u00e0s vezes sorrir das suas fant\u00e1sticas obras d'arte protestar contra as suas tetrais combina\u00e7\u00f5es pol\u00edticas mas atrav\u00e9s de protestos e sorrisos a sua pr\u00f3pria personalidade nunca deixou de maravilhar e de fascinar",
+  "index": 1,
+  "source_text": "podia-se as vezes sorrir das suas fant\u00e1sticas obras d'arte protestar contra as suas teatrais combina\u00e7\u00f5es politicas mas atrav\u00e9s de protestos e sorrisos a sua pr\u00f3pria personalidade nunca deixou de maravilhar e de fascinar",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/1_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/1_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/1_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/1_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/1_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_60s_seed_42/1_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/portuguese/librispeech_test_set_60s_seed_42/1/converted.wav"
+  }
+}

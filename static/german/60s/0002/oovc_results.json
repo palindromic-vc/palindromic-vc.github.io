@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5103333592414856,
+  "ecapa_ref_gt_similarity": 0.8320097327232361,
+  "ecapa_src_converted_similarity": 0.12405623495578766,
+  "ecapa_src_gt_similarity": 0.7846838235855103,
+  "redimnet_ref_converted_similarity": 0.437744140625,
+  "redimnet_ref_gt_similarity": 0.85302734375,
+  "redimnet_src_converted_similarity": 0.145751953125,
+  "redimnet_src_gt_similarity": 0.84326171875,
+  "dns_mos_gt": 3.987546920776367,
+  "dns_mos_gen": 3.6785292625427246,
+  "wer_src": 0.1875,
+  "cer_src": 0.05102040816326531,
+  "transcription_src": " also klangen ihre worte und mit starrm munde zil vernahm des ortes vorstand diese seltene kunde",
+  "wer_converted": 0.25,
+  "cer_converted": 0.11224489795918367,
+  "transcription_converted": " Also klangen ihre Worte und mit starrem Munde Silvia nahm des Autors Vorstand, diese seltene Kunde.",
+  "index": 7,
+  "source_text": "also klangen ihre worte und mit starrem munde still vernahm des ortes vorstand diese selt'ne kunde",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_60s_seed_42/7_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_60s_seed_42/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_60s_seed_42/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_60s_seed_42/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_60s_seed_42/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_60s_seed_42/7_ref_src2.wav",
+    "converted": "/workspace/outputs/german/librispeech_test_set_60s_seed_42/7/converted.wav"
+  }
+}

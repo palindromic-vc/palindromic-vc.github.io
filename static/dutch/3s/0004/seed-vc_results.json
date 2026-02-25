@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6883580088615417,
+  "ecapa_ref_gt_similarity": 0.6014013290405273,
+  "ecapa_src_converted_similarity": 0.06427483260631561,
+  "ecapa_src_gt_similarity": 0.6880258917808533,
+  "redimnet_ref_converted_similarity": 0.6240234375,
+  "redimnet_ref_gt_similarity": 0.7333984375,
+  "redimnet_src_converted_similarity": 0.11187744140625,
+  "redimnet_src_gt_similarity": 0.7255859375,
+  "dns_mos_gt": 3.438633918762207,
+  "dns_mos_gen": 3.994176149368286,
+  "wer_src": 0.07692307692307693,
+  "cer_src": 0.030534351145038167,
+  "transcription_src": " het is een mooie plaats voor mij om te liggen het verguldsel zal hier wel gauw van me afgaan ach onder welk gespuis ben ik aangeland",
+  "wer_converted": 0.07692307692307693,
+  "cer_converted": 0.030534351145038167,
+  "transcription_converted": " het is een mooie plaats voor mij om te liggen het verguldsel zal hier wel gauw van me afgaan ach onder welk gespuis ben ik aangeland",
+  "index": 2,
+  "source_text": "t is een mooie plaats voor mij om te liggen het verguldsel zal hier wel gauw van mij afgaan ach onder welk gespuis ben ik aangeland",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/2_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/2_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/dutch/librispeech_test_set_3s_seed_42/2/converted.wav"
+  }
+}

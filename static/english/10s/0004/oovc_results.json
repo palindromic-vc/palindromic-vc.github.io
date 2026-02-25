@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6299068331718445,
+  "ecapa_ref_gt_similarity": 0.8720482587814331,
+  "ecapa_src_converted_similarity": 0.16413205862045288,
+  "ecapa_src_gt_similarity": 0.8348444700241089,
+  "redimnet_ref_converted_similarity": 0.4541015625,
+  "redimnet_ref_gt_similarity": 0.89013671875,
+  "redimnet_src_converted_similarity": 0.220703125,
+  "redimnet_src_gt_similarity": 0.87841796875,
+  "dns_mos_gt": 4.074294737407139,
+  "dns_mos_gen": 4.142958572932652,
+  "wer_src": 0.038461538461538464,
+  "cer_src": 0.039285714285714285,
+  "transcription_src": " she reflected how near she stood to the crisis which was to determine whether she was to be blessed or unhappy for ever and racked by the intensity of her emotions she suddenly changed color her head dropped and she fell forward in a swoon into the arms of the dismayed",
+  "wer_converted": 0.11538461538461539,
+  "cer_converted": 0.02857142857142857,
+  "transcription_converted": " She reflected how near she had stood to the crisis, which was to determine whether she was to be blessed or unhappy forever, and wracked by the intensity of her emotions, she suddenly changed color. Her head dropped, and she fell forward in a swoon into the arms of the dismayed Estefania.",
+  "index": 17,
+  "source_text": "SHE REFLECTED HOW NEAR SHE STOOD TO THE CRISIS WHICH WAS TO DETERMINE WHETHER SHE WAS TO BE BLESSED OR UNHAPPY FOR EVER AND RACKED BY THE INTENSITY OF HER EMOTIONS SHE SUDDENLY CHANGED COLOUR HER HEAD DROPPED AND SHE FELL FORWARD IN A SWOON INTO THE ARMS OF THE DISMAYED ESTAFANIA",
+  "input_seed_folder": "librispeech_test_set_10s_seed_37",
+  "output_seed_folder": "librispeech_test_set_10s_seed_37",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_10s_seed_37/17_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_10s_seed_37/17_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_10s_seed_37/17_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_10s_seed_37/17_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_10s_seed_37/17_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_10s_seed_37/17_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_10s_seed_37/17/converted.wav"
+  }
+}

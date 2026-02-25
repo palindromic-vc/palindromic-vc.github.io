@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6860579252243042,
+  "ecapa_ref_gt_similarity": 0.7118706107139587,
+  "ecapa_src_converted_similarity": 0.13039390742778778,
+  "ecapa_src_gt_similarity": 0.7980988025665283,
+  "redimnet_ref_converted_similarity": 0.7314453125,
+  "redimnet_ref_gt_similarity": 0.64501953125,
+  "redimnet_src_converted_similarity": 0.29638671875,
+  "redimnet_src_gt_similarity": 0.7919921875,
+  "dns_mos_gt": 3.6039717197418213,
+  "dns_mos_gen": 4.079714775085449,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " nape\u0142nia\u0142y pok\u00f3j \u015bwiergotem i szeptem rozsypywa\u0142y si\u0119 jak motyle dooko\u0142a wieloramiennej lampy uderza\u0142y t\u0142umem barwnym w matowe starcze dziurki od kluczy",
+  "wer_converted": 0.047619047619047616,
+  "cer_converted": 0.013157894736842105,
+  "transcription_converted": " Nape\u0142nia\u0142y pok\u00f3j siergotem i szeptem Rozsypywa\u0142y si\u0119 jak motyle dooko\u0142a wieloramiennej lampy Uderza\u0142y t\u0142umem barwnym w matowe, starcze dziurki od kluczy",
+  "index": 2,
+  "source_text": "nape\u0142nia\u0142y pok\u00f3j \u015bwiergotem i szeptem rozsypywa\u0142y si\u0119 jak motyle dooko\u0142a wieloramiennej lampy uderza\u0142y t\u0142umem barwnym w matowe starcze dziurki od kluczy"
+}

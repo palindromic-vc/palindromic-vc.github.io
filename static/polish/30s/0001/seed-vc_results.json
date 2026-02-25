@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7069027423858643,
+  "ecapa_ref_gt_similarity": 0.7282448410987854,
+  "ecapa_src_converted_similarity": 0.1498325765132904,
+  "ecapa_src_gt_similarity": 0.9097274541854858,
+  "redimnet_ref_converted_similarity": 0.6357421875,
+  "redimnet_ref_gt_similarity": 0.6640625,
+  "redimnet_src_converted_similarity": 0.068603515625,
+  "redimnet_src_gt_similarity": 0.900390625,
+  "dns_mos_gt": 4.089129516056606,
+  "dns_mos_gen": 4.08984511239188,
+  "wer_src": 0.1111111111111111,
+  "cer_src": 0.03942652329749104,
+  "transcription_src": " jak\u017ce szczup\u0142\u0105 zaist\u0119 mamy do nich podstaw\u0119 gdy nie wiemy nawet tak zasadniczych i niezb\u0119dnych wiadomo\u015bci jak np jakiemi i iloma zmys\u0142ami owady rozporz\u0105dzaj\u0105 nie wiemy w jakim stopniu widz\u0105 one swemi oczami czuj\u0105 r\u00f3\u017ckami i w og\u00f3le jakim si\u0119 \u015bwiat zewn\u0119trzny przedstawia",
+  "wer_converted": 0.2,
+  "cer_converted": 0.06810035842293907,
+  "transcription_converted": " tak\u017ce sztuk\u0105 zaistn\u0119 mamy do nich podstaw\u0119 gdy nie wiemy nawet tak zasadniczych i niezb\u0119dnych wiadomo\u015bci jak np jakiemi i iloma zmys\u0142ami owady rozporz\u0105dzaj\u0105 nie wiemy w jakim stopniu widz\u0105 one swemi oczami czy j\u0105 r\u00f3\u017ckami i w og\u00f3le jakim si\u0119 \u015bwiat zewn\u0119trzny przedstawia",
+  "index": 3,
+  "source_text": "jak\u017ce szczup\u0142\u0105 zaiste mamy do nich podstaw\u0119 gdy nie wiemy nawet tak zasadniczych i niezb\u0119dnych wiadomo\u015bci jak na przyk\u0142ad jakiemi i iloma zmys\u0142ami owady rozporz\u0105dzaj\u0105 nie wiemy w jakim stopniu widz\u0105 one swemi oczami czuj\u0105 r\u00f3\u017ckami i w og\u00f3le jak im si\u0119 \u015bwiat zewn\u0119trzny przedstawia",
+  "input_seed_folder": "librispeech_test_set_30s_seed_42",
+  "output_seed_folder": "librispeech_test_set_30s_seed_42",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_30s_seed_42/3_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_30s_seed_42/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_30s_seed_42/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_30s_seed_42/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_30s_seed_42/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_30s_seed_42/3_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/polish/librispeech_test_set_30s_seed_42/3/converted.wav"
+  }
+}

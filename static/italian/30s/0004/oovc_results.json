@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.19409802556037903,
+  "ecapa_ref_gt_similarity": 0.6888418197631836,
+  "ecapa_src_converted_similarity": 0.0899554044008255,
+  "ecapa_src_gt_similarity": 0.7770955562591553,
+  "redimnet_ref_converted_similarity": 0.1767578125,
+  "redimnet_ref_gt_similarity": 0.76025390625,
+  "redimnet_src_converted_similarity": 0.12408447265625,
+  "redimnet_src_gt_similarity": 0.83642578125,
+  "dns_mos_gt": 3.6059344836643765,
+  "dns_mos_gen": 3.7656427110944475,
+  "wer_src": 0.14634146341463414,
+  "cer_src": 0.02926829268292683,
+  "transcription_src": " in te rapito il cucchiajon si ficca e ne riempi una scodella intiera. Astro di sera deliziosa zuppa in te il mio pan s'inzuppa e di te canto oh zuppa canto all'astro di sera canto alla tua bont\u00e0 civile zuppa.",
+  "wer_converted": 0.24390243902439024,
+  "cer_converted": 0.07317073170731707,
+  "transcription_converted": " in te rapito il cucchiaio si ficca e ne riempio una scodella intiera astro di sera deliziosa zuppa in te il mio pancino zuppa e di te canto oh zuppa canto l'astro di sera canto la pobont\u00e0 civile zuppa",
+  "index": 3,
+  "source_text": "in te rapito il cucchiaion si ficca e ne riempie una scodella intiera astro di sera deliziosa zuppa in te il mio pan s'inzuppa e di te canto o zup pa canto all'astro di sera canto la tua bont\u00e0 civile zuppa",
+  "input_seed_folder": "librispeech_test_set_30s_seed_42",
+  "output_seed_folder": "librispeech_test_set_30s_seed_42",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_30s_seed_42/3_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_30s_seed_42/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_30s_seed_42/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_30s_seed_42/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_30s_seed_42/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_30s_seed_42/3_ref_src2.wav",
+    "converted": "/workspace/outputs/italian/librispeech_test_set_30s_seed_42/3/converted.wav"
+  }
+}

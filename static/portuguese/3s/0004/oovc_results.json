@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.25269442796707153,
+  "ecapa_ref_gt_similarity": 0.6601547598838806,
+  "ecapa_src_converted_similarity": 0.05667596682906151,
+  "ecapa_src_gt_similarity": 0.8169558048248291,
+  "redimnet_ref_converted_similarity": 0.19384765625,
+  "redimnet_ref_gt_similarity": 0.80859375,
+  "redimnet_src_converted_similarity": 0.052642822265625,
+  "redimnet_src_gt_similarity": 0.865234375,
+  "dns_mos_gt": 3.592937776020595,
+  "dns_mos_gen": 3.5532689775739397,
+  "wer_src": 0.14285714285714285,
+  "cer_src": 0.02564102564102564,
+  "transcription_src": " desta id\u00e9ia proveiu um diluvio de sangue para reabilitar a ra\u00e7a futura foi o sangue dos m\u00e1rtires a arca flutuante \u00e1 igreja o ramo de oliveira representando a paz universal e a fraternidade \u00e1 cruz",
+  "wer_converted": 0.34285714285714286,
+  "cer_converted": 0.15384615384615385,
+  "transcription_converted": " Esta ideia proveu um desuso de sangue para reabrigar a ra\u00e7a futura, por o sangue dos m\u00e1rtires, a r\u00e1dica flutuante da Igreja, o Rango de Oliveira representando a paz e a salva e a fraternidade e a cruz.",
+  "index": 3,
+  "source_text": "desta ideia proveio um dil\u00favio de sangue para reabilitar a ra\u00e7a futura foi o sangue dos m\u00e1rtires a arca flutuante a igreja o ramo de oliveira representando a paz universal e a fraternidade a cruz",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_3s_seed_42/3_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_3s_seed_42/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_3s_seed_42/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_3s_seed_42/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_3s_seed_42/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_3s_seed_42/3_ref_src2.wav",
+    "converted": "/workspace/outputs/portuguese/librispeech_test_set_3s_seed_42/3/converted.wav"
+  }
+}

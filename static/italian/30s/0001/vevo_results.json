@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6295799016952515,
+  "ecapa_ref_gt_similarity": 0.5562911629676819,
+  "ecapa_src_converted_similarity": 0.2014859914779663,
+  "ecapa_src_gt_similarity": 0.776171863079071,
+  "redimnet_ref_converted_similarity": 0.61474609375,
+  "redimnet_ref_gt_similarity": 0.483642578125,
+  "redimnet_src_converted_similarity": 0.134765625,
+  "redimnet_src_gt_similarity": 0.77392578125,
+  "dns_mos_gt": 4.008018493652344,
+  "dns_mos_gen": 4.012147426605225,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " ma bens\u00ec si sforzeremo in quanto per noi si potr\u00e0 di farvi quelle provisioni che possibili saranno a riaver la sanit\u00e0 e riavuta conservarla",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " ma bens\u00ec si sforzeremo in quanto per noi si potr\u00e0 di farvi quelle provisioni che possibili saranno a riaver la sanit\u00e0 e riavuta conservarla",
+  "index": 6,
+  "source_text": "ma bens\u00ec si sforzeremo in quanto per noi si potr\u00e0 di farvi quelle provisioni che possibili saranno a riaver la sanit\u00e0 e riavuta conservarla"
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6562739014625549,
+  "ecapa_ref_gt_similarity": 0.8674978613853455,
+  "ecapa_src_converted_similarity": 0.21202486753463745,
+  "ecapa_src_gt_similarity": 0.8788067698478699,
+  "redimnet_ref_converted_similarity": 0.69921875,
+  "redimnet_ref_gt_similarity": 0.9091796875,
+  "redimnet_src_converted_similarity": 0.233154296875,
+  "redimnet_src_gt_similarity": 0.91015625,
+  "dns_mos_gt": 4.3023762702941895,
+  "dns_mos_gen": 4.169486999511719,
+  "wer_src": 0.06976744186046512,
+  "cer_src": 0.018018018018018018,
+  "transcription_src": " estoy pronta a oiros esta se\u00f1orita que veis me ha comunicado a m\u00ed y algunos amigos en la discreci\u00f3n de los cuales se puede descansar con toda confianza lo que le dijisteis hace quince d\u00edas para probaros que me f\u00edo de vos",
+  "wer_converted": 0.06976744186046512,
+  "cer_converted": 0.018018018018018018,
+  "transcription_converted": " estoy pronta a oiros esta se\u00f1orita que veis me ha comunicado a m\u00ed y algunos amigos en la discreci\u00f3n de los cuales se puede descansar con toda confianza lo que le dijisteis hace quince d\u00edas para probaros que me f\u00edo de vos",
+  "index": 5,
+  "source_text": "estoy pronta a o\u00edros esta se\u00f1orita que veis me ha comunicado a m\u00ed y a algunos amigos en la discreci\u00f3n de los cuales se puede descansar con toda confianza lo que le dijisteis hace quince d\u00edas para probaros que me fio de vos"
+}

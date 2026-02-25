@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7305874824523926,
+  "ecapa_ref_gt_similarity": 0.8731732368469238,
+  "ecapa_src_converted_similarity": 0.08763393759727478,
+  "ecapa_src_gt_similarity": 0.7882722020149231,
+  "redimnet_ref_converted_similarity": 0.65283203125,
+  "redimnet_ref_gt_similarity": 0.90771484375,
+  "redimnet_src_converted_similarity": 0.248291015625,
+  "redimnet_src_gt_similarity": 0.86474609375,
+  "dns_mos_gt": 3.3250174045562746,
+  "dns_mos_gen": 3.9247997760772706,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " amici miei se io non divento al pi\u00f9 presto vecchio amico di casa castiglione montroni vecchio amico di mamma pompea sono perduto per me non c'\u00e8 pi\u00f9 speranza n\u00e9 salute medea ha gi\u00e0 compiuto quattordici anni",
+  "wer_converted": 0.1388888888888889,
+  "cer_converted": 0.09268292682926829,
+  "transcription_converted": " Amici miei, se io non divento al pi\u00f9 presto vecchio amico di casa Castiglione Montoloni, vecchio amico di mamma Pompea, sono perduto. Per me non c'\u00e8 pi\u00f9 speranza di salute. Midea ha gi\u00e0 conchiuto 14 anni.",
+  "index": 7,
+  "source_text": "amici miei se io non divento al pi\u00f9 presto vecchio amico di casa castiglione montroni vecchio amico di mamma pompea sono perduto per me non c'\u00e8 pi\u00f9 speranza n\u00e9 salute medea ha gi\u00e0 compiuto quattordici anni",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_60s_seed_42/7_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_60s_seed_42/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_60s_seed_42/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_60s_seed_42/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_60s_seed_42/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_60s_seed_42/7_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/italian/librispeech_test_set_60s_seed_42/7/converted.wav"
+  }
+}

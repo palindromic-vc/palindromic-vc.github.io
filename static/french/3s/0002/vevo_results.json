@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7276511192321777,
+  "ecapa_ref_gt_similarity": 0.7595192790031433,
+  "ecapa_src_converted_similarity": 0.13283942639827728,
+  "ecapa_src_gt_similarity": 0.6948263645172119,
+  "redimnet_ref_converted_similarity": 0.6279296875,
+  "redimnet_ref_gt_similarity": 0.87353515625,
+  "redimnet_src_converted_similarity": 0.17431640625,
+  "redimnet_src_gt_similarity": 0.76318359375,
+  "dns_mos_gt": 3.789945125579834,
+  "dns_mos_gen": 4.0485920906066895,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " le jour venant \u00e0 para\u00eetre scheherazade se tut en cet endroit de son discours ma soeur lui dit dinarzade il faut convenir que plus vous parlez et plus vous faites de plaisir",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " le jour venant \u00e0 para\u00eetre scheherazade se tut en cet endroit de son discours ma soeur lui dit dinarzade il faut convenir que plus vous parlez et plus vous faites de plaisir",
+  "index": 3,
+  "source_text": "le jour venant \u00e0 para\u00eetre scheherazade se tut en cet endroit de son discours ma soeur lui dit dinarzade il faut convenir que plus vous parlez et plus vous faites de plaisir"
+}

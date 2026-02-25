@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7364377975463867,
+  "ecapa_ref_gt_similarity": 0.9160326719284058,
+  "ecapa_src_converted_similarity": 0.2638307511806488,
+  "ecapa_src_gt_similarity": 0.7572782635688782,
+  "redimnet_ref_converted_similarity": 0.599609375,
+  "redimnet_ref_gt_similarity": 0.927734375,
+  "redimnet_src_converted_similarity": 0.109375,
+  "redimnet_src_gt_similarity": 0.8486328125,
+  "dns_mos_gt": 3.8715542554855347,
+  "dns_mos_gen": 3.9295936822891235,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " por um acaso feliz deparei a meu lado com o mesmo sujeito que um dia soube inverter me um riso insignificativo em remorso",
+  "wer_converted": 0.08695652173913043,
+  "cer_converted": 0.03305785123966942,
+  "transcription_converted": " Por um acaso feliz, deparei a meu lado com o mesmo sujeito que um dia soube inverter-me em um riso insignificativo e remorso.",
+  "index": 3,
+  "source_text": "por um acaso feliz deparei a meu lado com o mesmo sujeito que um dia soube inverter-me um riso insignificativo em remorso",
+  "input_seed_folder": "librispeech_test_set_60s_seed_73",
+  "output_seed_folder": "librispeech_test_set_60s_seed_73",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_60s_seed_73/3_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_60s_seed_73/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_60s_seed_73/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_60s_seed_73/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_60s_seed_73/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_60s_seed_73/3_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/portuguese/librispeech_test_set_60s_seed_73/3/converted.wav"
+  }
+}

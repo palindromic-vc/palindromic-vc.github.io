@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.727156400680542,
+  "ecapa_ref_gt_similarity": 0.8637372851371765,
+  "ecapa_src_converted_similarity": 0.19661511480808258,
+  "ecapa_src_gt_similarity": 0.8273459672927856,
+  "redimnet_ref_converted_similarity": 0.73779296875,
+  "redimnet_ref_gt_similarity": 0.86572265625,
+  "redimnet_src_converted_similarity": 0.1297607421875,
+  "redimnet_src_gt_similarity": 0.822265625,
+  "dns_mos_gt": 4.01174259185791,
+  "dns_mos_gen": 3.981534719467163,
+  "wer_src": 0.02702702702702703,
+  "cer_src": 0.010471204188481676,
+  "transcription_src": " quand il fut grand on l'abattit on le d\u00e9pouilla de son \u00e9corce et il devint selon son v\u0153u grand m\u00e2t sur une fr\u00e9gate mais il s'ennuyait \u00e0 cause de la longueur et de la monotonie des travers\u00e9es",
+  "wer_converted": 0.08108108108108109,
+  "cer_converted": 0.031413612565445025,
+  "transcription_converted": " Quand il fut grand, on l'a b\u00e2ti, on le d\u00e9pouilla de son \u00e9corce et il devint, selon son v\u0153u, grand m\u00e2t sur une fr\u00e9gate. Mais il s'ennuyait \u00e0 cause de la longueur et de la monotonie des travers\u00e9es.",
+  "index": 0,
+  "source_text": "quand il fut grand on l'abattit on le d\u00e9pouilla de son \u00e9corce et il devint selon son voeu grand m\u00e2t sur une fr\u00e9gate mais il s'ennuyait \u00e0 cause de la longueur et de la monotonie des travers\u00e9es"
+}

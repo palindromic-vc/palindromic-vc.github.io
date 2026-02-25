@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6339703798294067,
+  "ecapa_ref_gt_similarity": 1.0,
+  "ecapa_src_converted_similarity": 0.20583471655845642,
+  "ecapa_src_gt_similarity": 0.7388522624969482,
+  "redimnet_ref_converted_similarity": 0.677734375,
+  "redimnet_ref_gt_similarity": 0.99951171875,
+  "redimnet_src_converted_similarity": 0.14208984375,
+  "redimnet_src_gt_similarity": 0.76708984375,
+  "dns_mos_gt": 4.052285671234131,
+  "dns_mos_gen": 3.8879711627960205,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " sam widzia\u0142em pszczo\u0142\u0119 z oderwanym odw\u0142okiem jak zag\u0142\u0119biona w kielichu kwiatka wysysa\u0142a s\u0142odycz nektar smakowa\u0142 jej pomimo braku po\u0142owy cia\u0142a",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " Sam widzia\u0142em pszczo\u0142\u0119 z oderwanym odw\u0142okiem. Jak zag\u0142\u0119biona w kielichu kwiatka wysysa\u0142a s\u0142odycz. Nektar smakowa\u0142 jej pomimo braku po\u0142owy cia\u0142a.",
+  "index": 3,
+  "source_text": "sam widzia\u0142em pszczo\u0142\u0119 z oderwanym odw\u0142okiem jak zag\u0142\u0119biona w kielichu kwiatka wysysa\u0142a s\u0142odycz nektar smakowa\u0142 jej pomimo braku po\u0142owy cia\u0142a"
+}

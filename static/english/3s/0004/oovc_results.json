@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.4695444703102112,
+  "ecapa_ref_gt_similarity": 0.8717975616455078,
+  "ecapa_src_converted_similarity": 0.24603776633739471,
+  "ecapa_src_gt_similarity": 0.8696187734603882,
+  "redimnet_ref_converted_similarity": 0.359375,
+  "redimnet_ref_gt_similarity": 0.90625,
+  "redimnet_src_converted_similarity": 0.12188720703125,
+  "redimnet_src_gt_similarity": 0.91943359375,
+  "dns_mos_gt": 3.8722548484802246,
+  "dns_mos_gen": 4.037453015645345,
+  "wer_src": 0.11764705882352941,
+  "cer_src": 0.06097560975609756,
+  "transcription_src": " no sir he isn't he's gone to rossiter to see mr west the factor about the wool",
+  "wer_converted": 0.17647058823529413,
+  "cer_converted": 0.08536585365853659,
+  "transcription_converted": " No, sir, he isn't. He's gone to Rossiter to see Mr. West, the factor about the wall.",
+  "index": 17,
+  "source_text": "NO SIR HE ISN'T HE'S GONE TO ROSSETER TO SEE MISTER WEST THE FACTOR ABOUT THE WOOL",
+  "input_seed_folder": "librispeech_test_set_3s_seed_73",
+  "output_seed_folder": "librispeech_test_set_3s_seed_73",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_3s_seed_73/17_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_3s_seed_73/17_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_3s_seed_73/17_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_3s_seed_73/17_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_3s_seed_73/17_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_3s_seed_73/17_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_3s_seed_73/17/converted.wav"
+  }
+}

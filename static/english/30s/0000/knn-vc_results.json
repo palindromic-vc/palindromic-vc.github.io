@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7199063301086426,
+  "ecapa_ref_gt_similarity": 0.8330793380737305,
+  "ecapa_src_converted_similarity": 0.133148193359375,
+  "ecapa_src_gt_similarity": 0.6003960371017456,
+  "redimnet_ref_converted_similarity": 0.7236328125,
+  "redimnet_ref_gt_similarity": 0.861328125,
+  "redimnet_src_converted_similarity": 0.1063232421875,
+  "redimnet_src_gt_similarity": 0.7275390625,
+  "dns_mos_gt": 4.215074062347412,
+  "dns_mos_gen": 4.093688488006592,
+  "wer_src": 0.0625,
+  "cer_src": 0.025477707006369428,
+  "transcription_src": " i think the next glass cap a magician makes will have neither brains nor heart for then it will not object to catching mice and may prove of some use to us",
+  "wer_converted": 0.0625,
+  "cer_converted": 0.025477707006369428,
+  "transcription_converted": " I think the next glass cap the magician makes will have neither brains nor heart, for then it will not object to catching mice and they prove of some use to us.",
+  "index": 2,
+  "source_text": "I THINK THE NEXT GLASS CAT THE MAGICIAN MAKES WILL HAVE NEITHER BRAINS NOR HEART FOR THEN IT WILL NOT OBJECT TO CATCHING MICE AND MAY PROVE OF SOME USE TO US"
+}

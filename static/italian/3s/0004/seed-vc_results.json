@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5579944849014282,
+  "ecapa_ref_gt_similarity": 0.7894746661186218,
+  "ecapa_src_converted_similarity": 0.13570791482925415,
+  "ecapa_src_gt_similarity": 0.8093881011009216,
+  "redimnet_ref_converted_similarity": 0.54052734375,
+  "redimnet_ref_gt_similarity": 0.77001953125,
+  "redimnet_src_converted_similarity": 0.1920166015625,
+  "redimnet_src_gt_similarity": 0.8232421875,
+  "dns_mos_gt": 3.2488824129104614,
+  "dns_mos_gen": 4.1238439083099365,
+  "wer_src": 0.16666666666666666,
+  "cer_src": 0.0423728813559322,
+  "transcription_src": " essi sono voi li avete veduti non \u00e8 vero s\u00ec rispose elice li ho veduti spesso a tav e inghiotti il resto della parola",
+  "wer_converted": 0.125,
+  "cer_converted": 0.059322033898305086,
+  "transcription_converted": " ci sono voi ne avete veduti non \u00e8 vero s\u00ec rispose elis mi ho veduti spesso a tavo e inghiott\u00ec il resto della parola",
+  "index": 7,
+  "source_text": "essi sono voi ne avete veduti non \u00e8 vero s\u00ec rispose alice li ho veduti spesso a tavo e inghiott\u00ec il resto della parola",
+  "input_seed_folder": "librispeech_test_set_3s_seed_73",
+  "output_seed_folder": "librispeech_test_set_3s_seed_73",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_3s_seed_73/7_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_3s_seed_73/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_3s_seed_73/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_3s_seed_73/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_3s_seed_73/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_3s_seed_73/7_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/italian/librispeech_test_set_3s_seed_73/7/converted.wav"
+  }
+}

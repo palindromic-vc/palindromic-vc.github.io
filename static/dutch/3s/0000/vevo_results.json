@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7628376483917236,
+  "ecapa_ref_gt_similarity": 0.7963361144065857,
+  "ecapa_src_converted_similarity": 0.25410395860671997,
+  "ecapa_src_gt_similarity": 0.8781434893608093,
+  "redimnet_ref_converted_similarity": 0.6650390625,
+  "redimnet_ref_gt_similarity": 0.8388671875,
+  "redimnet_src_converted_similarity": 0.196044921875,
+  "redimnet_src_gt_similarity": 0.86572265625,
+  "dns_mos_gt": 3.662013530731201,
+  "dns_mos_gen": 3.8549766540527344,
+  "wer_src": 0.19148936170212766,
+  "cer_src": 0.04119850187265917,
+  "transcription_src": " die ons door allerlei moelykheden en misgrepen tot het vredige geluk leidt dat met de hemelsche stad bedoelt wordt denk er maar eens over om den pelgrimstogt nog eens we\u00ear te beginnen niet spelend maar in ernst en te zien hoe ver jullie het brengen kunt voor dat vader ***",
+  "wer_converted": 0.10638297872340426,
+  "cer_converted": 0.052434456928838954,
+  "transcription_converted": " die ons door allerlei moeilijkheden en misgrepen tot het vredige geluk leidt dat met de hemelsche stad bedoeld wordt denk er maar eens over om den pelgrimstocht nog eens weer te beginnen niet spelend maar in ernst en te zien hoe ver jullie het brengen kunt voordat vader thuis komt",
+  "index": 9,
+  "source_text": "die ons door allerlei moeilijkheden en misgrepen tot het vredige geluk leidt dat met de hemelsche stad bedoeld wordt denk er maar eens over om den pelgrimstocht nog eens weer te beginnen niet spelend maar in ernst en te zien hoever jullie t brengen kunt voordat vader"
+}

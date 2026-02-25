@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5389143228530884,
+  "ecapa_ref_gt_similarity": 0.680336058139801,
+  "ecapa_src_converted_similarity": 0.15798132121562958,
+  "ecapa_src_gt_similarity": 0.8489958643913269,
+  "redimnet_ref_converted_similarity": 0.467529296875,
+  "redimnet_ref_gt_similarity": 0.6865234375,
+  "redimnet_src_converted_similarity": 0.1116943359375,
+  "redimnet_src_gt_similarity": 0.81982421875,
+  "dns_mos_gt": 4.080085754394531,
+  "dns_mos_gen": 3.5008342266082764,
+  "wer_src": 0.10344827586206896,
+  "cer_src": 0.05625,
+  "transcription_src": " met de ongelooflijke tijding op komen zetten dat de tweede moeder met de luiermand in de weer was en vr gisteren twee maanden later was t met vader gebeurd",
+  "wer_converted": 0.20689655172413793,
+  "cer_converted": 0.05,
+  "transcription_converted": " met de ongelooflijke tijding op komen zetten dat de tweede moeder met den luiermand in de wier was en vr heer gister twee maanden later was t met vader gebeurd",
+  "index": 3,
+  "source_text": "met de ongelooflijke tijding op komen zetten dat de tweede moeder met de luiermand in de weer was en voor eergister twee maanden later was het met vader gebeurd"
+}

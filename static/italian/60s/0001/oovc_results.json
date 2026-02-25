@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5350018739700317,
+  "ecapa_ref_gt_similarity": 0.7605451345443726,
+  "ecapa_src_converted_similarity": 0.06189984828233719,
+  "ecapa_src_gt_similarity": 0.6496307849884033,
+  "redimnet_ref_converted_similarity": 0.43310546875,
+  "redimnet_ref_gt_similarity": 0.7880859375,
+  "redimnet_src_converted_similarity": 0.147216796875,
+  "redimnet_src_gt_similarity": 0.79931640625,
+  "dns_mos_gt": 3.381262222925822,
+  "dns_mos_gen": 3.7484031518300376,
+  "wer_src": 0.13636363636363635,
+  "cer_src": 0.04201680672268908,
+  "transcription_src": " D'ogni malizia, codio in cielo acquista, ingiuria il fine, ed ogni fin cotale o con forza o con frode altrui contrista.",
+  "wer_converted": 0.5,
+  "cer_converted": 0.15966386554621848,
+  "transcription_converted": " ogni malizia che io in cielo acquista ingiui al fine e l'ogni fin col tale o con forza o con frode altrui composta",
+  "index": 7,
+  "source_text": "d'ogni malizia ch'odio in cielo acquista ingiuria \u00e8 'l fine ed ogni fin cotale o con forza o con frode altrui contrista",
+  "input_seed_folder": "librispeech_test_set_60s_seed_73",
+  "output_seed_folder": "librispeech_test_set_60s_seed_73",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_60s_seed_73/7_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_60s_seed_73/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_60s_seed_73/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_60s_seed_73/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_60s_seed_73/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_60s_seed_73/7_ref_src2.wav",
+    "converted": "/workspace/outputs/italian/librispeech_test_set_60s_seed_73/7/converted.wav"
+  }
+}

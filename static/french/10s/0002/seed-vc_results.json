@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7534787654876709,
+  "ecapa_ref_gt_similarity": 0.8302396535873413,
+  "ecapa_src_converted_similarity": 0.16202688217163086,
+  "ecapa_src_gt_similarity": 0.8573012351989746,
+  "redimnet_ref_converted_similarity": 0.70751953125,
+  "redimnet_ref_gt_similarity": 0.861328125,
+  "redimnet_src_converted_similarity": 0.2266845703125,
+  "redimnet_src_gt_similarity": 0.8525390625,
+  "dns_mos_gt": 4.082907199859619,
+  "dns_mos_gen": 4.11190128326416,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " depuis ce temps-l\u00e0 les kangourous ont ces moignons que vous voyez sur l'image et la poche de leur ventre ne leur sert plus que pour y cacher leurs petits",
+  "wer_converted": 0.06666666666666667,
+  "cer_converted": 0.013071895424836602,
+  "transcription_converted": " depuis ce temps-l\u00e0 les kangourous ont ces moignons que vous voyez sur l'image et la poche de leur ventre ne leur sert plus que pour y cacher leur petit",
+  "index": 5,
+  "source_text": "depuis ce temps-l\u00e0 les kangourous ont ces moignons que vous voyez sur l'image et la poche de leur ventre ne leur sert plus que pour y cacher leurs petits",
+  "input_seed_folder": "librispeech_test_set_10s_seed_37",
+  "output_seed_folder": "librispeech_test_set_10s_seed_37",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_10s_seed_37/5_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_10s_seed_37/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_10s_seed_37/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_10s_seed_37/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_10s_seed_37/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_10s_seed_37/5_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/french/librispeech_test_set_10s_seed_37/5/converted.wav"
+  }
+}

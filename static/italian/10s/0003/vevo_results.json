@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6925867795944214,
+  "ecapa_ref_gt_similarity": 0.8185335397720337,
+  "ecapa_src_converted_similarity": 0.0552980974316597,
+  "ecapa_src_gt_similarity": 0.07450845837593079,
+  "redimnet_ref_converted_similarity": 0.6220703125,
+  "redimnet_ref_gt_similarity": 0.80322265625,
+  "redimnet_src_converted_similarity": 0.10150146484375,
+  "redimnet_src_gt_similarity": 0.001750946044921875,
+  "dns_mos_gt": 4.040327072143555,
+  "dns_mos_gen": 3.7085325717926025,
+  "wer_src": 0.20512820512820512,
+  "cer_src": 0.03431372549019608,
+  "transcription_src": " maggiore aperta molte volte in pruna con una forcatella di sue spine luom della villa quando luva in bruna che non era la calla onde saline lo duca mio e io appresso soli come da noi la schiera si partine",
+  "wer_converted": 0.20512820512820512,
+  "cer_converted": 0.0392156862745098,
+  "transcription_converted": " maggiore aperta molte volte in pruna con una forcatella di sue spine uom della villa quando luva in bruna che non era la calla onde saline lo duca mio e io appresso soli come da noi la schiera si partine",
+  "index": 1,
+  "source_text": "maggiore aperta molte volte impruna con una forcatella di sue spine l'uom de la villa quando l'uva imbruna che non era la calla onde saline lo duca mio e io appresso soli come da noi la schiera si partine"
+}

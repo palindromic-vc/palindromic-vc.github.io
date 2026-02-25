@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6453900933265686,
+  "ecapa_ref_gt_similarity": 0.8425952792167664,
+  "ecapa_src_converted_similarity": 0.2706618905067444,
+  "ecapa_src_gt_similarity": 0.4440205693244934,
+  "redimnet_ref_converted_similarity": 0.67041015625,
+  "redimnet_ref_gt_similarity": 0.80908203125,
+  "redimnet_src_converted_similarity": 0.33544921875,
+  "redimnet_src_gt_similarity": 0.53466796875,
+  "dns_mos_gt": 4.112379550933838,
+  "dns_mos_gen": 4.056652069091797,
+  "wer_src": 0.027777777777777776,
+  "cer_src": 0.027559055118110236,
+  "transcription_src": " ma tuttavia profondendo questi ringraziamenti aveva negli occhi una domanda ansiosa lasciava intender chiaramente con lo sguardo ch'egli in verit\u00e0 si aspettava un altro discorso non voleva proprio nient'altro da lui l'onorevole verona anzi sua eccellenza grazie",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " ma tuttavia profondendo questi ringraziamenti aveva negli occhi una domanda ansiosa lasciava intender chiaramente con lo sguardo ch'egli in verit\u00e0 si aspettava un altro discorso non voleva proprio nient'altro da lui l'onorevole verona anzi sua eccellenza",
+  "index": 9,
+  "source_text": "ma tuttavia profondendo questi ringraziamenti aveva negli occhi una domanda ansiosa lasciava intender chiaramente con lo sguardo ch'egli in verit\u00e0 si aspettava un altro discorso non voleva proprio nient'altro da lui l'onorevole verona anzi sua eccellenza"
+}

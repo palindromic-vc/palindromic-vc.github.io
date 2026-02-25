@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6819111108779907,
+  "ecapa_ref_gt_similarity": 0.8737787008285522,
+  "ecapa_src_converted_similarity": -0.016761712729930878,
+  "ecapa_src_gt_similarity": 0.7815845608711243,
+  "redimnet_ref_converted_similarity": 0.61865234375,
+  "redimnet_ref_gt_similarity": 0.86279296875,
+  "redimnet_src_converted_similarity": 0.1116943359375,
+  "redimnet_src_gt_similarity": 0.8095703125,
+  "dns_mos_gt": 3.7589170251573836,
+  "dns_mos_gen": 3.9271858760288785,
+  "wer_src": 0.06976744186046512,
+  "cer_src": 0.037037037037037035,
+  "transcription_src": " jules le ma\u00eetre a beaucoup aim\u00e9 les enfants il eut lui-m\u00eame lorsqu'il fut professeur \u00e0 grenoble une petite fille madeleine qui mourut au bout d'un mois et dont il ne se consola jamais plus tard il devint un parrain multiple et d\u00e9licieux",
+  "wer_converted": 0.06976744186046512,
+  "cer_converted": 0.04526748971193416,
+  "transcription_converted": " jules de maitre a beaucoup aim\u00e9 les enfants il eut lui-m\u00eame lorsqu'il fut professeur \u00e0 grenoble une petite fille madeleine qui mourut au bout d'un mois et dont il ne se consola jamais plus tard il devint un parrain multiple et d\u00e9licieux",
+  "index": 3,
+  "source_text": "pr\u00e9face jules lema\u00eetre a beaucoup aim\u00e9 les enfants il eut lui-m\u00eame lorsqu'il fut professeur \u00e0 grenoble une petite fille madeleine qui mourut au bout d'un mois et dont il ne se consola jamais plus tard il devint un parrain multiple et d\u00e9licieux",
+  "input_seed_folder": "librispeech_test_set_3s_seed_73",
+  "output_seed_folder": "librispeech_test_set_3s_seed_73",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_3s_seed_73/3_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_3s_seed_73/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_3s_seed_73/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_3s_seed_73/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_3s_seed_73/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_3s_seed_73/3_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/french/librispeech_test_set_3s_seed_73/3/converted.wav"
+  }
+}

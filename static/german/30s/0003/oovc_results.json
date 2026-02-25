@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5933878421783447,
+  "ecapa_ref_gt_similarity": 0.8930177688598633,
+  "ecapa_src_converted_similarity": 0.04706151410937309,
+  "ecapa_src_gt_similarity": 0.5681716203689575,
+  "redimnet_ref_converted_similarity": 0.43701171875,
+  "redimnet_ref_gt_similarity": 0.90625,
+  "redimnet_src_converted_similarity": 0.048309326171875,
+  "redimnet_src_gt_similarity": 0.64990234375,
+  "dns_mos_gt": 3.673457384109497,
+  "dns_mos_gen": 3.89834885597229,
+  "wer_src": 0.23809523809523808,
+  "cer_src": 0.11976047904191617,
+  "transcription_src": " die gem\u00e4\u00dfigten zonen in ueberschwemmung versetzen w\u00fcrden diese bedeutende ausgleichende rolle spielen diese also bei dem allgemeinen wirtschaftlichen s\u00fc\u00dftein des",
+  "wer_converted": 0.047619047619047616,
+  "cer_converted": 0.005988023952095809,
+  "transcription_converted": " die gem\u00e4\u00dfigten zonen in \u00fcberschwemmung versetzen w\u00fcrden diese bedeutende ausgleichende rolle spielen die salzer bei dem allgemeinen wirtschaftlichen system des erdballs",
+  "index": 0,
+  "source_text": "die gem\u00e4\u00dfigten zonen in \u00fcberschwemmung versetzen w\u00fcrden diese bedeutende ausgleichende rolle spielen die salze bei dem allgemeinen wirtschaftlichen system des erdballs",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_30s_seed_73/0_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_30s_seed_73/0_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_30s_seed_73/0_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_30s_seed_73/0_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_30s_seed_73/0_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_30s_seed_73/0_ref_src2.wav",
+    "converted": "/workspace/outputs/german/librispeech_test_set_30s_seed_73/0/converted.wav"
+  }
+}

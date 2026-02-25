@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.617245078086853,
+  "ecapa_ref_gt_similarity": 0.8105756640434265,
+  "ecapa_src_converted_similarity": 0.12519775331020355,
+  "ecapa_src_gt_similarity": 0.788184404373169,
+  "redimnet_ref_converted_similarity": 0.4970703125,
+  "redimnet_ref_gt_similarity": 0.8564453125,
+  "redimnet_src_converted_similarity": 0.12152099609375,
+  "redimnet_src_gt_similarity": 0.85302734375,
+  "dns_mos_gt": 3.654808282852173,
+  "dns_mos_gen": 3.357003927230835,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " ma\u0142o \u017ce\u015b pan nara\u017ca\u0142 swe \u017cycie dla mnie odezwa\u0142 si\u0119 anglik marszcz\u0105c brwi gro\u017anie czy s\u0105dzisz \u017ce jeszcze i teraz by\u0142bym zdolnym korzysta\u0107 z twej szlachetno\u015bci nie nie i jeszcze raz nie",
+  "wer_converted": 0.125,
+  "cer_converted": 0.043478260869565216,
+  "transcription_converted": " ma\u0142o \u017ce\u015b pan nara\u017ca\u0142 swe \u017cycie dla mnie odezwa\u0142 si\u0119 anglik maszcz\u0105c brwi gro\u017anie czy s\u0105dzisz \u017ce ja \u017ce i teraz by\u0142bym zdolnym korzysta\u0107 z twojej szlachetno\u015bci nie nie i jeszcze raz nie",
+  "index": 8,
+  "source_text": "ma\u0142o \u017ce\u015b pan nara\u017ca\u0142 swe \u017cycie dla mnie odezwa\u0142 si\u0119 anglik marszcz\u0105c brwi gro\u017anie czy s\u0105dzisz \u017ce jeszcze i teraz by\u0142bym zdolnym korzysta\u0107 z twej szlachetno\u015bci nie nie i jeszcze raz nie"
+}

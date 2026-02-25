@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.47202908992767334,
+  "ecapa_ref_gt_similarity": 0.7155017852783203,
+  "ecapa_src_converted_similarity": 0.2334086000919342,
+  "ecapa_src_gt_similarity": 0.8595623970031738,
+  "redimnet_ref_converted_similarity": 0.401611328125,
+  "redimnet_ref_gt_similarity": 0.78076171875,
+  "redimnet_src_converted_similarity": 0.1636962890625,
+  "redimnet_src_gt_similarity": 0.86865234375,
+  "dns_mos_gt": 3.6777422428131104,
+  "dns_mos_gen": 3.8572438955307007,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " niekt\u00f3re okazywa\u0142y si\u0119 z bliska niczym innym jak wielkimi pawimi ogonami kolorowymi wachlarzami w kt\u00f3re niepoj\u0119tym sposobem tchni\u0119to jaki\u015b poz\u00f3r \u017cycia",
+  "wer_converted": 0.09523809523809523,
+  "cer_converted": 0.02,
+  "transcription_converted": " Niekt\u00f3re okazywa\u0142y si\u0119 z bliska niczym innym jak wielkimi, pawimi ogonami. Kolorowymi wachlarzami, kt\u00f3re niepoj\u0119tym sposobem tchni\u0119to jaki\u015b pozor \u017cycia.",
+  "index": 8,
+  "source_text": "niekt\u00f3re okazywa\u0142y si\u0119 z bliska niczym innym jak wielkimi pawimi ogonami kolorowymi wachlarzami w kt\u00f3re niepoj\u0119tym sposobem tchni\u0119to jaki\u015b poz\u00f3r \u017cycia",
+  "input_seed_folder": "librispeech_test_set_3s_seed_37",
+  "output_seed_folder": "librispeech_test_set_3s_seed_37",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_3s_seed_37/8_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_3s_seed_37/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_3s_seed_37/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_3s_seed_37/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_3s_seed_37/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_3s_seed_37/8_ref_src2.wav",
+    "converted": "/workspace/outputs/polish/librispeech_test_set_3s_seed_37/8/converted.wav"
+  }
+}

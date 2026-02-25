@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7365236282348633,
+  "ecapa_ref_gt_similarity": 0.8426251411437988,
+  "ecapa_src_converted_similarity": -0.0261401180177927,
+  "ecapa_src_gt_similarity": 0.8556193113327026,
+  "redimnet_ref_converted_similarity": 0.74267578125,
+  "redimnet_ref_gt_similarity": 0.86279296875,
+  "redimnet_src_converted_similarity": 0.0184173583984375,
+  "redimnet_src_gt_similarity": 0.892578125,
+  "dns_mos_gt": 3.8501064777374268,
+  "dns_mos_gen": 3.9422364234924316,
+  "wer_src": 0.058823529411764705,
+  "cer_src": 0.005813953488372093,
+  "transcription_src": " pues en tal traje y a tales horas y siendo tan principal anda fuera de su casa no hay dudar en eso respondi\u00f3 el maestre sala y m\u00e1s que esa sospecha la confirman sus l\u00e1grimas",
+  "wer_converted": 0.058823529411764705,
+  "cer_converted": 0.011627906976744186,
+  "transcription_converted": " pues en tal traje y a tales horas y siendo tan principal anda fuera de su casa no hay dudar en eso respondi\u00f3 el maestre zala y m\u00e1s que esa sospecha la confirman sus l\u00e1grimas",
+  "index": 8,
+  "source_text": "pues en tal traje y a tales horas y siendo tan principal anda fuera de su casa no hay dudar en eso respondi\u00f3 el maestresala y m\u00e1s que esa sospecha la confirman sus l\u00e1grimas"
+}

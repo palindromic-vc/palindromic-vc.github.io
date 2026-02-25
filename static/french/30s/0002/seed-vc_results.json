@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6816054582595825,
+  "ecapa_ref_gt_similarity": 0.6783441305160522,
+  "ecapa_src_converted_similarity": 0.11612457036972046,
+  "ecapa_src_gt_similarity": 0.7900372743606567,
+  "redimnet_ref_converted_similarity": 0.67529296875,
+  "redimnet_ref_gt_similarity": 0.6787109375,
+  "redimnet_src_converted_similarity": 0.1217041015625,
+  "redimnet_src_gt_similarity": 0.7490234375,
+  "dns_mos_gt": 4.083199560642242,
+  "dns_mos_gen": 4.088993310928345,
+  "wer_src": 0.03225806451612903,
+  "cer_src": 0.011695906432748537,
+  "transcription_src": " le village de dran\u00e7ay occup\u00e9 depuis vingt-quatre heures seulement ne se trouvait plus occup\u00e9 \u00e0 sa gauche et le temps a manqu\u00e9 pour le mettre en \u00e9tat respectable de d\u00e9fense",
+  "wer_converted": 0.03225806451612903,
+  "cer_converted": 0.005847953216374269,
+  "transcription_converted": " le village de drancay occup\u00e9 depuis vingt-quatre heures seulement ne se trouvait plus occup\u00e9 \u00e0 sa gauche et le temps a manqu\u00e9 pour le mettre en \u00e9tat respectable de d\u00e9fense",
+  "index": 3,
+  "source_text": "le village de drancey occup\u00e9 depuis vingt-quatre heures seulement ne se trouvait plus occup\u00e9 \u00e0 sa gauche et le temps a manqu\u00e9 pour le mettre en \u00e9tat respectable de d\u00e9fense",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_30s_seed_73/3_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_30s_seed_73/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_30s_seed_73/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_30s_seed_73/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_30s_seed_73/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_30s_seed_73/3_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/french/librispeech_test_set_30s_seed_73/3/converted.wav"
+  }
+}

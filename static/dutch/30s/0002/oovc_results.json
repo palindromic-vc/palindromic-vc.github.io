@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5348153114318848,
+  "ecapa_ref_gt_similarity": 0.7605556845664978,
+  "ecapa_src_converted_similarity": 0.2309495359659195,
+  "ecapa_src_gt_similarity": 0.6310224533081055,
+  "redimnet_ref_converted_similarity": 0.403076171875,
+  "redimnet_ref_gt_similarity": 0.7158203125,
+  "redimnet_src_converted_similarity": 0.1837158203125,
+  "redimnet_src_gt_similarity": 0.63232421875,
+  "dns_mos_gt": 3.8442892006465366,
+  "dns_mos_gen": 4.087991441999163,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " toen was het hem als stroomde hem een nieuw leven tot diep in de kleinste wortelen en tot in de hoogste takjes ja tot in de bladeren de boom gevoelde dat hij zich daarbij uitrekte ja hij gevoelde het door middel van den wortel",
+  "wer_converted": 0.022727272727272728,
+  "cer_converted": 0.004424778761061947,
+  "transcription_converted": " toen was het hem als stroomde hem een nieuw leven tot diep in de kleinste wortelen en tot in de hoogste takjes ja tot in de bladeren de boom gevoelde dat hij zich daarbij uitrekte ja hij gevoelde het door middel van de wortel",
+  "index": 4,
+  "source_text": "toen was het hem als stroomde hem een nieuw leven tot diep in de kleinste wortelen en tot in de hoogste takjes ja tot in de bladeren de boom gevoelde dat hij zich daarbij uitrekte ja hij gevoelde het door middel van den wortel",
+  "input_seed_folder": "librispeech_test_set_30s_seed_42",
+  "output_seed_folder": "librispeech_test_set_30s_seed_42",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_30s_seed_42/4_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_30s_seed_42/4_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_30s_seed_42/4_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_30s_seed_42/4_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_30s_seed_42/4_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_30s_seed_42/4_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_30s_seed_42/4/converted.wav"
+  }
+}

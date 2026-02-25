@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.67740797996521,
+  "ecapa_ref_gt_similarity": 0.8745005130767822,
+  "ecapa_src_converted_similarity": 0.1475667506456375,
+  "ecapa_src_gt_similarity": 0.7461525201797485,
+  "redimnet_ref_converted_similarity": 0.72021484375,
+  "redimnet_ref_gt_similarity": 0.92626953125,
+  "redimnet_src_converted_similarity": 0.1549072265625,
+  "redimnet_src_gt_similarity": 0.81005859375,
+  "dns_mos_gt": 3.8028738498687744,
+  "dns_mos_gen": 3.945923089981079,
+  "wer_src": 0.05263157894736842,
+  "cer_src": 0.018691588785046728,
+  "transcription_src": " als nun alles so herrlich vonstatten ging fiel einem der buben ein nun m\u00fc\u00dfte einmal der ganze zug anh\u00e4ngen",
+  "wer_converted": 0.05263157894736842,
+  "cer_converted": 0.018691588785046728,
+  "transcription_converted": " als nun alles so herrlich vonstatten ging fiel einem der buben ein nun m\u00fc\u00dfte einmal der ganze zug anh\u00e4ngen",
+  "index": 4,
+  "source_text": "als nun alles so herrlich vonstatten ging fiel einem der buben ein nun m\u00fcsste einmal der ganze zug anh\u00e4ngen"
+}

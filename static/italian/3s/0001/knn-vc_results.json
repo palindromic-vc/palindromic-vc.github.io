@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6552461981773376,
+  "ecapa_ref_gt_similarity": 0.8426061868667603,
+  "ecapa_src_converted_similarity": 0.08403817564249039,
+  "ecapa_src_gt_similarity": 0.4440605640411377,
+  "redimnet_ref_converted_similarity": 0.599609375,
+  "redimnet_ref_gt_similarity": 0.8095703125,
+  "redimnet_src_converted_similarity": 0.11480712890625,
+  "redimnet_src_gt_similarity": 0.53466796875,
+  "dns_mos_gt": 4.1075343404497415,
+  "dns_mos_gen": 3.62980123928615,
+  "wer_src": 0.027777777777777776,
+  "cer_src": 0.027559055118110236,
+  "transcription_src": " ma tuttavia profondendo questi ringraziamenti aveva negli occhi una domanda ansiosa lasciava intender chiaramente con lo sguardo ch'egli in verit\u00e0 si aspettava un altro discorso non voleva proprio nient'altro da lui l'onorevole verona anzi sua eccellenza grazie",
+  "wer_converted": 0.16666666666666666,
+  "cer_converted": 0.03543307086614173,
+  "transcription_converted": " ma tuttavia profondando questi ringraziamenti aveva negli occhi una domanda ansiosa passava a intender chiaramente con lo sguardo che egli in verit\u00e0 ci aspettava un altro discorso non voleva proprio nient'altro da lui l'onorevole verona anzi sua eccellenza",
+  "index": 9,
+  "source_text": "ma tuttavia profondendo questi ringraziamenti aveva negli occhi una domanda ansiosa lasciava intender chiaramente con lo sguardo ch'egli in verit\u00e0 si aspettava un altro discorso non voleva proprio nient'altro da lui l'onorevole verona anzi sua eccellenza",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_3s_seed_42/9_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_3s_seed_42/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_3s_seed_42/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_3s_seed_42/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_3s_seed_42/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_3s_seed_42/9_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/italian/librispeech_test_set_3s_seed_42/9/converted.wav"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5588976144790649,
+  "ecapa_ref_gt_similarity": 0.6013666391372681,
+  "ecapa_src_converted_similarity": 0.11566558480262756,
+  "ecapa_src_gt_similarity": 0.6879971623420715,
+  "redimnet_ref_converted_similarity": 0.44140625,
+  "redimnet_ref_gt_similarity": 0.7333984375,
+  "redimnet_src_converted_similarity": 0.10711669921875,
+  "redimnet_src_gt_similarity": 0.7255859375,
+  "dns_mos_gt": 3.438633918762207,
+  "dns_mos_gen": 4.023336887359619,
+  "wer_src": 0.07692307692307693,
+  "cer_src": 0.030534351145038167,
+  "transcription_src": " het is een mooie plaats voor mij om te liggen het verguldsel zal hier wel gauw van me afgaan ach onder welk gespuis ben ik aangeland",
+  "wer_converted": 0.23076923076923078,
+  "cer_converted": 0.16030534351145037,
+  "transcription_converted": " Pff, het is een mooie plaats voor mij om te liggen. Het vergoed zal hier wel gauw voor me afgaan. Ach, onder welk kostprijs ben ik aangeland?",
+  "index": 2,
+  "source_text": "t is een mooie plaats voor mij om te liggen het verguldsel zal hier wel gauw van mij afgaan ach onder welk gespuis ben ik aangeland",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/2_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/2_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_3s_seed_42/2/converted.wav"
+  }
+}

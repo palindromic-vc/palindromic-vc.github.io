@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5510075092315674,
+  "ecapa_ref_gt_similarity": 0.8173091411590576,
+  "ecapa_src_converted_similarity": 0.33676591515541077,
+  "ecapa_src_gt_similarity": 0.8480639457702637,
+  "redimnet_ref_converted_similarity": 0.4814453125,
+  "redimnet_ref_gt_similarity": 0.853515625,
+  "redimnet_src_converted_similarity": 0.310302734375,
+  "redimnet_src_gt_similarity": 0.85693359375,
+  "dns_mos_gt": 3.61459211508433,
+  "dns_mos_gen": 3.88451357682546,
+  "wer_src": 0.16279069767441862,
+  "cer_src": 0.03802281368821293,
+  "transcription_src": " jullie weten waarom moeder voorstellen dat we dit jaar geen kerstprocenten zouden hebben omdat het een moeilijke winter zal zyn voor iedereen en ze vindt dat wy geen geld mogen uitgeven voor ons pleizier terwyl onze soldaten zo veel moeten doorstaan in het leger",
+  "wer_converted": 0.06976744186046512,
+  "cer_converted": 0.022813688212927757,
+  "transcription_converted": " jullie weten waarom moorden voorstellen dat we dit jaar geen kerstprocenten zouden hebben omdat het een moeilijke winter zal zijn voor iedereen en ze vindt dat wij geen geld mogen uitgeven voor ons plezier terwijl onze soldaten zooveel moeten doorstaan in het leger",
+  "index": 9,
+  "source_text": "jullie weten waarom moeder voorstellen dat we dit jaar geen kerstpresenten zouden hebben omdat het een moeilijke winter zal zijn voor iedereen en ze vindt dat wij geen geld mogen uitgeven voor ons plezier terwijl onze soldaten zoveel moeten doorstaan in het leger",
+  "input_seed_folder": "librispeech_test_set_60s_seed_37",
+  "output_seed_folder": "librispeech_test_set_60s_seed_37",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/9_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/9_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_60s_seed_37/9/converted.wav"
+  }
+}

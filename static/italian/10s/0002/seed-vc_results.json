@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.479999303817749,
+  "ecapa_ref_gt_similarity": 0.8059878945350647,
+  "ecapa_src_converted_similarity": 0.06959628313779831,
+  "ecapa_src_gt_similarity": 0.8484097719192505,
+  "redimnet_ref_converted_similarity": 0.41259765625,
+  "redimnet_ref_gt_similarity": 0.8701171875,
+  "redimnet_src_converted_similarity": 0.2099609375,
+  "redimnet_src_gt_similarity": 0.8876953125,
+  "dns_mos_gt": 3.786538302898407,
+  "dns_mos_gen": 4.133783400058746,
+  "wer_src": 0.10714285714285714,
+  "cer_src": 0.012121212121212121,
+  "transcription_src": " e ripeteteci la canzone piemontese trentaquaranta oh come queste bestie comandano e fanno recitar le lezioni pens\u00f2 alice sarebbe lo stesso per me che fossi a scuola",
+  "wer_converted": 0.17857142857142858,
+  "cer_converted": 0.024242424242424242,
+  "transcription_converted": " e ripeteteci la canzone piemontese trentaquaranta ah come queste bestie comandano e fanno recitar le lezioni penso alice sarebbe lo stesso per me che fossi a scuola",
+  "index": 2,
+  "source_text": "e ripeteteci la canzona piemontese trenta quaranta oh come queste bestie comandano e fanno recitar le lezioni pens\u00f2 alice sarebbe lo stesso per me che fossi a scuola",
+  "input_seed_folder": "librispeech_test_set_10s_seed_42",
+  "output_seed_folder": "librispeech_test_set_10s_seed_42",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_10s_seed_42/2_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_10s_seed_42/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_10s_seed_42/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_10s_seed_42/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_10s_seed_42/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_10s_seed_42/2_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/italian/librispeech_test_set_10s_seed_42/2/converted.wav"
+  }
+}

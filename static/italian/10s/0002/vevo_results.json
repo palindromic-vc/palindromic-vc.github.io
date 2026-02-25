@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.519989013671875,
+  "ecapa_ref_gt_similarity": 0.8059942722320557,
+  "ecapa_src_converted_similarity": 0.17695750296115875,
+  "ecapa_src_gt_similarity": 0.8484082221984863,
+  "redimnet_ref_converted_similarity": 0.41943359375,
+  "redimnet_ref_gt_similarity": 0.8701171875,
+  "redimnet_src_converted_similarity": 0.1904296875,
+  "redimnet_src_gt_similarity": 0.88720703125,
+  "dns_mos_gt": 3.7635018825531006,
+  "dns_mos_gen": 3.8374924659729004,
+  "wer_src": 0.10714285714285714,
+  "cer_src": 0.012121212121212121,
+  "transcription_src": " e ripeteteci la canzone piemontese trentaquaranta oh come queste bestie comandano e fanno recitar le lezioni pens\u00f2 alice sarebbe lo stesso per me che fossi a scuola",
+  "wer_converted": 0.14285714285714285,
+  "cer_converted": 0.01818181818181818,
+  "transcription_converted": " e ripeteteci la canzone piemontese trentaquaranta oh come queste bestie comandano e fanno recitar le lezioni pens\u00f2 alice sarebbe lo stesso per me che fosse a scuola",
+  "index": 2,
+  "source_text": "e ripeteteci la canzona piemontese trenta quaranta oh come queste bestie comandano e fanno recitar le lezioni pens\u00f2 alice sarebbe lo stesso per me che fossi a scuola"
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5409716963768005,
+  "ecapa_ref_gt_similarity": 0.8681672215461731,
+  "ecapa_src_converted_similarity": 0.032055020332336426,
+  "ecapa_src_gt_similarity": 0.7210322618484497,
+  "redimnet_ref_converted_similarity": 0.5419921875,
+  "redimnet_ref_gt_similarity": 0.93212890625,
+  "redimnet_src_converted_similarity": -0.01222991943359375,
+  "redimnet_src_gt_similarity": 0.828125,
+  "dns_mos_gt": 3.7915403842926025,
+  "dns_mos_gen": 3.89058518409729,
+  "wer_src": 0.1111111111111111,
+  "cer_src": 0.020618556701030927,
+  "transcription_src": " a soberba n\u00e3o perdoa a humildade n\u00e3o se minga homens aprendeis a vencer vos e triunfareis de todos",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " A soberba n\u00e3o perdoa, a humildade n\u00e3o se vinga. Homens, aprendei a vencer-vos e triunfareis de todos.",
+  "index": 7,
+  "source_text": "a soberba n\u00e3o perdoa a humildade n\u00e3o se vinga homens aprendei a vencer-vos e triunfareis de todos"
+}

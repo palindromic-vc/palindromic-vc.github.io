@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.56087327003479,
+  "ecapa_ref_gt_similarity": 0.8308790326118469,
+  "ecapa_src_converted_similarity": 0.09743143618106842,
+  "ecapa_src_gt_similarity": 0.8343026638031006,
+  "redimnet_ref_converted_similarity": 0.50048828125,
+  "redimnet_ref_gt_similarity": 0.90283203125,
+  "redimnet_src_converted_similarity": 0.172119140625,
+  "redimnet_src_gt_similarity": 0.84912109375,
+  "dns_mos_gt": 3.9402878284454346,
+  "dns_mos_gen": 3.0830514430999756,
+  "wer_src": 0.12121212121212122,
+  "cer_src": 0.020942408376963352,
+  "transcription_src": " deixemos isto conversemos a s\u00e9rio diante de quem n\u00e3o sabe rir-se de mim eu tamb\u00e9m tenho pensado na organiza\u00e7\u00e3o de uma sociedade perfeita como plat\u00e3o e c\u00edcero campanella thomas moros e fenelon",
+  "wer_converted": 0.18181818181818182,
+  "cer_converted": 0.08376963350785341,
+  "transcription_converted": " deixemos isto conversemos a s\u00e9rio diante de quem n\u00e3o sabe ir-se de mim eu tamb\u00e9m tenho pensado na organiza\u00e7\u00e3o de uma sociedade perfeita como plat\u00e3o e c\u00edcero campanella tom\u00e1s morros e",
+  "index": 7,
+  "source_text": "deixemos isto conversemos a serio diante de quem n\u00e3o sabe rir-se de mim eu tamb\u00e9m tenho pensado na organiza\u00e7\u00e3o de uma sociedade perfeita como plat\u00e3o e cicero campanella thomaz morus e fenelon"
+}

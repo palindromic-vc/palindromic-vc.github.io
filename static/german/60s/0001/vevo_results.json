@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.65533047914505,
+  "ecapa_ref_gt_similarity": 0.8413378000259399,
+  "ecapa_src_converted_similarity": 0.17511039972305298,
+  "ecapa_src_gt_similarity": 0.8226070404052734,
+  "redimnet_ref_converted_similarity": 0.53515625,
+  "redimnet_ref_gt_similarity": 0.82080078125,
+  "redimnet_src_converted_similarity": 0.045318603515625,
+  "redimnet_src_gt_similarity": 0.85302734375,
+  "dns_mos_gt": 3.469449043273926,
+  "dns_mos_gen": 3.180711269378662,
+  "wer_src": 0.044444444444444446,
+  "cer_src": 0.010948905109489052,
+  "transcription_src": " die zuh\u00f6rer blicken einander verwundert an von wessen gem\u00fcthe spricht der meister da war er doch dort gerade mit bischof ottmar zusammen sollte er ihn meinen ist es m\u00f6glich da\u00df der himmel ein solches bekehrungswerk vorhabe welch ungeheurer gewinn w\u00e4re das f\u00fcr die gute sache",
+  "wer_converted": 0.06666666666666667,
+  "cer_converted": 0.0364963503649635,
+  "transcription_converted": " die zuh\u00f6rer blicken einander verwundert an von wessen gem\u00fcte spricht der meister da war er doch dort gerade mit bischof ottmar zusammen sollte er ihn meinen ist es m\u00f6glich da\u00df der himmel ein solches bekehrungswerk vorhabe welch unger\u00e4ubiger gewinn w\u00e4hlen das f\u00fcr die gute sache",
+  "index": 3,
+  "source_text": "die zuh\u00f6rer blicken einander verwundert an von wessen gem\u00fcte spricht der meister da war er doch dort gerade mit bischof ottmar zusammen sollte er ihn meinen ist es m\u00f6glich dass der himmel ein solches bekehrungswerk vorhabe welch ungeheurer gewinn w\u00e4re das f\u00fcr die gute sache"
+}

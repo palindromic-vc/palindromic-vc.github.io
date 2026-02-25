@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.581883430480957,
+  "ecapa_ref_gt_similarity": 0.7305377721786499,
+  "ecapa_src_converted_similarity": 0.03337070718407631,
+  "ecapa_src_gt_similarity": 0.8059249520301819,
+  "redimnet_ref_converted_similarity": 0.56640625,
+  "redimnet_ref_gt_similarity": 0.73388671875,
+  "redimnet_src_converted_similarity": 0.0882568359375,
+  "redimnet_src_gt_similarity": 0.8291015625,
+  "dns_mos_gt": 3.550978660583496,
+  "dns_mos_gen": 4.03468132019043,
+  "wer_src": 0.0625,
+  "cer_src": 0.009868421052631578,
+  "transcription_src": " die ungewohnte erscheinung in der kirche mu\u00dfte ihm nicht entgangen sein er ergriff die hand des alten und sch\u00fcttelte sie wiederholt mit der gr\u00f6\u00dften herzlichkeit und der alm\u00f6hi stand schweigend da und konnte erst kein wort herausbringen denn auf einen solchen herzlichen empfang war er nicht vorbereitet",
+  "wer_converted": 0.10416666666666667,
+  "cer_converted": 0.046052631578947366,
+  "transcription_converted": " die un\u00fcberwundte erscheinung in der kirche mu\u00dfte ihm nicht entgangen sein er ergriff die hand des alten und sch\u00fcttelte sie wiederholt mit der gr\u00f6\u00dften herzlichkeit und der alm\u00f6hrli stand schweigend da und konnte erst kein wort herausbilden denn auf einen solchen herzlichen empfang war er nicht vorbereitet",
+  "index": 8,
+  "source_text": "die ungewohnte erscheinung in der kirche musste ihm nicht entgangen sein er ergriff die hand des alten und sch\u00fcttelte sie wiederholt mit der gr\u00f6\u00dften herzlichkeit und der alm-\u00f6hi stand schweigend da und konnte erst kein wort herausbringen denn auf einen solchen herzlichen empfang war er nicht vorbereitet"
+}

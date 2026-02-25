@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.3890899121761322,
+  "ecapa_ref_gt_similarity": 0.8219408988952637,
+  "ecapa_src_converted_similarity": 0.09604424238204956,
+  "ecapa_src_gt_similarity": 0.8300079107284546,
+  "redimnet_ref_converted_similarity": 0.345703125,
+  "redimnet_ref_gt_similarity": 0.85400390625,
+  "redimnet_src_converted_similarity": 0.25439453125,
+  "redimnet_src_gt_similarity": 0.859375,
+  "dns_mos_gt": 4.075427055358887,
+  "dns_mos_gen": 3.946491003036499,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " iba sancho en medio con su vara que no hab\u00eda m\u00e1s que ver y pocas calles andadas del lugar sintieron ruido de cuchilladas acudieron all\u00e1",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " Iba Sancho en medio, con su vara, que no hab\u00eda m\u00e1s que ver, y pocas calles andadas del lugar sintieron ruido de cuchilladas. Acudieron all\u00e1.",
+  "index": 0,
+  "source_text": "iba sancho en medio con su vara que no hab\u00eda m\u00e1s que ver y pocas calles andadas del lugar sintieron ruido de cuchilladas acudieron all\u00e1",
+  "input_seed_folder": "librispeech_test_set_10s_seed_42",
+  "output_seed_folder": "librispeech_test_set_10s_seed_42",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/0_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/0_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/0_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/0_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/0_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/0_ref_src2.wav",
+    "converted": "/workspace/outputs/spanish/librispeech_test_set_10s_seed_42/0/converted.wav"
+  }
+}

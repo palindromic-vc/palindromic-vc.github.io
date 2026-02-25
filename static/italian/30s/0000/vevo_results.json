@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7590010166168213,
+  "ecapa_ref_gt_similarity": 0.8322954177856445,
+  "ecapa_src_converted_similarity": 0.3960436284542084,
+  "ecapa_src_gt_similarity": 0.8689230680465698,
+  "redimnet_ref_converted_similarity": 0.77880859375,
+  "redimnet_ref_gt_similarity": 0.87158203125,
+  "redimnet_src_converted_similarity": 0.240966796875,
+  "redimnet_src_gt_similarity": 0.8720703125,
+  "dns_mos_gt": 3.6606526374816895,
+  "dns_mos_gen": 3.603900671005249,
+  "wer_src": 0.03333333333333333,
+  "cer_src": 0.005988023952095809,
+  "transcription_src": " volete voi volete volete voi ballare volete voi volete co gamberi danzare che male gli rispose il candido nasello di l\u00e0 c'\u00e8 un'altra sponda c'\u00e8 un suolo assai pi\u00f9 bello",
+  "wer_converted": 0.13333333333333333,
+  "cer_converted": 0.023952095808383235,
+  "transcription_converted": " volete voi volete volete voi vallare volete voi volete co gambe ridanzare che male gli rispose il candido nasello di l\u00e0 c'\u00e8 un'altra sponda c'\u00e8 un suolo assai pi\u00f9 bello",
+  "index": 6,
+  "source_text": "volete voi volete volete voi ballare volete voi volete co gamberi danzare che male gli rispose il candido nasello di l\u00e0 c'\u00e8 un'altra sponda c\u00e8 un suolo assai pi\u00f9 bello"
+}

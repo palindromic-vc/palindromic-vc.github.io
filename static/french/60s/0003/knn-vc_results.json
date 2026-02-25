@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7839419841766357,
+  "ecapa_ref_gt_similarity": 0.832367479801178,
+  "ecapa_src_converted_similarity": 0.04582800343632698,
+  "ecapa_src_gt_similarity": 0.8107074499130249,
+  "redimnet_ref_converted_similarity": 0.72119140625,
+  "redimnet_ref_gt_similarity": 0.86962890625,
+  "redimnet_src_converted_similarity": 0.038665771484375,
+  "redimnet_src_gt_similarity": 0.8388671875,
+  "dns_mos_gt": 3.737618386745453,
+  "dns_mos_gen": 3.8640698194503784,
+  "wer_src": 0.09375,
+  "cer_src": 0.04411764705882353,
+  "transcription_src": " entre calais et valenciennes le fon\u00e7age des puits de mines rencontrait des difficult\u00e9s inou\u00efes pour traverser les mastos s\u00e9journant sous terre en nappes immenses au niveau des vall\u00e9es les plus basses",
+  "wer_converted": 0.1875,
+  "cer_converted": 0.09313725490196079,
+  "transcription_converted": " entre calais et valenciens le fon\u00e7age des puits de mines rencontrait des difficult\u00e9s inou\u00efes pour traverser les mastos s\u00e9journant sous terre en apliments au niveau des vall\u00e9es les plus basses",
+  "index": 2,
+  "source_text": "entre calais et valenciennes le fon\u00e7age des puits de mine rencontrait des difficult\u00e9s inou\u00efes pour traverser les masses d'eau s\u00e9journant sous terre en nappes immenses au niveau des vall\u00e9es les plus basses",
+  "input_seed_folder": "librispeech_test_set_60s_seed_37",
+  "output_seed_folder": "librispeech_test_set_60s_seed_37",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_60s_seed_37/2_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_60s_seed_37/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_60s_seed_37/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_60s_seed_37/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_60s_seed_37/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_60s_seed_37/2_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/french/librispeech_test_set_60s_seed_37/2/converted.wav"
+  }
+}

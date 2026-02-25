@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.488811194896698,
+  "ecapa_ref_gt_similarity": 0.8005543947219849,
+  "ecapa_src_converted_similarity": 0.270906925201416,
+  "ecapa_src_gt_similarity": 0.8559800386428833,
+  "redimnet_ref_converted_similarity": 0.463623046875,
+  "redimnet_ref_gt_similarity": 0.83349609375,
+  "redimnet_src_converted_similarity": 0.330810546875,
+  "redimnet_src_gt_similarity": 0.88037109375,
+  "dns_mos_gt": 3.5727345943450928,
+  "dns_mos_gen": 3.5761531591415405,
+  "wer_src": 0.030303030303030304,
+  "cer_src": 0.0056179775280898875,
+  "transcription_src": " daar komt ze vooruit bets doe de deur open amy drie hoera's voor moeder riep jo heen en weer springende terwijl meta naar haar moeder liep om haar naar de eereplaats te begeleiden",
+  "wer_converted": 0.15151515151515152,
+  "cer_converted": 0.07865168539325842,
+  "transcription_converted": " daar komt ze van haar bed doe de deur open amy drie hoelaars voor moeder riep jo heen en weer springende terwijl meta naar haar moeder liep om haar naar de eerplaats te begeleiden",
+  "index": 1,
+  "source_text": "daar komt ze vooruit bets doe de deur open amy drie hoera's voor moeder riep jo heen en weer springende terwijl meta naar haar moeder liep om haar naar de ereplaats te begeleiden",
+  "input_seed_folder": "librispeech_test_set_30s_seed_37",
+  "output_seed_folder": "librispeech_test_set_30s_seed_37",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_30s_seed_37/1_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_30s_seed_37/1_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_30s_seed_37/1_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_30s_seed_37/1_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_30s_seed_37/1_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_30s_seed_37/1_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_30s_seed_37/1/converted.wav"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6983616948127747,
+  "ecapa_ref_gt_similarity": 0.70481938123703,
+  "ecapa_src_converted_similarity": 0.21463754773139954,
+  "ecapa_src_gt_similarity": 0.8655714988708496,
+  "redimnet_ref_converted_similarity": 0.64501953125,
+  "redimnet_ref_gt_similarity": 0.7412109375,
+  "redimnet_src_converted_similarity": 0.30615234375,
+  "redimnet_src_gt_similarity": 0.830078125,
+  "dns_mos_gt": 3.76387243270874,
+  "dns_mos_gen": 3.836298131942749,
+  "wer_src": 0.175,
+  "cer_src": 0.05106382978723404,
+  "transcription_src": " als door de matte ruiten van het schoolgebouw het helder stijgend ochtendgezang als een trillende jeugdgurgel floot als i wist dat i drie uur rustig den tijd had kwam i naar buiten op z'n tapijt te sloffen en streek het schuttingtje",
+  "wer_converted": 0.15,
+  "cer_converted": 0.029787234042553193,
+  "transcription_converted": " als door de matte ruiten van het schoolgebouw het helder stijgend ochtendgezang als een trillende jeugdgurgel floot als-ie wist dat-ie drie uur rustig den tijd had kwam-ie naar buiten op z'n tapijtje sloffen en streek het schuttingje",
+  "index": 8,
+  "source_text": "als door de matte ruiten van het schoolgebouw het helder stijgend ochtendgezang als een trillende jeugdgurgel floot als 'ie wist dat 'ie drie uur rustig de tijd had kwam 'ie naar buiten op z'n tapijten sloffen en streek het schuttinkje",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/8_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/8_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/dutch/librispeech_test_set_3s_seed_42/8/converted.wav"
+  }
+}

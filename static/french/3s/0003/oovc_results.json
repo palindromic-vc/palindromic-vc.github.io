@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.0333520732820034,
+  "ecapa_ref_gt_similarity": 0.8488414883613586,
+  "ecapa_src_converted_similarity": 0.2017897665500641,
+  "ecapa_src_gt_similarity": 0.7314393520355225,
+  "redimnet_ref_converted_similarity": 0.200439453125,
+  "redimnet_ref_gt_similarity": 0.86669921875,
+  "redimnet_src_converted_similarity": 0.19482421875,
+  "redimnet_src_gt_similarity": 0.72216796875,
+  "dns_mos_gt": 3.9608600616455076,
+  "dns_mos_gen": 3.873278188705444,
+  "wer_src": 0.15625,
+  "cer_src": 0.18579234972677597,
+  "transcription_src": " l'esprit en fut g\u00e9n\u00e9reux et large les secours furent donn\u00e9s \u00e9miett\u00e9s m\u00eame afin de soulager un peu toutes les d\u00e9tresses et aussi afin d'engager encore et toujours \u00e0 ne jamais se rendre Merci d'avoir regard\u00e9 cette vid\u00e9o !",
+  "wer_converted": 0.1875,
+  "cer_converted": 0.09289617486338798,
+  "transcription_converted": " L'espion fut g\u00e9n\u00e9reux et large. Les secours furent donn\u00e9s, \u00e9mul\u00e9s m\u00eame, afin de soulager un peu toutes les d\u00e9tresses et aussi afin d'engager encore et toujours \u00e0 nos jamais soins.",
+  "index": 9,
+  "source_text": "l'esprit en fut g\u00e9n\u00e9reux et large les secours furent donn\u00e9s \u00e9miett\u00e9s m\u00eame afin de soulager un peu toutes les d\u00e9tresses et aussi afin d'engager encore et toujours \u00e0 ne jamais se rendre",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_3s_seed_42/9_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_3s_seed_42/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_3s_seed_42/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_3s_seed_42/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_3s_seed_42/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_3s_seed_42/9_ref_src2.wav",
+    "converted": "/workspace/outputs/french/librispeech_test_set_3s_seed_42/9/converted.wav"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5562803149223328,
+  "ecapa_ref_gt_similarity": 0.7154644131660461,
+  "ecapa_src_converted_similarity": 0.14954228699207306,
+  "ecapa_src_gt_similarity": 0.8595350980758667,
+  "redimnet_ref_converted_similarity": 0.420654296875,
+  "redimnet_ref_gt_similarity": 0.78076171875,
+  "redimnet_src_converted_similarity": 0.1171875,
+  "redimnet_src_gt_similarity": 0.86865234375,
+  "dns_mos_gt": 3.7923598289489746,
+  "dns_mos_gen": 3.8271021842956543,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " niekt\u00f3re okazywa\u0142y si\u0119 z bliska niczym innym jak wielkimi pawimi ogonami kolorowymi wachlarzami w kt\u00f3re niepoj\u0119tym sposobem tchni\u0119to jaki\u015b poz\u00f3r \u017cycia",
+  "wer_converted": 0.047619047619047616,
+  "cer_converted": 0.006666666666666667,
+  "transcription_converted": " Niekt\u00f3re okazywa\u0142y si\u0119 z bliska niczym innym jak wielkimi, pawimi ogonami, kolorowymi machlarzami, w kt\u00f3re niepoj\u0119tym sposobem tchni\u0119to jaki\u015b poz\u00f3r \u017cycia.",
+  "index": 8,
+  "source_text": "niekt\u00f3re okazywa\u0142y si\u0119 z bliska niczym innym jak wielkimi pawimi ogonami kolorowymi wachlarzami w kt\u00f3re niepoj\u0119tym sposobem tchni\u0119to jaki\u015b poz\u00f3r \u017cycia"
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7896296977996826,
+  "ecapa_ref_gt_similarity": 0.8412598371505737,
+  "ecapa_src_converted_similarity": 0.1061009019613266,
+  "ecapa_src_gt_similarity": 0.7791945934295654,
+  "redimnet_ref_converted_similarity": 0.78369140625,
+  "redimnet_ref_gt_similarity": 0.876953125,
+  "redimnet_src_converted_similarity": 0.2091064453125,
+  "redimnet_src_gt_similarity": 0.75048828125,
+  "dns_mos_gt": 3.4955569903055825,
+  "dns_mos_gen": 3.936458706855774,
+  "wer_src": 0.125,
+  "cer_src": 0.03296703296703297,
+  "transcription_src": " Son trente e son quaranta. Il gambero gi\u00e0 canta. Man troppo abbrustolito. Mi voglio incipriare. In faccia questo specchio mi voglio spazzolare. E voglio rivoltare e piedi e naso in su.",
+  "wer_converted": 0.09375,
+  "cer_converted": 0.016483516483516484,
+  "transcription_converted": " son trente son quaranta il gambero gi\u00e0 canta m'han troppo abbrustolito mi voglio incipriare in faccia a questo specchio mi voglio spazzolare e voglio rivoltare e piedi e naso in su",
+  "index": 8,
+  "source_text": "son trenta e son quaranta il gambero gi\u00e0 canta m'han troppo abbrustolito mi voglio incipr\u00efare in faccia a questo specchio mi voglio spazzolare e voglio rivoltare e piedi e naso in su",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_10s_seed_73/8_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_10s_seed_73/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_10s_seed_73/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_10s_seed_73/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_10s_seed_73/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_10s_seed_73/8_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/italian/librispeech_test_set_10s_seed_73/8/converted.wav"
+  }
+}

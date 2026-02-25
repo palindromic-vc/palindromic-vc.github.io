@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7479941844940186,
+  "ecapa_ref_gt_similarity": 0.6875157356262207,
+  "ecapa_src_converted_similarity": 0.2942090928554535,
+  "ecapa_src_gt_similarity": 0.7107049226760864,
+  "redimnet_ref_converted_similarity": 0.779296875,
+  "redimnet_ref_gt_similarity": 0.92626953125,
+  "redimnet_src_converted_similarity": 0.082763671875,
+  "redimnet_src_gt_similarity": 0.7060546875,
+  "dns_mos_gt": 3.9601268768310547,
+  "dns_mos_gen": 3.623098134994507,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " e vencido era nos arcanos de um novo amor que ele ao mesmo tempo incr\u00e9dulo e piedoso levado velozmente pelo min\u00fasculo iate na clara manh\u00e3 assolhada ia buscar o doce b\u00e1lsamo dos beijos sinceros",
+  "wer_converted": 0.058823529411764705,
+  "cer_converted": 0.015625,
+  "transcription_converted": " vencido era nos arcanjos de um novo amor que ele ao mesmo tempo incr\u00e9dulo e piedoso levado velozmente pelo min\u00fasculo iate na clara manh\u00e3 assolhada ia buscar o doce b\u00e1lsamo dos beijos sinceros",
+  "index": 0,
+  "source_text": "e vencido era nos arcanos de um novo amor que ele ao mesmo tempo incr\u00e9dulo e piedoso levado velozmente pelo min\u00fasculo iate na clara manh\u00e3 assolhada ia buscar o doce b\u00e1lsamo dos beijos sinceros"
+}

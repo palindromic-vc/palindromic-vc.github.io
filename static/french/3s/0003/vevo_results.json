@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.48399072885513306,
+  "ecapa_ref_gt_similarity": 0.8488357067108154,
+  "ecapa_src_converted_similarity": 0.2223268449306488,
+  "ecapa_src_gt_similarity": 0.7314400672912598,
+  "redimnet_ref_converted_similarity": 0.436767578125,
+  "redimnet_ref_gt_similarity": 0.86669921875,
+  "redimnet_src_converted_similarity": 0.276611328125,
+  "redimnet_src_gt_similarity": 0.7216796875,
+  "dns_mos_gt": 3.9528095722198486,
+  "dns_mos_gen": 4.0851359367370605,
+  "wer_src": 0.15625,
+  "cer_src": 0.18579234972677597,
+  "transcription_src": " l'esprit en fut g\u00e9n\u00e9reux et large les secours furent donn\u00e9s \u00e9miett\u00e9s m\u00eame afin de soulager un peu toutes les d\u00e9tresses et aussi afin d'engager encore et toujours \u00e0 ne jamais se rendre Merci d'avoir regard\u00e9 cette vid\u00e9o !",
+  "wer_converted": 0.0625,
+  "cer_converted": 0.01639344262295082,
+  "transcription_converted": " l'esprit en fut g\u00e9n\u00e9reux et large les secours furent donn\u00e9s et miett\u00e9s m\u00eame afin de soulager un peu toutes les d\u00e9tresses et aussi afin d'engager encore et toujours \u00e0 ne jamais se rendre",
+  "index": 9,
+  "source_text": "l'esprit en fut g\u00e9n\u00e9reux et large les secours furent donn\u00e9s \u00e9miett\u00e9s m\u00eame afin de soulager un peu toutes les d\u00e9tresses et aussi afin d'engager encore et toujours \u00e0 ne jamais se rendre"
+}

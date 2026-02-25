@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5913162231445312,
+  "ecapa_ref_gt_similarity": 0.8158867359161377,
+  "ecapa_src_converted_similarity": 0.27596646547317505,
+  "ecapa_src_gt_similarity": 0.7565346956253052,
+  "redimnet_ref_converted_similarity": 0.55517578125,
+  "redimnet_ref_gt_similarity": 0.81640625,
+  "redimnet_src_converted_similarity": 0.2091064453125,
+  "redimnet_src_gt_similarity": 0.7255859375,
+  "dns_mos_gt": 3.595905065536499,
+  "dns_mos_gen": 3.068385601043701,
+  "wer_src": 0.22413793103448276,
+  "cer_src": 0.05263157894736842,
+  "transcription_src": " we moesten van avond eens repeteeren kom hier en doe de flauwvalsc\u00e8ne eens want dat doe je zoo stijf als een lantaarnpaal daar kan ik niks van doen ik heb nog nooit iemand flauw zien vallen en ik heb geen lust mij bont en blauw te maken den zomer plat op den grond te rollen zooals jij",
+  "wer_converted": 0.1896551724137931,
+  "cer_converted": 0.0456140350877193,
+  "transcription_converted": " we moesten van avond eens repeteren kom hier en doe de flauwvalsc\u00e8ne eens want dan doe je zoo stijf als een lantaarnpaal daar kan ik niks van doen ik heb nog nooit iemand flauw zien vallen en ik heb geen lust mij bont en blauw te maken de zomer plat op de grond te rollen zoals jij",
+  "index": 3,
+  "source_text": "we moesten vanavond eens repeteren kom hier en doe de flauwval sc\u00e8ne eens want dat doe je zo stijf als een lantaarnpaal daar kan ik niets aan doen ik heb nog nooit iemand flauw zien vallen en ik heb geen lust mij bont en blauw te maken door zo maar plat op de grond te rollen zoals jij"
+}

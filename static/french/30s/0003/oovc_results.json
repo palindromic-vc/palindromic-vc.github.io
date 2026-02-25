@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.3748738169670105,
+  "ecapa_ref_gt_similarity": 0.5569503903388977,
+  "ecapa_src_converted_similarity": 0.11905854940414429,
+  "ecapa_src_gt_similarity": 0.7783088684082031,
+  "redimnet_ref_converted_similarity": 0.45654296875,
+  "redimnet_ref_gt_similarity": 0.6259765625,
+  "redimnet_src_converted_similarity": 0.1192626953125,
+  "redimnet_src_gt_similarity": 0.8291015625,
+  "dns_mos_gt": 4.08362455368042,
+  "dns_mos_gen": 4.084491872787476,
+  "wer_src": 0.02702702702702703,
+  "cer_src": 0.02857142857142857,
+  "transcription_src": " quant au comte il eut en \u00e9change de son salut une c\u00e9r\u00e9monieuse mais en m\u00eame temps gracieuse r\u00e9v\u00e9rence lucien de son c\u00f4t\u00e9 \u00e9changea avec le comte un salut de demi-connaissance et avec danglars un geste d'intimit\u00e9 merci",
+  "wer_converted": 0.08108108108108109,
+  "cer_converted": 0.023809523809523808,
+  "transcription_converted": " quant au comte il eut en \u00e9change de son salut une c\u00e9r\u00e9monieuse mais en m\u00eame temps gracieuse r\u00e9v\u00e9rence ricien de son c\u00f4t\u00e9 \u00e9changea avec le comte un salut de demi connaissance et avec dangl\u00e8re un geste d'insimit\u00e9",
+  "index": 9,
+  "source_text": "quant au comte il eut en \u00e9change de son salut une c\u00e9r\u00e9monieuse mais en m\u00eame temps gracieuse r\u00e9v\u00e9rence lucien de son c\u00f4t\u00e9 \u00e9changea avec le comte un salut de demi connaissance et avec danglars un geste d'intimit\u00e9",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_30s_seed_73/9_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_30s_seed_73/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_30s_seed_73/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_30s_seed_73/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_30s_seed_73/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_30s_seed_73/9_ref_src2.wav",
+    "converted": "/workspace/outputs/french/librispeech_test_set_30s_seed_73/9/converted.wav"
+  }
+}

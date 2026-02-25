@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7440302968025208,
+  "ecapa_ref_gt_similarity": 0.8471307158470154,
+  "ecapa_src_converted_similarity": 0.23578673601150513,
+  "ecapa_src_gt_similarity": 0.775205671787262,
+  "redimnet_ref_converted_similarity": 0.6572265625,
+  "redimnet_ref_gt_similarity": 0.8857421875,
+  "redimnet_src_converted_similarity": 0.27734375,
+  "redimnet_src_gt_similarity": 0.8203125,
+  "dns_mos_gt": 3.910425901412964,
+  "dns_mos_gen": 3.9098196029663086,
+  "wer_src": 0.13953488372093023,
+  "cer_src": 0.026717557251908396,
+  "transcription_src": " e perch\u00e9 egli era mal addobbato non ardiva comparere tra tanti sapienti e eccellentissimi uomini ma per vergogna si puose dietro l'uscio dalla camera del re che appena si potea vedere ei vicchietamente stava ad ascoltar quello che dicevano i prudentissimi medici",
+  "wer_converted": 0.20930232558139536,
+  "cer_converted": 0.04198473282442748,
+  "transcription_converted": " e perch\u00e9 egli era mal addobbato non ordiva comparere tra tanti sapienti eccellentissimi uomini ma per vergogna si pose dietro l'uscio dalla camera del re che appena si potea vedere eivicatamente stava ad ascoltar quello che dicevano i prudentissimi medici",
+  "index": 3,
+  "source_text": "e perch\u00e8 egli era mal addobbato non ardiva comparere tra tanti sapienti e eccellentissimi uomini ma per vergogna si puose dietro l'uscio della camera del re che appena si puotea vedere e ivi chetamente stava ad ascoltar quello che dicevano i prudentissimi medici"
+}

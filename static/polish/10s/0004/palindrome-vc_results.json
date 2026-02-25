@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7554546594619751,
+  "ecapa_ref_gt_similarity": 0.8470516204833984,
+  "ecapa_src_converted_similarity": 0.11415143311023712,
+  "ecapa_src_gt_similarity": 0.763373851776123,
+  "redimnet_ref_converted_similarity": 0.7353515625,
+  "redimnet_ref_gt_similarity": 0.896484375,
+  "redimnet_src_converted_similarity": 0.043548583984375,
+  "redimnet_src_gt_similarity": 0.7138671875,
+  "dns_mos_gt": 4.006852149963379,
+  "dns_mos_gen": 3.864365816116333,
+  "wer_src": 0.018867924528301886,
+  "cer_src": 0.00303951367781155,
+  "transcription_src": " je\u015bli wi\u0119c mimo srogiej zale\u017cno\u015bci od martwych si\u0142 przyrody kt\u00f3re nam cz\u0119ste i dotkliwe p\u0142ataj\u0105 figle my ludzie g\u0142osimy si\u0119 jej panami dlaczeg\u00f3\u017cby mia\u0142y inn\u0105 logik\u0105 rz\u0105dzi\u0107 si\u0119 w tej kwestji mr\u00f3wki wymaga\u0107 tego od nich by\u0142oby za wiele zreszt\u0105 je\u015bliby one w niezrozumia\u0142ej dla nas skromno\u015bci nie uzna\u0142y siebie za koron\u0119 stworzenia",
+  "wer_converted": 0.05660377358490566,
+  "cer_converted": 0.0060790273556231,
+  "transcription_converted": " je\u015bli wi\u0119c mimo srogiej zale\u017cno\u015bci od martwych si\u0142 przyrody kt\u00f3re nam cz\u0119ste i dotkliwe p\u0142ataj\u0105 figle my ludzie g\u0142osimy si\u0119 jej panami dlaczeg\u00f3\u017cby mia\u0142y inn\u0105 logik\u0105 rz\u0105dzi\u0107 si\u0119 w tej kwestji mr\u00f3wki wymaga\u0107 tego od nich by\u0142oby za wiele zreszt\u0105 je\u015bli by one w niezrozumia\u0142ej dla nas skromno\u015bci nie uzna\u0142y siebie za koron\u0119 stworzenia",
+  "index": 3,
+  "source_text": "je\u015bli wi\u0119c mimo srogiej zale\u017cno\u015bci od martwych si\u0142 przyrody kt\u00f3re nam cz\u0119ste i dotkliwe p\u0142ataj\u0105 figle my ludzie g\u0142osimy si\u0119 jej panami dlaczeg\u00f3\u017cby mia\u0142y inn\u0105 logik\u0105 rz\u0105dzi\u0107 si\u0119 w tej kwestyi mr\u00f3wki wymaga\u0107 tego od nich by\u0142oby za wiele zreszt\u0105 je\u015bliby one w niezrozumia\u0142ej dla nas skromno\u015bci nie uzna\u0142y siebie za koron\u0119 stworzenia"
+}

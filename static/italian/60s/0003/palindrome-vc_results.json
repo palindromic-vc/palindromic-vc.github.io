@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7838523387908936,
+  "ecapa_ref_gt_similarity": 0.8475667834281921,
+  "ecapa_src_converted_similarity": 0.08149987459182739,
+  "ecapa_src_gt_similarity": 0.16338197886943817,
+  "redimnet_ref_converted_similarity": 0.77783203125,
+  "redimnet_ref_gt_similarity": 0.861328125,
+  "redimnet_src_converted_similarity": 0.1759033203125,
+  "redimnet_src_gt_similarity": 0.11431884765625,
+  "dns_mos_gt": 3.9076731204986572,
+  "dns_mos_gen": 4.03148889541626,
+  "wer_src": 0.21052631578947367,
+  "cer_src": 0.043243243243243246,
+  "transcription_src": " che tu mi sie di tuoi prieghi cortese infano s\u00ec che ben per me sadori pur chi possa purgar le gravi offese quindi fu io ma li profondi fori ond usci il sangue in sul quale io sedea",
+  "wer_converted": 0.18421052631578946,
+  "cer_converted": 0.03783783783783784,
+  "transcription_converted": " che tu mi sie di tuoi prieghi cortese infano si che ben per me s'adori pur chi possa purgar le gravi offese quindi fu io ma li profondi fori ond'usci il sangue in sul quale io sedea",
+  "index": 2,
+  "source_text": "che tu mi sie di tuoi prieghi cortese in fano s\u00ec che ben per me s'adori pur ch'i' possa purgar le gravi offese quindi fu' io ma li profondi fori ond'usc\u00ec 'l sangue in sul quale io sedea"
+}

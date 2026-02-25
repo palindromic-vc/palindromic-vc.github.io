@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6451035141944885,
+  "ecapa_ref_gt_similarity": 0.8784037828445435,
+  "ecapa_src_converted_similarity": 0.38291338086128235,
+  "ecapa_src_gt_similarity": 0.7255846858024597,
+  "redimnet_ref_converted_similarity": 0.71875,
+  "redimnet_ref_gt_similarity": 0.8896484375,
+  "redimnet_src_converted_similarity": 0.2841796875,
+  "redimnet_src_gt_similarity": 0.80517578125,
+  "dns_mos_gt": 3.5857692786625455,
+  "dns_mos_gen": 3.9198079109191895,
+  "wer_src": 0.06521739130434782,
+  "cer_src": 0.047619047619047616,
+  "transcription_src": " de prachtigste visschen met schubben als zilver en goud zwommen de boot achterna nu en dan deden ze een sprong zoodat het in het water plaschte en vogels rood en blauw klein en groot vlogen in twee lange rijen achteraan de muggen dansten en de meikevers gonsden",
+  "wer_converted": 0.10869565217391304,
+  "cer_converted": 0.07142857142857142,
+  "transcription_converted": " de prachtigste visschen met schubben als zilver en goud zomen de boot achterna nu en dan deden ze een sprong zoodat het in het water plaschte en vogels rood en blauw klein en groot vlogen in twee lange rijen achteraan de muggen dansten en de maaikeivers gronsden",
+  "index": 6,
+  "source_text": "de prachtigste visschen met schubben als zilver en goud zwommen de boot achterna nu en dan deden zij een sprong zoodat het in het water plaste en vogels rood en blauw klein en groot vlogen in twee lange rijen achteraan de muggen dansten en de meikevers",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/6_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/6_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/6_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/6_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/6_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_3s_seed_42/6_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/dutch/librispeech_test_set_3s_seed_42/6/converted.wav"
+  }
+}

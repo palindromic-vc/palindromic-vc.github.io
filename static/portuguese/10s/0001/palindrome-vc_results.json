@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.69454026222229,
+  "ecapa_ref_gt_similarity": 0.822421669960022,
+  "ecapa_src_converted_similarity": 0.19380643963813782,
+  "ecapa_src_gt_similarity": 0.7775570154190063,
+  "redimnet_ref_converted_similarity": 0.66796875,
+  "redimnet_ref_gt_similarity": 0.849609375,
+  "redimnet_src_converted_similarity": 0.127685546875,
+  "redimnet_src_gt_similarity": 0.86865234375,
+  "dns_mos_gt": 3.67936635017395,
+  "dns_mos_gen": 4.052649974822998,
+  "wer_src": 0.07407407407407407,
+  "cer_src": 0.014184397163120567,
+  "transcription_src": " a vez de ter encontrado beirando o rio em viagem pelos sitios o dono da casa sentado no terreiro a olhar fixamente para as aguas da correnteza",
+  "wer_converted": 0.37037037037037035,
+  "cer_converted": 0.1702127659574468,
+  "transcription_converted": " Ao ver o beir\u00e3o do rio em viagem pelos s\u00edtios, o dono da casa sentado no terreiro, ao olhar fixamente para as \u00e1guas da correnteza.",
+  "index": 5,
+  "source_text": "a vez de ter encontrado beirando o rio em viagem pelo s\u00edtios o dono da casa sentado no terreiro a olhar fixamente para as aguas da correnteza"
+}

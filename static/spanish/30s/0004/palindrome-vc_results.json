@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6981237530708313,
+  "ecapa_ref_gt_similarity": 0.8499406576156616,
+  "ecapa_src_converted_similarity": 0.09918473660945892,
+  "ecapa_src_gt_similarity": 0.8687609434127808,
+  "redimnet_ref_converted_similarity": 0.73583984375,
+  "redimnet_ref_gt_similarity": 0.90185546875,
+  "redimnet_src_converted_similarity": 0.1917724609375,
+  "redimnet_src_gt_similarity": 0.8544921875,
+  "dns_mos_gt": 3.823087453842163,
+  "dns_mos_gen": 4.047084331512451,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " y que con el hierro blando pod\u00eda hacer martillos para romper la roca y lanzas para pelear y picos y cuchillas para trabajar la tierra entonces es cuando ya se ven casas de piedra y de madera con patios y cuartos imitando siempre los casucos de rocas puestas unas sobre otras sin mezcla ninguna",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " y que con el hierro blando pod\u00eda hacer martillos para romper la roca y lanzas para pelear y picos y cuchillas para trabajar la tierra entonces es cuando ya se ven casas de piedra y de madera con patios y cuartos imitando siempre los casucos de rocas puestas unas sobre otras sin mezcla ninguna",
+  "index": 8,
+  "source_text": "y que con el hierro blando pod\u00eda hacer martillos para romper la roca y lanzas para pelear y picos y cuchillas para trabajar la tierra entonces es cuando ya se ven casas de piedra y de madera con patios y cuartos imitando siempre los casucos de rocas puestas unas sobre otras sin mezcla ninguna"
+}

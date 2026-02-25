@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.671248197555542,
+  "ecapa_ref_gt_similarity": 0.8737438321113586,
+  "ecapa_src_converted_similarity": 0.11631964892148972,
+  "ecapa_src_gt_similarity": 0.7815983295440674,
+  "redimnet_ref_converted_similarity": 0.654296875,
+  "redimnet_ref_gt_similarity": 0.8623046875,
+  "redimnet_src_converted_similarity": 0.1678466796875,
+  "redimnet_src_gt_similarity": 0.80908203125,
+  "dns_mos_gt": 3.7720303535461426,
+  "dns_mos_gen": 3.916436195373535,
+  "wer_src": 0.06976744186046512,
+  "cer_src": 0.037037037037037035,
+  "transcription_src": " jules le ma\u00eetre a beaucoup aim\u00e9 les enfants il eut lui-m\u00eame lorsqu'il fut professeur \u00e0 grenoble une petite fille madeleine qui mourut au bout d'un mois et dont il ne se consola jamais plus tard il devint un parrain multiple et d\u00e9licieux",
+  "wer_converted": 0.09302325581395349,
+  "cer_converted": 0.04938271604938271,
+  "transcription_converted": " jules le ma\u00eetre a beaucoup aim\u00e9 les enfants il eut lui-m\u00eame lorsqu'il fut professeur \u00e0 grenoble une petite fille madeleine qui mourut au bout d'un mois et dont il ne se consola jamais plus tard il devint parrain multiple et d\u00e9licieux",
+  "index": 3,
+  "source_text": "pr\u00e9face jules lema\u00eetre a beaucoup aim\u00e9 les enfants il eut lui-m\u00eame lorsqu'il fut professeur \u00e0 grenoble une petite fille madeleine qui mourut au bout d'un mois et dont il ne se consola jamais plus tard il devint un parrain multiple et d\u00e9licieux"
+}

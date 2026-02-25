@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7654848098754883,
+  "ecapa_ref_gt_similarity": 0.793303370475769,
+  "ecapa_src_converted_similarity": 0.12629039585590363,
+  "ecapa_src_gt_similarity": 0.7740478515625,
+  "redimnet_ref_converted_similarity": 0.689453125,
+  "redimnet_ref_gt_similarity": 0.82763671875,
+  "redimnet_src_converted_similarity": 0.1141357421875,
+  "redimnet_src_gt_similarity": 0.79638671875,
+  "dns_mos_gt": 3.9206461906433105,
+  "dns_mos_gen": 3.839682400226593,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " el que castiga las gentes no reprender\u00e1 no sabr\u00e1 el que ense\u00f1a al hombre la ciencia jehov\u00e1 conoce los pensamientos de los hombres que son vanidad",
+  "wer_converted": 0.07692307692307693,
+  "cer_converted": 0.020689655172413793,
+  "transcription_converted": " \u00bfEl que castiga a las gentes no reprender\u00e1? \u00bfNo sabr\u00e1 el que ense\u00f1a al hombre la ciencia? Jehov\u00e1 conoce los pensamientos de los hombres, que son manidad.",
+  "index": 0,
+  "source_text": "el que castiga las gentes no reprender\u00e1 no sabr\u00e1 el que ense\u00f1a al hombre la ciencia jehov\u00e1 conoce los pensamientos de los hombres que son vanidad",
+  "input_seed_folder": "librispeech_test_set_60s_seed_73",
+  "output_seed_folder": "librispeech_test_set_60s_seed_73",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_60s_seed_73/0_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_60s_seed_73/0_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_60s_seed_73/0_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_60s_seed_73/0_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_60s_seed_73/0_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_60s_seed_73/0_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/spanish/librispeech_test_set_60s_seed_73/0/converted.wav"
+  }
+}

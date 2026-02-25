@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6937909722328186,
+  "ecapa_ref_gt_similarity": 0.7648249864578247,
+  "ecapa_src_converted_similarity": 0.10116623342037201,
+  "ecapa_src_gt_similarity": 0.7659533023834229,
+  "redimnet_ref_converted_similarity": 0.63818359375,
+  "redimnet_ref_gt_similarity": 0.7744140625,
+  "redimnet_src_converted_similarity": 0.16796875,
+  "redimnet_src_gt_similarity": 0.79150390625,
+  "dns_mos_gt": 3.7087175846099854,
+  "dns_mos_gen": 3.915413975715637,
+  "wer_src": 0.03125,
+  "cer_src": 0.004807692307692308,
+  "transcription_src": " nie przyjmuj\u0105c jad\u0142a ani napoju z wypiekami gor\u0105czki na twarzy z konwulsj\u0105 wstr\u0119tu wryt\u0105 doko\u0142a ust ojciec m\u00f3j zdzicza\u0142 zupe\u0142nie jasne by\u0142o \u017ce tego napi\u0119cia nienawi\u015bci \u017caden organizm d\u0142ugo wytrzyma\u0107 nie mo\u017ce",
+  "wer_converted": 0.15625,
+  "cer_converted": 0.13942307692307693,
+  "transcription_converted": " nie przyjmuj\u0105c jad\u0142a ani napoju z wypiekami gor\u0105czki na twarzy z konwulsjum wstr\u0119tu wryt\u0105 dooko\u0142a ust ojciec m\u00f3j zdzicza\u0142 zupe\u0142nie jasne by\u0142o \u017ce tego napi\u0119cia nienawi\u015bci \u017caden organizm d\u0142ugo wytrzyma\u0107 nie mo\u017ce napisy by Jacek Makarewicz",
+  "index": 9,
+  "source_text": "nie przyjmuj\u0105c jad\u0142a ani napoju z wypiekami gor\u0105czki na twarzy z konwulsj\u0105 wstr\u0119tu wryt\u0105 dooko\u0142a ust ojciec m\u00f3j zdzicza\u0142 zupe\u0142nie jasne by\u0142o \u017ce tego napi\u0119cia nienawi\u015bci \u017caden organizm d\u0142ugo wytrzyma\u0107 nie mo\u017ce",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_60s_seed_42/9_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_60s_seed_42/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_60s_seed_42/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_60s_seed_42/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_60s_seed_42/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_60s_seed_42/9_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/polish/librispeech_test_set_60s_seed_42/9/converted.wav"
+  }
+}

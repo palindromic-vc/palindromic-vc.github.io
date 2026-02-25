@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.3878662586212158,
+  "ecapa_ref_gt_similarity": 0.6835044622421265,
+  "ecapa_src_converted_similarity": 0.21449583768844604,
+  "ecapa_src_gt_similarity": 0.7897942066192627,
+  "redimnet_ref_converted_similarity": 0.416015625,
+  "redimnet_ref_gt_similarity": 0.69921875,
+  "redimnet_src_converted_similarity": 0.1357421875,
+  "redimnet_src_gt_similarity": 0.880859375,
+  "dns_mos_gt": 3.7253836154937745,
+  "dns_mos_gen": 3.979253721237183,
+  "wer_src": 0.18181818181818182,
+  "cer_src": 0.05555555555555555,
+  "transcription_src": " \"'Dear me!' ejaculated the old gentleman in the utmost amazement. \"'And such a time as I've had to get her here, too!'",
+  "wer_converted": 0.18181818181818182,
+  "cer_converted": 0.05555555555555555,
+  "transcription_converted": " \"'Dear me!' ejaculated the old gentleman in the utmost amazement. \"'And such a time as I've had to get her here, too!'",
+  "index": 14,
+  "source_text": "DEAR ME EJACULATED THE OLD GENTLEMAN IN THE UTMOST AMAZEMENT AND SUCH A TIME AS I'VE HAD TO GET HER HERE TOO",
+  "input_seed_folder": "librispeech_test_set_10s_seed_37",
+  "output_seed_folder": "librispeech_test_set_10s_seed_37",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_10s_seed_37/14_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_10s_seed_37/14_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_10s_seed_37/14_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_10s_seed_37/14_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_10s_seed_37/14_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_10s_seed_37/14_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_10s_seed_37/14/converted.wav"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.8326352834701538,
+  "ecapa_ref_gt_similarity": 0.8688303232192993,
+  "ecapa_src_converted_similarity": 0.309305876493454,
+  "ecapa_src_gt_similarity": 0.7357618808746338,
+  "redimnet_ref_converted_similarity": 0.71728515625,
+  "redimnet_ref_gt_similarity": 0.88916015625,
+  "redimnet_src_converted_similarity": 0.25,
+  "redimnet_src_gt_similarity": 0.8046875,
+  "dns_mos_gt": 4.220158100128174,
+  "dns_mos_gen": 4.1235671043396,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " For, like as not, they must have thought him a prince, when they saw his fine cap.",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " For, like as not, they must have thought him a prince when they saw his fine cap.",
+  "index": 5,
+  "source_text": "FOR LIKE AS NOT THEY MUST HAVE THOUGHT HIM A PRINCE WHEN THEY SAW HIS FINE CAP"
+}

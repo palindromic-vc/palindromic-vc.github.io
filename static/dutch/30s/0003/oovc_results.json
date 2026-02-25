@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.45730337500572205,
+  "ecapa_ref_gt_similarity": 0.7263869047164917,
+  "ecapa_src_converted_similarity": 0.2275749295949936,
+  "ecapa_src_gt_similarity": 0.8417640924453735,
+  "redimnet_ref_converted_similarity": 0.44873046875,
+  "redimnet_ref_gt_similarity": 0.7822265625,
+  "redimnet_src_converted_similarity": 0.157958984375,
+  "redimnet_src_gt_similarity": 0.85009765625,
+  "dns_mos_gt": 3.9831881523132324,
+  "dns_mos_gen": 3.7396230697631836,
+  "wer_src": 0.018518518518518517,
+  "cer_src": 0.0035335689045936395,
+  "transcription_src": " toen hij zoo sprak werden de goede dwergen bewogen en gaven hem de kist en de koningszoon liet haar door zijn dienaren op de schouders wegdragen toen gebeurde het dat zij struikelden over een tak en door den schok schoot het stukje van den appel dat nog in haar keel zat uit haar mond",
+  "wer_converted": 0.1111111111111111,
+  "cer_converted": 0.0353356890459364,
+  "transcription_converted": " Toen hij zo sprak, werden de goede dwergen bewogen en gaven hem de kist, en de koningszoon liet haar door zijn dienaren op de schouders wegdragen. Toen gebeurde het, dat zij stel konden over hun tak, en door hen schrok schoot het stukje van een appel dat nog in haar keel zat uit haar mond.",
+  "index": 6,
+  "source_text": "toen hij zo sprak werden de goede dwergen bewogen en gaven hem de kist en de koningszoon liet haar door zijn dienaren op de schouders wegdragen toen gebeurde het dat zij struikelden over een tak en door den schok schoot het stukje van den appel dat nog in haar keel zat uit haar mond",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_30s_seed_73/6_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_30s_seed_73/6_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_30s_seed_73/6_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_30s_seed_73/6_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_30s_seed_73/6_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_30s_seed_73/6_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_30s_seed_73/6/converted.wav"
+  }
+}

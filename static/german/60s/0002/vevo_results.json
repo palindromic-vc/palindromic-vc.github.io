@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.4452019929885864,
+  "ecapa_ref_gt_similarity": 0.8320240378379822,
+  "ecapa_src_converted_similarity": 0.05551273375749588,
+  "ecapa_src_gt_similarity": 0.7845733761787415,
+  "redimnet_ref_converted_similarity": 0.427001953125,
+  "redimnet_ref_gt_similarity": 0.853515625,
+  "redimnet_src_converted_similarity": -0.0300140380859375,
+  "redimnet_src_gt_similarity": 0.84375,
+  "dns_mos_gt": 4.029516696929932,
+  "dns_mos_gen": 3.151658296585083,
+  "wer_src": 0.1875,
+  "cer_src": 0.05102040816326531,
+  "transcription_src": " also klangen ihre worte und mit starrm munde zil vernahm des ortes vorstand diese seltene kunde",
+  "wer_converted": 0.25,
+  "cer_converted": 0.07142857142857142,
+  "transcription_converted": " also klangen ihre worte und mit starrem munde sie vernahm des ortes vorstand dieser seltene kuste",
+  "index": 7,
+  "source_text": "also klangen ihre worte und mit starrem munde still vernahm des ortes vorstand diese selt'ne kunde"
+}

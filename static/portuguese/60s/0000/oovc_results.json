@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.4316890835762024,
+  "ecapa_ref_gt_similarity": 0.8309130072593689,
+  "ecapa_src_converted_similarity": 0.09856455028057098,
+  "ecapa_src_gt_similarity": 0.834312915802002,
+  "redimnet_ref_converted_similarity": 0.376708984375,
+  "redimnet_ref_gt_similarity": 0.90283203125,
+  "redimnet_src_converted_similarity": 0.048065185546875,
+  "redimnet_src_gt_similarity": 0.8486328125,
+  "dns_mos_gt": 3.934180634362357,
+  "dns_mos_gen": 3.543222802025931,
+  "wer_src": 0.12121212121212122,
+  "cer_src": 0.020942408376963352,
+  "transcription_src": " deixemos isto conversemos a s\u00e9rio diante de quem n\u00e3o sabe rir-se de mim eu tamb\u00e9m tenho pensado na organiza\u00e7\u00e3o de uma sociedade perfeita como plat\u00e3o e c\u00edcero campanella thomas moros e fenelon",
+  "wer_converted": 0.18181818181818182,
+  "cer_converted": 0.041884816753926704,
+  "transcription_converted": " Deixemos isso. Conversemos a s\u00e9rio diante de quem n\u00e3o sabe ir-se de mim. Eu tamb\u00e9m tenho pensado na organiza\u00e7\u00e3o de uma sociedade perfeita, como Plat\u00e3o e C\u00edcero, Campanella, Tom\u00e1s Moros e Fenelon.",
+  "index": 7,
+  "source_text": "deixemos isto conversemos a serio diante de quem n\u00e3o sabe rir-se de mim eu tamb\u00e9m tenho pensado na organiza\u00e7\u00e3o de uma sociedade perfeita como plat\u00e3o e cicero campanella thomaz morus e fenelon",
+  "input_seed_folder": "librispeech_test_set_60s_seed_73",
+  "output_seed_folder": "librispeech_test_set_60s_seed_73",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_60s_seed_73/7_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_60s_seed_73/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_60s_seed_73/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_60s_seed_73/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_60s_seed_73/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_60s_seed_73/7_ref_src2.wav",
+    "converted": "/workspace/outputs/portuguese/librispeech_test_set_60s_seed_73/7/converted.wav"
+  }
+}

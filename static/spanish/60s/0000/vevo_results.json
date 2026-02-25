@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.44583582878112793,
+  "ecapa_ref_gt_similarity": 0.8801551461219788,
+  "ecapa_src_converted_similarity": 0.14918440580368042,
+  "ecapa_src_gt_similarity": 0.5797178149223328,
+  "redimnet_ref_converted_similarity": 0.46240234375,
+  "redimnet_ref_gt_similarity": 0.92919921875,
+  "redimnet_src_converted_similarity": 0.0606689453125,
+  "redimnet_src_gt_similarity": 0.56396484375,
+  "dns_mos_gt": 4.242465019226074,
+  "dns_mos_gen": 2.867821216583252,
+  "wer_src": 0.0967741935483871,
+  "cer_src": 0.03680981595092025,
+  "transcription_src": " otra vez subi\u00f3 a su memoria el recuerdo de la correcci\u00f3n y en su pensamiento se fij\u00f3 como en una suprema angustia la posibilidad de que es un negro que invad\u00eda el suelo",
+  "wer_converted": 0.0967741935483871,
+  "cer_converted": 0.03680981595092025,
+  "transcription_converted": " otra vez subi\u00f3 a su memoria el recuerdo de la correcci\u00f3n y en su pensamiento se fij\u00f3 como en una suprema angustia la posibilidad de que es un negro que invad\u00eda el suelo",
+  "index": 8,
+  "source_text": "otra vez subi\u00f3 a su memoria el recuerdo de la correcci\u00f3n y en su pensamiento se fij\u00f3 como una suprema angustia la posibilidad de que eso negro que invad\u00eda el suelo"
+}

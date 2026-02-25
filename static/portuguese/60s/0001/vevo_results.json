@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.666189432144165,
+  "ecapa_ref_gt_similarity": 0.9160376191139221,
+  "ecapa_src_converted_similarity": 0.14572511613368988,
+  "ecapa_src_gt_similarity": 0.7572855949401855,
+  "redimnet_ref_converted_similarity": 0.55712890625,
+  "redimnet_ref_gt_similarity": 0.927734375,
+  "redimnet_src_converted_similarity": 0.1246337890625,
+  "redimnet_src_gt_similarity": 0.849609375,
+  "dns_mos_gt": 3.9582743644714355,
+  "dns_mos_gen": 3.1707732677459717,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " por um acaso feliz deparei a meu lado com o mesmo sujeito que um dia soube inverter me um riso insignificativo em remorso",
+  "wer_converted": 0.043478260869565216,
+  "cer_converted": 0.008264462809917356,
+  "transcription_converted": " por um acaso feliz deparei a meu lado com o mesmo sujeito que um dia soube inverter-me um riso insignificativo e remorso",
+  "index": 3,
+  "source_text": "por um acaso feliz deparei a meu lado com o mesmo sujeito que um dia soube inverter-me um riso insignificativo em remorso"
+}

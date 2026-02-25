@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.4207587242126465,
+  "ecapa_ref_gt_similarity": 0.6924408674240112,
+  "ecapa_src_converted_similarity": 0.3222954571247101,
+  "ecapa_src_gt_similarity": 0.8769986033439636,
+  "redimnet_ref_converted_similarity": 0.31591796875,
+  "redimnet_ref_gt_similarity": 0.75634765625,
+  "redimnet_src_converted_similarity": 0.2288818359375,
+  "redimnet_src_gt_similarity": 0.88037109375,
+  "dns_mos_gt": 3.452868342399597,
+  "dns_mos_gen": 3.5621955394744873,
+  "wer_src": 0.18181818181818182,
+  "cer_src": 0.04807692307692308,
+  "transcription_src": " als ik me gemakkelyk ne\u00ear kan laten zakken zal ik het doen maar kan dat niet dan ben ik van plan zoo gracieus mogelyk op een stoel te vallen ik geef er niet som of hugo met een pistool op me af komt zei amy",
+  "wer_converted": 0.20454545454545456,
+  "cer_converted": 0.09134615384615384,
+  "transcription_converted": " Als ik me gemakkelijk neer kan laten zakken, zal ik het doen. Maar ik kan dat niet, dan ben ik van plan zo gauw mogelijk op een stoel te vallen. Ik zei vernietsom of Hugo met een bestool op me afkomt, zei Amy.",
+  "index": 1,
+  "source_text": "als ik me gemakkelijk neer kan laten zakken zal ik het doen maar kan dat niet dan ben ik van plan zoo gracieus mogelijk op een stoel te vallen ik geef er niets om of hugo met een pistool op mij afkomt zei amy",
+  "input_seed_folder": "librispeech_test_set_3s_seed_73",
+  "output_seed_folder": "librispeech_test_set_3s_seed_73",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_3s_seed_73/1_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_3s_seed_73/1_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_3s_seed_73/1_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_3s_seed_73/1_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_3s_seed_73/1_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_3s_seed_73/1_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_3s_seed_73/1/converted.wav"
+  }
+}

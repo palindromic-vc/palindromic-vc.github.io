@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7066923379898071,
+  "ecapa_ref_gt_similarity": 0.7554692625999451,
+  "ecapa_src_converted_similarity": 0.1871054470539093,
+  "ecapa_src_gt_similarity": 0.8312293887138367,
+  "redimnet_ref_converted_similarity": 0.5927734375,
+  "redimnet_ref_gt_similarity": 0.7568359375,
+  "redimnet_src_converted_similarity": 0.133056640625,
+  "redimnet_src_gt_similarity": 0.82763671875,
+  "dns_mos_gt": 4.0661837714059015,
+  "dns_mos_gen": 4.033947842461722,
+  "wer_src": 0.038461538461538464,
+  "cer_src": 0.003787878787878788,
+  "transcription_src": " ll\u00e1mase el doctor pedro recio y es natural de tirte afuera porque vea vuesa merced qu\u00e9 nombre para no temer que he de morir a sus manos este tal doctor dice \u00e9l mismo de s\u00ed mismo que \u00e9l no cura las enfermedades cuando las hay sino que las previene para que no vengan",
+  "wer_converted": 0.07692307692307693,
+  "cer_converted": 0.01893939393939394,
+  "transcription_converted": " ll\u00e1mase el doctor pedro recio y es natural de terte afuera porque vea hueso a merced qu\u00e9 nombre para no temer que he de morir a sus manos este tal doctor dice \u00e9l mismo de s\u00ed mismo que \u00e9l no cura las enfermedades cuando las hay sino que las previene para que no vengan",
+  "index": 1,
+  "source_text": "ll\u00e1mase el doctor pedro recio y es natural de tirteafuera porque vea vuesa merced qu\u00e9 nombre para no temer que he de morir a sus manos este tal doctor dice \u00e9l mismo de s\u00ed mismo que \u00e9l no cura las enfermedades cuando las hay sino que las previene para que no vengan",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_60s_seed_42/1_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_60s_seed_42/1_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_60s_seed_42/1_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_60s_seed_42/1_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_60s_seed_42/1_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_60s_seed_42/1_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/spanish/librispeech_test_set_60s_seed_42/1/converted.wav"
+  }
+}

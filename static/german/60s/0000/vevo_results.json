@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5213227868080139,
+  "ecapa_ref_gt_similarity": 0.7661690711975098,
+  "ecapa_src_converted_similarity": 0.11339610815048218,
+  "ecapa_src_gt_similarity": 0.3214073181152344,
+  "redimnet_ref_converted_similarity": 0.50244140625,
+  "redimnet_ref_gt_similarity": 0.857421875,
+  "redimnet_src_converted_similarity": 0.12030029296875,
+  "redimnet_src_gt_similarity": 0.461669921875,
+  "dns_mos_gt": 3.665109872817993,
+  "dns_mos_gen": 2.9403555393218994,
+  "wer_src": 0.13043478260869565,
+  "cer_src": 0.031496062992125984,
+  "transcription_src": " wer von uns an bord des nautilus die andern \u00fcberlebt soll daselbe ins meer werfen da\u00df es die wellen tragen wohin sie treiben",
+  "wer_converted": 0.17391304347826086,
+  "cer_converted": 0.07874015748031496,
+  "transcription_converted": " wer von uns an bord des nautilus die andern \u00fcberlebt soll dasselbe ins meer werfen da\u00df es die wellen tragen wollte sie zeigen",
+  "index": 9,
+  "source_text": "wer von uns an bord des nautilus die anderen \u00fcberlebt soll dasselbe ins meer werfen dass es die wellen tragen wohin sie treiben"
+}

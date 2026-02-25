@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7707201242446899,
+  "ecapa_ref_gt_similarity": 0.8154737949371338,
+  "ecapa_src_converted_similarity": 0.2294330894947052,
+  "ecapa_src_gt_similarity": 0.8083388805389404,
+  "redimnet_ref_converted_similarity": 0.74755859375,
+  "redimnet_ref_gt_similarity": 0.82763671875,
+  "redimnet_src_converted_similarity": 0.261474609375,
+  "redimnet_src_gt_similarity": 0.8056640625,
+  "dns_mos_gt": 3.5741448402404785,
+  "dns_mos_gen": 3.897017002105713,
+  "wer_src": 0.041666666666666664,
+  "cer_src": 0.007434944237918215,
+  "transcription_src": " zoo kwamen ze een heel eind vooruit onder het praten over de verschillende landen die ze al zomende moesten doortrekken om negen uur werd het werk opgeborgen en zongen ze zooals altijd eer ze naar bed gingen niemand behalve bets kon nog muziek ontlokken aan de oude piano",
+  "wer_converted": 0.0625,
+  "cer_converted": 0.01486988847583643,
+  "transcription_converted": " zo kwamen ze een heel eind vooruit onder het praten over de verschillende landen die ze al zomende moesten doortrekken om negen uur werd het werk opgeborgen en zonden ze zoals altijd eerst naar bed gingen niemand behalve bets kon nog muziek ontlokken aan de oude piano",
+  "index": 5,
+  "source_text": "zo kwamen ze een heel eind vooruit onder het praten over de verschillende landen die ze al zomende moesten doortrekken om negen uur werd het werk opgeborgen en zongen ze zoals altijd eer ze naar bed gingen niemand behalve bets kon nog muziek ontlokken aan de oude piano"
+}

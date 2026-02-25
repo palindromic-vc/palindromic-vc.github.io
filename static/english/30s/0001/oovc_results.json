@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.4625893235206604,
+  "ecapa_ref_gt_similarity": 0.4573610723018646,
+  "ecapa_src_converted_similarity": 0.2690271735191345,
+  "ecapa_src_gt_similarity": 0.8259351253509521,
+  "redimnet_ref_converted_similarity": 0.351806640625,
+  "redimnet_ref_gt_similarity": 0.6005859375,
+  "redimnet_src_converted_similarity": 0.184326171875,
+  "redimnet_src_gt_similarity": 0.84033203125,
+  "dns_mos_gt": 4.058157253265381,
+  "dns_mos_gen": 3.549483633041382,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " oh mademoiselle why have i not a devoted sister or a true friend such as yourself",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " oh mademoiselle why have i not a devoted sister or a true friend such as yourself",
+  "index": 10,
+  "source_text": "OH MADEMOISELLE WHY HAVE I NOT A DEVOTED SISTER OR A TRUE FRIEND SUCH AS YOURSELF",
+  "input_seed_folder": "librispeech_test_set_30s_seed_37",
+  "output_seed_folder": "librispeech_test_set_30s_seed_37",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_30s_seed_37/10_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_30s_seed_37/10_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_30s_seed_37/10_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_30s_seed_37/10_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_30s_seed_37/10_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_30s_seed_37/10_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_30s_seed_37/10/converted.wav"
+  }
+}

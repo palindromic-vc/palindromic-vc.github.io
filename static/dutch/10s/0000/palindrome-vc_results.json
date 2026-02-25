@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7097413539886475,
+  "ecapa_ref_gt_similarity": 0.6962884664535522,
+  "ecapa_src_converted_similarity": 0.18642964959144592,
+  "ecapa_src_gt_similarity": 0.7849997282028198,
+  "redimnet_ref_converted_similarity": 0.60791015625,
+  "redimnet_ref_gt_similarity": 0.69970703125,
+  "redimnet_src_converted_similarity": 0.1546630859375,
+  "redimnet_src_gt_similarity": 0.8037109375,
+  "dns_mos_gt": 3.8687472343444824,
+  "dns_mos_gen": 4.069016456604004,
+  "wer_src": 0.025,
+  "cer_src": 0.004672897196261682,
+  "transcription_src": " het was een kleine hut met \u00e9\u00e9n vertrek zestien voet lang bij tien voet breed hij hield de sleutel in zijn zak maakte zelf zijn bed op hield de hut zelf schoon en veroorloofde aan niemand den drempel te overschrijden",
+  "wer_converted": 0.025,
+  "cer_converted": 0.004672897196261682,
+  "transcription_converted": " het was een kleine hut met \u00e9\u00e9n vertrek zestien voet lang bij tien voet breed hij hield de sleutel in zijn zak maakte zelf zijn bed op hield de hut zelf schoon en veroorloofde aan niemand den drempel te overschrijden",
+  "index": 2,
+  "source_text": "het was een kleine hut met \u00e9\u00e9n vertrek zestien voet lang bij tien voet breed hij hield de sleutel in zijn zak maakte zelf zijn bed op hield de hut zelf schoon en veroorloofde aan niemand de drempel te overschrijden"
+}

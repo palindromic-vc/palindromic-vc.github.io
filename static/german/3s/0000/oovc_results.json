@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.3815252482891083,
+  "ecapa_ref_gt_similarity": 0.7843026518821716,
+  "ecapa_src_converted_similarity": 0.15013450384140015,
+  "ecapa_src_gt_similarity": 0.6217639446258545,
+  "redimnet_ref_converted_similarity": 0.255859375,
+  "redimnet_ref_gt_similarity": 0.791015625,
+  "redimnet_src_converted_similarity": 0.1495361328125,
+  "redimnet_src_gt_similarity": 0.67822265625,
+  "dns_mos_gt": 3.893666914531163,
+  "dns_mos_gen": 3.620951380048479,
+  "wer_src": 0.17142857142857143,
+  "cer_src": 0.043668122270742356,
+  "transcription_src": " es scheint es jeden morgen mehr werden ihrer naturen sprechend lagern sie unter freiem himmel den wohnh\u00e4user verabschieden sie sie besch\u00e4ftigen sich mit dem sch\u00e4rfen der schwerter dem zuspitzen der pfeile mit \u00fcbrigen zu pferde",
+  "wer_converted": 0.22857142857142856,
+  "cer_converted": 0.07860262008733625,
+  "transcription_converted": " Es scheint, dass jeden Morgen mehr werden. W\u00e4hrend der Natur ansprechend, lagern sie unter freiem Himmel. Den Wohnh\u00e4usern verabscheuen sie. Sie besch\u00e4ftigen sich mit dem Sch\u00e4rfen auf Schwerter, dem Zuspitzen auf Pfeile, mit \u00dcbungen zum Pferde.",
+  "index": 5,
+  "source_text": "es scheint dass jeden morgen mehr werden ihrer natur entsprechend lagern sie unter freiem himmel denn wohnh\u00e4user verabscheuen sie sie besch\u00e4ftigen sich mit dem sch\u00e4rfen der schwerter dem zuspitzen der pfeile mit \u00fcbungen zu pferde",
+  "input_seed_folder": "librispeech_test_set_3s_seed_73",
+  "output_seed_folder": "librispeech_test_set_3s_seed_73",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_3s_seed_73/5_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_3s_seed_73/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_3s_seed_73/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_3s_seed_73/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_3s_seed_73/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_3s_seed_73/5_ref_src2.wav",
+    "converted": "/workspace/outputs/german/librispeech_test_set_3s_seed_73/5/converted.wav"
+  }
+}

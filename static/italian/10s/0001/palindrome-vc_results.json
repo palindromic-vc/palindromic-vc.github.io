@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.8226962089538574,
+  "ecapa_ref_gt_similarity": 0.8412256836891174,
+  "ecapa_src_converted_similarity": 0.032179076224565506,
+  "ecapa_src_gt_similarity": 0.7791968584060669,
+  "redimnet_ref_converted_similarity": 0.77294921875,
+  "redimnet_ref_gt_similarity": 0.876953125,
+  "redimnet_src_converted_similarity": 0.2132568359375,
+  "redimnet_src_gt_similarity": 0.75048828125,
+  "dns_mos_gt": 3.511530637741089,
+  "dns_mos_gen": 3.9585626125335693,
+  "wer_src": 0.125,
+  "cer_src": 0.03296703296703297,
+  "transcription_src": " Son trente e son quaranta. Il gambero gi\u00e0 canta. Man troppo abbrustolito. Mi voglio incipriare. In faccia questo specchio mi voglio spazzolare. E voglio rivoltare e piedi e naso in su.",
+  "wer_converted": 0.25,
+  "cer_converted": 0.06593406593406594,
+  "transcription_converted": " son trente son quaranta il gambero za canta ma n troppo abbrustolito mi voglio incipriare in faccia questo specchio mi voglio spazzolare e voglio rivoltare e piedi e nasi in su",
+  "index": 8,
+  "source_text": "son trenta e son quaranta il gambero gi\u00e0 canta m'han troppo abbrustolito mi voglio incipr\u00efare in faccia a questo specchio mi voglio spazzolare e voglio rivoltare e piedi e naso in su"
+}

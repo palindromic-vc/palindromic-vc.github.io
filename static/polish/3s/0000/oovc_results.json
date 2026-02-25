@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.32969194650650024,
+  "ecapa_ref_gt_similarity": 1.0,
+  "ecapa_src_converted_similarity": 0.12135716527700424,
+  "ecapa_src_gt_similarity": 0.7388615608215332,
+  "redimnet_ref_converted_similarity": 0.341552734375,
+  "redimnet_ref_gt_similarity": 1.0,
+  "redimnet_src_converted_similarity": 0.04083251953125,
+  "redimnet_src_gt_similarity": 0.7666015625,
+  "dns_mos_gt": 4.013634920120239,
+  "dns_mos_gen": 4.0265867710113525,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " sam widzia\u0142em pszczo\u0142\u0119 z oderwanym odw\u0142okiem jak zag\u0142\u0119biona w kielichu kwiatka wysysa\u0142a s\u0142odycz nektar smakowa\u0142 jej pomimo braku po\u0142owy cia\u0142a",
+  "wer_converted": 0.05,
+  "cer_converted": 0.014184397163120567,
+  "transcription_converted": " Sam widzia\u0142em pszczo\u0142\u0119 z oderwanym odw\u0142okiem, jak zag\u0142\u0119biona w jelichu kwiatka wysysa\u0142a s\u0142odycz. Nektar smakowa\u0142 jej pomimo braku po\u0142owy cia\u0142a.",
+  "index": 3,
+  "source_text": "sam widzia\u0142em pszczo\u0142\u0119 z oderwanym odw\u0142okiem jak zag\u0142\u0119biona w kielichu kwiatka wysysa\u0142a s\u0142odycz nektar smakowa\u0142 jej pomimo braku po\u0142owy cia\u0142a",
+  "input_seed_folder": "librispeech_test_set_3s_seed_73",
+  "output_seed_folder": "librispeech_test_set_3s_seed_73",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_3s_seed_73/3_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_3s_seed_73/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_3s_seed_73/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_3s_seed_73/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_3s_seed_73/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_3s_seed_73/3_ref_src2.wav",
+    "converted": "/workspace/outputs/polish/librispeech_test_set_3s_seed_73/3/converted.wav"
+  }
+}

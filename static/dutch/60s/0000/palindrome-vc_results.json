@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7606344223022461,
+  "ecapa_ref_gt_similarity": 0.8173166513442993,
+  "ecapa_src_converted_similarity": 0.05177818983793259,
+  "ecapa_src_gt_similarity": 0.8480654954910278,
+  "redimnet_ref_converted_similarity": 0.73828125,
+  "redimnet_ref_gt_similarity": 0.853515625,
+  "redimnet_src_converted_similarity": 0.035919189453125,
+  "redimnet_src_gt_similarity": 0.85693359375,
+  "dns_mos_gt": 3.611412525177002,
+  "dns_mos_gen": 4.016599178314209,
+  "wer_src": 0.18604651162790697,
+  "cer_src": 0.049429657794676805,
+  "transcription_src": " jullie weten waarom moeder voorstellen dat we dit jaar geen kerstprocenten zouden hebben omdat het een moelyke winter zal zyn voor iedereen en ze vindt dat wy geen geld mogen uitgeven voor ons pleizier terwyl onze soldaten zo veel moeten doorstaan in het leger",
+  "wer_converted": 0.06976744186046512,
+  "cer_converted": 0.026615969581749048,
+  "transcription_converted": " jelui weten waarom moeder voorstellen dat we dit jaar geen kerstporcenten zouden hebben omdat het een moeilijke winter zal zijn voor iedereen en ze vindt dat wij geen geld mogen uitgeven voor ons plezier terwijl onze soldaten zooveel moeten doorstaan in het leger",
+  "index": 9,
+  "source_text": "jullie weten waarom moeder voorstellen dat we dit jaar geen kerstpresenten zouden hebben omdat het een moeilijke winter zal zijn voor iedereen en ze vindt dat wij geen geld mogen uitgeven voor ons plezier terwijl onze soldaten zoveel moeten doorstaan in het leger"
+}

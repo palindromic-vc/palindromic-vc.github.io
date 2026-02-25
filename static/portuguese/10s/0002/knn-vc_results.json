@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6545453667640686,
+  "ecapa_ref_gt_similarity": 0.8083541393280029,
+  "ecapa_src_converted_similarity": 0.21147483587265015,
+  "ecapa_src_gt_similarity": 0.8093817234039307,
+  "redimnet_ref_converted_similarity": 0.580078125,
+  "redimnet_ref_gt_similarity": 0.85400390625,
+  "redimnet_src_converted_similarity": 0.1693115234375,
+  "redimnet_src_gt_similarity": 0.861328125,
+  "dns_mos_gt": 3.971503257751465,
+  "dns_mos_gen": 3.8467423915863037,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " a dial\u00e9tica fora para mim uma arma que ao passo que a manejava com mais presteza me tornava mais intolerante",
+  "wer_converted": 0.2,
+  "cer_converted": 0.046296296296296294,
+  "transcription_converted": " A dial\u00e9tica fura para mim uma arma, que ao passo te amarejava com mais presteza, me tornava mais intolerante.",
+  "index": 8,
+  "source_text": "a dial\u00e9tica fora para mim uma arma que ao passo que a manejava com mais presteza me tornava mais intolerante",
+  "input_seed_folder": "librispeech_test_set_10s_seed_42",
+  "output_seed_folder": "librispeech_test_set_10s_seed_42",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_10s_seed_42/8_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_10s_seed_42/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_10s_seed_42/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_10s_seed_42/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_10s_seed_42/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_10s_seed_42/8_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/portuguese/librispeech_test_set_10s_seed_42/8/converted.wav"
+  }
+}

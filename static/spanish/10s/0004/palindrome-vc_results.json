@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6982143521308899,
+  "ecapa_ref_gt_similarity": 0.7867135405540466,
+  "ecapa_src_converted_similarity": 0.11457361280918121,
+  "ecapa_src_gt_similarity": 0.8984370827674866,
+  "redimnet_ref_converted_similarity": 0.673828125,
+  "redimnet_ref_gt_similarity": 0.79345703125,
+  "redimnet_src_converted_similarity": 0.09429931640625,
+  "redimnet_src_gt_similarity": 0.892578125,
+  "dns_mos_gt": 4.017022609710693,
+  "dns_mos_gen": 4.105614185333252,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " en cuanto a lo de las bellotas digo que mi se\u00f1ora la duquesa es tan llana y tan humilde que no dec\u00eda \u00e9l enviar a pedir bellotas a una labradora pero que le acontec\u00eda enviar a pedir un peine prestado a una vecina suya",
+  "wer_converted": 0.022727272727272728,
+  "cer_converted": 0.004629629629629629,
+  "transcription_converted": " en cuanto a lo de las bellotas dijo que mi se\u00f1ora la duquesa es tan llana y tan humilde que no dec\u00eda \u00e9l enviar a pedir bellotas a una labradora pero que le acontec\u00eda enviar a pedir un peine prestado a una vecina suya",
+  "index": 5,
+  "source_text": "en cuanto a lo de las bellotas digo que mi se\u00f1ora la duquesa es tan llana y tan humilde que no dec\u00eda \u00e9l enviar a pedir bellotas a una labradora pero que le acontec\u00eda enviar a pedir un peine prestado a una vecina suya"
+}

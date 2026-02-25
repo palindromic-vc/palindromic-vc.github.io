@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.3769286274909973,
+  "ecapa_ref_gt_similarity": 0.8688423037528992,
+  "ecapa_src_converted_similarity": 0.27858033776283264,
+  "ecapa_src_gt_similarity": 0.7358070611953735,
+  "redimnet_ref_converted_similarity": 0.3818359375,
+  "redimnet_ref_gt_similarity": 0.88916015625,
+  "redimnet_src_converted_similarity": 0.2462158203125,
+  "redimnet_src_gt_similarity": 0.8046875,
+  "dns_mos_gt": 4.220158100128174,
+  "dns_mos_gen": 3.9034817695617674,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " For, like as not, they must have thought him a prince, when they saw his fine cap.",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " For, like as not, they must have thought him a prince, when they saw his fine cap.",
+  "index": 5,
+  "source_text": "FOR LIKE AS NOT THEY MUST HAVE THOUGHT HIM A PRINCE WHEN THEY SAW HIS FINE CAP",
+  "input_seed_folder": "librispeech_test_set_10s_seed_37",
+  "output_seed_folder": "librispeech_test_set_10s_seed_37",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_10s_seed_37/5_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_10s_seed_37/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_10s_seed_37/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_10s_seed_37/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_10s_seed_37/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_10s_seed_37/5_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_10s_seed_37/5/converted.wav"
+  }
+}

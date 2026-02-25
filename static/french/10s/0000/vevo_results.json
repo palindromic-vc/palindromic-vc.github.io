@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5980024337768555,
+  "ecapa_ref_gt_similarity": 0.7830908894538879,
+  "ecapa_src_converted_similarity": 0.17819570004940033,
+  "ecapa_src_gt_similarity": 0.7510720491409302,
+  "redimnet_ref_converted_similarity": 0.51416015625,
+  "redimnet_ref_gt_similarity": 0.7734375,
+  "redimnet_src_converted_similarity": 0.221435546875,
+  "redimnet_src_gt_similarity": 0.7392578125,
+  "dns_mos_gt": 4.066594123840332,
+  "dns_mos_gen": 3.9937968254089355,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " monsieur pardon une ressemblance d\u00e9plorable voleur arr\u00eat\u00e9 depuis trois jours vous libre",
+  "wer_converted": 0.08333333333333333,
+  "cer_converted": 0.034482758620689655,
+  "transcription_converted": " messieurs pardon une ressemblance d\u00e9plorable voleur arr\u00eat\u00e9 depuis trois jours vous libre",
+  "index": 3,
+  "source_text": "monsieur pardon une ressemblance d\u00e9plorable voleur arr\u00eat\u00e9 depuis trois jours vous libre"
+}

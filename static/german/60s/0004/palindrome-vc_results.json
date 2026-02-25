@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.778756856918335,
+  "ecapa_ref_gt_similarity": 0.8576955199241638,
+  "ecapa_src_converted_similarity": 0.09863743931055069,
+  "ecapa_src_gt_similarity": 0.7379626035690308,
+  "redimnet_ref_converted_similarity": 0.73388671875,
+  "redimnet_ref_gt_similarity": 0.841796875,
+  "redimnet_src_converted_similarity": 0.1021728515625,
+  "redimnet_src_gt_similarity": 0.79833984375,
+  "dns_mos_gt": 3.7930285930633545,
+  "dns_mos_gen": 3.901005983352661,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " sein arm lehnte auf der pforte sein antlitz war nach westen gerichtet endlich wandte er sich um gemessen und langsam mir war es als sei eine liebliche vision an seiner seite erschienen",
+  "wer_converted": 0.03125,
+  "cer_converted": 0.010869565217391304,
+  "transcription_converted": " sein arm lehnte auf der pforte sein antlitz war nach westen gerichtet endlich wandte er sich um gemessen und langsam nie war es als sei eine liebliche vision an seiner seite erschienen",
+  "index": 2,
+  "source_text": "sein arm lehnte auf der pforte sein antlitz war nach westen gerichtet endlich wandte er sich um gemessen und langsam mir war es als sei eine liebliche vision an seiner seite erschienen"
+}

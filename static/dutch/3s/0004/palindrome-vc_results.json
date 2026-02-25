@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6928260326385498,
+  "ecapa_ref_gt_similarity": 0.6012751460075378,
+  "ecapa_src_converted_similarity": 0.09246572852134705,
+  "ecapa_src_gt_similarity": 0.687978982925415,
+  "redimnet_ref_converted_similarity": 0.65966796875,
+  "redimnet_ref_gt_similarity": 0.7333984375,
+  "redimnet_src_converted_similarity": 0.13037109375,
+  "redimnet_src_gt_similarity": 0.7255859375,
+  "dns_mos_gt": 3.6076748371124268,
+  "dns_mos_gen": 3.6702637672424316,
+  "wer_src": 0.07692307692307693,
+  "cer_src": 0.030534351145038167,
+  "transcription_src": " het is een mooie plaats voor mij om te liggen het verguldsel zal hier wel gauw van me afgaan ach onder welk gespuis ben ik aangeland",
+  "wer_converted": 0.07692307692307693,
+  "cer_converted": 0.030534351145038167,
+  "transcription_converted": " het is een mooie plaats voor mij om te liggen het verguldsel zal hier wel gauw van me afgaan ach onder welk gespuis ben ik aangeland",
+  "index": 2,
+  "source_text": "t is een mooie plaats voor mij om te liggen het verguldsel zal hier wel gauw van mij afgaan ach onder welk gespuis ben ik aangeland"
+}

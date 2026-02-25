@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.3147399425506592,
+  "ecapa_ref_gt_similarity": 0.8630181550979614,
+  "ecapa_src_converted_similarity": 0.1455368548631668,
+  "ecapa_src_gt_similarity": 0.8299944400787354,
+  "redimnet_ref_converted_similarity": 0.337890625,
+  "redimnet_ref_gt_similarity": 0.93017578125,
+  "redimnet_src_converted_similarity": 0.051605224609375,
+  "redimnet_src_gt_similarity": 0.81005859375,
+  "dns_mos_gt": 4.087218570709228,
+  "dns_mos_gen": 3.760403633117676,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " It is hardly necessary to say more of them here.",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " It is hardly necessary to say more of them here.",
+  "index": 8,
+  "source_text": "IT IS HARDLY NECESSARY TO SAY MORE OF THEM HERE",
+  "input_seed_folder": "librispeech_test_set_10s_seed_37",
+  "output_seed_folder": "librispeech_test_set_10s_seed_37",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_10s_seed_37/8_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_10s_seed_37/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_10s_seed_37/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_10s_seed_37/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_10s_seed_37/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_10s_seed_37/8_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_10s_seed_37/8/converted.wav"
+  }
+}

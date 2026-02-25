@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.4083244502544403,
+  "ecapa_ref_gt_similarity": 0.8228015899658203,
+  "ecapa_src_converted_similarity": 0.4067344069480896,
+  "ecapa_src_gt_similarity": 0.825584888458252,
+  "redimnet_ref_converted_similarity": 0.3427734375,
+  "redimnet_ref_gt_similarity": 0.86181640625,
+  "redimnet_src_converted_similarity": 0.31005859375,
+  "redimnet_src_gt_similarity": 0.78515625,
+  "dns_mos_gt": 4.261957287788391,
+  "dns_mos_gen": 4.190660715103149,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " there messrs johnson and hammer put into practice many of the ideas now standard in the art and secured much useful data for the work in new york of which the story has just been told",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " there messrs johnson and hammer put into practice many of the ideas now standard in the art and secured much useful data for the work in new york of which the story has just been told",
+  "index": 6,
+  "source_text": "THERE MESSRS JOHNSON AND HAMMER PUT INTO PRACTICE MANY OF THE IDEAS NOW STANDARD IN THE ART AND SECURED MUCH USEFUL DATA FOR THE WORK IN NEW YORK OF WHICH THE STORY HAS JUST BEEN TOLD",
+  "input_seed_folder": "librispeech_test_set_60s_seed_37",
+  "output_seed_folder": "librispeech_test_set_60s_seed_37",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_60s_seed_37/6_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_60s_seed_37/6_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_60s_seed_37/6_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_60s_seed_37/6_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_60s_seed_37/6_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_60s_seed_37/6_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_60s_seed_37/6/converted.wav"
+  }
+}

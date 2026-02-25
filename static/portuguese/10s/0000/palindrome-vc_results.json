@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6902583241462708,
+  "ecapa_ref_gt_similarity": 0.6857365369796753,
+  "ecapa_src_converted_similarity": 0.4021167457103729,
+  "ecapa_src_gt_similarity": 0.541539192199707,
+  "redimnet_ref_converted_similarity": 0.63525390625,
+  "redimnet_ref_gt_similarity": 0.873046875,
+  "redimnet_src_converted_similarity": 0.255859375,
+  "redimnet_src_gt_similarity": 0.560546875,
+  "dns_mos_gt": 3.432668447494507,
+  "dns_mos_gen": 4.191435813903809,
+  "wer_src": 0.09375,
+  "cer_src": 0.029239766081871343,
+  "transcription_src": " se ainda n\u00e3o me compreendeu \u00e9 bem curto de penetra\u00e7\u00e3o tire a m\u00e1scara e eu me explicarei esta noite toma um ch\u00e1 sozinha o importuno diogo n\u00e3o me incomodar\u00e1 com as suas dolices",
+  "wer_converted": 0.03125,
+  "cer_converted": 0.029239766081871343,
+  "transcription_converted": " Se ainda n\u00e3o me compreendeu, \u00e9 bem curto de penetra\u00e7\u00e3o. Tire a m\u00e1scara e eu me explicarei. Esta noite, tomo ch\u00e1 sozinha. O importuno Diogo n\u00e3o me incomodar\u00e1 com as suas do\u00edcias.",
+  "index": 0,
+  "source_text": "se ainda n\u00e3o me compreendeu \u00e9 bem curto de penetra\u00e7\u00e3o tire a m\u00e1scara e eu me explicarei esta noite tomo ch\u00e1 sozinha o importuno diogo n\u00e3o me incomodar\u00e1 com as suas tolices"
+}

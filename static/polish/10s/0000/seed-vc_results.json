@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7770252823829651,
+  "ecapa_ref_gt_similarity": 0.8482792377471924,
+  "ecapa_src_converted_similarity": 0.22148752212524414,
+  "ecapa_src_gt_similarity": 0.786411702632904,
+  "redimnet_ref_converted_similarity": 0.76123046875,
+  "redimnet_ref_gt_similarity": 0.8818359375,
+  "redimnet_src_converted_similarity": 0.1544189453125,
+  "redimnet_src_gt_similarity": 0.73486328125,
+  "dns_mos_gt": 3.702954258237566,
+  "dns_mos_gen": 3.821605920791626,
+  "wer_src": 0.1,
+  "cer_src": 0.011673151750972763,
+  "transcription_src": " prawda \u017ce to jest on i chocia\u017c nie wskaza\u0142em nawet spojrzeniem na kondora matka odgad\u0142a odrazu zmiesza\u0142a si\u0119 bardzo i spu\u015bci\u0142a oczy da\u0142em umy\u015blnie up\u0142yn\u0105\u0107 chwili \u017ceby wykosztowa\u0107 jej zmieszanie poczem z ca\u0142ym spokojem opanowuj\u0105c wzbieraj\u0105cy gniew spyta\u0142em",
+  "wer_converted": 0.1,
+  "cer_converted": 0.011673151750972763,
+  "transcription_converted": " prawda \u017ce to jest on i chocia\u017c nie wskaza\u0142em nawet spojrzeniem na kondora matka odgad\u0142a odrazu zmiesza\u0142a si\u0119 bardzo i spu\u015bci\u0142a oczy da\u0142em umy\u015blnie up\u0142yn\u0105\u0107 chwili \u017ceby wykosztowa\u0107 jej zmieszanie poczem z ca\u0142ym spokojem opanowuj\u0105c wzbieraj\u0105cy gniew spyta\u0142em",
+  "index": 4,
+  "source_text": "prawda \u017ce to jest on i chocia\u017c nie wskaza\u0142em nawet spojrzeniem na kondora matka odgad\u0142a od razu zmiesza\u0142a si\u0119 bardzo i spu\u015bci\u0142a oczy da\u0142em umy\u015blnie up\u0142yn\u0105\u0107 chwili \u017ceby wykosztowa\u0107 jej zmieszanie po czym z ca\u0142ym spokojem opanowuj\u0105c wzbieraj\u0105cy gniew spyta\u0142em",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_10s_seed_73/4_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_10s_seed_73/4_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_10s_seed_73/4_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_10s_seed_73/4_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_10s_seed_73/4_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_10s_seed_73/4_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/polish/librispeech_test_set_10s_seed_73/4/converted.wav"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.4623754620552063,
+  "ecapa_ref_gt_similarity": 0.8310049772262573,
+  "ecapa_src_converted_similarity": 0.3701164424419403,
+  "ecapa_src_gt_similarity": 0.7950146794319153,
+  "redimnet_ref_converted_similarity": 0.5439453125,
+  "redimnet_ref_gt_similarity": 0.861328125,
+  "redimnet_src_converted_similarity": 0.1810302734375,
+  "redimnet_src_gt_similarity": 0.8369140625,
+  "dns_mos_gt": 4.028960704803467,
+  "dns_mos_gen": 3.852891206741333,
+  "wer_src": 0.11538461538461539,
+  "cer_src": 0.087248322147651,
+  "transcription_src": " un vol d'oiseaux nocturnes au travers des charpentes d'un clocher mais il se calma m\u00e9content de lui est-ce qu'on ne pouvait faire les choses",
+  "wer_converted": 0.11538461538461539,
+  "cer_converted": 0.087248322147651,
+  "transcription_converted": " un vol d'oiseaux nocturnes au travers des charpentes d'un clocher mais il se calma m\u00e9content de lui est-ce qu'on ne pouvait faire les choses",
+  "index": 1,
+  "source_text": "un vol d'oiseau nocturne au travers des charpentes d'un clocher mais il se calma m\u00e9content de lui est-ce qu'on ne pouvait faire les choses froidement"
+}

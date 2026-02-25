@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.3844122290611267,
+  "ecapa_ref_gt_similarity": 0.6318292617797852,
+  "ecapa_src_converted_similarity": 0.06852293014526367,
+  "ecapa_src_gt_similarity": 0.8687393069267273,
+  "redimnet_ref_converted_similarity": 0.269775390625,
+  "redimnet_ref_gt_similarity": 0.69921875,
+  "redimnet_src_converted_similarity": 0.144287109375,
+  "redimnet_src_gt_similarity": 0.88720703125,
+  "dns_mos_gt": 4.036320447921753,
+  "dns_mos_gen": 3.295622706413269,
+  "wer_src": 0.13513513513513514,
+  "cer_src": 0.03398058252427184,
+  "transcription_src": " nou had hij er den bovenmeester stevig tusschen had hij laatst van den burgemeester geen schrobbering gekregen omdat de meester geklaagd had over de lantaarn voor de school die om negen uur geen olie meer had",
+  "wer_converted": 0.2972972972972973,
+  "cer_converted": 0.0825242718446602,
+  "transcription_converted": " nou had ie daar den bovenmeester stevig tusschen had ie laatst van den burgemeester geen schorbering gekregen omdat de meester geklaagd had over de lantaarn voor de school die om neef en uwe geen olie meer had",
+  "index": 2,
+  "source_text": "nou had hij d' r de bovenmeester stevig tussen had hij laatst van de burgemeester geen schrobbering gekregen omdat de meester geklaagd had over de lantaarn voor de school die om negen uur geen olie meer had",
+  "input_seed_folder": "librispeech_test_set_60s_seed_37",
+  "output_seed_folder": "librispeech_test_set_60s_seed_37",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/2_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/2_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_60s_seed_37/2/converted.wav"
+  }
+}

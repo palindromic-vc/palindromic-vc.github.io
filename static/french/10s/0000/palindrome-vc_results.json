@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6244540810585022,
+  "ecapa_ref_gt_similarity": 0.7830908894538879,
+  "ecapa_src_converted_similarity": 0.1223544329404831,
+  "ecapa_src_gt_similarity": 0.7510720491409302,
+  "redimnet_ref_converted_similarity": 0.55517578125,
+  "redimnet_ref_gt_similarity": 0.7734375,
+  "redimnet_src_converted_similarity": 0.17626953125,
+  "redimnet_src_gt_similarity": 0.7392578125,
+  "dns_mos_gt": 4.066594123840332,
+  "dns_mos_gen": 4.101227760314941,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " monsieur pardon une ressemblance d\u00e9plorable voleur arr\u00eat\u00e9 depuis trois jours vous libre",
+  "wer_converted": 0.08333333333333333,
+  "cer_converted": 0.034482758620689655,
+  "transcription_converted": " \u00ab Messieurs, pardon, une ressemblance d\u00e9plorable. Voleur arr\u00eat\u00e9 depuis trois jours. Vous, libre. \u00bb",
+  "index": 3,
+  "source_text": "monsieur pardon une ressemblance d\u00e9plorable voleur arr\u00eat\u00e9 depuis trois jours vous libre"
+}

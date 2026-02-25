@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5109525918960571,
+  "ecapa_ref_gt_similarity": 0.789463996887207,
+  "ecapa_src_converted_similarity": 0.1597922444343567,
+  "ecapa_src_gt_similarity": 0.8093830943107605,
+  "redimnet_ref_converted_similarity": 0.5146484375,
+  "redimnet_ref_gt_similarity": 0.77001953125,
+  "redimnet_src_converted_similarity": 0.301513671875,
+  "redimnet_src_gt_similarity": 0.82373046875,
+  "dns_mos_gt": 3.2336649894714355,
+  "dns_mos_gen": 3.9386677742004395,
+  "wer_src": 0.16666666666666666,
+  "cer_src": 0.0423728813559322,
+  "transcription_src": " essi sono voi li avete veduti non \u00e8 vero s\u00ec rispose elice li ho veduti spesso a tav e inghiotti il resto della parola",
+  "wer_converted": 0.08333333333333333,
+  "cer_converted": 0.01694915254237288,
+  "transcription_converted": " essi sono voi ne avete veduti non \u00e8 vero s\u00ec rispose alice li ho veduti spesso a tav e inghiotti il resto della parola",
+  "index": 7,
+  "source_text": "essi sono voi ne avete veduti non \u00e8 vero s\u00ec rispose alice li ho veduti spesso a tavo e inghiott\u00ec il resto della parola"
+}

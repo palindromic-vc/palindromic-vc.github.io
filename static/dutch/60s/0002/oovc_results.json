@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.44972699880599976,
+  "ecapa_ref_gt_similarity": 0.8158996105194092,
+  "ecapa_src_converted_similarity": 0.26759016513824463,
+  "ecapa_src_gt_similarity": 0.756531834602356,
+  "redimnet_ref_converted_similarity": 0.3408203125,
+  "redimnet_ref_gt_similarity": 0.81640625,
+  "redimnet_src_converted_similarity": 0.2491455078125,
+  "redimnet_src_gt_similarity": 0.7255859375,
+  "dns_mos_gt": 3.595904929297311,
+  "dns_mos_gen": 3.8472206933157787,
+  "wer_src": 0.22413793103448276,
+  "cer_src": 0.05263157894736842,
+  "transcription_src": " we moesten van avond eens repeteeren kom hier en doe de flauwvalsc\u00e8ne eens want dat doe je zoo stijf als een lantaarnpaal daar kan ik niks van doen ik heb nog nooit iemand flauw zien vallen en ik heb geen lust mij bont en blauw te maken den zomer plat op den grond te rollen zooals jij",
+  "wer_converted": 0.25862068965517243,
+  "cer_converted": 0.09473684210526316,
+  "transcription_converted": " we moesten van avond eens repeteren kom hier en doe de floo vast en eens want dat doe je zoo stuif als een lantaarnpaal daar kan ik niks aan doen ik heb nog nooit iemand floo zien vallen en ik heb geen lust mij bont en blauw te maken de zomer plat op den grond te hollen zooals jij",
+  "index": 3,
+  "source_text": "we moesten vanavond eens repeteren kom hier en doe de flauwval sc\u00e8ne eens want dat doe je zo stijf als een lantaarnpaal daar kan ik niets aan doen ik heb nog nooit iemand flauw zien vallen en ik heb geen lust mij bont en blauw te maken door zo maar plat op de grond te rollen zoals jij",
+  "input_seed_folder": "librispeech_test_set_60s_seed_37",
+  "output_seed_folder": "librispeech_test_set_60s_seed_37",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/3_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_60s_seed_37/3_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_60s_seed_37/3/converted.wav"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6175529956817627,
+  "ecapa_ref_gt_similarity": 0.8083252906799316,
+  "ecapa_src_converted_similarity": 0.1389511227607727,
+  "ecapa_src_gt_similarity": 0.5433194637298584,
+  "redimnet_ref_converted_similarity": 0.55224609375,
+  "redimnet_ref_gt_similarity": 0.8388671875,
+  "redimnet_src_converted_similarity": 0.10418701171875,
+  "redimnet_src_gt_similarity": 0.61328125,
+  "dns_mos_gt": 3.8283212184906006,
+  "dns_mos_gen": 4.063126087188721,
+  "wer_src": 0.10526315789473684,
+  "cer_src": 0.018691588785046728,
+  "transcription_src": " gegen f\u00fcnf uhr fiel ein regen gleich einem reisenden bergstrom aber es stillte weder den wind noch das meer",
+  "wer_converted": 0.8421052631578947,
+  "cer_converted": 0.3925233644859813,
+  "transcription_converted": " Sie sind schon froh, sie haben sich den gleich eisend leisenden Berg schon. Aber es gilt wieder den Wild, noch das Meer.",
+  "index": 8,
+  "source_text": "gegen f\u00fcnf uhr fiel ein regen gleich einem rei\u00dfenden bergstrom aber er stillte weder den wind noch das meer",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_3s_seed_42/8_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_3s_seed_42/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_3s_seed_42/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_3s_seed_42/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_3s_seed_42/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_3s_seed_42/8_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/german/librispeech_test_set_3s_seed_42/8/converted.wav"
+  }
+}

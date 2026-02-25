@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.8112518191337585,
+  "ecapa_ref_gt_similarity": 0.9162086844444275,
+  "ecapa_src_converted_similarity": 0.2607882618904114,
+  "ecapa_src_gt_similarity": 0.7384997606277466,
+  "redimnet_ref_converted_similarity": 0.78271484375,
+  "redimnet_ref_gt_similarity": 0.91943359375,
+  "redimnet_src_converted_similarity": 0.2381591796875,
+  "redimnet_src_gt_similarity": 0.71533203125,
+  "dns_mos_gt": 3.9186953135899136,
+  "dns_mos_gen": 4.149134976523263,
+  "wer_src": 0.02127659574468085,
+  "cer_src": 0.0035460992907801418,
+  "transcription_src": " zakopany paj\u0105k \u017cyje tam jeszcze dni par\u0119 gdy\u017c przezorny grzebisz tak go kaleczy aby pozbawi\u0107 ruchu bez odebrania \u017cycia wyl\u0119g\u0142a wi\u0119c liszka natrafia na gotowy pokarm i \u017cywi si\u0119 przez par\u0119 a nawet przez kilka dni \u015bwie\u017cym mi\u0119sem paj\u0105ka mo\u017ce by\u0107 spokojn\u0105 \u017ce nie zabraknie jej po\u017cywienia",
+  "wer_converted": 0.0425531914893617,
+  "cer_converted": 0.0070921985815602835,
+  "transcription_converted": " zakopany paj\u0105k \u017cyje tam jeszcze dni par\u0119 gdy\u017c krzezorny grzebisz tak go kaleczy aby pozbawi\u0107 ruchu bez odebrania \u017cycia wyl\u0119g\u0142a wi\u0119c liszka natrafia na gotowy pokarm i \u017cywi si\u0119 przez par\u0119 a nawet przez kilka dni \u015bwie\u017cym mi\u0119sem paj\u0105ka mo\u017ce by\u0107 spokojn\u0105 \u017ce nie zabraknie jej po\u017cywienia",
+  "index": 9,
+  "source_text": "zakopany paj\u0105k \u017cyje tam jeszcze dni par\u0119 gdy\u017c przezorny grzebisz tak go kaleczy aby pozbawi\u0107 ruchu bez odebrania \u017cycia wyl\u0119g\u0142a wi\u0119c liszka natrafia na gotowy pokarm i \u017cywi si\u0119 przez par\u0119 a nawet przez kilka dni \u015bwie\u017cem mi\u0119sem paj\u0105ka mo\u017ce by\u0107 spokojn\u0105 \u017ce nie zabraknie jej po\u017cywienia",
+  "input_seed_folder": "librispeech_test_set_10s_seed_37",
+  "output_seed_folder": "librispeech_test_set_10s_seed_37",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_10s_seed_37/9_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_10s_seed_37/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_10s_seed_37/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_10s_seed_37/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_10s_seed_37/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_10s_seed_37/9_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/polish/librispeech_test_set_10s_seed_37/9/converted.wav"
+  }
+}

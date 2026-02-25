@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6916362643241882,
+  "ecapa_ref_gt_similarity": 0.9025628566741943,
+  "ecapa_src_converted_similarity": 0.09449340403079987,
+  "ecapa_src_gt_similarity": 0.7371600866317749,
+  "redimnet_ref_converted_similarity": 0.58349609375,
+  "redimnet_ref_gt_similarity": 0.92822265625,
+  "redimnet_src_converted_similarity": 0.033782958984375,
+  "redimnet_src_gt_similarity": 0.70703125,
+  "dns_mos_gt": 3.538118839263916,
+  "dns_mos_gen": 2.9023680686950684,
+  "wer_src": 0.021739130434782608,
+  "cer_src": 0.05058365758754864,
+  "transcription_src": " il n'\u00e9tait question bien entendu que de la grande passion l'amour l\u00e9ger \u00e9tait indigne d'une fille de son \u00e2ge et de sa naissance elle ne donnait le nom d'amour qu'\u00e0 ce sentiment h\u00e9ro\u00efque que l'on rencontrait en france du temps de henri iii et de",
+  "wer_converted": 0.08695652173913043,
+  "cer_converted": 0.0311284046692607,
+  "transcription_converted": " il n'\u00e9tait question bien entendu que de la grande passion l'amour l\u00e9ger \u00e9tait indigne d'une fille de son \u00e2ge et de sa naissance celle ne donnait le nom d'amour qu'\u00e0 ce sentiment h\u00e9ro\u00efste que l'on rencontrait en france du toit de henri iii et de bassampierre",
+  "index": 0,
+  "source_text": "il n'\u00e9tait question bien entendu que de la grande passion l'amour l\u00e9ger \u00e9tait indigne d'une fille de son \u00e2ge et de sa naissance elle ne donnait le nom d'amour qu'\u00e0 ce sentiment h\u00e9ro\u00efque que l'on rencontrait en france du temps de henri iii et de bassompierre"
+}

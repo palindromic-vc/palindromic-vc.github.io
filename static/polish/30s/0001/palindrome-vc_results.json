@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6879475712776184,
+  "ecapa_ref_gt_similarity": 0.7282071113586426,
+  "ecapa_src_converted_similarity": 0.12177227437496185,
+  "ecapa_src_gt_similarity": 0.9097131490707397,
+  "redimnet_ref_converted_similarity": 0.61669921875,
+  "redimnet_ref_gt_similarity": 0.6640625,
+  "redimnet_src_converted_similarity": 0.013214111328125,
+  "redimnet_src_gt_similarity": 0.90087890625,
+  "dns_mos_gt": 4.089129447937012,
+  "dns_mos_gen": 4.009036064147949,
+  "wer_src": 0.1111111111111111,
+  "cer_src": 0.03942652329749104,
+  "transcription_src": " jak\u017ce szczup\u0142\u0105 zaist\u0119 mamy do nich podstaw\u0119 gdy nie wiemy nawet tak zasadniczych i niezb\u0119dnych wiadomo\u015bci jak np jakiemi i iloma zmys\u0142ami owady rozporz\u0105dzaj\u0105 nie wiemy w jakim stopniu widz\u0105 one swemi oczami czuj\u0105 r\u00f3\u017ckami i w og\u00f3le jakim si\u0119 \u015bwiat zewn\u0119trzny przedstawia",
+  "wer_converted": 0.2,
+  "cer_converted": 0.05734767025089606,
+  "transcription_converted": " Tak\u017ce szczup\u0105 zaist\u0119 mamy do nich podstaw\u0119, gdy nie wiemy nawet tak zasadniczych i niezb\u0119dnych wiadomo\u015bci, jak np. jakimi i iloma zmys\u0142ami owady rozporz\u0105dzaj\u0105. Nie wiemy w jakim stopniu widz\u0105 one swoimi oczami, czuj\u0105 r\u00f3\u017ckami i w og\u00f3le jakim si\u0119 \u015bwiat zewn\u0119trzny przedstawia.",
+  "index": 3,
+  "source_text": "jak\u017ce szczup\u0142\u0105 zaiste mamy do nich podstaw\u0119 gdy nie wiemy nawet tak zasadniczych i niezb\u0119dnych wiadomo\u015bci jak na przyk\u0142ad jakiemi i iloma zmys\u0142ami owady rozporz\u0105dzaj\u0105 nie wiemy w jakim stopniu widz\u0105 one swemi oczami czuj\u0105 r\u00f3\u017ckami i w og\u00f3le jak im si\u0119 \u015bwiat zewn\u0119trzny przedstawia"
+}

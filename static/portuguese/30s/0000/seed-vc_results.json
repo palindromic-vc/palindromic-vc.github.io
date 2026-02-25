@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6332591772079468,
+  "ecapa_ref_gt_similarity": 0.8006879091262817,
+  "ecapa_src_converted_similarity": 0.2754398286342621,
+  "ecapa_src_gt_similarity": 0.7478175759315491,
+  "redimnet_ref_converted_similarity": 0.8193359375,
+  "redimnet_ref_gt_similarity": 0.8583984375,
+  "redimnet_src_converted_similarity": 0.29296875,
+  "redimnet_src_gt_similarity": 0.84814453125,
+  "dns_mos_gt": 4.088331971849714,
+  "dns_mos_gen": 3.8163842473711287,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " casa do bruxo observou um dos homens designando assim a morada do intrat\u00e1vel e velho ca\u00e7ador que habitava aquelas margens do rio vai ver que \u00e9 algum dos cachorros que morreu tamb\u00e9m que o diabo os leve a todos praguejou o mulato que a peste os acabe malvados",
+  "wer_converted": 0.041666666666666664,
+  "cer_converted": 0.01556420233463035,
+  "transcription_converted": " casa do bruxo observou um dos homens designando assim a morada do intrat\u00e1vel e velho ca\u00e7ador que habitava aquelas margens do rio vai ver que \u00e9 algum dos cachorros que morreu tamb\u00e9m que o diabo os leve a todos praguejou mulato que a peste os acabe malvados o",
+  "index": 7,
+  "source_text": "casa do bruxo observou um dos homens designando assim a morada do intrat\u00e1vel e velho ca\u00e7ador que habitava aquelas margens do rio vai ver que \u00e9 algum dos cachorros que morreu tamb\u00e9m que o diabo os leve a todos praguejou o mulato que a peste os acabe malvados",
+  "input_seed_folder": "librispeech_test_set_30s_seed_37",
+  "output_seed_folder": "librispeech_test_set_30s_seed_37",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_30s_seed_37/7_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_30s_seed_37/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_30s_seed_37/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_30s_seed_37/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_30s_seed_37/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_30s_seed_37/7_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/portuguese/librispeech_test_set_30s_seed_37/7/converted.wav"
+  }
+}

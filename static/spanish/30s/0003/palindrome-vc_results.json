@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.8486562967300415,
+  "ecapa_ref_gt_similarity": 0.8839860558509827,
+  "ecapa_src_converted_similarity": 0.07955063879489899,
+  "ecapa_src_gt_similarity": 0.5899832844734192,
+  "redimnet_ref_converted_similarity": 0.81298828125,
+  "redimnet_ref_gt_similarity": 0.88623046875,
+  "redimnet_src_converted_similarity": 0.05145263671875,
+  "redimnet_src_gt_similarity": 0.6123046875,
+  "dns_mos_gt": 3.8736519813537598,
+  "dns_mos_gen": 4.114439487457275,
+  "wer_src": 0.07142857142857142,
+  "cer_src": 0.026845637583892617,
+  "transcription_src": " viendo pues el arriero a la lumbre del candil del ventero cual andaba su dama dejando a don quijote acudi\u00f3 a day el socorro necesario lo mismo hizo",
+  "wer_converted": 0.07142857142857142,
+  "cer_converted": 0.026845637583892617,
+  "transcription_converted": " viendo pues el arriero a la lumbre del candil del ventero cual andaba su dama dejando a don quijote acudi\u00f3 a day el socorro necesario lo mismo hizo",
+  "index": 6,
+  "source_text": "viendo pues el arriero a la lumbre del candil del ventero cu\u00e1l andaba su dama dejando a don quijote acudi\u00f3 a dalle el socorro necesario lo mismo hizo"
+}

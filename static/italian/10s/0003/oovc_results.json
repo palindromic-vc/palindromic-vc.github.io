@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5326915979385376,
+  "ecapa_ref_gt_similarity": 0.8185489177703857,
+  "ecapa_src_converted_similarity": 0.02580149844288826,
+  "ecapa_src_gt_similarity": 0.07453213632106781,
+  "redimnet_ref_converted_similarity": 0.438232421875,
+  "redimnet_ref_gt_similarity": 0.80322265625,
+  "redimnet_src_converted_similarity": 0.172607421875,
+  "redimnet_src_gt_similarity": 0.0016956329345703125,
+  "dns_mos_gt": 4.032686710357666,
+  "dns_mos_gen": 3.682240923245748,
+  "wer_src": 0.20512820512820512,
+  "cer_src": 0.03431372549019608,
+  "transcription_src": " maggiore aperta molte volte in pruna con una forcatella di sue spine luom della villa quando luva in bruna che non era la calla onde saline lo duca mio e io appresso soli come da noi la schiera si partine",
+  "wer_converted": 0.2564102564102564,
+  "cer_converted": 0.06862745098039216,
+  "transcription_converted": " maggiore aperta molte volte in pruna con una forchatella di sue spine voam della villa quando l'uva in bruna che non era la calla onde salina era duca mio e io appresso soli come da noi la schiera si partine",
+  "index": 1,
+  "source_text": "maggiore aperta molte volte impruna con una forcatella di sue spine l'uom de la villa quando l'uva imbruna che non era la calla onde saline lo duca mio e io appresso soli come da noi la schiera si partine",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_10s_seed_73/1_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_10s_seed_73/1_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_10s_seed_73/1_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_10s_seed_73/1_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_10s_seed_73/1_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_10s_seed_73/1_ref_src2.wav",
+    "converted": "/workspace/outputs/italian/librispeech_test_set_10s_seed_73/1/converted.wav"
+  }
+}

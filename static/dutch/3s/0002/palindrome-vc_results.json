@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.696992039680481,
+  "ecapa_ref_gt_similarity": 0.7047874927520752,
+  "ecapa_src_converted_similarity": 0.21603873372077942,
+  "ecapa_src_gt_similarity": 0.8655701875686646,
+  "redimnet_ref_converted_similarity": 0.6455078125,
+  "redimnet_ref_gt_similarity": 0.7412109375,
+  "redimnet_src_converted_similarity": 0.2437744140625,
+  "redimnet_src_gt_similarity": 0.830078125,
+  "dns_mos_gt": 3.7269928455352783,
+  "dns_mos_gen": 3.7303881645202637,
+  "wer_src": 0.175,
+  "cer_src": 0.05106382978723404,
+  "transcription_src": " als door de matte ruiten van het schoolgebouw het helder stijgend ochtendgezang als een trillende jeugdgurgel floot als i wist dat i drie uur rustig den tijd had kwam i naar buiten op z'n tapijt te sloffen en streek het schuttingtje",
+  "wer_converted": 0.175,
+  "cer_converted": 0.04680851063829787,
+  "transcription_converted": " als door de matte ruiten van het schoolgebouw het helder stijgend ochtendgezang als een trillende jeugdgurgel floot als i wist dat i drie uur rustig den tijd had kwam i naar buiten op z'n tapijt te sloffen en streek het schuttingje",
+  "index": 8,
+  "source_text": "als door de matte ruiten van het schoolgebouw het helder stijgend ochtendgezang als een trillende jeugdgurgel floot als 'ie wist dat 'ie drie uur rustig de tijd had kwam 'ie naar buiten op z'n tapijten sloffen en streek het schuttinkje"
+}

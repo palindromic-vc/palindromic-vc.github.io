@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6694080829620361,
+  "ecapa_ref_gt_similarity": 0.6888773441314697,
+  "ecapa_src_converted_similarity": -0.037719279527664185,
+  "ecapa_src_gt_similarity": 0.7771567702293396,
+  "redimnet_ref_converted_similarity": 0.69970703125,
+  "redimnet_ref_gt_similarity": 0.76025390625,
+  "redimnet_src_converted_similarity": -0.0260772705078125,
+  "redimnet_src_gt_similarity": 0.83642578125,
+  "dns_mos_gt": 3.551053047180176,
+  "dns_mos_gen": 3.9501895904541016,
+  "wer_src": 0.14634146341463414,
+  "cer_src": 0.02926829268292683,
+  "transcription_src": " in te rapito il cucchiajon si ficca e ne riempi una scodella intiera. Astro di sera deliziosa zuppa in te il mio pan s'inzuppa e di te canto oh zuppa canto all'astro di sera canto alla tua bont\u00e0 civile zuppa.",
+  "wer_converted": 0.14634146341463414,
+  "cer_converted": 0.02926829268292683,
+  "transcription_converted": " in te rapito il cucchiaion si ficca e ne riempio una scodella intiera astro di sera deliziosa zuppa in te il mio pan si inzuppa e di te canto o zuppa canto all'astro di sera canto alla tua bont\u00e0 civile zuppa",
+  "index": 3,
+  "source_text": "in te rapito il cucchiaion si ficca e ne riempie una scodella intiera astro di sera deliziosa zuppa in te il mio pan s'inzuppa e di te canto o zup pa canto all'astro di sera canto la tua bont\u00e0 civile zuppa"
+}

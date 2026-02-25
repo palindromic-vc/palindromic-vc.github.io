@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6477422714233398,
+  "ecapa_ref_gt_similarity": 0.8832281827926636,
+  "ecapa_src_converted_similarity": 0.17955626547336578,
+  "ecapa_src_gt_similarity": 0.7606974840164185,
+  "redimnet_ref_converted_similarity": 0.6728515625,
+  "redimnet_ref_gt_similarity": 0.927734375,
+  "redimnet_src_converted_similarity": 0.2442626953125,
+  "redimnet_src_gt_similarity": 0.83154296875,
+  "dns_mos_gt": 3.626380443572998,
+  "dns_mos_gen": 3.9423977647508894,
+  "wer_src": 0.06976744186046512,
+  "cer_src": 0.024691358024691357,
+  "transcription_src": " i suoi uditori si mantennero quieti sino a che ella giunse alla ripetizione del guglielmo tu sei vecchio da lei fatta al bruco e siccome le parole le uscivano tutte diverse dal dal vero originale la falsa testuggine die fuori uno dei suoi sospironi",
+  "wer_converted": 0.09302325581395349,
+  "cer_converted": 0.037037037037037035,
+  "transcription_converted": " i suoi uditori si mantennero chieti sino a che ella aggiunse alla ripetizione del guglielmo tu sei vecchio da lei fatta al bruco e siccome le parole le uscivano tutte diverse dal dal vero originale la falsa testuggine di\u00e8 fuori uno dei suoi sospironi",
+  "index": 5,
+  "source_text": "i suoi uditori si mantennero quieti sino a che ella giunse alla ripetizione del guglielmo tu sei vecchio da lei fatta al bruco e siccome le parole le uscivano tutte diverse dal vero originale la falsa testuggine di\u00e8 fuori uno de suoi sospironi",
+  "input_seed_folder": "librispeech_test_set_3s_seed_73",
+  "output_seed_folder": "librispeech_test_set_3s_seed_73",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_3s_seed_73/5_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_3s_seed_73/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_3s_seed_73/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_3s_seed_73/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_3s_seed_73/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_3s_seed_73/5_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/italian/librispeech_test_set_3s_seed_73/5/converted.wav"
+  }
+}

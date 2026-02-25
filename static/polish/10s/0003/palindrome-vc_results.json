@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5464124083518982,
+  "ecapa_ref_gt_similarity": 0.7514654397964478,
+  "ecapa_src_converted_similarity": 0.11711038649082184,
+  "ecapa_src_gt_similarity": 0.8337603211402893,
+  "redimnet_ref_converted_similarity": 0.5576171875,
+  "redimnet_ref_gt_similarity": 0.69921875,
+  "redimnet_src_converted_similarity": 0.0963134765625,
+  "redimnet_src_gt_similarity": 0.904296875,
+  "dns_mos_gt": 3.9684884548187256,
+  "dns_mos_gen": 3.8655285835266113,
+  "wer_src": 0.125,
+  "cer_src": 0.05113636363636364,
+  "transcription_src": " bro\u0144 bo\u017ce jest to zwarty chufiec liszek id\u0105cych przez las w postaci d\u0142ugiego a cienkiego w\u0119\u017ca a tem r\u00f3\u017cni si\u0119 od kolumn wojskowych \u017ce idzie niejedn\u0105 warstw\u0105 jak ludzie po ziemi KONIEC",
+  "wer_converted": 0.09375,
+  "cer_converted": 0.017045454545454544,
+  "transcription_converted": " bro\u0144 bo\u017ce jest to zwarty chofiec liszek id\u0105cych przez las w postaci d\u0142ugiego a cienkiego w\u0119\u017ca a tem r\u00f3\u017cni si\u0119 od kolumn wojskowych \u017ce idzie niejedn\u0105 warstw\u0105 jak ludzie po ziemi",
+  "index": 5,
+  "source_text": "bro\u0144 bo\u017ce jest to zwarty hufiec liszek id\u0105cych przez las w postaci d\u0142ugiego a cienkiego w\u0119\u017ca a tem r\u00f3\u017cni si\u0119 od kolumn wojskowych \u017ce idzie nie jedn\u0105 warstw\u0105 jak ludzie po ziemi"
+}

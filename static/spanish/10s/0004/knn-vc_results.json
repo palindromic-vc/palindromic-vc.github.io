@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5985631942749023,
+  "ecapa_ref_gt_similarity": 0.7867307662963867,
+  "ecapa_src_converted_similarity": 0.08821495622396469,
+  "ecapa_src_gt_similarity": 0.8984572887420654,
+  "redimnet_ref_converted_similarity": 0.5322265625,
+  "redimnet_ref_gt_similarity": 0.79345703125,
+  "redimnet_src_converted_similarity": 0.0223541259765625,
+  "redimnet_src_gt_similarity": 0.8935546875,
+  "dns_mos_gt": 4.025977849960327,
+  "dns_mos_gen": 3.8679004669189454,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " en cuanto a lo de las bellotas digo que mi se\u00f1ora la duquesa es tan llana y tan humilde que no dec\u00eda \u00e9l enviar a pedir bellotas a una labradora pero que le acontec\u00eda enviar a pedir un peine prestado a una vecina suya",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " en cuanto a lo de las bellotas digo que mi se\u00f1ora la duquesa es tan llana y tan humilde que no dec\u00eda \u00e9l enviar a pedir bellotas a una labradora pero que le acontec\u00eda enviar a pedir un peine prestado a una vecina suya",
+  "index": 5,
+  "source_text": "en cuanto a lo de las bellotas digo que mi se\u00f1ora la duquesa es tan llana y tan humilde que no dec\u00eda \u00e9l enviar a pedir bellotas a una labradora pero que le acontec\u00eda enviar a pedir un peine prestado a una vecina suya",
+  "input_seed_folder": "librispeech_test_set_10s_seed_42",
+  "output_seed_folder": "librispeech_test_set_10s_seed_42",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/5_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/5_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/spanish/librispeech_test_set_10s_seed_42/5/converted.wav"
+  }
+}

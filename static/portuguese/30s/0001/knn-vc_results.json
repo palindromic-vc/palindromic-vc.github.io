@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6882808208465576,
+  "ecapa_ref_gt_similarity": 0.8507381677627563,
+  "ecapa_src_converted_similarity": 0.4276586174964905,
+  "ecapa_src_gt_similarity": 0.8424879312515259,
+  "redimnet_ref_converted_similarity": 0.5830078125,
+  "redimnet_ref_gt_similarity": 0.84375,
+  "redimnet_src_converted_similarity": 0.227294921875,
+  "redimnet_src_gt_similarity": 0.90234375,
+  "dns_mos_gt": 3.984161615371704,
+  "dns_mos_gen": 3.8399843147822788,
+  "wer_src": 0.0196078431372549,
+  "cer_src": 0.0072992700729927005,
+  "transcription_src": " milcao que se tinha conservado mudo a contemplar satisfeito o prazer alheio viu um rosto amigo que se aproximava era joca que em mangas de camisa de len\u00e7o ao pesco\u00e7o e um cintur\u00e3o de couro segurando a cal\u00e7a vinha saud\u00e1-lo abrindo a boca em que se apertavam os dentes felinos",
+  "wer_converted": 0.21568627450980393,
+  "cer_converted": 0.09124087591240876,
+  "transcription_converted": " e o cal que se tinha conservado mudo a contemplar satisfeito o prazer alheio viu um monstro amigo que se aproximava era joca tinha uma andez de camisa de len\u00e7o o pesco\u00e7o e um cintur\u00e3o de couro segurando a cal\u00e7a tinha saudado abrindo a boca em que se apertavam os dentes felinos",
+  "index": 1,
+  "source_text": "milkau que se tinha conservado mudo a contemplar satisfeito o prazer alheio viu um rosto amigo que se aproximava era joca que em mangas de camisa de len\u00e7o ao pesco\u00e7o e um cintur\u00e3o de couro segurando a cal\u00e7a vinha saud\u00e1-lo abrindo a boca em que se apertavam os dentes felinos",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/portuguese/librispeech_test_set_30s_seed_73/1_src.wav",
+    "prompt": "/workspace/data/portuguese/librispeech_test_set_30s_seed_73/1_prompt.wav",
+    "ref_tgt1": "/workspace/data/portuguese/librispeech_test_set_30s_seed_73/1_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/portuguese/librispeech_test_set_30s_seed_73/1_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/portuguese/librispeech_test_set_30s_seed_73/1_ref_src1.wav",
+    "ref_src2": "/workspace/data/portuguese/librispeech_test_set_30s_seed_73/1_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/portuguese/librispeech_test_set_30s_seed_73/1/converted.wav"
+  }
+}

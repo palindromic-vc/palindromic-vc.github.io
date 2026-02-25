@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7700551748275757,
+  "ecapa_ref_gt_similarity": 0.8363850712776184,
+  "ecapa_src_converted_similarity": 0.41268113255500793,
+  "ecapa_src_gt_similarity": 0.8361047506332397,
+  "redimnet_ref_converted_similarity": 0.6884765625,
+  "redimnet_ref_gt_similarity": 0.8740234375,
+  "redimnet_src_converted_similarity": 0.2469482421875,
+  "redimnet_src_gt_similarity": 0.89208984375,
+  "dns_mos_gt": 3.466080904006958,
+  "dns_mos_gen": 3.966958999633789,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " pensa alfredo e de repente solta a borboleta e ela abre as asas livremente e foge pela janela",
+  "wer_converted": 0.5555555555555556,
+  "cer_converted": 0.20430107526881722,
+  "transcription_converted": " Pensa o frio e, de repente, solta o boleto e ela, abrazada livremente, foge pelo janelo.",
+  "index": 1,
+  "source_text": "pensa alfredo e de repente solta a borboleta e ela abre as asas livremente e foge pela janela"
+}

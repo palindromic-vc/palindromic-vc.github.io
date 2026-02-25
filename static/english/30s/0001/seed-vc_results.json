@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.48131993412971497,
+  "ecapa_ref_gt_similarity": 0.4573844075202942,
+  "ecapa_src_converted_similarity": 0.08843514323234558,
+  "ecapa_src_gt_similarity": 0.8258986473083496,
+  "redimnet_ref_converted_similarity": 0.410400390625,
+  "redimnet_ref_gt_similarity": 0.6005859375,
+  "redimnet_src_converted_similarity": 0.07244873046875,
+  "redimnet_src_gt_similarity": 0.83984375,
+  "dns_mos_gt": 4.058156967163086,
+  "dns_mos_gen": 4.0928497314453125,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " oh mademoiselle why have i not a devoted sister or a true friend such as yourself",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " oh mademoiselle why have i not a devoted sister or a true friend such as yourself",
+  "index": 10,
+  "source_text": "OH MADEMOISELLE WHY HAVE I NOT A DEVOTED SISTER OR A TRUE FRIEND SUCH AS YOURSELF"
+}

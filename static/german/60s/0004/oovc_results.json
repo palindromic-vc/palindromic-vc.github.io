@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5412801504135132,
+  "ecapa_ref_gt_similarity": 0.8577165603637695,
+  "ecapa_src_converted_similarity": 0.15369941294193268,
+  "ecapa_src_gt_similarity": 0.7379424571990967,
+  "redimnet_ref_converted_similarity": 0.462158203125,
+  "redimnet_ref_gt_similarity": 0.841796875,
+  "redimnet_src_converted_similarity": 0.1746826171875,
+  "redimnet_src_gt_similarity": 0.79833984375,
+  "dns_mos_gt": 3.8333888053894043,
+  "dns_mos_gen": 3.564009726047516,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " sein arm lehnte auf der pforte sein antlitz war nach westen gerichtet endlich wandte er sich um gemessen und langsam mir war es als sei eine liebliche vision an seiner seite erschienen",
+  "wer_converted": 0.0625,
+  "cer_converted": 0.021739130434782608,
+  "transcription_converted": " Sein Arm lehnte auf der Pforte, sein Antwurz war nach Westen gewichtet. Endlich wandte er sich um, gemessen und langsam. Mir war es, als sei eine liebliche Vision an seiner Seite erschienen.",
+  "index": 2,
+  "source_text": "sein arm lehnte auf der pforte sein antlitz war nach westen gerichtet endlich wandte er sich um gemessen und langsam mir war es als sei eine liebliche vision an seiner seite erschienen",
+  "input_seed_folder": "librispeech_test_set_60s_seed_37",
+  "output_seed_folder": "librispeech_test_set_60s_seed_37",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_60s_seed_37/2_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_60s_seed_37/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_60s_seed_37/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_60s_seed_37/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_60s_seed_37/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_60s_seed_37/2_ref_src2.wav",
+    "converted": "/workspace/outputs/german/librispeech_test_set_60s_seed_37/2/converted.wav"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6738030910491943,
+  "ecapa_ref_gt_similarity": 0.686152994632721,
+  "ecapa_src_converted_similarity": 0.47532951831817627,
+  "ecapa_src_gt_similarity": 0.8586791157722473,
+  "redimnet_ref_converted_similarity": 0.63232421875,
+  "redimnet_ref_gt_similarity": 0.81298828125,
+  "redimnet_src_converted_similarity": 0.5009765625,
+  "redimnet_src_gt_similarity": 0.853515625,
+  "dns_mos_gt": 3.4820187091827393,
+  "dns_mos_gen": 3.8569328784942627,
+  "wer_src": 0.11904761904761904,
+  "cer_src": 0.02358490566037736,
+  "transcription_src": " ci\u00f2 che narrate di mio corso scrivo e serbolo a chiosar con altro testo a donna che sapr\u00e0 sa lei arrivo tanto voglio che vi sia manifesto pur che mia coscienza non mi garra ch'alla fortuna come vuol son presto",
+  "wer_converted": 0.21428571428571427,
+  "cer_converted": 0.05660377358490566,
+  "transcription_converted": " ci\u00f2 che narrate di gn\u00f9 corso scrivo e serbo lo a chiosar con altro testo a donna che sapr\u00e0 sa lea vivo tanto voglio che vi sia manifesto pur che mia coscienza non mi garra ch'a la fortuna come vuol son presto",
+  "index": 7,
+  "source_text": "ci\u00f2 che narrate di mio corso scrivo e serbolo a chiosar con altro testo a donna che sapr\u00e0 s'a lei arrivo tanto vogl'io che vi sia manifesto pur che mia coscienza non mi garra che a la fortuna come vuol son presto"
+}

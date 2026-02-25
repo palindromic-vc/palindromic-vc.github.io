@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7521042823791504,
+  "ecapa_ref_gt_similarity": 0.7675343751907349,
+  "ecapa_src_converted_similarity": 0.14118245244026184,
+  "ecapa_src_gt_similarity": 0.7799738645553589,
+  "redimnet_ref_converted_similarity": 0.7890625,
+  "redimnet_ref_gt_similarity": 0.75341796875,
+  "redimnet_src_converted_similarity": 0.01006317138671875,
+  "redimnet_src_gt_similarity": 0.8427734375,
+  "dns_mos_gt": 4.247376918792725,
+  "dns_mos_gen": 3.8881237166268483,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " by\u0142y to jednak z\u0142udzenia wyobra\u017ani i wzroku up\u0142yn\u0105\u0142 z kwadrans gdym nagle zrozumia\u0142 \u017ce \u017ale sp\u0119dzam drogie chwile rozs\u0105dny cz\u0142owiek bez wzgl\u0119du na to czy si\u0119 myli lub nie powinien odda\u0107 sygna\u0142 a wtedy mo\u017ce z wi\u0119ksz\u0105 pewno\u015bci\u0105 oczekiwa\u0107 odpowiedzi",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " by\u0142y to jednak z\u0142udzenia wyobra\u017ani i wzroku up\u0142yn\u0105\u0142 z kwadrans gdym nagle zrozumia\u0142 \u017ce \u017ale sp\u0119dzam drogie chwile rozs\u0105dny cz\u0142owiek bez wzgl\u0119du na to czy si\u0119 myli lub nie powinien odda\u0107 sygna\u0142 a wtedy mo\u017ce z wi\u0119ksz\u0105 pewno\u015bci\u0105 oczekiwa\u0107 odpowiedzi",
+  "index": 5,
+  "source_text": "by\u0142y to jednak z\u0142udzenia wyobra\u017ani i wzroku up\u0142yn\u0105\u0142 z kwadrans gdym nagle zrozumia\u0142 \u017ce \u017ale sp\u0119dzam drogie chwile rozs\u0105dny cz\u0142owiek bez wzgl\u0119du na to czy si\u0119 myli lub nie powinien odda\u0107 sygna\u0142 a wtedy mo\u017ce z wi\u0119ksz\u0105 pewno\u015bci\u0105 oczekiwa\u0107 odpowiedzi",
+  "input_seed_folder": "librispeech_test_set_30s_seed_42",
+  "output_seed_folder": "librispeech_test_set_30s_seed_42",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_30s_seed_42/5_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_30s_seed_42/5_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_30s_seed_42/5_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_30s_seed_42/5_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_30s_seed_42/5_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_30s_seed_42/5_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/polish/librispeech_test_set_30s_seed_42/5/converted.wav"
+  }
+}

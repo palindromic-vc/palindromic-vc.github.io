@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.44630002975463867,
+  "ecapa_ref_gt_similarity": 0.8429585695266724,
+  "ecapa_src_converted_similarity": 0.24761906266212463,
+  "ecapa_src_gt_similarity": 0.9301999807357788,
+  "redimnet_ref_converted_similarity": 0.341552734375,
+  "redimnet_ref_gt_similarity": 0.8837890625,
+  "redimnet_src_converted_similarity": 0.1942138671875,
+  "redimnet_src_gt_similarity": 0.94091796875,
+  "dns_mos_gt": 3.776752996444702,
+  "dns_mos_gen": 3.8770249843597413,
+  "wer_src": 0.11764705882352941,
+  "cer_src": 0.05319148936170213,
+  "transcription_src": " cerchio coverchia erussalam col suo pi\u00f9 alto punto e la notte che apposito a lui cerchia uscia",
+  "wer_converted": 0.35294117647058826,
+  "cer_converted": 0.22340425531914893,
+  "transcription_converted": " covvercia il russarum quod suor pi\u00f9 alto punto e la notte che appositot a lui cerchia uscia",
+  "index": 3,
+  "source_text": "cerchio coverchia ierusalem col suo pi\u00f9 alto punto e la notte che opposita a lui cerchia uscia",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_60s_seed_42/3_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_60s_seed_42/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_60s_seed_42/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_60s_seed_42/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_60s_seed_42/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_60s_seed_42/3_ref_src2.wav",
+    "converted": "/workspace/outputs/italian/librispeech_test_set_60s_seed_42/3/converted.wav"
+  }
+}

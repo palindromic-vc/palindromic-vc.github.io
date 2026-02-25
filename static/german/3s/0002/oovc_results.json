@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.3120729327201843,
+  "ecapa_ref_gt_similarity": 0.8181555867195129,
+  "ecapa_src_converted_similarity": 0.14569059014320374,
+  "ecapa_src_gt_similarity": 0.7973008155822754,
+  "redimnet_ref_converted_similarity": 0.3623046875,
+  "redimnet_ref_gt_similarity": 0.88134765625,
+  "redimnet_src_converted_similarity": 0.142333984375,
+  "redimnet_src_gt_similarity": 0.80517578125,
+  "dns_mos_gt": 3.7609957456588745,
+  "dns_mos_gen": 3.7317070960998535,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " sie hatte geglaubt die entdeckung w\u00fcrde ihn in erregung versetzen das war nicht der fall ganz ruhig beinahe belustigt sagte er richtig die mutter",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " Sie hatte geglaubt, die Entdeckung w\u00fcrde ihn in Erregung versetzen. Das war nicht der Fall. Ganz ruhig, beinahe belustigt, sagte er. Richtig, die Mutter.",
+  "index": 4,
+  "source_text": "sie hatte geglaubt die entdeckung w\u00fcrde ihn in erregung versetzen das war nicht der fall ganz ruhig beinahe belustigt sagte er richtig die mutter",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_3s_seed_42/4_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_3s_seed_42/4_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_3s_seed_42/4_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_3s_seed_42/4_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_3s_seed_42/4_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_3s_seed_42/4_ref_src2.wav",
+    "converted": "/workspace/outputs/german/librispeech_test_set_3s_seed_42/4/converted.wav"
+  }
+}

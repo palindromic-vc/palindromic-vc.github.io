@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7752697467803955,
+  "ecapa_ref_gt_similarity": 0.8507452011108398,
+  "ecapa_src_converted_similarity": 0.32904356718063354,
+  "ecapa_src_gt_similarity": 0.8424938917160034,
+  "redimnet_ref_converted_similarity": 0.763671875,
+  "redimnet_ref_gt_similarity": 0.84375,
+  "redimnet_src_converted_similarity": 0.225341796875,
+  "redimnet_src_gt_similarity": 0.90234375,
+  "dns_mos_gt": 3.978529691696167,
+  "dns_mos_gen": 3.9817023277282715,
+  "wer_src": 0.0196078431372549,
+  "cer_src": 0.0072992700729927005,
+  "transcription_src": " milcao que se tinha conservado mudo a contemplar satisfeito o prazer alheio viu um rosto amigo que se aproximava era joca que em mangas de camisa de len\u00e7o ao pesco\u00e7o e um cintur\u00e3o de couro segurando a cal\u00e7a vinha saud\u00e1-lo abrindo a boca em que se apertavam os dentes felinos",
+  "wer_converted": 0.09803921568627451,
+  "cer_converted": 0.025547445255474453,
+  "transcription_converted": " milcao que se tinha conservado o modo a contemplar satisfeito o prazer alheio viu um rosto amigo que se aproximava era joca que em mandas de camisa de len\u00e7o ao pesco\u00e7o e um cintur\u00e3o de couro segurando a cal\u00e7a tinha saud\u00e1-lo abrindo a boca em que se apertavam os dentes felinos",
+  "index": 1,
+  "source_text": "milkau que se tinha conservado mudo a contemplar satisfeito o prazer alheio viu um rosto amigo que se aproximava era joca que em mangas de camisa de len\u00e7o ao pesco\u00e7o e um cintur\u00e3o de couro segurando a cal\u00e7a vinha saud\u00e1-lo abrindo a boca em que se apertavam os dentes felinos"
+}

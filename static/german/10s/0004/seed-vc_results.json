@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6171156167984009,
+  "ecapa_ref_gt_similarity": 0.7298234701156616,
+  "ecapa_src_converted_similarity": 0.1610705703496933,
+  "ecapa_src_gt_similarity": 0.742838978767395,
+  "redimnet_ref_converted_similarity": 0.67138671875,
+  "redimnet_ref_gt_similarity": 0.77685546875,
+  "redimnet_src_converted_similarity": -0.012054443359375,
+  "redimnet_src_gt_similarity": 0.775390625,
+  "dns_mos_gt": 3.798848009109497,
+  "dns_mos_gen": 4.0508018970489506,
+  "wer_src": 0.125,
+  "cer_src": 0.1,
+  "transcription_src": " herein rief der professor sich erhebend die th\u00fcre \u00f6ffnete sich und es erschien ein erdlicher doch frisch und bl\u00fchend aussehender mann von stattlicher",
+  "wer_converted": 0.25,
+  "cer_converted": 0.1375,
+  "transcription_converted": " allein rief der professor sich erhebend die th\u00fcr er\u00f6ffnete sich und es erschien ein erdlicher doch frisch und bl\u00fchend aussehender mann von staatlicher",
+  "index": 2,
+  "source_text": "herein rief der professor sich erhebend die t\u00fcre \u00f6ffnete sich und es erschien ein \u00e4ltlicher doch frisch und bl\u00fchend aussehender mann von stattlicher leibesf\u00fclle",
+  "input_seed_folder": "librispeech_test_set_10s_seed_42",
+  "output_seed_folder": "librispeech_test_set_10s_seed_42",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_10s_seed_42/2_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_10s_seed_42/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_10s_seed_42/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_10s_seed_42/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_10s_seed_42/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_10s_seed_42/2_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/german/librispeech_test_set_10s_seed_42/2/converted.wav"
+  }
+}

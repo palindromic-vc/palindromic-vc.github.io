@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6489576101303101,
+  "ecapa_ref_gt_similarity": 0.791279673576355,
+  "ecapa_src_converted_similarity": 0.1810469627380371,
+  "ecapa_src_gt_similarity": 0.8407937288284302,
+  "redimnet_ref_converted_similarity": 0.54296875,
+  "redimnet_ref_gt_similarity": 0.73583984375,
+  "redimnet_src_converted_similarity": 0.2115478515625,
+  "redimnet_src_gt_similarity": 0.86767578125,
+  "dns_mos_gt": 3.956997811794281,
+  "dns_mos_gen": 4.189708828926086,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " vi\u00e9ndose pues solos la doncella prosigui\u00f3 diciendo yo se\u00f1ores soy hija de pedro p\u00e9rez mazorca arrendador de las lanas deste lugar el cual suele muchas veces ir en casa de mi padre",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " vi\u00e9ndose pues solos la doncella prosigui\u00f3 diciendo yo se\u00f1ores soy hija de pedro p\u00e9rez mazorca arrendador de las lanas deste lugar el cual suele muchas veces ir en casa de mi padre",
+  "index": 8,
+  "source_text": "vi\u00e9ndose pues solos la doncella prosigui\u00f3 diciendo yo se\u00f1ores soy hija de pedro p\u00e9rez mazorca arrendador de las lanas deste lugar el cual suele muchas veces ir en casa de mi padre",
+  "input_seed_folder": "librispeech_test_set_10s_seed_42",
+  "output_seed_folder": "librispeech_test_set_10s_seed_42",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/8_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/8_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/8_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/8_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/8_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_10s_seed_42/8_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/spanish/librispeech_test_set_10s_seed_42/8/converted.wav"
+  }
+}

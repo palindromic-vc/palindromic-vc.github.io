@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6098957061767578,
+  "ecapa_ref_gt_similarity": 0.902570366859436,
+  "ecapa_src_converted_similarity": 0.13720449805259705,
+  "ecapa_src_gt_similarity": 0.7371469736099243,
+  "redimnet_ref_converted_similarity": 0.471923828125,
+  "redimnet_ref_gt_similarity": 0.92822265625,
+  "redimnet_src_converted_similarity": 0.009796142578125,
+  "redimnet_src_gt_similarity": 0.70703125,
+  "dns_mos_gt": 3.5690559319087436,
+  "dns_mos_gen": 3.7794641767229353,
+  "wer_src": 0.021739130434782608,
+  "cer_src": 0.05058365758754864,
+  "transcription_src": " il n'\u00e9tait question bien entendu que de la grande passion l'amour l\u00e9ger \u00e9tait indigne d'une fille de son \u00e2ge et de sa naissance elle ne donnait le nom d'amour qu'\u00e0 ce sentiment h\u00e9ro\u00efque que l'on rencontrait en france du temps de henri iii et de",
+  "wer_converted": 0.13043478260869565,
+  "cer_converted": 0.07392996108949416,
+  "transcription_converted": " Il n'\u00e9tait question, bien entendu, que de la grande patience. L'amour l\u00e9ger \u00e9tait indigne d'une vie de son \u00e2ge et de sa naissance. Elle ne donnait le nom d'amour qu'est ce sentiment h\u00e9ro\u00efque que l'on rencontrait en France du temps d'Henri III et de Basanqui\u00e8re.",
+  "index": 0,
+  "source_text": "il n'\u00e9tait question bien entendu que de la grande passion l'amour l\u00e9ger \u00e9tait indigne d'une fille de son \u00e2ge et de sa naissance elle ne donnait le nom d'amour qu'\u00e0 ce sentiment h\u00e9ro\u00efque que l'on rencontrait en france du temps de henri iii et de bassompierre",
+  "input_seed_folder": "librispeech_test_set_60s_seed_73",
+  "output_seed_folder": "librispeech_test_set_60s_seed_73",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_60s_seed_73/0_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_60s_seed_73/0_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_60s_seed_73/0_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_60s_seed_73/0_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_60s_seed_73/0_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_60s_seed_73/0_ref_src2.wav",
+    "converted": "/workspace/outputs/french/librispeech_test_set_60s_seed_73/0/converted.wav"
+  }
+}

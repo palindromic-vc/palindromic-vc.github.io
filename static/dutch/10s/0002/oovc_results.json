@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.3948497176170349,
+  "ecapa_ref_gt_similarity": 0.7488538026809692,
+  "ecapa_src_converted_similarity": 0.08572342991828918,
+  "ecapa_src_gt_similarity": 0.7938230037689209,
+  "redimnet_ref_converted_similarity": 0.36865234375,
+  "redimnet_ref_gt_similarity": 0.7451171875,
+  "redimnet_src_converted_similarity": 0.027618408203125,
+  "redimnet_src_gt_similarity": 0.7578125,
+  "dns_mos_gt": 3.9770271380742392,
+  "dns_mos_gen": 3.342039783795675,
+  "wer_src": 0.07142857142857142,
+  "cer_src": 0.013043478260869565,
+  "transcription_src": " gedurende al dien tijd verloor ik echter mijn doel niet uit het oog ik droomde elken nacht van sholto reeds honderden keeren had ik hem in mijn slaap gedood ten laatste echter nu ongeveer vier jaar geleden waagden wij ons in engeland",
+  "wer_converted": 0.19047619047619047,
+  "cer_converted": 0.09565217391304348,
+  "transcription_converted": " verdurende al dien tijd verloor ik echter mijn doel niet uit het oog ik droomde elke nacht van chotel steeds honderden keer had ik hem in mijn slaap gedouwd ten laatste echter nu al vier jaar geleden daagden wij ons in engeland",
+  "index": 1,
+  "source_text": "gedurende al die tijd verloor ik echter mijn doel niet uit het oog ik droomde elke nacht van sholto reeds honderden keren had ik hem in mijn slaap gedood ten laatste echter nu ongeveer vier jaar geleden waagden wij ons in engeland",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/dutch/librispeech_test_set_10s_seed_73/1_src.wav",
+    "prompt": "/workspace/data/dutch/librispeech_test_set_10s_seed_73/1_prompt.wav",
+    "ref_tgt1": "/workspace/data/dutch/librispeech_test_set_10s_seed_73/1_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/dutch/librispeech_test_set_10s_seed_73/1_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/dutch/librispeech_test_set_10s_seed_73/1_ref_src1.wav",
+    "ref_src2": "/workspace/data/dutch/librispeech_test_set_10s_seed_73/1_ref_src2.wav",
+    "converted": "/workspace/outputs/dutch/librispeech_test_set_10s_seed_73/1/converted.wav"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7551108002662659,
+  "ecapa_ref_gt_similarity": 0.8288040161132812,
+  "ecapa_src_converted_similarity": -0.018869798630475998,
+  "ecapa_src_gt_similarity": 0.7748239040374756,
+  "redimnet_ref_converted_similarity": 0.79638671875,
+  "redimnet_ref_gt_similarity": 0.8974609375,
+  "redimnet_src_converted_similarity": 0.08563232421875,
+  "redimnet_src_gt_similarity": 0.7939453125,
+  "dns_mos_gt": 3.953287363052368,
+  "dns_mos_gen": 4.2493577003479,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " je n'y pris pas garde on se mit \u00e0 table et d\u00e8s huit heures julien nous quittait aussit\u00f4t qu'il fut parti une sorte de g\u00eane singuli\u00e8re naquit brusquement entre sa femme et moi",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " je n'y pris pas garde on se mit \u00e0 table et d\u00e8s huit heures julien nous quittait aussit\u00f4t qu'il fut parti une sorte de g\u00eane singuli\u00e8re naquit brusquement entre sa femme et moi",
+  "index": 4,
+  "source_text": "je n'y pris pas garde on se mit \u00e0 table et d\u00e8s huit heures julien nous quittait aussit\u00f4t qu'il fut parti une sorte de g\u00eane singuli\u00e8re naquit brusquement entre sa femme et moi"
+}

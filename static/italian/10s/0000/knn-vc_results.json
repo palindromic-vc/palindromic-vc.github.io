@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7465852499008179,
+  "ecapa_ref_gt_similarity": 0.6861510276794434,
+  "ecapa_src_converted_similarity": 0.37232083082199097,
+  "ecapa_src_gt_similarity": 0.8586691617965698,
+  "redimnet_ref_converted_similarity": 0.6630859375,
+  "redimnet_ref_gt_similarity": 0.81298828125,
+  "redimnet_src_converted_similarity": 0.31005859375,
+  "redimnet_src_gt_similarity": 0.853515625,
+  "dns_mos_gt": 3.482018538883754,
+  "dns_mos_gen": 3.9024178300585066,
+  "wer_src": 0.11904761904761904,
+  "cer_src": 0.02358490566037736,
+  "transcription_src": " ci\u00f2 che narrate di mio corso scrivo e serbolo a chiosar con altro testo a donna che sapr\u00e0 sa lei arrivo tanto voglio che vi sia manifesto pur che mia coscienza non mi garra ch'alla fortuna come vuol son presto",
+  "wer_converted": 0.5238095238095238,
+  "cer_converted": 0.18867924528301888,
+  "transcription_converted": " ci\u00f2 che narrate gli io con suo sprigo e serbo affiosar con altro testo a donna che sapr\u00e0 se a lei arrivo tanto gogli io per il siena rifesto pur ch'in via coscienza non mi danno ch'ha la fortuna come vuol suo presto",
+  "index": 7,
+  "source_text": "ci\u00f2 che narrate di mio corso scrivo e serbolo a chiosar con altro testo a donna che sapr\u00e0 s'a lei arrivo tanto vogl'io che vi sia manifesto pur che mia coscienza non mi garra che a la fortuna come vuol son presto",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_10s_seed_73/7_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_10s_seed_73/7_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_10s_seed_73/7_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_10s_seed_73/7_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_10s_seed_73/7_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_10s_seed_73/7_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/italian/librispeech_test_set_10s_seed_73/7/converted.wav"
+  }
+}

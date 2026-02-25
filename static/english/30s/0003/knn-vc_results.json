@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7145853042602539,
+  "ecapa_ref_gt_similarity": 0.7587261199951172,
+  "ecapa_src_converted_similarity": 0.2793334424495697,
+  "ecapa_src_gt_similarity": 0.8444918394088745,
+  "redimnet_ref_converted_similarity": 0.69482421875,
+  "redimnet_ref_gt_similarity": 0.87841796875,
+  "redimnet_src_converted_similarity": 0.2259521484375,
+  "redimnet_src_gt_similarity": 0.88623046875,
+  "dns_mos_gt": 4.160152435302734,
+  "dns_mos_gen": 4.267295837402344,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " The scout, who had left David at the door to ascertain they were not observed, thought it prudent to preserve his disguise until assured of their privacy.",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " the scout who had left david at the door to ascertain they were not observed thought it prudent to preserve his disguise until assured of their privacy",
+  "index": 1,
+  "source_text": "THE SCOUT WHO HAD LEFT DAVID AT THE DOOR TO ASCERTAIN THEY WERE NOT OBSERVED THOUGHT IT PRUDENT TO PRESERVE HIS DISGUISE UNTIL ASSURED OF THEIR PRIVACY"
+}

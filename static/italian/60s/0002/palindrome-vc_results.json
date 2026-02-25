@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7530187368392944,
+  "ecapa_ref_gt_similarity": 0.8731641173362732,
+  "ecapa_src_converted_similarity": 0.0036671608686447144,
+  "ecapa_src_gt_similarity": 0.7882571220397949,
+  "redimnet_ref_converted_similarity": 0.74609375,
+  "redimnet_ref_gt_similarity": 0.9072265625,
+  "redimnet_src_converted_similarity": 0.158447265625,
+  "redimnet_src_gt_similarity": 0.86474609375,
+  "dns_mos_gt": 3.376408100128174,
+  "dns_mos_gen": 4.039796352386475,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " amici miei se io non divento al pi\u00f9 presto vecchio amico di casa castiglione montroni vecchio amico di mamma pompea sono perduto per me non c'\u00e8 pi\u00f9 speranza n\u00e9 salute medea ha gi\u00e0 compiuto quattordici anni",
+  "wer_converted": 0.05555555555555555,
+  "cer_converted": 0.014634146341463415,
+  "transcription_converted": " amici miei se io non divento al pi\u00f9 presto vecchio amico di casa castiglione montoroni vecchio amico di mamma pompea sono tarduto per me non c'\u00e8 pi\u00f9 speranza n\u00e9 salute medea ha gi\u00e0 compiuto quattordici anni",
+  "index": 7,
+  "source_text": "amici miei se io non divento al pi\u00f9 presto vecchio amico di casa castiglione montroni vecchio amico di mamma pompea sono perduto per me non c'\u00e8 pi\u00f9 speranza n\u00e9 salute medea ha gi\u00e0 compiuto quattordici anni"
+}

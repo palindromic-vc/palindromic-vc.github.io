@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7759944200515747,
+  "ecapa_ref_gt_similarity": 0.702099621295929,
+  "ecapa_src_converted_similarity": 0.09053274989128113,
+  "ecapa_src_gt_similarity": 0.8477871417999268,
+  "redimnet_ref_converted_similarity": 0.80224609375,
+  "redimnet_ref_gt_similarity": 0.78564453125,
+  "redimnet_src_converted_similarity": 0.1898193359375,
+  "redimnet_src_gt_similarity": 0.83935546875,
+  "dns_mos_gt": 3.8784737586975098,
+  "dns_mos_gen": 4.055805921554565,
+  "wer_src": 0.07692307692307693,
+  "cer_src": 0.006896551724137931,
+  "transcription_src": " von fern her rief ein kuckuck und die alte linde am wege streute wei\u00dfe bl\u00fcten auf den weg auf ginster und rittersporn und auf das schweigende paar",
+  "wer_converted": 0.07692307692307693,
+  "cer_converted": 0.006896551724137931,
+  "transcription_converted": " von fern her rief ein kuckuck und die alte linde am wege streute wei\u00dfe bl\u00fcten auf den weg auf ginster und rittersporn und auf das schweigende paar",
+  "index": 2,
+  "source_text": "von fernher rief ein kuckuck und die alte linde am wege streute wei\u00dfe bl\u00fcten auf den weg auf ginster und rittersporn und auf das schweigende paar",
+  "input_seed_folder": "librispeech_test_set_30s_seed_42",
+  "output_seed_folder": "librispeech_test_set_30s_seed_42",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_30s_seed_42/2_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_30s_seed_42/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_30s_seed_42/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_30s_seed_42/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_30s_seed_42/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_30s_seed_42/2_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/german/librispeech_test_set_30s_seed_42/2/converted.wav"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.8388617038726807,
+  "ecapa_ref_gt_similarity": 0.86204993724823,
+  "ecapa_src_converted_similarity": 0.004828759469091892,
+  "ecapa_src_gt_similarity": 0.6760308742523193,
+  "redimnet_ref_converted_similarity": 0.76953125,
+  "redimnet_ref_gt_similarity": 0.83154296875,
+  "redimnet_src_converted_similarity": -0.0006012916564941406,
+  "redimnet_src_gt_similarity": 0.6923828125,
+  "dns_mos_gt": 4.172636985778809,
+  "dns_mos_gen": 4.112118244171143,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " no se\u00e1is como el caballo o como el mulo sin entendimiento con cabestro y con freno su boca ha de ser reprimida para que no lleguen a ti",
+  "wer_converted": 0.07142857142857142,
+  "cer_converted": 0.014814814814814815,
+  "transcription_converted": " no se\u00e1is como el caballo \u00f3 como el mulo sin entendimiento con cabestro y con freno su boca ha de ser reprimida para que no lleguen \u00e1 ti",
+  "index": 9,
+  "source_text": "no se\u00e1is como el caballo o como el mulo sin entendimiento con cabestro y con freno su boca ha de ser reprimida para que no lleguen a ti"
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.40501075983047485,
+  "ecapa_ref_gt_similarity": 0.7595438957214355,
+  "ecapa_src_converted_similarity": 0.11433682590723038,
+  "ecapa_src_gt_similarity": 0.6949437856674194,
+  "redimnet_ref_converted_similarity": 0.50439453125,
+  "redimnet_ref_gt_similarity": 0.87353515625,
+  "redimnet_src_converted_similarity": 0.1964111328125,
+  "redimnet_src_gt_similarity": 0.76318359375,
+  "dns_mos_gt": 3.8480268716812134,
+  "dns_mos_gen": 3.8710798025131226,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " le jour venant \u00e0 para\u00eetre scheherazade se tut en cet endroit de son discours ma soeur lui dit dinarzade il faut convenir que plus vous parlez et plus vous faites de plaisir",
+  "wer_converted": 0.71875,
+  "cer_converted": 0.38372093023255816,
+  "transcription_converted": " le son venant appara\u00eetre s'est irr\u00e9sent ce selon cet endroit de son discours mais \u00e7a en l'indignant \u00e2me le son qu'on se mire que plus on parle et plus on se fait le plaisir",
+  "index": 3,
+  "source_text": "le jour venant \u00e0 para\u00eetre scheherazade se tut en cet endroit de son discours ma soeur lui dit dinarzade il faut convenir que plus vous parlez et plus vous faites de plaisir",
+  "input_seed_folder": "librispeech_test_set_3s_seed_42",
+  "output_seed_folder": "librispeech_test_set_3s_seed_42",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_3s_seed_42/3_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_3s_seed_42/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_3s_seed_42/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_3s_seed_42/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_3s_seed_42/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_3s_seed_42/3_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/french/librispeech_test_set_3s_seed_42/3/converted.wav"
+  }
+}

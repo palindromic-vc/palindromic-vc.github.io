@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.2118304818868637,
+  "ecapa_ref_gt_similarity": 0.20393648743629456,
+  "ecapa_src_converted_similarity": 0.0944528579711914,
+  "ecapa_src_gt_similarity": 0.8681256771087646,
+  "redimnet_ref_converted_similarity": 0.228515625,
+  "redimnet_ref_gt_similarity": 0.170654296875,
+  "redimnet_src_converted_similarity": 0.1632080078125,
+  "redimnet_src_gt_similarity": 0.85498046875,
+  "dns_mos_gt": 3.4036895434061685,
+  "dns_mos_gen": 3.986407438913981,
+  "wer_src": 0.07142857142857142,
+  "cer_src": 0.013888888888888888,
+  "transcription_src": " ma certo poco pria se ben discerno che venisse colui che la gran preda lev\u00f2 a dite del cerchio superno da tutte parti l'alta valle feda tremoss\u00ec",
+  "wer_converted": 0.2857142857142857,
+  "cer_converted": 0.18055555555555555,
+  "transcription_converted": " ma certo poco plia se ben discerno che venisse colui che la gran preda lev\u00f2 a dite den cerchio superno da tutte pasti lalta valle feda trem\u00f2 s\u00ec Grazie per la visione!",
+  "index": 0,
+  "source_text": "ma certo poco pria se ben discerno che venisse colui che la gran preda lev\u00f2 a dite del cerchio superno da tutte parti l'alta valle feda trem\u00f2 s\u00ec",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_30s_seed_73/0_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_30s_seed_73/0_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_30s_seed_73/0_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_30s_seed_73/0_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_30s_seed_73/0_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_30s_seed_73/0_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/italian/librispeech_test_set_30s_seed_73/0/converted.wav"
+  }
+}

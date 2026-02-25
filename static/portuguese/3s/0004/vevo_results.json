@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6724021434783936,
+  "ecapa_ref_gt_similarity": 0.6601020097732544,
+  "ecapa_src_converted_similarity": 0.3135389983654022,
+  "ecapa_src_gt_similarity": 0.8169724345207214,
+  "redimnet_ref_converted_similarity": 0.583984375,
+  "redimnet_ref_gt_similarity": 0.80810546875,
+  "redimnet_src_converted_similarity": 0.311767578125,
+  "redimnet_src_gt_similarity": 0.865234375,
+  "dns_mos_gt": 3.6056692600250244,
+  "dns_mos_gen": 3.41257381439209,
+  "wer_src": 0.14285714285714285,
+  "cer_src": 0.02564102564102564,
+  "transcription_src": " desta id\u00e9ia proveiu um diluvio de sangue para reabilitar a ra\u00e7a futura foi o sangue dos m\u00e1rtires a arca flutuante \u00e1 igreja o ramo de oliveira representando a paz universal e a fraternidade \u00e1 cruz",
+  "wer_converted": 0.11428571428571428,
+  "cer_converted": 0.020512820512820513,
+  "transcription_converted": " desta id\u00e9ia proveio um diluvio de sangue para reabilitar a ra\u00e7a futura foi o sangue dos m\u00e1rtires a arca flutuante \u00e0 igreja o ramo de oliveira representando a paz universal e a fraternidade \u00e0 cruz",
+  "index": 3,
+  "source_text": "desta ideia proveio um dil\u00favio de sangue para reabilitar a ra\u00e7a futura foi o sangue dos m\u00e1rtires a arca flutuante a igreja o ramo de oliveira representando a paz universal e a fraternidade a cruz"
+}

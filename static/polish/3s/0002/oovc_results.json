@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.5267141461372375,
+  "ecapa_ref_gt_similarity": 0.8258255124092102,
+  "ecapa_src_converted_similarity": 0.29091009497642517,
+  "ecapa_src_gt_similarity": 0.8234684467315674,
+  "redimnet_ref_converted_similarity": 0.34375,
+  "redimnet_ref_gt_similarity": 0.89990234375,
+  "redimnet_src_converted_similarity": 0.185546875,
+  "redimnet_src_gt_similarity": 0.775390625,
+  "dns_mos_gt": 3.810604981013707,
+  "dns_mos_gen": 3.2849443640027727,
+  "wer_src": 0.12121212121212122,
+  "cer_src": 0.009523809523809525,
+  "transcription_src": " pok\u00f3j dr\u017ca\u0142 zlekka obrazy na \u015bcianach brz\u0119cza\u0142y szyby l\u015bni\u0142y si\u0119 t\u0142ustym odblaskiem lampy firanki na oknie wisia\u0142y wzd\u0119te i pe\u0142ne tchnienia tej burzliwej nocy przypomnieli\u015bmy sobie \u017ce ojca od rana niewidziano",
+  "wer_converted": 0.06060606060606061,
+  "cer_converted": 0.01904761904761905,
+  "transcription_converted": " Pok\u00f3j dr\u017ca\u0142 z lekka. Obrazy na \u015bcianach brz\u0105cza\u0142y. Szyby l\u015bni\u0142y si\u0119 t\u0142ustym odblaskiem lampy. Pywanki na oknie wisia\u0142y wzd\u0119te i pe\u0142ne tchnienia tej burzliwej nocy. Przypomnieli\u015bmy sobie, \u017ce ojca od rana nie widziano.",
+  "index": 9,
+  "source_text": "pok\u00f3j dr\u017ca\u0142 z lekka obrazy na \u015bcianach brz\u0119cza\u0142y szyby l\u015bni\u0142y si\u0119 t\u0142ustym odblaskiem lampy firanki na oknie wisia\u0142y wzd\u0119te i pe\u0142ne tchnienia tej burzliwej nocy przypomnieli\u015bmy sobie \u017ce ojca od rana nie widziano",
+  "input_seed_folder": "librispeech_test_set_3s_seed_73",
+  "output_seed_folder": "librispeech_test_set_3s_seed_73",
+  "paths": {
+    "src": "/workspace/data/polish/librispeech_test_set_3s_seed_73/9_src.wav",
+    "prompt": "/workspace/data/polish/librispeech_test_set_3s_seed_73/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/polish/librispeech_test_set_3s_seed_73/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/polish/librispeech_test_set_3s_seed_73/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/polish/librispeech_test_set_3s_seed_73/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/polish/librispeech_test_set_3s_seed_73/9_ref_src2.wav",
+    "converted": "/workspace/outputs/polish/librispeech_test_set_3s_seed_73/9/converted.wav"
+  }
+}

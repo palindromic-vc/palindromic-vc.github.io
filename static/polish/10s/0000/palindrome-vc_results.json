@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7744836807250977,
+  "ecapa_ref_gt_similarity": 0.8482650518417358,
+  "ecapa_src_converted_similarity": 0.1668739765882492,
+  "ecapa_src_gt_similarity": 0.786396861076355,
+  "redimnet_ref_converted_similarity": 0.74560546875,
+  "redimnet_ref_gt_similarity": 0.8818359375,
+  "redimnet_src_converted_similarity": 0.09259033203125,
+  "redimnet_src_gt_similarity": 0.7353515625,
+  "dns_mos_gt": 3.7418742179870605,
+  "dns_mos_gen": 3.90684175491333,
+  "wer_src": 0.1,
+  "cer_src": 0.011673151750972763,
+  "transcription_src": " prawda \u017ce to jest on i chocia\u017c nie wskaza\u0142em nawet spojrzeniem na kondora matka odgad\u0142a odrazu zmiesza\u0142a si\u0119 bardzo i spu\u015bci\u0142a oczy da\u0142em umy\u015blnie up\u0142yn\u0105\u0107 chwili \u017ceby wykosztowa\u0107 jej zmieszanie poczem z ca\u0142ym spokojem opanowuj\u0105c wzbieraj\u0105cy gniew spyta\u0142em",
+  "wer_converted": 0.125,
+  "cer_converted": 0.01556420233463035,
+  "transcription_converted": " prawda \u017ce to jest on i chocia\u017c nie wskaza\u0142em nawet spojrzeniem na kondora matka odgad\u0142a odrazu zmiesza\u0142a si\u0119 bardzo i spu\u015bci\u0142a oczy da\u0142em umy\u015blnie up\u0142yn\u0105\u0107 chwili \u017ceby wykosztowa\u0107 jej zmieszanie poczem z ca\u0142ym spokojem opanowuj\u0105c zbieraj\u0105cy gniew spyta\u0142em",
+  "index": 4,
+  "source_text": "prawda \u017ce to jest on i chocia\u017c nie wskaza\u0142em nawet spojrzeniem na kondora matka odgad\u0142a od razu zmiesza\u0142a si\u0119 bardzo i spu\u015bci\u0142a oczy da\u0142em umy\u015blnie up\u0142yn\u0105\u0107 chwili \u017ceby wykosztowa\u0107 jej zmieszanie po czym z ca\u0142ym spokojem opanowuj\u0105c wzbieraj\u0105cy gniew spyta\u0142em"
+}

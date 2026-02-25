@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.7305917739868164,
+  "ecapa_ref_gt_similarity": 0.8288149833679199,
+  "ecapa_src_converted_similarity": 0.018878551200032234,
+  "ecapa_src_gt_similarity": 0.774834394454956,
+  "redimnet_ref_converted_similarity": 0.71240234375,
+  "redimnet_ref_gt_similarity": 0.8974609375,
+  "redimnet_src_converted_similarity": 0.1419677734375,
+  "redimnet_src_gt_similarity": 0.79345703125,
+  "dns_mos_gt": 3.961890459060669,
+  "dns_mos_gen": 4.282042026519775,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " je n'y pris pas garde on se mit \u00e0 table et d\u00e8s huit heures julien nous quittait aussit\u00f4t qu'il fut parti une sorte de g\u00eane singuli\u00e8re naquit brusquement entre sa femme et moi",
+  "wer_converted": 0.09090909090909091,
+  "cer_converted": 0.05747126436781609,
+  "transcription_converted": " je n'y pris pas garde on se mit \u00e0 table et d\u00e8s huit heures julien le quittait aussit\u00f4t qu'il fut parti une sorte de g\u00eane singuli\u00e8re naquit brusquement entre sassan et moi",
+  "index": 4,
+  "source_text": "je n'y pris pas garde on se mit \u00e0 table et d\u00e8s huit heures julien nous quittait aussit\u00f4t qu'il fut parti une sorte de g\u00eane singuli\u00e8re naquit brusquement entre sa femme et moi",
+  "input_seed_folder": "librispeech_test_set_30s_seed_73",
+  "output_seed_folder": "librispeech_test_set_30s_seed_73",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_30s_seed_73/4_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_30s_seed_73/4_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_30s_seed_73/4_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_30s_seed_73/4_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_30s_seed_73/4_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_30s_seed_73/4_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/french/librispeech_test_set_30s_seed_73/4/converted.wav"
+  }
+}

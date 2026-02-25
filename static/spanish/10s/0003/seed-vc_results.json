@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.841717004776001,
+  "ecapa_ref_gt_similarity": 0.8620554208755493,
+  "ecapa_src_converted_similarity": -0.04183882474899292,
+  "ecapa_src_gt_similarity": 0.676071286201477,
+  "redimnet_ref_converted_similarity": 0.79541015625,
+  "redimnet_ref_gt_similarity": 0.83154296875,
+  "redimnet_src_converted_similarity": 0.00853729248046875,
+  "redimnet_src_gt_similarity": 0.6923828125,
+  "dns_mos_gt": 4.239202260971069,
+  "dns_mos_gen": 3.9931282997131348,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " no se\u00e1is como el caballo o como el mulo sin entendimiento con cabestro y con freno su boca ha de ser reprimida para que no lleguen a ti",
+  "wer_converted": 0.07142857142857142,
+  "cer_converted": 0.022222222222222223,
+  "transcription_converted": " no sea es como el caballo o como el mulo sin entendimiento con cabestro y con freno su boca ha de ser reprimida para que no lleguen a ti",
+  "index": 9,
+  "source_text": "no se\u00e1is como el caballo o como el mulo sin entendimiento con cabestro y con freno su boca ha de ser reprimida para que no lleguen a ti",
+  "input_seed_folder": "librispeech_test_set_10s_seed_73",
+  "output_seed_folder": "librispeech_test_set_10s_seed_73",
+  "paths": {
+    "src": "/workspace/data/spanish/librispeech_test_set_10s_seed_73/9_src.wav",
+    "prompt": "/workspace/data/spanish/librispeech_test_set_10s_seed_73/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/spanish/librispeech_test_set_10s_seed_73/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/spanish/librispeech_test_set_10s_seed_73/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/spanish/librispeech_test_set_10s_seed_73/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/spanish/librispeech_test_set_10s_seed_73/9_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/spanish/librispeech_test_set_10s_seed_73/9/converted.wav"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6691330671310425,
+  "ecapa_ref_gt_similarity": 0.791250467300415,
+  "ecapa_src_converted_similarity": 0.13421323895454407,
+  "ecapa_src_gt_similarity": 0.8407540321350098,
+  "redimnet_ref_converted_similarity": 0.61279296875,
+  "redimnet_ref_gt_similarity": 0.7353515625,
+  "redimnet_src_converted_similarity": 0.1138916015625,
+  "redimnet_src_gt_similarity": 0.86767578125,
+  "dns_mos_gt": 3.955617666244507,
+  "dns_mos_gen": 4.244495391845703,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " vi\u00e9ndose pues solos la doncella prosigui\u00f3 diciendo yo se\u00f1ores soy hija de pedro p\u00e9rez mazorca arrendador de las lanas deste lugar el cual suele muchas veces ir en casa de mi padre",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " vi\u00e9ndose pues solos la doncella prosigui\u00f3 diciendo yo se\u00f1ores soy hija de pedro p\u00e9rez mazorca arrendador de las lanas deste lugar el cual suele muchas veces ir en casa de mi padre",
+  "index": 8,
+  "source_text": "vi\u00e9ndose pues solos la doncella prosigui\u00f3 diciendo yo se\u00f1ores soy hija de pedro p\u00e9rez mazorca arrendador de las lanas deste lugar el cual suele muchas veces ir en casa de mi padre"
+}

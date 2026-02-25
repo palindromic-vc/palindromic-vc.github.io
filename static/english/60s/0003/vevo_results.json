@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.39271289110183716,
+  "ecapa_ref_gt_similarity": 0.8228078484535217,
+  "ecapa_src_converted_similarity": 0.08017633110284805,
+  "ecapa_src_gt_similarity": 0.8255883455276489,
+  "redimnet_ref_converted_similarity": 0.347900390625,
+  "redimnet_ref_gt_similarity": 0.86181640625,
+  "redimnet_src_converted_similarity": 0.130859375,
+  "redimnet_src_gt_similarity": 0.78564453125,
+  "dns_mos_gt": 4.230504512786865,
+  "dns_mos_gen": 3.084974527359009,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " there messrs johnson and hammer put into practice many of the ideas now standard in the art and secured much useful data for the work in new york of which the story has just been told",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " there messrs johnson and hammer put into practice many of the ideas now standard in the art and secured much useful data for the work in new york of which the story has just been told",
+  "index": 6,
+  "source_text": "THERE MESSRS JOHNSON AND HAMMER PUT INTO PRACTICE MANY OF THE IDEAS NOW STANDARD IN THE ART AND SECURED MUCH USEFUL DATA FOR THE WORK IN NEW YORK OF WHICH THE STORY HAS JUST BEEN TOLD"
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.4526488780975342,
+  "ecapa_ref_gt_similarity": 0.863014817237854,
+  "ecapa_src_converted_similarity": 0.037709642201662064,
+  "ecapa_src_gt_similarity": 0.8300089240074158,
+  "redimnet_ref_converted_similarity": 0.54443359375,
+  "redimnet_ref_gt_similarity": 0.93017578125,
+  "redimnet_src_converted_similarity": 0.04559326171875,
+  "redimnet_src_gt_similarity": 0.8095703125,
+  "dns_mos_gt": 4.087218284606934,
+  "dns_mos_gen": 3.696826219558716,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " It is hardly necessary to say more of them here.",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " it is hardly necessary to say more of them here.",
+  "index": 8,
+  "source_text": "IT IS HARDLY NECESSARY TO SAY MORE OF THEM HERE"
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7652027606964111,
+  "ecapa_ref_gt_similarity": 0.8413378000259399,
+  "ecapa_src_converted_similarity": 0.1755562424659729,
+  "ecapa_src_gt_similarity": 0.8226070404052734,
+  "redimnet_ref_converted_similarity": 0.7548828125,
+  "redimnet_ref_gt_similarity": 0.82080078125,
+  "redimnet_src_converted_similarity": 0.0989990234375,
+  "redimnet_src_gt_similarity": 0.85302734375,
+  "dns_mos_gt": 3.469449043273926,
+  "dns_mos_gen": 4.063541412353516,
+  "wer_src": 0.044444444444444446,
+  "cer_src": 0.010948905109489052,
+  "transcription_src": " die zuh\u00f6rer blicken einander verwundert an von wessen gem\u00fcthe spricht der meister da war er doch dort gerade mit bischof ottmar zusammen sollte er ihn meinen ist es m\u00f6glich da\u00df der himmel ein solches bekehrungswerk vorhabe welch ungeheurer gewinn w\u00e4re das f\u00fcr die gute sache",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " Die Zuh\u00f6rer blicken einander verwundert an. Von wessen Gem\u00fcte spricht der Meister da? War er doch dort gerade mit Bischof Ottmar zusammen? Sollte er ihn meinen? Ist es m\u00f6glich, dass der Himmel ein solches Bekehrungswerk vorhabe? Welch ungeheurer Gewinn w\u00e4re das f\u00fcr die gute Sache?",
+  "index": 3,
+  "source_text": "die zuh\u00f6rer blicken einander verwundert an von wessen gem\u00fcte spricht der meister da war er doch dort gerade mit bischof ottmar zusammen sollte er ihn meinen ist es m\u00f6glich dass der himmel ein solches bekehrungswerk vorhabe welch ungeheurer gewinn w\u00e4re das f\u00fcr die gute sache"
+}

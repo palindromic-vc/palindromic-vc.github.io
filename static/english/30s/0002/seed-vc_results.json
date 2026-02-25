@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.4141683876514435,
+  "ecapa_ref_gt_similarity": 0.845524251461029,
+  "ecapa_src_converted_similarity": 0.2273939698934555,
+  "ecapa_src_gt_similarity": 0.8912020921707153,
+  "redimnet_ref_converted_similarity": 0.46435546875,
+  "redimnet_ref_gt_similarity": 0.8818359375,
+  "redimnet_src_converted_similarity": 0.2139892578125,
+  "redimnet_src_gt_similarity": 0.90283203125,
+  "dns_mos_gt": 3.526831865310669,
+  "dns_mos_gen": 3.98827862739563,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " Westmere and I were back after the first act and we thought she seemed quite uncertain of herself.",
+  "wer_converted": 0.05555555555555555,
+  "cer_converted": 0.020618556701030927,
+  "transcription_converted": " Westme and I were back after the first act, and we thought she seemed quite uncertain of herself.",
+  "index": 3,
+  "source_text": "WESTMERE AND I WERE BACK AFTER THE FIRST ACT AND WE THOUGHT SHE SEEMED QUITE UNCERTAIN OF HERSELF"
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.5564908981323242,
+  "ecapa_ref_gt_similarity": 0.8832671046257019,
+  "ecapa_src_converted_similarity": 0.3031209707260132,
+  "ecapa_src_gt_similarity": 0.7606860399246216,
+  "redimnet_ref_converted_similarity": 0.56494140625,
+  "redimnet_ref_gt_similarity": 0.927734375,
+  "redimnet_src_converted_similarity": 0.376220703125,
+  "redimnet_src_gt_similarity": 0.83154296875,
+  "dns_mos_gt": 3.6853415966033936,
+  "dns_mos_gen": 3.855775833129883,
+  "wer_src": 0.06976744186046512,
+  "cer_src": 0.024691358024691357,
+  "transcription_src": " i suoi uditori si mantennero quieti sino a che ella giunse alla ripetizione del guglielmo tu sei vecchio da lei fatta al bruco e siccome le parole le uscivano tutte diverse dal dal vero originale la falsa testuggine die fuori uno dei suoi sospironi",
+  "wer_converted": 0.09302325581395349,
+  "cer_converted": 0.0205761316872428,
+  "transcription_converted": " i suoi uditori si mantennero chieti sino a che ella giunse alla ripetizione del guglielmo tu sei vecchio da lei fatta il bruco e siccome le parole le uscivano tutte diverse dal vero originale la falsa testuggine die fuori uno dei suoi sospironi",
+  "index": 5,
+  "source_text": "i suoi uditori si mantennero quieti sino a che ella giunse alla ripetizione del guglielmo tu sei vecchio da lei fatta al bruco e siccome le parole le uscivano tutte diverse dal vero originale la falsa testuggine di\u00e8 fuori uno de suoi sospironi"
+}

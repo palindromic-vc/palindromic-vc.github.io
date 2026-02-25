@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.705079197883606,
+  "ecapa_ref_gt_similarity": 0.7865009307861328,
+  "ecapa_src_converted_similarity": 0.1308360993862152,
+  "ecapa_src_gt_similarity": 0.6733132600784302,
+  "redimnet_ref_converted_similarity": 0.7255859375,
+  "redimnet_ref_gt_similarity": 0.81005859375,
+  "redimnet_src_converted_similarity": 0.158203125,
+  "redimnet_src_gt_similarity": 0.5869140625,
+  "dns_mos_gt": 3.7319151560465493,
+  "dns_mos_gen": 3.873868981997172,
+  "wer_src": 0.7272727272727273,
+  "cer_src": 0.5814977973568282,
+  "transcription_src": " und es scheint mir unm\u00f6glich da\u00df das gewitter nicht in k\u00fcrzester zeit mit voller wut ausbrechen sollte robert kurtis und der hochbootsmann sind der n\u00e4mlichen ansicht letzteren leitet nur sein unfehlbarer seem\u00e4nnischer instinkt manchmal wird man sie als fall von disability f\u00fcr fuego ver wan dem Malaysia vielleicht steht es einfach auf einem photoh\u677f um die",
+  "wer_converted": 0.030303030303030304,
+  "cer_converted": 0.00881057268722467,
+  "transcription_converted": " und es scheint mir unm\u00f6glich da\u00df das gewitter nicht in k\u00fcrzester zeit mit voller wut ausbrechen sollte robert kurtis und der hochbootsmann sind der n\u00e4mlichen ansicht letzteren leitet nur sein unfehlbarer seem\u00e4nnischer instinkt",
+  "index": 2,
+  "source_text": "und es scheint mir unm\u00f6glich dass das gewitter nicht in k\u00fcrzester zeit mit voller wut ausbrechen sollte robert kurtis und der hochbootsmann sind der n\u00e4mlichen ansicht letzteren leitet nur sein unfehlbarer seem\u00e4nnischer instinkt",
+  "input_seed_folder": "librispeech_test_set_10s_seed_37",
+  "output_seed_folder": "librispeech_test_set_10s_seed_37",
+  "paths": {
+    "src": "/workspace/data/german/librispeech_test_set_10s_seed_37/2_src.wav",
+    "prompt": "/workspace/data/german/librispeech_test_set_10s_seed_37/2_prompt.wav",
+    "ref_tgt1": "/workspace/data/german/librispeech_test_set_10s_seed_37/2_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/german/librispeech_test_set_10s_seed_37/2_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/german/librispeech_test_set_10s_seed_37/2_ref_src1.wav",
+    "ref_src2": "/workspace/data/german/librispeech_test_set_10s_seed_37/2_ref_src2.wav",
+    "converted": "/workspace/outputs_seed-vc/german/librispeech_test_set_10s_seed_37/2/converted.wav"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.7230961918830872,
+  "ecapa_ref_gt_similarity": 0.8005725145339966,
+  "ecapa_src_converted_similarity": 0.2028413563966751,
+  "ecapa_src_gt_similarity": 0.8559969663619995,
+  "redimnet_ref_converted_similarity": 0.748046875,
+  "redimnet_ref_gt_similarity": 0.83349609375,
+  "redimnet_src_converted_similarity": 0.2587890625,
+  "redimnet_src_gt_similarity": 0.88037109375,
+  "dns_mos_gt": 3.564112424850464,
+  "dns_mos_gen": 3.9071733951568604,
+  "wer_src": 0.030303030303030304,
+  "cer_src": 0.0056179775280898875,
+  "transcription_src": " daar komt ze vooruit bets doe de deur open amy drie hoera's voor moeder riep jo heen en weer springende terwijl meta naar haar moeder liep om haar naar de eereplaats te begeleiden",
+  "wer_converted": 0.15151515151515152,
+  "cer_converted": 0.10674157303370786,
+  "transcription_converted": " daar komt ze vooruit beds toe de deur open amy drie hoelhaars voor moeder riep jo heen en weer springende terwijl meta naar haar moeder liep om haar naar de eerplaats te",
+  "index": 1,
+  "source_text": "daar komt ze vooruit bets doe de deur open amy drie hoera's voor moeder riep jo heen en weer springende terwijl meta naar haar moeder liep om haar naar de ereplaats te begeleiden"
+}

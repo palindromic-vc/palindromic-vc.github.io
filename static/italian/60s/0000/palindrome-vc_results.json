@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6851454377174377,
+  "ecapa_ref_gt_similarity": 0.826265811920166,
+  "ecapa_src_converted_similarity": 0.10165426135063171,
+  "ecapa_src_gt_similarity": 0.8206392526626587,
+  "redimnet_ref_converted_similarity": 0.6376953125,
+  "redimnet_ref_gt_similarity": 0.8642578125,
+  "redimnet_src_converted_similarity": 0.1885986328125,
+  "redimnet_src_gt_similarity": 0.8447265625,
+  "dns_mos_gt": 3.5621016025543213,
+  "dns_mos_gen": 4.129642963409424,
+  "wer_src": 0.15,
+  "cer_src": 0.03,
+  "transcription_src": " e per\u00f2 lo minor giron suggella nel segno suo \u00e8 Sodoma e Caorsa e chi spregiando Dio col cor favella.",
+  "wer_converted": 0.25,
+  "cer_converted": 0.09,
+  "transcription_converted": " e per\u00f2 lo minor giron suggella nel segno suo \u00e8 sodoma e caorsa e chi sfregiando dio col cor fa",
+  "index": 5,
+  "source_text": "e per\u00f2 lo minor giron suggella del segno suo e soddoma e caorsa e chi spregiando dio col cor favella"
+}

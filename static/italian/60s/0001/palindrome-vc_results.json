@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.6754676103591919,
+  "ecapa_ref_gt_similarity": 0.7605448365211487,
+  "ecapa_src_converted_similarity": 0.10310875624418259,
+  "ecapa_src_gt_similarity": 0.6496034264564514,
+  "redimnet_ref_converted_similarity": 0.681640625,
+  "redimnet_ref_gt_similarity": 0.7880859375,
+  "redimnet_src_converted_similarity": 0.1878662109375,
+  "redimnet_src_gt_similarity": 0.79931640625,
+  "dns_mos_gt": 3.444673776626587,
+  "dns_mos_gen": 4.051971912384033,
+  "wer_src": 0.13636363636363635,
+  "cer_src": 0.04201680672268908,
+  "transcription_src": " D'ogni malizia, codio in cielo acquista, ingiuria il fine, ed ogni fin cotale o con forza o con frode altrui contrista.",
+  "wer_converted": 0.3181818181818182,
+  "cer_converted": 0.18487394957983194,
+  "transcription_converted": " malizia codium cerroquista ingiuria il fine ed ogni fin cotale o con forza o con frode altrui contrista",
+  "index": 7,
+  "source_text": "d'ogni malizia ch'odio in cielo acquista ingiuria \u00e8 'l fine ed ogni fin cotale o con forza o con frode altrui contrista"
+}

@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.49730098247528076,
+  "ecapa_ref_gt_similarity": 0.7831127047538757,
+  "ecapa_src_converted_similarity": 0.21753981709480286,
+  "ecapa_src_gt_similarity": 0.7510822415351868,
+  "redimnet_ref_converted_similarity": 0.3955078125,
+  "redimnet_ref_gt_similarity": 0.7734375,
+  "redimnet_src_converted_similarity": 0.2432861328125,
+  "redimnet_src_gt_similarity": 0.7392578125,
+  "dns_mos_gt": 4.137985944747925,
+  "dns_mos_gen": 3.9972076416015625,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " monsieur pardon une ressemblance d\u00e9plorable voleur arr\u00eat\u00e9 depuis trois jours vous libre",
+  "wer_converted": 0.16666666666666666,
+  "cer_converted": 0.04597701149425287,
+  "transcription_converted": " monsieur pardon une ressemblance d\u00e9plorable voleur arr\u00eat\u00e9 de bruit trois jours vous libre",
+  "index": 3,
+  "source_text": "monsieur pardon une ressemblance d\u00e9plorable voleur arr\u00eat\u00e9 depuis trois jours vous libre",
+  "input_seed_folder": "librispeech_test_set_10s_seed_42",
+  "output_seed_folder": "librispeech_test_set_10s_seed_42",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_10s_seed_42/3_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_10s_seed_42/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_10s_seed_42/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_10s_seed_42/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_10s_seed_42/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_10s_seed_42/3_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/french/librispeech_test_set_10s_seed_42/3/converted.wav"
+  }
+}

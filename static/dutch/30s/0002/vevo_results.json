@@ -1,0 +1,20 @@
+{
+  "ecapa_ref_converted_similarity": 0.8198020458221436,
+  "ecapa_ref_gt_similarity": 0.7594664692878723,
+  "ecapa_src_converted_similarity": 0.22572746872901917,
+  "ecapa_src_gt_similarity": 0.6310606002807617,
+  "redimnet_ref_converted_similarity": 0.74658203125,
+  "redimnet_ref_gt_similarity": 0.7158203125,
+  "redimnet_src_converted_similarity": 0.2220458984375,
+  "redimnet_src_gt_similarity": 0.6318359375,
+  "dns_mos_gt": 3.8442890644073486,
+  "dns_mos_gen": 4.066988468170166,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " toen was het hem als stroomde hem een nieuw leven tot diep in de kleinste wortelen en tot in de hoogste takjes ja tot in de bladeren de boom gevoelde dat hij zich daarbij uitrekte ja hij gevoelde het door middel van den wortel",
+  "wer_converted": 0.0,
+  "cer_converted": 0.0,
+  "transcription_converted": " toen was het hem als stroomde hem een nieuw leven tot diep in de kleinste wortelen en tot in de hoogste takjes ja tot in de bladeren de boom gevoelde dat hij zich daarbij uitrekte ja hij gevoelde het door middel van den wortel",
+  "index": 4,
+  "source_text": "toen was het hem als stroomde hem een nieuw leven tot diep in de kleinste wortelen en tot in de hoogste takjes ja tot in de bladeren de boom gevoelde dat hij zich daarbij uitrekte ja hij gevoelde het door middel van den wortel"
+}

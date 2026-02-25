@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.32441338896751404,
+  "ecapa_ref_gt_similarity": 0.820685625076294,
+  "ecapa_src_converted_similarity": 0.08101675659418106,
+  "ecapa_src_gt_similarity": 0.7332973480224609,
+  "redimnet_ref_converted_similarity": 0.36083984375,
+  "redimnet_ref_gt_similarity": 0.85400390625,
+  "redimnet_src_converted_similarity": 0.058807373046875,
+  "redimnet_src_gt_similarity": 0.7421875,
+  "dns_mos_gt": 3.8672711849212646,
+  "dns_mos_gen": 4.174215044294085,
+  "wer_src": 0.03278688524590164,
+  "cer_src": 0.026490066225165563,
+  "transcription_src": " signe que oui et se redressa fi\u00e8rement bien ainsi avec le lasso tu arr\u00eaterais un boeuf ali fit signe de la t\u00eate que oui un tigre ali fit le m\u00eame signe un lion ali fit le geste d'un homme qui lance le lasso et imita un rugissement \u00e9trangl\u00e9 bien je comprends dit monte cristo tu as chass\u00e9 le lion",
+  "wer_converted": 0.3442622950819672,
+  "cer_converted": 0.17880794701986755,
+  "transcription_converted": " et servait de sa ferme main bien et si avec le lasso tu arr\u00eaterais un b\u0153uf allie fit signe de la t\u00eate de wick un tigre allie fit le m\u00eame signe un lion allie fit le geste d'un homme qui lance le lasso et imita un rugissement \u00e9trangl\u00e9 bien je comprends dit montecristo j'ai chass\u00e9 le lion",
+  "index": 9,
+  "source_text": "ali fit signe que oui et se redressa fi\u00e8rement bien ainsi avec le lasso tu arr\u00eaterais un boeuf ali fit signe de la t\u00eate que oui un tigre ali fit le m\u00eame signe un lion ali fit le geste d'un homme qui lance le lasso et imita un rugissement \u00e9trangl\u00e9 bien je comprends dit monte-cristo tu as chass\u00e9 le lion",
+  "input_seed_folder": "librispeech_test_set_30s_seed_42",
+  "output_seed_folder": "librispeech_test_set_30s_seed_42",
+  "paths": {
+    "src": "/workspace/data/french/librispeech_test_set_30s_seed_42/9_src.wav",
+    "prompt": "/workspace/data/french/librispeech_test_set_30s_seed_42/9_prompt.wav",
+    "ref_tgt1": "/workspace/data/french/librispeech_test_set_30s_seed_42/9_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/french/librispeech_test_set_30s_seed_42/9_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/french/librispeech_test_set_30s_seed_42/9_ref_src1.wav",
+    "ref_src2": "/workspace/data/french/librispeech_test_set_30s_seed_42/9_ref_src2.wav",
+    "converted": "/workspace/outputs/french/librispeech_test_set_30s_seed_42/9/converted.wav"
+  }
+}

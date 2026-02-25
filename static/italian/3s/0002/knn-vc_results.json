@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.6130250096321106,
+  "ecapa_ref_gt_similarity": 0.8471142053604126,
+  "ecapa_src_converted_similarity": 0.22425693273544312,
+  "ecapa_src_gt_similarity": 0.7752108573913574,
+  "redimnet_ref_converted_similarity": 0.5126953125,
+  "redimnet_ref_gt_similarity": 0.88623046875,
+  "redimnet_src_converted_similarity": 0.1715087890625,
+  "redimnet_src_gt_similarity": 0.81982421875,
+  "dns_mos_gt": 3.904144900185721,
+  "dns_mos_gen": 3.3195435319628035,
+  "wer_src": 0.13953488372093023,
+  "cer_src": 0.026717557251908396,
+  "transcription_src": " e perch\u00e9 egli era mal addobbato non ardiva comparere tra tanti sapienti e eccellentissimi uomini ma per vergogna si puose dietro l'uscio dalla camera del re che appena si potea vedere ei vicchietamente stava ad ascoltar quello che dicevano i prudentissimi medici",
+  "wer_converted": 0.5116279069767442,
+  "cer_converted": 0.20229007633587787,
+  "transcription_converted": " e tetan era malandobbato non ardiva con tarere tra tanti sapienti eccellentissimi uomini ma per vergogna si coglie dietro l'osso della tannere delle e appena si poteva dire egli tetan intentava d'escoltar quello che dicevano i prudentissimi nevici",
+  "index": 3,
+  "source_text": "e perch\u00e8 egli era mal addobbato non ardiva comparere tra tanti sapienti e eccellentissimi uomini ma per vergogna si puose dietro l'uscio della camera del re che appena si puotea vedere e ivi chetamente stava ad ascoltar quello che dicevano i prudentissimi medici",
+  "input_seed_folder": "librispeech_test_set_3s_seed_37",
+  "output_seed_folder": "librispeech_test_set_3s_seed_37",
+  "paths": {
+    "src": "/workspace/data/italian/librispeech_test_set_3s_seed_37/3_src.wav",
+    "prompt": "/workspace/data/italian/librispeech_test_set_3s_seed_37/3_prompt.wav",
+    "ref_tgt1": "/workspace/data/italian/librispeech_test_set_3s_seed_37/3_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/italian/librispeech_test_set_3s_seed_37/3_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/italian/librispeech_test_set_3s_seed_37/3_ref_src1.wav",
+    "ref_src2": "/workspace/data/italian/librispeech_test_set_3s_seed_37/3_ref_src2.wav",
+    "converted": "/workspace/outputs_knn-vc/italian/librispeech_test_set_3s_seed_37/3/converted.wav"
+  }
+}

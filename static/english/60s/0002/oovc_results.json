@@ -1,0 +1,31 @@
+{
+  "ecapa_ref_converted_similarity": 0.3320530951023102,
+  "ecapa_ref_gt_similarity": 0.5505501627922058,
+  "ecapa_src_converted_similarity": -0.04555221274495125,
+  "ecapa_src_gt_similarity": 0.8585036993026733,
+  "redimnet_ref_converted_similarity": 0.31884765625,
+  "redimnet_ref_gt_similarity": 0.7109375,
+  "redimnet_src_converted_similarity": -0.06439208984375,
+  "redimnet_src_gt_similarity": 0.86572265625,
+  "dns_mos_gt": 4.221790790557861,
+  "dns_mos_gen": 3.875624895095825,
+  "wer_src": 0.0,
+  "cer_src": 0.0,
+  "transcription_src": " it is only a pencil outline by edward burne jones in illustration of the story of psyche it is the introduction of psyche after all her troubles into heaven",
+  "wer_converted": 0.034482758620689655,
+  "cer_converted": 0.00641025641025641,
+  "transcription_converted": " it is only a pencil outline by edward burne jones an illustration of the story of psyche it is the introduction of psyche after all her troubles into heaven",
+  "index": 14,
+  "source_text": "IT IS ONLY A PENCIL OUTLINE BY EDWARD BURNE JONES IN ILLUSTRATION OF THE STORY OF PSYCHE IT IS THE INTRODUCTION OF PSYCHE AFTER ALL HER TROUBLES INTO HEAVEN",
+  "input_seed_folder": "librispeech_test_set_60s_seed_42",
+  "output_seed_folder": "librispeech_test_set_60s_seed_42",
+  "paths": {
+    "src": "/workspace/data/english/librispeech_test_set_60s_seed_42/14_src.wav",
+    "prompt": "/workspace/data/english/librispeech_test_set_60s_seed_42/14_prompt.wav",
+    "ref_tgt1": "/workspace/data/english/librispeech_test_set_60s_seed_42/14_ref_tgt1.wav",
+    "ref_tgt2": "/workspace/data/english/librispeech_test_set_60s_seed_42/14_ref_tgt2.wav",
+    "ref_src1": "/workspace/data/english/librispeech_test_set_60s_seed_42/14_ref_src1.wav",
+    "ref_src2": "/workspace/data/english/librispeech_test_set_60s_seed_42/14_ref_src2.wav",
+    "converted": "/workspace/outputs/english/librispeech_test_set_60s_seed_42/14/converted.wav"
+  }
+}
