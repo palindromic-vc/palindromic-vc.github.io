@@ -241,9 +241,11 @@ body {
 }
 
 .quant-tabs {
-  display: inline-flex;
+  display: flex;
+  flex-wrap: wrap;
   gap: 16px;
   border-bottom: 1px solid var(--line);
+  padding-bottom: 8px;
 }
 
 .quant-tab {
@@ -274,6 +276,22 @@ body {
 .toggle-btn.active {
   color: var(--ink);
   border-color: var(--ink);
+}
+
+@media (max-width: 720px) {
+  .quant-controls {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .quant-tabs {
+    width: 100%;
+  }
+
+  .quant-toggle {
+    width: 100%;
+    flex-wrap: wrap;
+  }
 }
 
 .quant-table {
