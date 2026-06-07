@@ -1372,10 +1372,51 @@ elements.nextBtn.addEventListener('click', event => {
   scrollToIndex(next);
 });
 
+function initMathToggle() {
+  const toggles = Array.from(document.querySelectorAll('.math-toggle[aria-controls]'));
+  if (!toggles.length) return;
+
+  const typesetMath = block => {
+    if (!window.MathJax) return;
+    const runTypeset = () => {
+      if (typeof window.MathJax.typesetPromise === 'function') {
+        window.MathJax.typesetPromise([block]).catch(() => {});
+      }
+    };
+
+    if (window.MathJax.startup && window.MathJax.startup.promise) {
+      window.MathJax.startup.promise.then(runTypeset).catch(() => {});
+    } else {
+      runTypeset();
+    }
+  };
+
+  toggles.forEach(toggle => {
+    const block = document.getElementById(toggle.getAttribute('aria-controls'));
+    if (!block) return;
+
+    const setExpanded = expanded => {
+      block.hidden = !expanded;
+      toggle.setAttribute('aria-expanded', String(expanded));
+      toggle.textContent = expanded ? 'Hide math' : 'Show math';
+
+      if (expanded && !block.querySelector('mjx-container')) {
+        typesetMath(block);
+      }
+    };
+
+    setExpanded(false);
+    toggle.addEventListener('click', () => {
+      setExpanded(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+  });
+}
+
 async function init() {
   if ('scrollRestoration' in history) {
     history.scrollRestoration = 'manual';
   }
+  initMathToggle();
   updateTocState();
   window.addEventListener('scroll', updateTocState, { passive: true });
   await initOverviewInteractivity();

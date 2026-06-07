@@ -80,6 +80,67 @@ body {
   font-weight: 600;
 }
 
+.how-it-works-body {
+  max-width: 880px;
+  margin: 0 auto;
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.how-it-works-body p {
+  margin: 0 0 18px;
+}
+
+.math-toggle-row {
+  margin: -2px 0 20px;
+}
+
+.math-toggle {
+  border: 1px solid var(--line);
+  background: var(--bg);
+  color: var(--ink);
+  padding: 6px 12px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.math-toggle:hover,
+.math-toggle:focus-visible {
+  border-color: var(--ink);
+}
+
+nerdy[hidden] {
+  display: none;
+}
+
+.nerdy-math {
+  display: block;
+  margin: 0 0 24px;
+  padding: 2px 0 2px 18px;
+  border-left: 1px solid var(--line);
+  color: var(--ink);
+}
+
+.nerdy-math p {
+  color: var(--muted);
+}
+
+.how-it-works-body mjx-container[jax='CHTML'][display='true'] {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 6px 0;
+}
+
+.how-it-works-body mjx-container[jax='CHTML'][display='true'] + p {
+  margin-top: 18px;
+}
+
 
 .toc {
   position: fixed;

@@ -5,10 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Palindromic-VC</title>
     <link rel="stylesheet" href="styles.css" />
+    <script>
+      window.MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['\\[', '\\]']],
+        },
+      };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
   </head>
   <body>
     <nav class="toc" aria-label="Table of contents">
       <a href="#top">Overview</a>
+      <a href="#how-it-works">How It Works</a>
       <a href="#quantitative">Results</a>
       <a href="#results">Samples</a>
       <a href="#ablationSection">Ablation</a>
@@ -32,6 +42,90 @@
         <div class="abstract-title">Abstract</div>
         <div class="abstract" id="abstract">Loading abstract...</div>
       </header>
+
+      <section class="section how-it-works" id="how-it-works">
+        <h2>How It Works</h2>
+        <div class="how-it-works-body">
+          <p>During pretraining, we use KNN over WavLM features to allign triplets of synthetic features - $\hat{B}_1$, real reference features - $A_2$, and real target wav segment - $a_1$.</p>
+
+          <p>As a preliminary stage, we train a vocoder to reconstrcuct audio segments from WavLM features using a set of a reconstruction loss (MR-STFT, Yamamoto et al.) and adversarial losses (MPD, MSD; Kong et al.). We use this vocoder at the training stage to calculate losses at the waveform level.</p>
+
+          <div class="math-toggle-row">
+            <button class="math-toggle" type="button" aria-expanded="false" aria-controls="vocoderMath">Show math</button>
+          </div>
+
+          <nerdy class="nerdy-math" id="vocoderMath" hidden>
+            <p>Let $G$ denote the vocoder, $\tilde{a}_1=G(A_1)$, and $\mathcal{D}=\mathcal{D}_{\mathrm{MPD}}\cup\mathcal{D}_{\mathrm{MSD}}=\{D_k\}_{k=1}^{K}$ be the set of MPD and MSD sub-discriminators.</p>
+
+            \[
+            \mathcal{L}_{\mathrm{voc}}^{G} =
+            \lambda_{\mathrm{stft}}\mathcal{L}_{\mathrm{MR\text{-}STFT}}(a_1,\tilde{a}_1)
+            +\lambda_{\mathrm{adv}}\mathcal{L}_{\mathrm{adv}}^{G}(G;\mathcal{D}),
+            \]
+            \[
+            \mathcal{L}_{\mathrm{MR\text{-}STFT}}(a,\tilde{a}) =
+            \frac{1}{M}\sum_{m=1}^{M}
+            \left(
+            \mathcal{L}_{\mathrm{sc}}^{(m)}(a,\tilde{a})
+            +\mathcal{L}_{\mathrm{mag}}^{(m)}(a,\tilde{a})
+            \right),
+            \]
+            \[
+            \mathcal{L}_{\mathrm{sc}}^{(m)}(a,\tilde{a}) =
+            \frac{
+            \sqrt{\sum_{t,f}\left(|S_m(a)_{t,f}|-|S_m(\tilde{a})_{t,f}|\right)^2}
+            }{
+            \sqrt{\sum_{t,f}|S_m(a)_{t,f}|^2}
+            },
+            \]
+            \[
+            \mathcal{L}_{\mathrm{mag}}^{(m)}(a,\tilde{a}) =
+            \frac{1}{T_mN_m}
+            \sum_{t,f}
+            \left|
+            \log |S_m(a)_{t,f}|-\log |S_m(\tilde{a})_{t,f}|
+            \right|.
+            \]
+
+            \[
+            \mathcal{L}_{\mathrm{adv}}^{G}(G;\mathcal{D}) =
+            \sum_{k=1}^{K}
+            \mathbb{E}_{A_1}\left[\left(D_k(G(A_1))-1\right)^2\right]
+            =
+            \sum_{k=1}^{K}
+            \mathbb{E}_{\tilde{a}_1}\left[\left(D_k(\tilde{a}_1)-1\right)^2\right],
+            \]
+            \[
+            \mathcal{L}_{\mathrm{adv}}^{D}(\mathcal{D};G) =
+            \sum_{k=1}^{K}
+            \mathbb{E}_{(a_1,A_1)}
+            \left[
+            \left(D_k(a_1)-1\right)^2
+            +D_k(G(A_1))^2
+            \right].
+            \]
+          </nerdy>
+
+          <p>At the training stage, we train a transformer using a set of reconstruction losses at the features level (L1) and a speaker loss at the waveform level. The speaker loss utilizes a pretrained speaker verification model (Ecapa-tdnn, Desplanques et al.). We extract speaker embeddings and hiddent representations from both the ground-truth reference waveform $a_2$ and the converted waveform $\tilde{a}_1$, and compute the cosine similarity and L1 distance between them.</p>
+
+          <div class="math-toggle-row">
+            <button class="math-toggle" type="button" aria-expanded="false" aria-controls="speakerMath">Show math</button>
+          </div>
+
+          <nerdy class="nerdy-math" id="speakerMath" hidden>
+            \[
+            \mathcal{L}_{\mathrm{spk}} =
+            1-\cos\left(e(a_2),e(\tilde{a}_1)\right)
+            +\lambda_{\mathrm{hid}}\sum_{\ell\in\mathcal{H}}
+            \frac{1}{N_\ell}
+            \left\lVert h_\ell(a_2)-h_\ell(\tilde{a}_1)\right\rVert_1,
+            \]
+            <p>where $e(\cdot)$ is the ECAPA-TDNN speaker embedding and $h_\ell(\cdot)$ is the hidden representation extracted from layer $\ell$.</p>
+          </nerdy>
+
+          <p>Finally, in order to improve the naturalness and reduce artifacts of the final synthesized speech, we train a vocoder on the convereted features. The vocoder is optimized using the same objectives as in the first stage.</p>
+        </div>
+      </section>
 
       <section class="section" id="quantitative">
         <h2>Quantitative Results</h2>
