@@ -42,10 +42,19 @@ body {
 
 .hero-meta {
   display: grid;
-  gap: 36px;
   justify-items: center;
-  margin: 0 0 10vh;
+  margin: 0 0 6vh;
   color: var(--muted);
+}
+
+.hero-subtitle {
+  max-width: 780px;
+  margin: 0 0 24px;
+  color: var(--ink);
+  font-size: 1.28rem;
+  font-weight: 500;
+  line-height: 1.35;
+  text-align: center;
 }
 
 .authors,
@@ -55,6 +64,10 @@ body {
   justify-content: center;
   align-items: center;
   gap: 8px 12px;
+}
+
+.authors {
+  margin-bottom: 36px;
 }
 
 .authors a,

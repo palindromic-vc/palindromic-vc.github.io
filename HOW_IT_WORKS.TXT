@@ -1,4 +1,4 @@
-During pretraining, we use KNN over WavLM features to allign triplets of synthetic features - $\hat{B}_1$, real reference features - $A_2$, and real target wav segment - $a_1$.
+During pretraining, we use KNN over WavLM features to allign triplets of synthetic features - $\hat{B}_1\in\mathbb{R}^{1024\times{L}_1}$, real reference features - $A_2\in\mathbb{R}^{1024\times{L}_2}$, and real target wav segment - $a_1\in\mathbb{R}^{1\times{l}_1}$.
 
 As a preliminary stage, we train a vocoder to reconstrcuct audio segments from WavLM features using a set of a reconstruction loss (MR-STFT, Yamamoto et al.) and adversarial losses (MPD, MSD; Kong et al.).
 We use this vocoder at the training stage to calculate losses at the waveform level.
