@@ -61,6 +61,7 @@ const metricOrder = ['spk_sim', 'eer', 'wer', 'cer', 'mos', 'smos', 'dns-mos'];
 
 const methodOrder = ['knn-vc', 'oovc', 'seed-vc', 'vevo', 'palindrome-vc'];
 const chartMethodOrder = ['knn-vc', 'oovc', 'palindrome-vc', 'seed-vc', 'vevo'];
+const defaultSamplePromptDuration = '10s';
 
 const methodColors = {
   'knn-vc': '#d67f1c',
@@ -958,11 +959,16 @@ function setLanguage(lang) {
   buildConfigs();
   renderConfigTabs();
   if (state.configs.length) {
-    setConfig(state.configs[0].key);
+    setConfig(getDefaultConfigKey());
   } else {
     state.items = [];
     renderCarousel();
   }
+}
+
+function getDefaultConfigKey() {
+  const defaultConfig = state.configs.find(config => config.key === defaultSamplePromptDuration);
+  return defaultConfig ? defaultConfig.key : state.configs[0].key;
 }
 
 function buildConfigs() {
