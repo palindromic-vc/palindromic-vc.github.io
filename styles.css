@@ -49,11 +49,20 @@ body {
 
 .hero-subtitle {
   max-width: 780px;
-  margin: 0 0 24px;
+  margin: 0 0 10px;
   color: var(--ink);
   font-size: 1.28rem;
   font-weight: 500;
   line-height: 1.35;
+  text-align: center;
+}
+
+.hero-venue {
+  margin: 0 0 28px;
+  color: var(--ink);
+  font-size: clamp(1.68rem, calc((2.8vw + 1rem) * 0.7), 2.66rem);
+  font-weight: 400;
+  letter-spacing: 0.08em;
   text-align: center;
 }
 
